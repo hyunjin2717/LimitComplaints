@@ -51,10 +51,14 @@ SUBREDDITS = [
 
 SEARCH_QUERIES = [
     "rate limit",
+    "rate limited",
     "quota exceeded",
     "too many requests",
     "throttled",
     "usage limit",
+    "quota drain",
+    "5h limit",
+    "weekly quota",
 ]
 
 # ── Rate-limit detection patterns ─────────────────────────────────────────────
@@ -82,6 +86,18 @@ RATE_LIMIT_PATTERNS = [
     r"context[\s\-]window[\s\-\w]*(?:limit|exceed|hit)",
     r"maxed?\s+out",
     r"over\s+(?:the\s+)?limit",
+    # ── New patterns from real Reddit complaint research ──
+    r"\d+h[\s\-](?:rate[\s\-])?limit",              # "5h limit", "5-hour rate limit"
+    r"\d+[\s\-]hour[\s\-](?:rate[\s\-])?limit",     # "5 hour limit", "5-hour rate limit"
+    r"weekly[\s\-](?:quota|limit|usage)",            # "weekly quota", "weekly limit"
+    r"quota[\s\-](?:drain|drained|reset|nerf)",      # "quota drained", "quota reset"
+    r"(?:token|tokens)[\s\-](?:drain|burn|budget)",  # "token drain", "token burn"
+    r"(?:burned|burnt|burn)[\s\-]+(?:through|up)?\s*(?:my|the|a)?\s*(?:quota|limit|tokens?)",
+    r"(?:slow|slowed)[\s\-]+to[\s\-]+a[\s\-]+crawl",  # "slowed to a crawl"
+    r"limit[\s\-](?:reached|ran[\s\-]out|hit)",      # "limit reached", "limit ran out"
+    r"(?:hit|exceeded|reached)\s+(?:the\s+|my\s+)?(?:context|token|usage|weekly|daily|hourly)\s",
+    r"(?:session|context)[\s\-]budget",              # "session budget", "context budget"
+    r"quota[\s\-]?anxiety",                          # "quota anxiety"
 ]
 
 # ── Negation patterns ─────────────────────────────────────────────────────────
@@ -113,6 +129,17 @@ COMPLAINT_STRONG = [
     "embarrassing", "disgrace", "trash", "garbage",
     "ugh", "wtf", "wth", "smh", "ffs",
     "joke", "pointless",
+    # ── New strong complaint language from real Reddit research ──
+    "fed up", "fed up with",
+    "screwing over", "screwed over", "screwed by",
+    "what the hell", "what the f",
+    "nearly unusable", "completely unusable",
+    "gave up on", "giving up on",
+    "unsubscribed", "cancelled my", "canceled my",
+    "just kill", "at this point",
+    "drained instantly", "drained so fast",
+    "insane", "criminal", "insane that",
+    "so shit", "getting so shit",
 ]
 
 COMPLAINT_MODERATE = [
@@ -126,6 +153,18 @@ COMPLAINT_MODERATE = [
     "getting blocked", "getting throttled", "getting rate",
     "blocking me", "stopping me", "ruining",
     "severely limited", "barely usable",
+    # ── New moderate complaint language ──
+    "self-policing", "rationing my usage", "rationing usage",
+    "burned through", "burnt through",
+    "melted my", "drained my",
+    "way too fast", "too fast",
+    "barely anything left",
+    "ran out of",
+    "drain bug", "token drain",
+    "quota anxiety",
+    "limit warning",
+    "too restrictive", "too aggressive",
+    "nuked my", "nuked the",
 ]
 
 COMPLAINT_MILD = [
@@ -133,6 +172,14 @@ COMPLAINT_MILD = [
     "blocked", "restricted", "limited",
     "error ", "fail", "unable",
     "disappointed", "unfortunate",
+    # ── New mild complaint language ──
+    "exhausted", "used up",
+    "slowed down", "slowing down",
+    "degradation", "degraded",
+    "less than before", "worse than before",
+    "not enough", "not sufficient",
+    "any way to", "is there a way",
+    "how do you handle",
 ]
 
 # ── Model detection patterns ──────────────────────────────────────────────────
@@ -145,6 +192,9 @@ MODEL_PATTERNS = {
         r"\bsonnet\b",
         r"\bopus\b",
         r"claude[\s\-]?(?:3|4|3\.5|3\.7|instant)",
+        r"\bmax[\s\-]?(?:5x|20x|plan)\b",
+        r"\b5x\b.*\bclaude\b",
+        r"\bclaude\b.*\b5x\b",
     ],
     "gemini": [
         r"\bgemini\b",
@@ -154,11 +204,20 @@ MODEL_PATTERNS = {
         r"\bvertex[\s\-]?ai\b",
         r"gemini[\s\-]?(?:pro|flash|ultra|nano|1\.5|2\.0|2)",
         r"\bbard\b",
+        r"\bantigravity\b",
+        r"google[\s\-]?antigravity",
     ],
     "codex": [
         r"\bcodex\b",
         r"openai[\s\-]?codex",
         r"codex[\s\-](?:cli|agent)",
+        r"\bgpt[\s\-]?5\b",
+        r"\bgpt[\s\-]?5\.\d",      # "gpt-5.2", "gpt-5.3", "gpt-5.4"
+        r"\bgpt[\s\-]5\.\d[\s\-]codex",  # "gpt-5.3-codex"
+        r"\bo3\b",
+        r"\bo4[\s\-]?mini\b",
+        r"\bchatgpt\b",
+        r"\bopenai\b",
     ],
 }
 

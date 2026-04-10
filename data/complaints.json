@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-04-10T09:35:31.776527+00:00",
-    "total_posts_analyzed": 1155,
-    "total_complaints": 579
+    "last_updated": "2026-04-10T10:22:27.258381+00:00",
+    "total_posts_analyzed": 1321,
+    "total_complaints": 582
   },
   "posts": {
     "1sg1yvw": {
@@ -7060,6 +7060,44 @@
         "codex"
       ],
       "complaint_score": 3,
+      "fetched_date": "2026-04-10"
+    },
+    "1sc3a3n": {
+      "title": "I’m so fed up with Codex draining my tokens and my 24 hour rate limit.",
+      "subreddit": "vibecoding",
+      "created_utc": 1775289254,
+      "score": 0,
+      "url": "https://reddit.com/r/vibecoding/comments/1sc3a3n/im_so_fed_up_with_codex_draining_my_tokens_and_my/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-04-10"
+    },
+    "1sfng1k": {
+      "title": "My experience switching from hand-coding to 'Vibecoding': A programmer's perspective",
+      "subreddit": "vibecoding",
+      "created_utc": 1775638715,
+      "score": 9,
+      "url": "https://reddit.com/r/vibecoding/comments/1sfng1k/my_experience_switching_from_handcoding_to/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-10"
+    },
+    "1se2uq5": {
+      "title": "I vibecoded myself into a pipeline that takes ages.",
+      "subreddit": "vibecoding",
+      "created_utc": 1775490955,
+      "score": 0,
+      "url": "https://reddit.com/r/vibecoding/comments/1se2uq5/i_vibecoded_myself_into_a_pipeline_that_takes_ages/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
       "fetched_date": "2026-04-10"
     }
   }

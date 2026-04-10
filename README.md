@@ -38,18 +38,18 @@ The dashboard is hosted on GitHub Pages and updates automatically every day at 0
 
 ## How It Works
 
-1. **Collect** — Reddit is searched daily for posts mentioning rate limits across 10 major AI subreddits
+1. **Collect** — Reddit is searched daily for posts mentioning rate limits across 16 major AI subreddits
 2. **Classify** — Each post is scored for complaint strength using regex patterns (no AI needed)
 3. **Filter** — Low-signal or off-topic posts are discarded
 4. **Visualize** — Graphs are generated and published to GitHub Pages automatically
 
 ### Subreddits monitored
 
-`r/ClaudeAI`, `r/GoogleGemini`, `r/OpenAI`, `r/ChatGPT`, `r/LocalLLaMA`, `r/artificial`, `r/singularity`, `r/MachineLearning`, `r/programming`, `r/github`
+`r/ClaudeAI`, `r/ClaudeCode`, `r/GoogleGemini`, `r/OpenAI`, `r/ChatGPT`, `r/LocalLLaMA`, `r/LLMDevs`, `r/PromptEngineering`, `r/VibeCoding`, `r/codex`, `r/google_antigravity`, `r/artificial`, `r/singularity`, `r/MachineLearning`, `r/programming`, `r/github`
 
 ### Search queries used
 
-`"rate limit"`, `"quota exceeded"`, `"too many requests"`, `"throttled"`, `"usage limit"`
+`"rate limit"`, `"rate limited"`, `"quota exceeded"`, `"too many requests"`, `"throttled"`, `"usage limit"`, `"quota drain"`, `"5h limit"`, `"weekly quota"`
 
 ---
 
@@ -64,23 +64,27 @@ Regex patterns match the many ways users describe hitting rate limits:
 | Pattern type | Examples |
 |---|---|
 | Direct terms | `rate limit`, `rate limited`, `429`, `quota`, `throttled` |
-| Indirect | `hit the limit`, `usage cap`, `out of credits`, `TPM`, `RPM` |
-| Context | `tokens per minute`, `requests per hour`, `cooldown` |
+| Time-based | `5h limit`, `5-hour limit`, `weekly quota`, `daily limit` |
+| Usage/depletion | `quota drained`, `quota reset`, `token drain`, `token burn`, `out of credits` |
+| Indirect | `hit the limit`, `usage cap`, `quota anxiety`, `maxed out`, `over the limit` |
+| Context | `tokens per minute`, `requests per hour`, `cooldown`, `context window limit` |
 
 ### Step 2 — Complaint scoring (threshold: ≥ 2 points)
 
 | Signal | Points |
 |---|---|
 | Rate limit keyword in post **title** | +3 |
-| **Strong** complaint language (`frustrated`, `broken`, `absurd`, `wtf`…) | +3 |
-| **Moderate** complaint language (`can't use`, `stopped working`, `constantly`…) | +2 |
-| **Mild** complaint language (`problem`, `issue`, `stuck`…) | +1 |
+| **Strong** complaint language (`frustrated`, `broken`, `fed up`, `wtf`, `insane`, `unsubscribed`…) | +3 |
+| **Moderate** complaint language (`can't use`, `stopped working`, `burned through`, `drained my`, `constantly`…) | +2 |
+| **Mild** complaint language (`problem`, `issue`, `stuck`, `degradation`, `exhausted`…) | +1 |
 | Question mark + rate limit in title | +1 |
 | Exclamation mark in title | +1 |
 
 Examples:
 - "What are Claude's rate limits?" → score 1 → **discarded** (informational)
 - "Claude rate limits are absolutely ridiculous" → score 6 → **counted**
+- "Hit the 5h limit twice, burned 33% of my weekly quota" → score 8 → **counted**
+- "Codex quota drained instantly after reset (GPT 5.4 LOW)" → score 7 → **counted**
 
 ### Step 3 — Negation filter
 
@@ -90,11 +94,19 @@ Posts containing phrases like `"no rate limit"`, `"bypass rate limits"`, or `"ho
 
 | Model | Keywords / patterns |
 |---|---|
-| Claude | `claude`, `anthropic`, `haiku`, `sonnet`, `opus`, `claude-3`, `claude-4` |
-| Gemini | `gemini`, `google ai`, `ai studio`, `vertex ai`, `bard`, `gemini pro/flash/ultra` |
-| Codex | `codex`, `openai codex`, `codex cli`, `codex agent` |
+| Claude | `claude`, `anthropic`, `haiku`, `sonnet`, `opus`, `claude-3/4`, `max 5x`, `max 20x` |
+| Gemini | `gemini`, `google ai`, `ai studio`, `vertex ai`, `bard`, `gemini pro/flash/ultra`, `antigravity` |
+| Codex (OpenAI) | `codex`, `openai`, `chatgpt`, `GPT-5.x`, `o3`, `o4-mini`, `codex cli/agent` |
 
-A single post can count for multiple models. If no model keyword is found, the subreddit name is used as a fallback (e.g. posts in `r/ClaudeAI` → Claude).
+A single post can count for multiple models. If no model keyword is found, the subreddit name is used as a fallback:
+
+| Subreddit | Fallback model |
+|---|---|
+| `r/ClaudeAI`, `r/ClaudeCode` | Claude |
+| `r/GoogleGemini`, `r/google_antigravity` | Gemini |
+| `r/codex` | Codex |
+
+All other subreddits rely on keyword detection — a post must mention a specific model name to be assigned.
 
 ---
 
