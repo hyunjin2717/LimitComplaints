@@ -32,10 +32,16 @@ ARCTIC_SHIFT_HEADERS = {
 
 SUBREDDITS = [
     "ClaudeAI",
+    "ClaudeCode",
     "GoogleGemini",
     "OpenAI",
     "ChatGPT",
     "LocalLLaMA",
+    "LLMDevs",
+    "PromptEngineering",
+    "VibeCoding",
+    "codex",
+    "google_antigravity",
     "artificial",
     "singularity",
     "MachineLearning",
@@ -158,8 +164,11 @@ MODEL_PATTERNS = {
 
 SUBREDDIT_MODEL_MAP = {
     "claudeai": ["claude"],
+    "claudecode": ["claude"],
     "googlegemini": ["gemini"],
+    "google_antigravity": ["gemini"],
     "bard": ["gemini"],
+    "codex": ["codex"],
 }
 
 # ── Classification functions ──────────────────────────────────────────────────
