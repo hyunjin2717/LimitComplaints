@@ -235,6 +235,76 @@ def classify_post(title: str, body: str, subreddit: str):
 # ── Arctic Shift API helpers ──────────────────────────────────────────────────
 
 
+def _fetch_field(
+    subreddit_name: str,
+    field: str,
+    query: str,
+    after_ts: int,
+    limit_per_query: int,
+    results: dict,
+) -> None:
+    """Fetch posts matching *query* in *field* (title or selftext) and merge into *results*."""
+    page_after = None
+    fetched = 0
+
+    while fetched < limit_per_query:
+        batch = min(100, limit_per_query - fetched)
+        params = {
+            "subreddit": subreddit_name,
+            field: query,
+            "after": str(after_ts),
+            "limit": str(batch),
+            "sort": "desc",
+        }
+        if page_after is not None:
+            params["before"] = str(page_after)
+
+        try:
+            resp = requests.get(
+                f"{ARCTIC_SHIFT_BASE}/posts/search",
+                params=params,
+                headers=ARCTIC_SHIFT_HEADERS,
+                timeout=30,
+            )
+            resp.raise_for_status()
+            posts = resp.json().get("data", [])
+        except requests.RequestException as exc:
+            print(
+                f"  [WARN] Arctic Shift error in r/{subreddit_name} "
+                f"{field}={query!r}: {exc}",
+                file=sys.stderr,
+            )
+            break
+
+        if not posts:
+            break
+
+        for post in posts:
+            post_id = post.get("id")
+            if not post_id or post_id in results:
+                continue
+            results[post_id] = {
+                "title": post.get("title", ""),
+                "body": (post.get("selftext") or "")[:2000],
+                "subreddit": post.get("subreddit", subreddit_name),
+                "created_utc": int(post.get("created_utc", 0)),
+                "score": post.get("score", 0),
+                "url": f"https://reddit.com{post.get('permalink', '')}",
+            }
+
+        fetched += len(posts)
+
+        if len(posts) < batch:
+            break
+
+        oldest_ts = min(int(p.get("created_utc", 0)) for p in posts)
+        if oldest_ts <= after_ts:
+            break
+        page_after = oldest_ts
+
+        time.sleep(1.0)
+
+
 def fetch_subreddit_posts(
     subreddit_name: str,
     days_back: int,
@@ -242,82 +312,21 @@ def fetch_subreddit_posts(
 ) -> dict:
     """
     Search a subreddit for rate-limit posts via Arctic Shift API.
+    Searches both post titles and bodies to avoid missing complaints
+    where the keyword appears only in the body (common for Gemini/Codex posts).
     Returns raw post dicts keyed by post ID.
-
-    Arctic Shift API docs: https://arctic-shift.photon-reddit.com/api
-    No API key required.
     """
     cutoff = datetime.now(timezone.utc) - timedelta(days=days_back)
     after_ts = int(cutoff.timestamp())
     results = {}
 
     for query in SEARCH_QUERIES:
-        # Arctic Shift paginates via `after` timestamp of the oldest post seen
-        page_after = None
-        fetched = 0
-
-        while fetched < limit_per_query:
-            batch = min(100, limit_per_query - fetched)
-            params = {
-                "subreddit": subreddit_name,
-                "title": query,
-                "after": str(after_ts),
-                "limit": str(batch),
-                "sort": "desc",
-            }
-            if page_after is not None:
-                params["before"] = str(page_after)
-
-            try:
-                resp = requests.get(
-                    f"{ARCTIC_SHIFT_BASE}/posts/search",
-                    params=params,
-                    headers=ARCTIC_SHIFT_HEADERS,
-                    timeout=30,
-                )
-                resp.raise_for_status()
-                posts = resp.json().get("data", [])
-            except requests.RequestException as exc:
-                print(
-                    f"  [WARN] Arctic Shift error in r/{subreddit_name} "
-                    f"q={query!r}: {exc}",
-                    file=sys.stderr,
-                )
-                break
-
-            if not posts:
-                break
-
-            for post in posts:
-                post_id = post.get("id")
-                if not post_id or post_id in results:
-                    continue
-                results[post_id] = {
-                    "title": post.get("title", ""),
-                    "body": (post.get("selftext") or "")[:2000],
-                    "subreddit": post.get("subreddit", subreddit_name),
-                    "created_utc": int(post.get("created_utc", 0)),
-                    "score": post.get("score", 0),
-                    "url": f"https://reddit.com{post.get('permalink', '')}",
-                }
-
-            fetched += len(posts)
-
-            # If we got fewer than requested, there are no more pages
-            if len(posts) < batch:
-                break
-
-            # Paginate: use created_utc of the oldest post in this batch
-            oldest_ts = min(int(p.get("created_utc", 0)) for p in posts)
-            if oldest_ts <= after_ts:
-                break
-            page_after = oldest_ts
-
-            # Polite delay between paginated requests
-            time.sleep(1.0)
-
-        # Delay between queries for the same subreddit
-        time.sleep(1.0)
+        # Search titles
+        _fetch_field(subreddit_name, "title", query, after_ts, limit_per_query, results)
+        time.sleep(0.5)
+        # Search bodies — catches complaints where the keyword is only in the text
+        _fetch_field(subreddit_name, "selftext", query, after_ts, limit_per_query, results)
+        time.sleep(0.5)
 
     return results
 
