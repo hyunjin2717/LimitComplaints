@@ -40,9 +40,6 @@ jobs:
 
       # Step 1: collect Reddit posts and classify them
       - name: Collect Reddit data
-        env:
-          REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
-          REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
         run: python scripts/collect.py
 
       # Step 2: generate graphs and update GitHub Pages HTML

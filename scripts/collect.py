@@ -4,6 +4,7 @@ Collect and classify Reddit posts about AI rate limit complaints.
 
 Tracks posts complaining about rate limits for Claude, Gemini, and Codex.
 No LLM is used — classification is done with regex patterns and a scoring system.
+Data is fetched from the Arctic Shift API (no Reddit API key required).
 """
 
 import os
@@ -13,17 +14,22 @@ import time
 import sys
 from datetime import datetime, timedelta, timezone
 
-import praw
-from praw.exceptions import PRAWException
+import requests
 
 # ── Paths ─────────────────────────────────────────────────────────────────────
 
 ROOT = os.path.join(os.path.dirname(__file__), "..")
 DATA_FILE = os.path.join(ROOT, "data", "complaints.json")
 
+# ── Arctic Shift API ──────────────────────────────────────────────────────────
+
+ARCTIC_SHIFT_BASE = "https://arctic-shift.photon-reddit.com/api"
+ARCTIC_SHIFT_HEADERS = {
+    "User-Agent": "RateLimitComplaintsTracker/1.0 (open-source monitoring project)"
+}
+
 # ── Reddit targets ────────────────────────────────────────────────────────────
 
-# Subreddits most likely to contain rate-limit complaints for these three models
 SUBREDDITS = [
     "ClaudeAI",
     "GoogleGemini",
@@ -37,17 +43,15 @@ SUBREDDITS = [
     "github",
 ]
 
-# Search queries that reliably surface rate-limit posts
 SEARCH_QUERIES = [
-    '"rate limit"',
-    '"quota exceeded"',
-    '"too many requests"',
-    '"throttled"',
-    '"usage limit"',
+    "rate limit",
+    "quota exceeded",
+    "too many requests",
+    "throttled",
+    "usage limit",
 ]
 
 # ── Rate-limit detection patterns ─────────────────────────────────────────────
-# These regex patterns match the many ways users describe hitting rate limits.
 
 RATE_LIMIT_PATTERNS = [
     r"rate[\s\-]?limit",
@@ -75,8 +79,6 @@ RATE_LIMIT_PATTERNS = [
 ]
 
 # ── Negation patterns ─────────────────────────────────────────────────────────
-# Posts that discuss rate limits without complaining (e.g. "how to bypass")
-# are filtered out unless they also contain strong complaint language.
 
 NEGATION_PATTERNS = [
     r"no\s+rate\s+limit",
@@ -93,7 +95,6 @@ NEGATION_PATTERNS = [
 ]
 
 # ── Complaint language ────────────────────────────────────────────────────────
-# Ordered by severity; scoring stops early once a tier matches.
 
 COMPLAINT_STRONG = [
     "frustrated", "frustrating", "frustration",
@@ -155,7 +156,6 @@ MODEL_PATTERNS = {
     ],
 }
 
-# Fallback: if no model is found in text, infer from subreddit name
 SUBREDDIT_MODEL_MAP = {
     "claudeai": ["claude"],
     "googlegemini": ["gemini"],
@@ -166,50 +166,29 @@ SUBREDDIT_MODEL_MAP = {
 
 
 def _has_rate_limit(text: str) -> bool:
-    """Return True if text contains any rate-limit related pattern."""
     return any(re.search(p, text) for p in RATE_LIMIT_PATTERNS)
 
 
 def _is_negation_dominant(text: str) -> bool:
-    """Return True if the post is primarily about NOT having or bypassing limits."""
     return any(re.search(p, text) for p in NEGATION_PATTERNS)
 
 
 def compute_complaint_score(title: str, body: str) -> int:
-    """
-    Compute a complaint score for a post.
-
-    Scoring rules:
-      +3  rate limit mentioned in the title (high-signal)
-      +3  strong complaint language present  (frustrated, broken, wtf…)
-      +2  moderate complaint language        (can't use, stopped working…)
-      +1  mild complaint language            (problem, issue, stuck…)
-      +1  question mark + rate limit in title (frustrated question)
-      +1  exclamation mark in title (emotional tone)
-
-    Returns 0 if the post contains no rate-limit mention at all.
-    Posts scoring < 2 are considered non-complaints (informational, neutral).
-    """
     combined = (title + " " + body).lower()
     title_l = title.lower()
 
-    # Gate: must mention rate limiting at all
     if not _has_rate_limit(combined):
         return 0
 
-    # Negation filter: "no rate limits here" style posts
     if _is_negation_dominant(combined):
-        # Still count if there's clear complaint language despite negation context
         if not any(w in combined for w in COMPLAINT_STRONG):
             return 0
 
     score = 0
 
-    # Rate limit in title is a strong primary signal
     if _has_rate_limit(title_l):
         score += 3
 
-    # Complaint language tiers (each tier checked independently)
     if any(w in combined for w in COMPLAINT_STRONG):
         score += 3
 
@@ -219,7 +198,6 @@ def compute_complaint_score(title: str, body: str) -> int:
     if any(w in combined for w in COMPLAINT_MILD):
         score += 1
 
-    # Emotional punctuation in title
     if "?" in title_l and _has_rate_limit(title_l):
         score += 1
     if "!" in title:
@@ -229,10 +207,6 @@ def compute_complaint_score(title: str, body: str) -> int:
 
 
 def detect_models(title: str, body: str, subreddit: str) -> list:
-    """
-    Return list of model names (from MODEL_PATTERNS keys) mentioned in the post.
-    Falls back to SUBREDDIT_MODEL_MAP when no model keyword is found.
-    """
     combined = (title + " " + body).lower()
     models = []
 
@@ -247,13 +221,6 @@ def detect_models(title: str, body: str, subreddit: str) -> list:
 
 
 def classify_post(title: str, body: str, subreddit: str):
-    """
-    Returns (models: list, score: int) if this is a rate-limit complaint, else None.
-
-    A post qualifies when:
-      1. complaint_score >= 2  (is actually complaining, not just asking)
-      2. at least one model can be identified
-    """
     score = compute_complaint_score(title, body)
     if score < 2:
         return None
@@ -265,66 +232,92 @@ def classify_post(title: str, body: str, subreddit: str):
     return models, score
 
 
-# ── Reddit helpers ─────────────────────────────────────────────────────────────
-
-
-def make_reddit() -> praw.Reddit:
-    return praw.Reddit(
-        client_id=os.environ["REDDIT_CLIENT_ID"],
-        client_secret=os.environ["REDDIT_CLIENT_SECRET"],
-        user_agent="RateLimitComplaintsTracker/1.0 (open-source monitoring bot)",
-    )
+# ── Arctic Shift API helpers ──────────────────────────────────────────────────
 
 
 def fetch_subreddit_posts(
-    reddit: praw.Reddit,
     subreddit_name: str,
     days_back: int,
     limit_per_query: int,
 ) -> dict:
     """
-    Search a subreddit for rate-limit posts and return raw post dicts keyed by ID.
+    Search a subreddit for rate-limit posts via Arctic Shift API.
+    Returns raw post dicts keyed by post ID.
+
+    Arctic Shift API docs: https://arctic-shift.photon-reddit.com/api
+    No API key required.
     """
     cutoff = datetime.now(timezone.utc) - timedelta(days=days_back)
-    # Reddit's time_filter: 'week' covers ~7 days, 'year' covers up to 1 year
-    time_filter = "year" if days_back > 30 else "week"
+    after_ts = int(cutoff.timestamp())
     results = {}
 
     for query in SEARCH_QUERIES:
-        try:
-            sub = reddit.subreddit(subreddit_name)
-            for post in sub.search(
-                query,
-                time_filter=time_filter,
-                limit=limit_per_query,
-                sort="new",
-            ):
-                if post.id in results:
-                    continue
-                created = datetime.fromtimestamp(post.created_utc, tz=timezone.utc)
-                if created < cutoff:
-                    continue
-                results[post.id] = {
-                    "title": post.title,
-                    "body": (post.selftext or "")[:2000],
-                    "subreddit": subreddit_name,
-                    "created_utc": int(post.created_utc),
-                    "score": post.score,
-                    "url": f"https://reddit.com{post.permalink}",
-                }
-            # Polite delay between queries to stay well within rate limits
-            time.sleep(0.6)
+        # Arctic Shift paginates via `after` timestamp of the oldest post seen
+        page_after = None
+        fetched = 0
 
-        except PRAWException as exc:
-            print(
-                f"  [WARN] PRAW error in r/{subreddit_name} q={query!r}: {exc}",
-                file=sys.stderr,
-            )
-        except Exception as exc:
-            print(
-                f"  [WARN] Unexpected error in r/{subreddit_name} q={query!r}: {exc}",
-                file=sys.stderr,
-            )
+        while fetched < limit_per_query:
+            batch = min(100, limit_per_query - fetched)
+            params = {
+                "subreddit": subreddit_name,
+                "q": query,
+                "after": str(after_ts),
+                "limit": str(batch),
+                "sort": "desc",
+            }
+            if page_after is not None:
+                params["before"] = str(page_after)
+
+            try:
+                resp = requests.get(
+                    f"{ARCTIC_SHIFT_BASE}/posts/search",
+                    params=params,
+                    headers=ARCTIC_SHIFT_HEADERS,
+                    timeout=30,
+                )
+                resp.raise_for_status()
+                posts = resp.json().get("data", [])
+            except requests.RequestException as exc:
+                print(
+                    f"  [WARN] Arctic Shift error in r/{subreddit_name} "
+                    f"q={query!r}: {exc}",
+                    file=sys.stderr,
+                )
+                break
+
+            if not posts:
+                break
+
+            for post in posts:
+                post_id = post.get("id")
+                if not post_id or post_id in results:
+                    continue
+                results[post_id] = {
+                    "title": post.get("title", ""),
+                    "body": (post.get("selftext") or "")[:2000],
+                    "subreddit": post.get("subreddit", subreddit_name),
+                    "created_utc": int(post.get("created_utc", 0)),
+                    "score": post.get("score", 0),
+                    "url": f"https://reddit.com{post.get('permalink', '')}",
+                }
+
+            fetched += len(posts)
+
+            # If we got fewer than requested, there are no more pages
+            if len(posts) < batch:
+                break
+
+            # Paginate: use created_utc of the oldest post in this batch
+            oldest_ts = min(int(p.get("created_utc", 0)) for p in posts)
+            if oldest_ts <= after_ts:
+                break
+            page_after = oldest_ts
+
+            # Polite delay between paginated requests
+            time.sleep(1.0)
+
+        # Delay between queries for the same subreddit
+        time.sleep(1.0)
 
     return results
 
@@ -356,9 +349,6 @@ def main() -> None:
     data = load_data()
     existing = data["posts"]
 
-    # Decide fetch window:
-    #   - First ever run (empty DB)  → full 90-day sweep
-    #   - Subsequent runs            → last 8 days (overlap to catch any gaps)
     is_initial = len(existing) == 0
     days_back = 90 if is_initial else 8
     limit_per_query = 500 if is_initial else 100
@@ -367,26 +357,25 @@ def main() -> None:
         f"Mode: {'initial 90-day' if is_initial else 'daily update'} | "
         f"days_back={days_back} | limit_per_query={limit_per_query}"
     )
-
-    reddit = make_reddit()
+    print("Data source: Arctic Shift API (no Reddit API key required)")
 
     new_posts_seen = 0
     new_complaints = 0
 
     for sub_name in SUBREDDITS:
         print(f"Scanning r/{sub_name} …", flush=True)
-        raw = fetch_subreddit_posts(reddit, sub_name, days_back, limit_per_query)
+        raw = fetch_subreddit_posts(sub_name, days_back, limit_per_query)
         print(f"  {len(raw)} candidate posts found")
 
         for post_id, post in raw.items():
             if post_id in existing:
-                continue  # Already in database; skip
+                continue
 
             new_posts_seen += 1
             result = classify_post(post["title"], post["body"], post["subreddit"])
 
             if result is None:
-                continue  # Not a complaint or no model identified
+                continue
 
             models, score = result
             new_complaints += 1
