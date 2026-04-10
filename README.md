@@ -16,7 +16,7 @@ This project collects Reddit posts where developers hit rate limits with AI APIs
 - Is the situation getting better or worse over time?
 - When do complaint spikes happen?
 
-Data is fetched from Reddit automatically every day. No AI or LLMs are used in classification — everything runs on regex patterns and a scoring algorithm.
+Data is fetched daily via the [Arctic Shift API](https://arctic-shift.photon-reddit.com) — a public Reddit archive. **No Reddit API key required.** No AI or LLMs are used in classification — everything runs on regex patterns and a scoring algorithm.
 
 ---
 
@@ -119,35 +119,19 @@ A single post can count for multiple models. If no model keyword is found, the s
 
 ## Self-Hosting Setup
 
-Want to run your own instance? Follow these steps.
+No API keys or accounts needed. Just fork and deploy.
 
-### 1. Create a Reddit API application
+### 1. Fork this repository
 
-1. Go to <https://www.reddit.com/prefs/apps> and log in
-2. Click **"Create another app…"**
-3. Fill in:
-   - **Name**: anything (e.g. `RateLimitTracker`)
-   - **Type**: `script`
-   - **Redirect URI**: `http://localhost:8080` (not used, but required)
-4. Click **Create app**
-5. Copy the **client ID** (shown below the app name) and the **client secret**
+Click **Fork** at the top of this page.
 
-### 2. Add GitHub Secrets
+### 2. Enable GitHub Pages
 
-Go to **Settings → Secrets and variables → Actions → New repository secret** and add:
-
-| Secret name            | Value                     |
-|------------------------|---------------------------|
-| `REDDIT_CLIENT_ID`     | Your Reddit client ID     |
-| `REDDIT_CLIENT_SECRET` | Your Reddit client secret |
-
-### 3. Enable GitHub Pages
-
-**Settings → Pages → Source: Deploy from a branch → Branch: `main`, Folder: `/docs`**
+In your forked repo: **Settings → Pages → Source: Deploy from a branch → Branch: `main`, Folder: `/docs`**
 
 Your dashboard will be live at `https://<your-username>.github.io/<repo-name>/`.
 
-### 4. Run the first collection
+### 3. Run the first collection
 
 Go to **Actions → Update Rate Limit Complaints → Run workflow**.
 
@@ -157,6 +141,7 @@ The first run fetches the last **90 days** of data. All subsequent runs (daily o
 
 ## Data
 
+- **Source**: [Arctic Shift API](https://arctic-shift.photon-reddit.com) — a public Reddit archive, no API key needed
 - **Initial backfill**: last 90 days of Reddit posts
 - **Ongoing updates**: every day at 06:00 UTC via GitHub Actions
 - **Storage**: a single `data/complaints.json` file committed to the repository
