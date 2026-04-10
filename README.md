@@ -24,7 +24,7 @@ Data is fetched daily via the [Arctic Shift API](https://arctic-shift.photon-red
 
 The dashboard is hosted on GitHub Pages and updates automatically every day at 06:00 UTC.
 
-**[View the live dashboard →](https://your-username.github.io/LimitComplaints/)**
+**[View the live dashboard →](https://hyunjin2717.github.io/LimitComplaints/)**
 
 ---
 
