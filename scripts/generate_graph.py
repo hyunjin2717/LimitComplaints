@@ -1,0 +1,525 @@
+#!/usr/bin/env python3
+"""
+Generate rate-limit complaint graphs and update the GitHub Pages site.
+
+Reads data/complaints.json and writes:
+  docs/graph_weekly.png  — 13-week line chart (weekly complaint counts per model)
+  docs/graph_total.png   — bar chart of 90-day totals per model
+  docs/index.html        — GitHub Pages page embedding both graphs
+"""
+
+import json
+import os
+from datetime import datetime, timedelta, timezone
+
+import matplotlib
+matplotlib.use("Agg")  # headless rendering; must be set before importing pyplot
+import matplotlib.pyplot as plt
+import matplotlib.ticker as mticker
+
+# ── Paths ─────────────────────────────────────────────────────────────────────
+
+ROOT = os.path.join(os.path.dirname(__file__), "..")
+DATA_FILE = os.path.join(ROOT, "data", "complaints.json")
+DOCS_DIR = os.path.join(ROOT, "docs")
+
+# ── Visual constants ──────────────────────────────────────────────────────────
+
+MODEL_COLORS = {
+    "claude": "#da7756",   # Anthropic warm orange
+    "gemini": "#4285f4",   # Google blue
+    "codex":  "#10a37f",   # OpenAI green
+}
+
+MODEL_DISPLAY = {
+    "claude": "Claude (Anthropic)",
+    "gemini": "Gemini (Google)",
+    "codex":  "Codex (OpenAI)",
+}
+
+WEEKS_BACK = 13   # ~3 months
+WINDOW_DAYS = 90  # for total bar chart
+
+# ── Matplotlib base style ─────────────────────────────────────────────────────
+
+def _apply_style() -> None:
+    """Apply a clean, version-agnostic matplotlib style."""
+    plt.rcParams.update({
+        "figure.facecolor":     "white",
+        "axes.facecolor":       "#f7f7f7",
+        "axes.edgecolor":       "#cccccc",
+        "axes.grid":            True,
+        "grid.color":           "#e0e0e0",
+        "grid.linestyle":       "--",
+        "grid.linewidth":       0.8,
+        "axes.spines.top":      False,
+        "axes.spines.right":    False,
+        "axes.spines.left":     True,
+        "axes.spines.bottom":   True,
+        "xtick.color":          "#555555",
+        "ytick.color":          "#555555",
+        "axes.labelcolor":      "#333333",
+        "text.color":           "#222222",
+        "font.family":          "sans-serif",
+        "font.size":            10,
+    })
+
+# ── Data helpers ──────────────────────────────────────────────────────────────
+
+
+def load_data() -> dict:
+    if not os.path.exists(DATA_FILE):
+        return {"metadata": {}, "posts": {}}
+    with open(DATA_FILE, "r", encoding="utf-8") as f:
+        return json.load(f)
+
+
+def _week_start(dt: datetime) -> datetime:
+    """Return the Monday 00:00 UTC of the week containing *dt*."""
+    return (dt - timedelta(days=dt.weekday())).replace(
+        hour=0, minute=0, second=0, microsecond=0
+    )
+
+
+def build_weekly_counts(posts: dict) -> tuple:
+    """
+    Build per-week complaint counts for each model.
+
+    Returns
+    -------
+    week_starts : list[datetime]  — Monday datetimes, oldest first, length = WEEKS_BACK
+    counts      : dict[str, list[int]]  — model → count per week
+    """
+    now = datetime.now(timezone.utc)
+    this_week = _week_start(now)
+
+    # Build week list oldest → newest
+    week_starts = [this_week - timedelta(weeks=i) for i in range(WEEKS_BACK - 1, -1, -1)]
+    week_index  = {ws: i for i, ws in enumerate(week_starts)}
+
+    counts = {m: [0] * WEEKS_BACK for m in MODEL_COLORS}
+
+    for post in posts.values():
+        created = datetime.fromtimestamp(post["created_utc"], tz=timezone.utc)
+        ws = _week_start(created)
+        idx = week_index.get(ws)
+        if idx is None:
+            continue
+        for model in post.get("models", []):
+            if model in counts:
+                counts[model][idx] += 1
+
+    return week_starts, counts
+
+
+def build_total_counts(posts: dict) -> dict:
+    """Count complaints per model within the 90-day window."""
+    cutoff = datetime.now(timezone.utc) - timedelta(days=WINDOW_DAYS)
+    counts = {m: 0 for m in MODEL_COLORS}
+    for post in posts.values():
+        created = datetime.fromtimestamp(post["created_utc"], tz=timezone.utc)
+        if created < cutoff:
+            continue
+        for model in post.get("models", []):
+            if model in counts:
+                counts[model] += 1
+    return counts
+
+# ── Graph: weekly line chart ──────────────────────────────────────────────────
+
+
+def plot_weekly(week_starts: list, counts: dict, output_path: str) -> None:
+    _apply_style()
+    fig, ax = plt.subplots(figsize=(13, 5))
+
+    x = list(range(WEEKS_BACK))
+    labels = [ws.strftime("%b %d") for ws in week_starts]
+
+    for model, color in MODEL_COLORS.items():
+        y = counts[model]
+        ax.plot(
+            x, y,
+            color=color, linewidth=2.5,
+            marker="o", markersize=5,
+            label=MODEL_DISPLAY[model],
+            zorder=3,
+        )
+        ax.fill_between(x, y, alpha=0.07, color=color)
+
+    # Highlight the current (incomplete) week
+    ax.axvspan(
+        WEEKS_BACK - 1 - 0.45,
+        WEEKS_BACK - 1 + 0.45,
+        alpha=0.12, color="#888888", zorder=1,
+    )
+    # Label the shaded region at the top of the chart
+    ylim = ax.get_ylim()
+    ax.text(
+        WEEKS_BACK - 1,
+        ylim[1] * 0.97 if ylim[1] > 0 else 0.5,
+        "current\nweek",
+        ha="center", va="top",
+        fontsize=7.5, color="#888888",
+        style="italic",
+    )
+
+    ax.set_xticks(x)
+    ax.set_xticklabels(labels, rotation=45, ha="right", fontsize=8.5)
+    ax.set_ylabel("Complaint Posts", fontsize=11)
+    ax.set_title(
+        "Rate Limit Complaints on Reddit — Weekly Trend (Last 13 Weeks)",
+        fontsize=13, fontweight="bold", pad=12,
+    )
+    ax.legend(fontsize=10, loc="upper left", framealpha=0.85)
+    ax.set_ylim(bottom=0)
+    ax.yaxis.set_major_locator(mticker.MaxNLocator(integer=True))
+    ax.margins(x=0.02)
+
+    fig.tight_layout()
+    fig.savefig(output_path, dpi=150, bbox_inches="tight")
+    plt.close(fig)
+    print(f"  Saved {output_path}")
+
+
+# ── Graph: total bar chart ────────────────────────────────────────────────────
+
+
+def plot_total(total_counts: dict, output_path: str) -> None:
+    _apply_style()
+    fig, ax = plt.subplots(figsize=(7, 4.5))
+
+    models = list(MODEL_COLORS.keys())
+    values = [total_counts[m] for m in models]
+    colors = [MODEL_COLORS[m] for m in models]
+    labels = [MODEL_DISPLAY[m] for m in models]
+
+    bars = ax.bar(
+        labels, values,
+        color=colors, width=0.5,
+        edgecolor="white", linewidth=1.5,
+        zorder=3,
+    )
+
+    max_val = max(values) if values else 0
+    for bar, val in zip(bars, values):
+        ax.text(
+            bar.get_x() + bar.get_width() / 2.0,
+            bar.get_height() + max(max_val * 0.02, 0.3),
+            str(val),
+            ha="center", va="bottom",
+            fontsize=13, fontweight="bold",
+        )
+
+    ax.set_ylabel("Total Complaint Posts", fontsize=11)
+    ax.set_title(
+        f"Total Rate Limit Complaints — Last {WINDOW_DAYS} Days",
+        fontsize=13, fontweight="bold", pad=12,
+    )
+    ax.set_ylim(bottom=0, top=max_val * 1.3 if max_val > 0 else 10)
+    ax.yaxis.set_major_locator(mticker.MaxNLocator(integer=True))
+    ax.tick_params(axis="x", labelsize=10)
+
+    fig.tight_layout()
+    fig.savefig(output_path, dpi=150, bbox_inches="tight")
+    plt.close(fig)
+    print(f"  Saved {output_path}")
+
+
+# ── HTML generation ───────────────────────────────────────────────────────────
+
+
+def generate_html(total_counts: dict, last_updated: str) -> None:
+    now_str = last_updated or "N/A"
+    claude_n = total_counts.get("claude", 0)
+    gemini_n = total_counts.get("gemini", 0)
+    codex_n  = total_counts.get("codex",  0)
+
+    html = f"""<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Tracks Reddit complaints about AI rate limits for Claude, Gemini, and Codex. Auto-updated daily.">
+  <title>AI Rate Limit Complaints Tracker</title>
+  <style>
+    *, *::before, *::after {{ box-sizing: border-box; margin: 0; padding: 0; }}
+
+    body {{
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+                   'Helvetica Neue', Arial, sans-serif;
+      background: #f0f2f5;
+      color: #1a1a2e;
+      line-height: 1.6;
+    }}
+
+    /* ── Header ── */
+    header {{
+      background: #1a1a2e;
+      color: #e8e8f0;
+      padding: 2.2rem 1.5rem 1.8rem;
+      text-align: center;
+    }}
+    header h1 {{
+      font-size: clamp(1.3rem, 4vw, 2rem);
+      font-weight: 700;
+      margin-bottom: 0.45rem;
+      letter-spacing: -0.02em;
+    }}
+    header .subtitle {{
+      color: #9090b8;
+      font-size: 0.92rem;
+      max-width: 560px;
+      margin: 0 auto;
+    }}
+    header .updated {{
+      margin-top: 0.7rem;
+      font-size: 0.8rem;
+      color: #6060a0;
+    }}
+
+    /* ── Main layout ── */
+    main {{
+      max-width: 960px;
+      margin: 2rem auto;
+      padding: 0 1.25rem 3rem;
+    }}
+
+    /* ── Stat cards ── */
+    .stat-grid {{
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 1rem;
+      margin-bottom: 2.5rem;
+    }}
+    .stat-card {{
+      background: #ffffff;
+      border-radius: 12px;
+      padding: 1.3rem 1.5rem 1.1rem;
+      text-align: center;
+      border-top: 5px solid transparent;
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.07);
+      transition: transform 0.15s;
+    }}
+    .stat-card:hover {{ transform: translateY(-2px); }}
+    .stat-card.claude {{ border-color: #da7756; }}
+    .stat-card.gemini {{ border-color: #4285f4; }}
+    .stat-card.codex  {{ border-color: #10a37f; }}
+    .stat-card h3 {{
+      font-size: 0.78rem;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: #888;
+      margin-bottom: 0.5rem;
+    }}
+    .stat-card .count {{
+      font-size: 2.8rem;
+      font-weight: 800;
+      line-height: 1;
+      margin-bottom: 0.3rem;
+    }}
+    .stat-card.claude .count {{ color: #da7756; }}
+    .stat-card.gemini .count {{ color: #4285f4; }}
+    .stat-card.codex  .count {{ color: #10a37f; }}
+    .stat-card small   {{ color: #999; font-size: 0.79rem; }}
+
+    /* ── Chart sections ── */
+    .chart-section {{
+      background: #ffffff;
+      border-radius: 12px;
+      padding: 1.6rem 1.5rem;
+      margin-bottom: 1.5rem;
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.07);
+    }}
+    .chart-section h2 {{
+      font-size: 1rem;
+      color: #555;
+      font-weight: 600;
+      margin-bottom: 1rem;
+      padding-bottom: 0.5rem;
+      border-bottom: 1px solid #eee;
+    }}
+    .chart-section img {{
+      width: 100%;
+      height: auto;
+      display: block;
+      border-radius: 6px;
+    }}
+
+    /* ── How it works ── */
+    .info-box {{
+      background: #ffffff;
+      border-radius: 12px;
+      padding: 1.4rem 1.6rem;
+      margin-bottom: 1.5rem;
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.07);
+      font-size: 0.88rem;
+      color: #555;
+    }}
+    .info-box h2 {{
+      font-size: 0.95rem;
+      font-weight: 700;
+      color: #333;
+      margin-bottom: 0.7rem;
+    }}
+    .info-box ul {{
+      padding-left: 1.4em;
+      line-height: 1.8;
+    }}
+    .pill {{
+      display: inline-block;
+      padding: 0.1em 0.55em;
+      border-radius: 4px;
+      font-size: 0.78rem;
+      font-weight: 600;
+      margin-right: 0.2em;
+    }}
+    .pill.claude {{ background: #fde8e1; color: #a04030; }}
+    .pill.gemini {{ background: #e3eeff; color: #1a4cc0; }}
+    .pill.codex  {{ background: #d8f5ec; color: #0a5c42; }}
+
+    /* ── Footer ── */
+    footer {{
+      text-align: center;
+      padding: 1.5rem 1rem 2.5rem;
+      font-size: 0.8rem;
+      color: #aaa;
+    }}
+    footer a {{ color: #4285f4; text-decoration: none; }}
+
+    @media (max-width: 580px) {{
+      .stat-grid {{ grid-template-columns: 1fr; }}
+      header h1 {{ font-size: 1.4rem; }}
+      .stat-card .count {{ font-size: 2.2rem; }}
+    }}
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>AI Rate Limit Complaints Tracker</h1>
+  <p class="subtitle">
+    Automatically tracking Reddit posts that complain about rate limits
+    for <strong>Claude</strong>, <strong>Gemini</strong>, and <strong>Codex</strong>.
+  </p>
+  <p class="updated">Last updated: {now_str} &nbsp;·&nbsp; Auto-updated daily via GitHub Actions</p>
+</header>
+
+<main>
+
+  <!-- Stat cards -->
+  <div class="stat-grid">
+    <div class="stat-card claude">
+      <h3>Claude</h3>
+      <p class="count">{claude_n}</p>
+      <small>complaint posts (90 days)</small>
+    </div>
+    <div class="stat-card gemini">
+      <h3>Gemini</h3>
+      <p class="count">{gemini_n}</p>
+      <small>complaint posts (90 days)</small>
+    </div>
+    <div class="stat-card codex">
+      <h3>Codex</h3>
+      <p class="count">{codex_n}</p>
+      <small>complaint posts (90 days)</small>
+    </div>
+  </div>
+
+  <!-- Weekly trend -->
+  <div class="chart-section">
+    <h2>Weekly Trend — Last 13 Weeks</h2>
+    <img src="graph_weekly.png" alt="Weekly rate limit complaint trend by model">
+  </div>
+
+  <!-- Total comparison -->
+  <div class="chart-section">
+    <h2>Total Complaints — Last 90 Days</h2>
+    <img src="graph_total.png" alt="Total rate limit complaints by model">
+  </div>
+
+  <!-- Methodology -->
+  <div class="info-box">
+    <h2>How classification works (no AI used)</h2>
+    <ul>
+      <li>
+        <strong>Rate-limit detection:</strong> regex patterns matching
+        "rate limit", "quota exceeded", "429", "throttled", "TPM/RPM", "out of credits", etc.
+      </li>
+      <li>
+        <strong>Complaint scoring (threshold ≥ 2):</strong>
+        +3 for rate limit in title, +3 for strong language (frustrated, broken…),
+        +2 for moderate (can't use, stopped working…),
+        +1 for mild (issue, stuck…), +1 for emotional punctuation.
+        Pure informational posts ("what are the rate limits?") score too low.
+      </li>
+      <li>
+        <strong>Negation filter:</strong> posts about bypassing / praising the absence of rate
+        limits are excluded.
+      </li>
+      <li>
+        <strong>Model tagging:</strong>
+        <span class="pill claude">Claude</span> — keywords: claude, anthropic, haiku, sonnet, opus<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <span class="pill gemini">Gemini</span> — keywords: gemini, google ai, ai studio, vertex ai, bard<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <span class="pill codex">Codex</span> — keywords: codex, openai codex, codex cli
+      </li>
+      <li>
+        <strong>Subreddits monitored:</strong>
+        r/ClaudeAI, r/GoogleGemini, r/OpenAI, r/ChatGPT, r/LocalLLaMA,
+        r/artificial, r/singularity, r/MachineLearning, r/programming, r/github
+      </li>
+    </ul>
+  </div>
+
+</main>
+
+<footer>
+  <p>
+    Data sourced from Reddit public API. Classification is keyword/regex-based — no AI or LLM involved.<br>
+    Shaded area in weekly chart = current (incomplete) week.
+    &nbsp;·&nbsp;
+    <a href="https://github.com">Source code on GitHub</a>
+  </p>
+</footer>
+
+</body>
+</html>
+"""
+
+    os.makedirs(DOCS_DIR, exist_ok=True)
+    out = os.path.join(DOCS_DIR, "index.html")
+    with open(out, "w", encoding="utf-8") as f:
+        f.write(html)
+    print(f"  Saved {out}")
+
+
+# ── Main ──────────────────────────────────────────────────────────────────────
+
+
+def main() -> None:
+    data = load_data()
+    posts = data.get("posts", {})
+    last_updated = data.get("metadata", {}).get("last_updated", "")
+
+    print(f"Loaded {len(posts)} complaint posts from database")
+    os.makedirs(DOCS_DIR, exist_ok=True)
+
+    print("Building weekly counts …")
+    week_starts, weekly = build_weekly_counts(posts)
+
+    print("Building 90-day totals …")
+    total = build_total_counts(posts)
+
+    print("Generating graphs …")
+    plot_weekly(week_starts, weekly, os.path.join(DOCS_DIR, "graph_weekly.png"))
+    plot_total(total, os.path.join(DOCS_DIR, "graph_total.png"))
+
+    print("Generating index.html …")
+    generate_html(total, last_updated)
+
+    print("\nSummary:", {m: total[m] for m in MODEL_COLORS})
+
+
+if __name__ == "__main__":
+    main()
