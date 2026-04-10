@@ -260,7 +260,7 @@ def fetch_subreddit_posts(
             batch = min(100, limit_per_query - fetched)
             params = {
                 "subreddit": subreddit_name,
-                "q": query,
+                "title": query,
                 "after": str(after_ts),
                 "limit": str(batch),
                 "sort": "desc",
