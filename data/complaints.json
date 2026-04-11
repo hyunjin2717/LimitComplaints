@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-04-11T04:15:37.608786+00:00",
-    "total_posts_analyzed": 1450,
-    "total_complaints": 628
+    "last_updated": "2026-04-11T07:11:54.849574+00:00",
+    "total_posts_analyzed": 1569,
+    "total_complaints": 632
   },
   "posts": {
     "1sg1yvw": {
@@ -7650,6 +7650,54 @@
       "models": [
         "claude",
         "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-11"
+    },
+    "1sbnx6r": {
+      "title": "I reached 5h limit in 3 prompts.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1775246020,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sbnx6r/i_reached_5h_limit_in_3_prompts/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-11"
+    },
+    "1sfkq9t": {
+      "title": "Claude Code erroring 'out of extra usage' despite Max plan having 28% session + 32% weekly quota remaining.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1775628731,
+      "score": 10,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sfkq9t/claude_code_erroring_out_of_extra_usage_despite/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-11"
+    },
+    "1sg2u3h": {
+      "title": "How many tasks do you complete on average in 5 hour window?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1775676380,
+      "score": 4,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sg2u3h/how_many_tasks_do_you_complete_on_average_in_5/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-11"
+    },
+    "1si0q2f": {
+      "title": "Free models you can use with OpenClaw right now (no credit card needed)",
+      "subreddit": "GoogleGemini",
+      "created_utc": 1775858692,
+      "score": 1,
+      "url": "https://reddit.com/r/GoogleGemini/comments/1si0q2f/free_models_you_can_use_with_openclaw_right_now/",
+      "models": [
+        "gemini"
       ],
       "complaint_score": 3,
       "fetched_date": "2026-04-11"
