@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-04-11T07:11:54.849574+00:00",
-    "total_posts_analyzed": 1569,
-    "total_complaints": 632
+    "last_updated": "2026-04-12T07:26:15.397592+00:00",
+    "total_posts_analyzed": 1689,
+    "total_complaints": 654
   },
   "posts": {
     "1sg1yvw": {
@@ -7701,6 +7701,281 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-04-11"
+    },
+    "1shmmb8": {
+      "title": "How to save 80% on your claude bill with better context",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1775827832,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1shmmb8/how_to_save_80_on_your_claude_bill_with_better/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-12"
+    },
+    "1sj15cy": {
+      "title": "How to cache tokens and reduce usage limit?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1775958031,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1sj15cy/how_to_cache_tokens_and_reduce_usage_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-12"
+    },
+    "1sit6zt": {
+      "title": "My take on the 5-hour usage limit, and a simple automation fix",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1775937421,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1sit6zt/my_take_on_the_5hour_usage_limit_and_a_simple/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-12"
+    },
+    "1sh9m1k": {
+      "title": "For the Claude Desktop and web UI crowd - a much better file server MCP",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1775787210,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1sh9m1k/for_the_claude_desktop_and_web_ui_crowd_a_much/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-12"
+    },
+    "1sgwf8r": {
+      "title": "I built a tool to help people get more out of their Claude subscriptions",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1775756050,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1sgwf8r/i_built_a_tool_to_help_people_get_more_out_of/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-12"
+    },
+    "1sinmtw": {
+      "title": "Want to know why your Opus 4.6 feels way less powerful ?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1775924881,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sinmtw/want_to_know_why_your_opus_46_feels_way_less/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-04-12"
+    },
+    "1sj76hl": {
+      "title": "Eureka! - I've found the usage limit consuming bug",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1775976721,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sj76hl/eureka_ive_found_the_usage_limit_consuming_bug/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-04-12"
+    },
+    "1sit7vu": {
+      "title": "My take on the 5-hour usage limit, and a simple automation fix",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1775937480,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sit7vu/my_take_on_the_5hour_usage_limit_and_a_simple/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-04-12"
+    },
+    "1sigd81": {
+      "title": "Claude eats up usage limit with research...(Sonnet / Medium Effort)",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1775906303,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sigd81/claude_eats_up_usage_limit_with_researchsonnet/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-12"
+    },
+    "1sj10ou": {
+      "title": "Usage limits hit me out of the blue! Found a 20K phantom token bug + cache issues. Evidence and fix inside.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1775957658,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sj10ou/usage_limits_hit_me_out_of_the_blue_found_a_20k/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-04-12"
+    },
+    "1sj0ptz": {
+      "title": "Claude Code and Codex Usage: 95% used or left",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1775956788,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sj0ptz/claude_code_and_codex_usage_95_used_or_left/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-12"
+    },
+    "1siy70u": {
+      "title": "Bug - file regeneration consuming my limit!",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1775949795,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1siy70u/bug_file_regeneration_consuming_my_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 2,
+      "fetched_date": "2026-04-12"
+    },
+    "1siqj0q": {
+      "title": "Why was Google free but all these LLMs require you to pay hundreds of dollars for API keys to access?",
+      "subreddit": "ChatGPT",
+      "created_utc": 1775931378,
+      "score": 1,
+      "url": "https://reddit.com/r/ChatGPT/comments/1siqj0q/why_was_google_free_but_all_these_llms_require/",
+      "models": [
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-12"
+    },
+    "1sieiv0": {
+      "title": "Z.ai GLM-5.1 Lite Coding Plan burned my entire 5-hour quota on a single incomplete task",
+      "subreddit": "LocalLLaMA",
+      "created_utc": 1775900030,
+      "score": 1,
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1sieiv0/zai_glm51_lite_coding_plan_burned_my_entire_5hour/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-04-12"
+    },
+    "1sj3lck": {
+      "title": "Copilot Pro+ 40$  Vs Codex Pro 100$ Vs Claude Max 100$ Vs Google Ultra 100$",
+      "subreddit": "vibecoding",
+      "created_utc": 1775965178,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1sj3lck/copilot_pro_40_vs_codex_pro_100_vs_claude_max_100/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-12"
+    },
+    "1siq2zy": {
+      "title": "Paying $200/month for Claude Max… and I hit the limit in under an hour. What’s the point?",
+      "subreddit": "vibecoding",
+      "created_utc": 1775930409,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1siq2zy/paying_200month_for_claude_max_and_i_hit_the/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-12"
+    },
+    "1shkef3": {
+      "title": "Should I Upgrade from ChatGPT Go to Plus? (Rate Limit Differences)",
+      "subreddit": "codex",
+      "created_utc": 1775822184,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1shkef3/should_i_upgrade_from_chatgpt_go_to_plus_rate/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-12"
+    },
+    "1shkdwu": {
+      "title": "So many rate limit posts... how do you manage to spend all your tokens? How many successful projects did you launch? Make it make sense to me",
+      "subreddit": "codex",
+      "created_utc": 1775822144,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1shkdwu/so_many_rate_limit_posts_how_do_you_manage_to/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-04-12"
+    },
+    "1sih9pt": {
+      "title": "Am I in a Cult?   Am I the only one who likes Sam?",
+      "subreddit": "codex",
+      "created_utc": 1775909060,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1sih9pt/am_i_in_a_cult_am_i_the_only_one_who_likes_sam/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-12"
+    },
+    "1shz7cv": {
+      "title": "Plus Users are Getting Half the Usage OpenAI States They Should",
+      "subreddit": "codex",
+      "created_utc": 1775855109,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1shz7cv/plus_users_are_getting_half_the_usage_openai/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-12"
+    },
+    "1sclnnw": {
+      "title": "How much extra use does the 1,000 credits get you?",
+      "subreddit": "codex",
+      "created_utc": 1775339021,
+      "score": 4,
+      "url": "https://reddit.com/r/codex/comments/1sclnnw/how_much_extra_use_does_the_1000_credits_get_you/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-12"
+    },
+    "1sf3muo": {
+      "title": "Hit your Claude limits? I built a CLI tool to seamlessly resume your AI coding sessions in Copilot or Codex.",
+      "subreddit": "codex",
+      "created_utc": 1775584872,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1sf3muo/hit_your_claude_limits_i_built_a_cli_tool_to/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-12"
     }
   }
 }
