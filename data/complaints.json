@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-04-12T07:26:15.397592+00:00",
-    "total_posts_analyzed": 1689,
-    "total_complaints": 654
+    "last_updated": "2026-04-13T08:16:25.961806+00:00",
+    "total_posts_analyzed": 1845,
+    "total_complaints": 698
   },
   "posts": {
     "1sg1yvw": {
@@ -7976,6 +7976,543 @@
       ],
       "complaint_score": 4,
       "fetched_date": "2026-04-12"
+    },
+    "1sjrjl8": {
+      "title": "I built a virtual pet that lives in your Claude Code status line and panics when you're about to hit a rate limit",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1776030067,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1sjrjl8/i_built_a_virtual_pet_that_lives_in_your_claude/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-04-13"
+    },
+    "1sinlb4": {
+      "title": "Working on a app and need help with switching from the free model to the subscription model.",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1775924784,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1sinlb4/working_on_a_app_and_need_help_with_switching/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-13"
+    },
+    "1si49tz": {
+      "title": "I built a proxy that lets my whole family use one Claude Max subscription — zero config, $0 extra",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1775867748,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1si49tz/i_built_a_proxy_that_lets_my_whole_family_use_one/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-13"
+    },
+    "1sip74m": {
+      "title": "I set up a transparent API proxy and found Claude's hidden fallback-percentage: 0.5 header — every plan gets 50% of advertised capacity",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1775928430,
+      "score": 250,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1sip74m/i_set_up_a_transparent_api_proxy_and_found/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-13"
+    },
+    "1sikb7w": {
+      "title": "I am using multiple agents and its more efficient to my usage limits",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1775917109,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1sikb7w/i_am_using_multiple_agents_and_its_more_efficient/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-13"
+    },
+    "1shzsk6": {
+      "title": "Beginner Question on Multiple Device or Account Set-Up",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1775856466,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1shzsk6/beginner_question_on_multiple_device_or_account/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 2,
+      "fetched_date": "2026-04-13"
+    },
+    "1shw9d5": {
+      "title": "Replicate Claude Cowork within Visual Studio Code?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1775848594,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1shw9d5/replicate_claude_cowork_within_visual_studio_code/",
+      "models": [
+        "claude",
+        "gemini"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-13"
+    },
+    "1sjpsuv": {
+      "title": "Added a weekly-quota pace indicator to my Claude Code statusline — sharing in case it's useful",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1776026090,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1sjpsuv/added_a_weeklyquota_pace_indicator_to_my_claude/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-13"
+    },
+    "1sk4bio": {
+      "title": "I built a virtual pet that lives in your Claude Code status line and panics when you're about to hit a rate limit 😆",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776067278,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sk4bio/i_built_a_virtual_pet_that_lives_in_your_claude/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-13"
+    },
+    "1sk3vdq": {
+      "title": "Claude Can't Code",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776065648,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sk3vdq/claude_cant_code/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-13"
+    },
+    "1sjm9li": {
+      "title": "Insanely small usage limit?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776018261,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sjm9li/insanely_small_usage_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-04-13"
+    },
+    "1sjz3ai": {
+      "title": "Thanks for pricing gold at diamond rates. CLAUDE'S limits are a joke.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776050157,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sjz3ai/thanks_for_pricing_gold_at_diamond_rates_claudes/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-13"
+    },
+    "1sjq7l2": {
+      "title": "It finally happened",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776027026,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sjq7l2/it_finally_happened/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-13"
+    },
+    "1sjn6vn": {
+      "title": "Claude daily and weekly limits",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776020305,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sjn6vn/claude_daily_and_weekly_limits/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-13"
+    },
+    "1sjmyl7": {
+      "title": "75% of the weekly limit in record time",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776019801,
+      "score": 2,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sjmyl7/75_of_the_weekly_limit_in_record_time/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-04-13"
+    },
+    "1sjm255": {
+      "title": "\"I'm switching to Gemini/Chatgpt agents\" -- no idea how that is working for people with use cases like mine",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776017790,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sjm255/im_switching_to_geminichatgpt_agents_no_idea_how/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-04-13"
+    },
+    "1sjk2qr": {
+      "title": "$100 Max Plan - 60% used in less than 2 days. Can we just not use Opus at all anymore?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776013393,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sjk2qr/100_max_plan_60_used_in_less_than_2_days_can_we/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-13"
+    },
+    "1sjupr6": {
+      "title": "Added a weekly-quota pace indicator to my Claude Code statusline — sharing in case it's useful",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776038084,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sjupr6/added_a_weeklyquota_pace_indicator_to_my_claude/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-13"
+    },
+    "1siguar": {
+      "title": "5 hours daily quota = 10% weekly",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1775907789,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1siguar/5_hours_daily_quota_10_weekly/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-13"
+    },
+    "1sin58d": {
+      "title": "Simply unacceptable, Pro Limits are a tiny amount over the free-tier...",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1775923769,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sin58d/simply_unacceptable_pro_limits_are_a_tiny_amount/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-13"
+    },
+    "1sjeweu": {
+      "title": "Considering ditching Claude/Codex completely",
+      "subreddit": "LocalLLaMA",
+      "created_utc": 1776001351,
+      "score": 1,
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1sjeweu/considering_ditching_claudecodex_completely/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-13"
+    },
+    "1sjzfz4": {
+      "title": "I vibecoded a reddit clone this weekend",
+      "subreddit": "vibecoding",
+      "created_utc": 1776051176,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1sjzfz4/i_vibecoded_a_reddit_clone_this_weekend/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-13"
+    },
+    "1siozgg": {
+      "title": "It feels like the usage limit for free accounts has been reduced",
+      "subreddit": "codex",
+      "created_utc": 1775927949,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1siozgg/it_feels_like_the_usage_limit_for_free_accounts/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-13"
+    },
+    "1siea2x": {
+      "title": "My codex message token usage limit is fast used",
+      "subreddit": "codex",
+      "created_utc": 1775899136,
+      "score": 5,
+      "url": "https://reddit.com/r/codex/comments/1siea2x/my_codex_message_token_usage_limit_is_fast_used/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-13"
+    },
+    "1shprs9": {
+      "title": "Did the usage limit in business chatgpt seats also get doubled in the promo?",
+      "subreddit": "codex",
+      "created_utc": 1775834826,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1shprs9/did_the_usage_limit_in_business_chatgpt_seats/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-13"
+    },
+    "1se6u7g": {
+      "title": "I run the same agentic heartbeat cron jobs every day. Never hit the weekly limit, now I am on day 4 and only 8% usage left.",
+      "subreddit": "codex",
+      "created_utc": 1775499405,
+      "score": 18,
+      "url": "https://reddit.com/r/codex/comments/1se6u7g/i_run_the_same_agentic_heartbeat_cron_jobs_every/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-13"
+    },
+    "1sivf1h": {
+      "title": "5h limit not working?",
+      "subreddit": "codex",
+      "created_utc": 1775942724,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1sivf1h/5h_limit_not_working/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-04-13"
+    },
+    "1simab7": {
+      "title": "New codex limits: 2 business plan seats instead of Pro plan?",
+      "subreddit": "codex",
+      "created_utc": 1775921809,
+      "score": 3,
+      "url": "https://reddit.com/r/codex/comments/1simab7/new_codex_limits_2_business_plan_seats_instead_of/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-13"
+    },
+    "1si8ban": {
+      "title": "Codex Usage Messed Up - Shame on OpenAI",
+      "subreddit": "codex",
+      "created_utc": 1775879081,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1si8ban/codex_usage_messed_up_shame_on_openai/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-13"
+    },
+    "1shisoe": {
+      "title": "Codex usage limits exploding after adding tests to workflow. Anyone else?",
+      "subreddit": "codex",
+      "created_utc": 1775817278,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1shisoe/codex_usage_limits_exploding_after_adding_tests/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-13"
+    },
+    "1shhgkk": {
+      "title": "pro - apx 60 threads in - 3 to 7 parallel agent sessions",
+      "subreddit": "codex",
+      "created_utc": 1775812702,
+      "score": 10,
+      "url": "https://reddit.com/r/codex/comments/1shhgkk/pro_apx_60_threads_in_3_to_7_parallel_agent/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-13"
+    },
+    "1shdjjg": {
+      "title": "Wasn't going to post this, but I realized this is bigger than the $28 CAD/mo",
+      "subreddit": "codex",
+      "created_utc": 1775798950,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1shdjjg/wasnt_going_to_post_this_but_i_realized_this_is/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-13"
+    },
+    "1sh3wiz": {
+      "title": "takes 2 prompts to get your 5 hour limit down literally on plus",
+      "subreddit": "codex",
+      "created_utc": 1775772408,
+      "score": 54,
+      "url": "https://reddit.com/r/codex/comments/1sh3wiz/takes_2_prompts_to_get_your_5_hour_limit_down/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-13"
+    },
+    "1sgk9kr": {
+      "title": "The 5h limit on Codex CLI (Plus) is absurd and I'm so done with it",
+      "subreddit": "codex",
+      "created_utc": 1775725072,
+      "score": 15,
+      "url": "https://reddit.com/r/codex/comments/1sgk9kr/the_5h_limit_on_codex_cli_plus_is_absurd_and_im/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-04-13"
+    },
+    "1sg7gx3": {
+      "title": "Only 2 XHigh Requests Per 5 Hours?",
+      "subreddit": "codex",
+      "created_utc": 1775686875,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1sg7gx3/only_2_xhigh_requests_per_5_hours/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-04-13"
+    },
+    "1sfqhvp": {
+      "title": "8th April 2026 snapshot on Codex Plus vs Claude Pro session limits.",
+      "subreddit": "codex",
+      "created_utc": 1775648823,
+      "score": 44,
+      "url": "https://reddit.com/r/codex/comments/1sfqhvp/8th_april_2026_snapshot_on_codex_plus_vs_claude/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-13"
+    },
+    "1sjyczx": {
+      "title": "They fixed the 5h plus limit?",
+      "subreddit": "codex",
+      "created_utc": 1776048092,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1sjyczx/they_fixed_the_5h_plus_limit/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-13"
+    },
+    "1sinrov": {
+      "title": "After many months fiddling around, I just \"popped my 5h limit hit on Codex\" cherry",
+      "subreddit": "codex",
+      "created_utc": 1775925195,
+      "score": 8,
+      "url": "https://reddit.com/r/codex/comments/1sinrov/after_many_months_fiddling_around_i_just_popped/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-13"
+    },
+    "1sgwdb8": {
+      "title": "they heavily reduced the 5h limit further again...",
+      "subreddit": "codex",
+      "created_utc": 1775755937,
+      "score": 52,
+      "url": "https://reddit.com/r/codex/comments/1sgwdb8/they_heavily_reduced_the_5h_limit_further_again/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-13"
+    },
+    "1sgv92a": {
+      "title": "Did the 5h limit disappear in the app for anyone else?",
+      "subreddit": "codex",
+      "created_utc": 1775753603,
+      "score": 5,
+      "url": "https://reddit.com/r/codex/comments/1sgv92a/did_the_5h_limit_disappear_in_the_app_for_anyone/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-13"
+    },
+    "1sgppab": {
+      "title": "Did the 5h limit disappear for anyone else?",
+      "subreddit": "codex",
+      "created_utc": 1775741447,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1sgppab/did_the_5h_limit_disappear_for_anyone_else/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-13"
+    },
+    "1sfa6zr": {
+      "title": "New Limits made me switch to Claude Max 5x",
+      "subreddit": "codex",
+      "created_utc": 1775599342,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1sfa6zr/new_limits_made_me_switch_to_claude_max_5x/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-13"
+    },
+    "1sgx8pf": {
+      "title": "Codex 5-hour limit now uses 15% of weekly quota",
+      "subreddit": "codex",
+      "created_utc": 1775757773,
+      "score": 63,
+      "url": "https://reddit.com/r/codex/comments/1sgx8pf/codex_5hour_limit_now_uses_15_of_weekly_quota/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-13"
+    },
+    "1se8p7b": {
+      "title": "I need to finish a project, and finished my weekly Plus quota. Do I get another Plus account or pay 40€ for the 1000 codex credits?",
+      "subreddit": "codex",
+      "created_utc": 1775503372,
+      "score": 3,
+      "url": "https://reddit.com/r/codex/comments/1se8p7b/i_need_to_finish_a_project_and_finished_my_weekly/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-04-13"
     }
   }
 }
