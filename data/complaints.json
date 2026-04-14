@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-04-13T08:16:25.961806+00:00",
-    "total_posts_analyzed": 1845,
-    "total_complaints": 698
+    "last_updated": "2026-04-14T07:59:44.172386+00:00",
+    "total_posts_analyzed": 1960,
+    "total_complaints": 716
   },
   "posts": {
     "1sg1yvw": {
@@ -8513,6 +8513,224 @@
       ],
       "complaint_score": 5,
       "fetched_date": "2026-04-13"
+    },
+    "1skc71p": {
+      "title": "Smart Resume: Auto-waits and resumes your session when Claude Code hits a rate limit",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1776089900,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1skc71p/smart_resume_autowaits_and_resumes_your_session/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-14"
+    },
+    "1sj889q": {
+      "title": "App to track Claude Code Usage",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1775980265,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1sj889q/app_to_track_claude_code_usage/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-04-14"
+    },
+    "1sjbl72": {
+      "title": "Token economics is the most underrated prompt engineering skill",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1775991973,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1sjbl72/token_economics_is_the_most_underrated_prompt/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-14"
+    },
+    "1skic81": {
+      "title": "I built PicoAI to cut Claude Code token waste and rate limit pain",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776102554,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1skic81/i_built_picoai_to_cut_claude_code_token_waste_and/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-14"
+    },
+    "1skek6v": {
+      "title": "below 5 hour limit, below weekly limit, now I get 'rate limit' exceeded",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776094807,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1skek6v/below_5_hour_limit_below_weekly_limit_now_i_get/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-14"
+    },
+    "1skbzxu": {
+      "title": "Smart Resume: Auto-waits and resumes your session when Claude Code hits a rate limit",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776089471,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1skbzxu/smart_resume_autowaits_and_resumes_your_session/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-14"
+    },
+    "1sk75wk": {
+      "title": "Rate limit errors?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776077146,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sk75wk/rate_limit_errors/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-04-14"
+    },
+    "1sksf4p": {
+      "title": "Custom status line showing context window, rate limits, and burn-rate projections",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776124720,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sksf4p/custom_status_line_showing_context_window_rate/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-14"
+    },
+    "1skoojd": {
+      "title": "My Claude usage looks healthier than I expected: CCMeter 2.0 now tracks rate limits",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776115702,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1skoojd/my_claude_usage_looks_healthier_than_i_expected/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-14"
+    },
+    "1sklwdz": {
+      "title": "Can we dial back the doom posting?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776109897,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sklwdz/can_we_dial_back_the_doom_posting/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-14"
+    },
+    "1skju3v": {
+      "title": "Hitting rate limits? Not everything needs Opus",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776105626,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1skju3v/hitting_rate_limits_not_everything_needs_opus/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-04-14"
+    },
+    "1skhir3": {
+      "title": "Dear Anthropic: You're screwing up. Big time",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776100879,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1skhir3/dear_anthropic_youre_screwing_up_big_time/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-14"
+    },
+    "1skh3w8": {
+      "title": "Can't use Extra usage",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776100032,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1skh3w8/cant_use_extra_usage/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-14"
+    },
+    "1skn5i4": {
+      "title": "Claude Code x20 13% weekly limit in 2h is this normal?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776112458,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1skn5i4/claude_code_x20_13_weekly_limit_in_2h_is_this/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-04-14"
+    },
+    "1sk934w": {
+      "title": "Has ChatGPT been down throttled?",
+      "subreddit": "ChatGPT",
+      "created_utc": 1776082599,
+      "score": 1,
+      "url": "https://reddit.com/r/ChatGPT/comments/1sk934w/has_chatgpt_been_down_throttled/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-14"
+    },
+    "1sk4hn8": {
+      "title": "how do you handle hitting the ChatGPT usage limit mid-task at work",
+      "subreddit": "ChatGPT",
+      "created_utc": 1776067881,
+      "score": 1,
+      "url": "https://reddit.com/r/ChatGPT/comments/1sk4hn8/how_do_you_handle_hitting_the_chatgpt_usage_limit/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-04-14"
+    },
+    "1sj9nyr": {
+      "title": "My manager watching how I work after I hit the Claude usage limit.",
+      "subreddit": "ChatGPT",
+      "created_utc": 1775985305,
+      "score": 6762,
+      "url": "https://reddit.com/r/ChatGPT/comments/1sj9nyr/my_manager_watching_how_i_work_after_i_hit_the/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-14"
+    },
+    "1sinpab": {
+      "title": "Never run out of your Claude limits again",
+      "subreddit": "PromptEngineering",
+      "created_utc": 1775925038,
+      "score": 0,
+      "url": "https://reddit.com/r/PromptEngineering/comments/1sinpab/never_run_out_of_your_claude_limits_again/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-14"
     }
   }
 }
