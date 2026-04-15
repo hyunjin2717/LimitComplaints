@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-04-14T07:59:44.172386+00:00",
-    "total_posts_analyzed": 1960,
-    "total_complaints": 716
+    "last_updated": "2026-04-15T08:00:29.036742+00:00",
+    "total_posts_analyzed": 2102,
+    "total_complaints": 744
   },
   "posts": {
     "1sg1yvw": {
@@ -8731,6 +8731,348 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-04-14"
+    },
+    "1sls4ha": {
+      "title": "New rate limit constraint",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1776217104,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1sls4ha/new_rate_limit_constraint/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-15"
+    },
+    "1slsf1a": {
+      "title": "The new update today now has a graph showing detailed usage statistics in the new session window. Would be interesting to see other people's graphs to get an idea of how much usage people are getting. I've never even come close to hitting a usage limit.",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1776217874,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1slsf1a/the_new_update_today_now_has_a_graph_showing/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-15"
+    },
+    "1slroyv": {
+      "title": "The new update today now has a graph showing detailed usage statistics in the new session window. Would be interesting to see other people's graphs to get an idea of how much usage people are getting. I've never even come close to hitting a usage limit.",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1776215929,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1slroyv/the_new_update_today_now_has_a_graph_showing/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-15"
+    },
+    "1sk6x36": {
+      "title": "I built a 150k+ LOC scalable AI Agent in 5 months acting purely as a \"puppeteer\" for Claude (Zero lines coded by me, driven by 20y IT experience)",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1776076374,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1sk6x36/i_built_a_150k_loc_scalable_ai_agent_in_5_months/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-15"
+    },
+    "1sl8fvq": {
+      "title": "[wellread] A shared research cache for Claude Code - same search, 600 tokens instead of 2M",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776172611,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sl8fvq/wellread_a_shared_research_cache_for_claude_code/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 2,
+      "fetched_date": "2026-04-15"
+    },
+    "1sl7xa9": {
+      "title": "Are automated CLI calls banned? Or am I just running out of tokens?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776171392,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sl7xa9/are_automated_cli_calls_banned_or_am_i_just/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-15"
+    },
+    "1slyh71": {
+      "title": "Claimed the free extra usage credit and it doesn’t let me bypass weekly limit",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776236144,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1slyh71/claimed_the_free_extra_usage_credit_and_it_doesnt/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-15"
+    },
+    "1slemyv": {
+      "title": "Claude Code usage limit shows 47% used even though I haven’t touched it for 5 hours. How is this supposed to work?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776186073,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1slemyv/claude_code_usage_limit_shows_47_used_even_though/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 10,
+      "fetched_date": "2026-04-15"
+    },
+    "1sla1cm": {
+      "title": "This is ridiculous! Hit 5-hour usage limit in a SINGLE session with ~ 140k tokens.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776176255,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sla1cm/this_is_ridiculous_hit_5hour_usage_limit_in_a/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-04-15"
+    },
+    "1slz146": {
+      "title": "How’s the Claude $20 subscription quota now? Is it actually lasting longer these days?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776238085,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1slz146/hows_the_claude_20_subscription_quota_now_is_it/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 10,
+      "fetched_date": "2026-04-15"
+    },
+    "1sljg18": {
+      "title": "Claude Code atingiu o limite de 5 horas em cerca de 2 horas. Mais alguém?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776196160,
+      "score": 2,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sljg18/claude_code_atingiu_o_limite_de_5_horas_em_cerca/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-15"
+    },
+    "1slf454": {
+      "title": "Do weekly limits cover all of Claude, or just Code and Co-Work?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776187072,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1slf454/do_weekly_limits_cover_all_of_claude_or_just_code/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-04-15"
+    },
+    "1slcowg": {
+      "title": "F'd around, found out --dangerously-skip-permissions",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776181986,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1slcowg/fd_around_found_out_dangerouslyskippermissions/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-15"
+    },
+    "1slbews": {
+      "title": "Claude burned 71% of its 5h quota on TWO simple questions… Codex used 4%. I’m out",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776179266,
+      "score": 2,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1slbews/claude_burned_71_of_its_5h_quota_on_two_simple/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-04-15"
+    },
+    "1sl6c0v": {
+      "title": "Newbie: advice on model and how to tweak",
+      "subreddit": "LocalLLaMA",
+      "created_utc": 1776167291,
+      "score": 1,
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1sl6c0v/newbie_advice_on_model_and_how_to_tweak/",
+      "models": [
+        "claude",
+        "gemini"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-15"
+    },
+    "1slntoi": {
+      "title": "Implementing a Low-Latency Pre-Inference Triage Layer to Reduce Token Burn",
+      "subreddit": "LLMDevs",
+      "created_utc": 1776205949,
+      "score": 1,
+      "url": "https://reddit.com/r/LLMDevs/comments/1slntoi/implementing_a_lowlatency_preinference_triage/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-15"
+    },
+    "1slzdxx": {
+      "title": "I vibecoded a tool for watch enthusiast and watchmakers. It's called Mainplate.",
+      "subreddit": "vibecoding",
+      "created_utc": 1776239358,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1slzdxx/i_vibecoded_a_tool_for_watch_enthusiast_and/",
+      "models": [
+        "claude",
+        "gemini"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-15"
+    },
+    "1slto8i": {
+      "title": "Paying $200/month for Claude Max and still hitting limits fast… plus Opus issues lately?",
+      "subreddit": "vibecoding",
+      "created_utc": 1776221262,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1slto8i/paying_200month_for_claude_max_and_still_hitting/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-15"
+    },
+    "1sl2yc1": {
+      "title": "A guide to token economics (and how to practically bypass Claude's limits)",
+      "subreddit": "vibecoding",
+      "created_utc": 1776156444,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1sl2yc1/a_guide_to_token_economics_and_how_to_practically/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-04-15"
+    },
+    "1slyhuv": {
+      "title": "ChatGPT Discussion: Token Usage Confusion",
+      "subreddit": "vibecoding",
+      "created_utc": 1776236211,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1slyhuv/chatgpt_discussion_token_usage_confusion/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-15"
+    },
+    "1slyf8e": {
+      "title": "ChatGPT Token(?) Explanation - Is it Hallucinating? If true, is this well-known?",
+      "subreddit": "vibecoding",
+      "created_utc": 1776235942,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1slyf8e/chatgpt_token_explanation_is_it_hallucinating_if/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-04-15"
+    },
+    "1skw68u": {
+      "title": "Daily quota timer is dynamic, not fixed",
+      "subreddit": "codex",
+      "created_utc": 1776134602,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1skw68u/daily_quota_timer_is_dynamic_not_fixed/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-04-15"
+    },
+    "1slxpuv": {
+      "title": "Does anybody know the usage limit of Go Plan in Codex?",
+      "subreddit": "codex",
+      "created_utc": 1776233529,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1slxpuv/does_anybody_know_the_usage_limit_of_go_plan_in/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-15"
+    },
+    "1skn4u9": {
+      "title": "what is happening to Codex usage limit... It's becoming so bad",
+      "subreddit": "codex",
+      "created_utc": 1776112421,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1skn4u9/what_is_happening_to_codex_usage_limit_its/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-15"
+    },
+    "1skdku0": {
+      "title": "Codex keeps working even after hitting usage limit?",
+      "subreddit": "codex",
+      "created_utc": 1776092765,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1skdku0/codex_keeps_working_even_after_hitting_usage_limit/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-15"
+    },
+    "1sly7qn": {
+      "title": "Limits Usage",
+      "subreddit": "codex",
+      "created_utc": 1776235228,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1sly7qn/limits_usage/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-04-15"
+    },
+    "1skcem1": {
+      "title": "Codex Plus/Pro accounts now \"Thinking-time limed?",
+      "subreddit": "codex",
+      "created_utc": 1776090360,
+      "score": 23,
+      "url": "https://reddit.com/r/codex/comments/1skcem1/codex_pluspro_accounts_now_thinkingtime_limed/",
+      "models": [
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-15"
+    },
+    "1skyvw8": {
+      "title": "My manager watching how I work after hitting the Claude usage limit",
+      "subreddit": "singularity",
+      "created_utc": 1776142474,
+      "score": 1,
+      "url": "https://reddit.com/r/singularity/comments/1skyvw8/my_manager_watching_how_i_work_after_hitting_the/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-04-15"
     }
   }
 }
