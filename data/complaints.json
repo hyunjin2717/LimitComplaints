@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-04-15T08:00:29.036742+00:00",
-    "total_posts_analyzed": 2102,
-    "total_complaints": 744
+    "last_updated": "2026-04-16T08:00:44.269647+00:00",
+    "total_posts_analyzed": 2209,
+    "total_complaints": 756
   },
   "posts": {
     "1sg1yvw": {
@@ -9073,6 +9073,151 @@
       ],
       "complaint_score": 5,
       "fetched_date": "2026-04-15"
+    },
+    "1smnrhr": {
+      "title": "FREE Zero Rate Limit Cloud Model",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776298669,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1smnrhr/free_zero_rate_limit_cloud_model/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-16"
+    },
+    "1sm512i": {
+      "title": "Workaround for the 5-hour rate limit: rotate a pool of Team accounts automatically",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776257068,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sm512i/workaround_for_the_5hour_rate_limit_rotate_a_pool/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-16"
+    },
+    "1smfs3h": {
+      "title": "Anthropic wants your government ID now? After everything? Hard pass.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776280326,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1smfs3h/anthropic_wants_your_government_id_now_after/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-16"
+    },
+    "1sm2yeb": {
+      "title": "Built a watchdog that auto-rotates Premium seats across accounts when you hit rate limits",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776251466,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sm2yeb/built_a_watchdog_that_autorotates_premium_seats/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-16"
+    },
+    "1sm1hp4": {
+      "title": "Heavy Claude Max 5x user here: something changed dramatically with usage limits",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776246874,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sm1hp4/heavy_claude_max_5x_user_here_something_changed/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-04-16"
+    },
+    "1smfv63": {
+      "title": "Claude usage calculation maxed out my hourly limit and extra usage DURING the outage",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776280501,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1smfv63/claude_usage_calculation_maxed_out_my_hourly/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-04-16"
+    },
+    "1smdf3s": {
+      "title": "New User - Usage Limit Hit In 1 Hour",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776275383,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1smdf3s/new_user_usage_limit_hit_in_1_hour/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-16"
+    },
+    "1smgtpz": {
+      "title": "You've hit the limit is the new milking money system?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776282564,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1smgtpz/youve_hit_the_limit_is_the_new_milking_money/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 10,
+      "fetched_date": "2026-04-16"
+    },
+    "1smk0c7": {
+      "title": "Lower weekly quota from 10% session - 1% week to 8% session - 1% week (20% token reduction on the weekly quota)",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776289451,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1smk0c7/lower_weekly_quota_from_10_session_1_week_to_8/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-16"
+    },
+    "1smljdi": {
+      "title": "5x plan, CC used 24% of the session quota in 20 minutes.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776293056,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1smljdi/5x_plan_cc_used_24_of_the_session_quota_in_20/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-04-16"
+    },
+    "1sm43ik": {
+      "title": "Figured out how to never hit Claude Code's rate limit again — the 5h limit is per-account, not per-license",
+      "subreddit": "vibecoding",
+      "created_utc": 1776254671,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1sm43ik/figured_out_how_to_never_hit_claude_codes_rate/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-16"
+    },
+    "1sm2yea": {
+      "title": "Never hit a Claude Code rate limit again — open source seat rotator for 24/7 vibe coding",
+      "subreddit": "vibecoding",
+      "created_utc": 1776251466,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1sm2yea/never_hit_a_claude_code_rate_limit_again_open/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-16"
     }
   }
 }
