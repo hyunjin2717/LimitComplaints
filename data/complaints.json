@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-04-16T08:00:44.269647+00:00",
-    "total_posts_analyzed": 2209,
-    "total_complaints": 756
+    "last_updated": "2026-04-17T08:00:00.365485+00:00",
+    "total_posts_analyzed": 2357,
+    "total_complaints": 790
   },
   "posts": {
     "1sg1yvw": {
@@ -9218,6 +9218,424 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-04-16"
+    },
+    "1snjmsz": {
+      "title": "Anyone else rate limit get reset and pushed up to today? I was at 38% and reset was supposed to be Tuesday. I aint mad...",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1776381055,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1snjmsz/anyone_else_rate_limit_get_reset_and_pushed_up_to/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-17"
+    },
+    "1sni9kb": {
+      "title": "Hit rate limit in 4min and 48s anyone could beat that? Used Opus 4.7 with xhigh in Claude Code",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1776377724,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1sni9kb/hit_rate_limit_in_4min_and_48s_anyone_could_beat/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-17"
+    },
+    "1sn9mm4": {
+      "title": "Built a Claude Code token monitor for Windows — because Mac has several apps for this and we have zero",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1776359120,
+      "score": 4,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1sn9mm4/built_a_claude_code_token_monitor_for_windows/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-17"
+    },
+    "1sn86xs": {
+      "title": "New secret Claude.ai feature gets its own rate limits",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1776356089,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1sn86xs/new_secret_claudeai_feature_gets_its_own_rate/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-17"
+    },
+    "1sns0b1": {
+      "title": "Rate limited without hitting limits?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1776404502,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1sns0b1/rate_limited_without_hitting_limits/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-04-17"
+    },
+    "1snor22": {
+      "title": "Usage Limit reset earlier than the actual Time",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1776394735,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1snor22/usage_limit_reset_earlier_than_the_actual_time/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-17"
+    },
+    "1snlclz": {
+      "title": "I built a real-time Claude usage limit monitor — entirely with Claude Code, in one session. Open source.",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1776385519,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1snlclz/i_built_a_realtime_claude_usage_limit_monitor/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-17"
+    },
+    "1snk9xs": {
+      "title": "Server is limitting requests (not your usage limit)",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1776382721,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1snk9xs/server_is_limitting_requests_not_your_usage_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-17"
+    },
+    "1sne6dx": {
+      "title": "Usage Limit refreshed! And new Daily included routine runs added.",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1776368631,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1sne6dx/usage_limit_refreshed_and_new_daily_included/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-17"
+    },
+    "1smykyt": {
+      "title": "Me when Claude hits its usage limit for the current session xd",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1776331921,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1smykyt/me_when_claude_hits_its_usage_limit_for_the/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-17"
+    },
+    "1slnw8r": {
+      "title": "Cowork for document assessment and management",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1776206122,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1slnw8r/cowork_for_document_assessment_and_management/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-17"
+    },
+    "1slflhb": {
+      "title": "Claude Pro worth it for a student?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1776188082,
+      "score": 10,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1slflhb/claude_pro_worth_it_for_a_student/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-17"
+    },
+    "1sng6lj": {
+      "title": "Resetting the weekly quota and current quota in advance",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1776372967,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1sng6lj/resetting_the_weekly_quota_and_current_quota_in/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-17"
+    },
+    "1snpuh9": {
+      "title": "Sam Altman, CEO of OpenAI, takes a dig at Anthropic staff’s tendency to rate-limit users and force worse models",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776397812,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1snpuh9/sam_altman_ceo_of_openai_takes_a_dig_at_anthropic/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-17"
+    },
+    "1snpryk": {
+      "title": "Sam Altman, CEO of OpenAI, takes a dig at Anthropic staff’s tendency to rate-limit users and force worse models",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776397612,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1snpryk/sam_altman_ceo_of_openai_takes_a_dig_at_anthropic/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-17"
+    },
+    "1snfj1r": {
+      "title": "API Error: Server is temporarily limiting requests (not your usage limit) · Rate limited",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776371548,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1snfj1r/api_error_server_is_temporarily_limiting_requests/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-17"
+    },
+    "1snet44": {
+      "title": "Update on the rate limit reset",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776369994,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1snet44/update_on_the_rate_limit_reset/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-17"
+    },
+    "1sne0kj": {
+      "title": "Just got that rate limit reset (hbu?)",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776368283,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sne0kj/just_got_that_rate_limit_reset_hbu/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-17"
+    },
+    "1sns3qt": {
+      "title": "Claude Code monthly fee too high? This open-source agent combo saves roughly 90%.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776404817,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sns3qt/claude_code_monthly_fee_too_high_this_opensource/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-17"
+    },
+    "1sns2z7": {
+      "title": "Did rate limits reset?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776404746,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sns2z7/did_rate_limits_reset/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-17"
+    },
+    "1sn7nwv": {
+      "title": "After only 3 weeks, I am done",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776355008,
+      "score": 3,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sn7nwv/after_only_3_weeks_i_am_done/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-17"
+    },
+    "1snb4y0": {
+      "title": "4.7 is Just Un-nerfed 4.6. Prove Me Wrong.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776362215,
+      "score": 2,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1snb4y0/47_is_just_unnerfed_46_prove_me_wrong/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-17"
+    },
+    "1sn76nx": {
+      "title": "4.7 on web is AWFUL and I am officially now an anthropic doomer",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776353974,
+      "score": 3,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sn76nx/47_on_web_is_awful_and_i_am_officially_now_an/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-17"
+    },
+    "1sni70c": {
+      "title": "No usage limit?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776377560,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sni70c/no_usage_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-17"
+    },
+    "1sn7ie2": {
+      "title": "Usage limit",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776354681,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sn7ie2/usage_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-17"
+    },
+    "1snfqn4": {
+      "title": "Did your Weekly Limits also just reset?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776372006,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1snfqn4/did_your_weekly_limits_also_just_reset/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-17"
+    },
+    "1sn97lp": {
+      "title": "How do I I continue a project in code once my usage has reset",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776358255,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sn97lp/how_do_i_i_continue_a_project_in_code_once_my/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-17"
+    },
+    "1sn6krx": {
+      "title": "Opus 4.7 might be the best model ever built… but can we really use it?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776352684,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sn6krx/opus_47_might_be_the_best_model_ever_built_but/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-17"
+    },
+    "1sn6hfp": {
+      "title": "already burned my limit with opus 4.7",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776352479,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sn6hfp/already_burned_my_limit_with_opus_47/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-17"
+    },
+    "1snmpgi": {
+      "title": "Stop Hitting Claude's Usage Limit: 9 Power User Hacks That Actually Work (2026)",
+      "subreddit": "vibecoding",
+      "created_utc": 1776389141,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1snmpgi/stop_hitting_claudes_usage_limit_9_power_user/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-04-17"
+    },
+    "1snpvky": {
+      "title": "Sam Altman, CEO of OpenAI, takes a dig at Anthropic staff’s tendency to rate-limit users and force worse models",
+      "subreddit": "codex",
+      "created_utc": 1776397899,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1snpvky/sam_altman_ceo_of_openai_takes_a_dig_at_anthropic/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-17"
+    },
+    "1snhcc7": {
+      "title": "[CodeX][RATES] Why you are losing chat history & seeing huge Token Spikes (The \"Token Monster\" Bug) (Burning your rate limit window faster)",
+      "subreddit": "codex",
+      "created_utc": 1776375567,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1snhcc7/codexrates_why_you_are_losing_chat_history_seeing/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-17"
+    },
+    "1snd5sg": {
+      "title": "Weekly Usage Limit Cascade?",
+      "subreddit": "codex",
+      "created_utc": 1776366434,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1snd5sg/weekly_usage_limit_cascade/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-17"
+    },
+    "1smp64p": {
+      "title": "New limits feel right. I'm on Plus",
+      "subreddit": "codex",
+      "created_utc": 1776302399,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1smp64p/new_limits_feel_right_im_on_plus/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 2,
+      "fetched_date": "2026-04-17"
     }
   }
 }
