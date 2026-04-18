@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-04-17T08:00:00.365485+00:00",
-    "total_posts_analyzed": 2357,
-    "total_complaints": 790
+    "last_updated": "2026-04-18T07:20:57.239321+00:00",
+    "total_posts_analyzed": 2471,
+    "total_complaints": 808
   },
   "posts": {
     "1sg1yvw": {
@@ -9636,6 +9636,228 @@
       ],
       "complaint_score": 2,
       "fetched_date": "2026-04-17"
+    },
+    "1so5vkv": {
+      "title": "[BUG/INCIDENT] The Claude Code \"Death Loop\": Hang - Session Deleted -Server Rate Limit Opus 4.7",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1776443144,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1so5vkv/bugincident_the_claude_code_death_loop_hang/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-18"
+    },
+    "1sm1s73": {
+      "title": "Claude Limits drain like crazy recently, so i made a menu bar widget that shows me how much of a limit I used.",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1776247844,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1sm1s73/claude_limits_drain_like_crazy_recently_so_i_made/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-18"
+    },
+    "1so2c7e": {
+      "title": "Usage limit changed the renewal time - happens often?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1776435498,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1so2c7e/usage_limit_changed_the_renewal_time_happens_often/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-18"
+    },
+    "1snv4yq": {
+      "title": "Claude Code tip: 10 seconds fix to avoid the Opus 4.7 token burn",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1776415142,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1snv4yq/claude_code_tip_10_seconds_fix_to_avoid_the_opus/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-18"
+    },
+    "1so6grv": {
+      "title": "New usage limit rate are crazy…",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776444392,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1so6grv/new_usage_limit_rate_are_crazy/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-18"
+    },
+    "1so16nv": {
+      "title": "ClaudePacer ⛽ – I built live token burn rate gauges because I kept smashing my weekly limit with no idea of my pace",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776432897,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1so16nv/claudepacer_i_built_live_token_burn_rate_gauges/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-18"
+    },
+    "1snuflo": {
+      "title": "New to Claude, am I doing it wrong?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776412693,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1snuflo/new_to_claude_am_i_doing_it_wrong/",
+      "models": [
+        "claude",
+        "gemini"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-18"
+    },
+    "1so5uw5": {
+      "title": "EU Law Proposal: Petition About Usage Limits disclosure",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776443101,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1so5uw5/eu_law_proposal_petition_about_usage_limits/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-18"
+    },
+    "1soihyn": {
+      "title": "How to troubleshoot Chat Session Limit Reached (Sonnet 4.6)",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776472013,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1soihyn/how_to_troubleshoot_chat_session_limit_reached/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-04-18"
+    },
+    "1sny5jl": {
+      "title": "Opus 4.7 - my takes after 1 day of use",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776425052,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sny5jl/opus_47_my_takes_after_1_day_of_use/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-18"
+    },
+    "1so8zb9": {
+      "title": "Opus 4.7 defaulting to xhigh effort just made the quota problem worse. Here's what's actually happening under the hood.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776449785,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1so8zb9/opus_47_defaulting_to_xhigh_effort_just_made_the/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-04-18"
+    },
+    "1snb4k4": {
+      "title": "Max 5x is the new Pro tier.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776362193,
+      "score": 2,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1snb4k4/max_5x_is_the_new_pro_tier/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-04-18"
+    },
+    "1sktid0": {
+      "title": "Why I just quit Claude Pro after 48 hours (Rate Limit Anxiety)",
+      "subreddit": "ChatGPT",
+      "created_utc": 1776127597,
+      "score": 60,
+      "url": "https://reddit.com/r/ChatGPT/comments/1sktid0/why_i_just_quit_claude_pro_after_48_hours_rate/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-18"
+    },
+    "1snmo2e": {
+      "title": "I was constantly hitting Claude’s 5-hour usage limit. These 9 habits effectively tripled my capacity (without upgrading my plan).",
+      "subreddit": "PromptEngineering",
+      "created_utc": 1776389038,
+      "score": 1,
+      "url": "https://reddit.com/r/PromptEngineering/comments/1snmo2e/i_was_constantly_hitting_claudes_5hour_usage/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 9,
+      "fetched_date": "2026-04-18"
+    },
+    "1songu7": {
+      "title": "At 90% weekly plus limit after 1 codex cloud session",
+      "subreddit": "codex",
+      "created_utc": 1776486184,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1songu7/at_90_weekly_plus_limit_after_1_codex_cloud/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-18"
+    },
+    "1smn95j": {
+      "title": "Did quota drop for Plus users?",
+      "subreddit": "codex",
+      "created_utc": 1776297372,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1smn95j/did_quota_drop_for_plus_users/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-18"
+    },
+    "1shfyik": {
+      "title": "Codex quota drained instantly after reset?? (GPT 5.4 LOW)",
+      "subreddit": "codex",
+      "created_utc": 1775807304,
+      "score": 13,
+      "url": "https://reddit.com/r/codex/comments/1shfyik/codex_quota_drained_instantly_after_reset_gpt_54/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-04-18"
+    },
+    "1sk8cv1": {
+      "title": "[Rant/Help] IP Blacklisted for \"bot behavior\"? I'm an Ultra user and got completely locked out.",
+      "subreddit": "google_antigravity",
+      "created_utc": 1776080645,
+      "score": 23,
+      "url": "https://reddit.com/r/google_antigravity/comments/1sk8cv1/ranthelp_ip_blacklisted_for_bot_behavior_im_an/",
+      "models": [
+        "claude",
+        "gemini"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-18"
     }
   }
 }
