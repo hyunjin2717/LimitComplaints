@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-04-18T07:20:57.239321+00:00",
-    "total_posts_analyzed": 2471,
-    "total_complaints": 808
+    "last_updated": "2026-04-19T07:30:44.376286+00:00",
+    "total_posts_analyzed": 2574,
+    "total_complaints": 825
   },
   "posts": {
     "1sg1yvw": {
@@ -9858,6 +9858,213 @@
       ],
       "complaint_score": 4,
       "fetched_date": "2026-04-18"
+    },
+    "1sn3dqh": {
+      "title": "I set up Opus as a strategic advisor for my Sonnet workflow. Here is the subagent config that makes it work.",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1776345706,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1sn3dqh/i_set_up_opus_as_a_strategic_advisor_for_my/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-19"
+    },
+    "1splypq": {
+      "title": "Does upgrading from Pro to Max increase the Claude Design usage limit?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1776582758,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1splypq/does_upgrading_from_pro_to_max_increase_the/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-19"
+    },
+    "1smyw0c": {
+      "title": "How to perform a trivial type of refactor?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1776332999,
+      "score": 2,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1smyw0c/how_to_perform_a_trivial_type_of_refactor/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-19"
+    },
+    "1spalks": {
+      "title": "So they have started to rate limit us now even when the usage limits are there ?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776549203,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1spalks/so_they_have_started_to_rate_limit_us_now_even/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-04-19"
+    },
+    "1sos9jj": {
+      "title": "Rate Limit Rate Limit",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776501995,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sos9jj/rate_limit_rate_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-19"
+    },
+    "1splhh5": {
+      "title": "I kept blowing through my Claude Code weekly limit. So I built a status line that shows it before you hit the wall",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776581136,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1splhh5/i_kept_blowing_through_my_claude_code_weekly/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-04-19"
+    },
+    "1splrz7": {
+      "title": "Usage limit",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776582111,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1splrz7/usage_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-19"
+    },
+    "1spbg9t": {
+      "title": "How usable is Max 5X?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776551411,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1spbg9t/how_usable_is_max_5x/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-19"
+    },
+    "1spaz6l": {
+      "title": "To everyone running into usage limits, please include the output of `bunx ccusage` with your post.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776550177,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1spaz6l/to_everyone_running_into_usage_limits_please/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-04-19"
+    },
+    "1sou3q9": {
+      "title": "Claude is genuinely insane right now and I cannot defend it anymore",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776508418,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sou3q9/claude_is_genuinely_insane_right_now_and_i_cannot/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-19"
+    },
+    "1sos7w9": {
+      "title": "Im switching now i have enough",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776501838,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sos7w9/im_switching_now_i_have_enough/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-19"
+    },
+    "1sp7vl9": {
+      "title": "How to Fix OpenAI 429 Rate Limit Error in Make.com",
+      "subreddit": "OpenAI",
+      "created_utc": 1776542663,
+      "score": 1,
+      "url": "https://reddit.com/r/OpenAI/comments/1sp7vl9/how_to_fix_openai_429_rate_limit_error_in_makecom/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-19"
+    },
+    "1so60jd": {
+      "title": "EU Law Proposal: Petition About Usage Limits Disclosure",
+      "subreddit": "OpenAI",
+      "created_utc": 1776443434,
+      "score": 1,
+      "url": "https://reddit.com/r/OpenAI/comments/1so60jd/eu_law_proposal_petition_about_usage_limits/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-19"
+    },
+    "1sleckr": {
+      "title": "Is Codex's Usage Limits Usable at \"Pro\"",
+      "subreddit": "OpenAI",
+      "created_utc": 1776185473,
+      "score": 7,
+      "url": "https://reddit.com/r/OpenAI/comments/1sleckr/is_codexs_usage_limits_usable_at_pro/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-04-19"
+    },
+    "1skpv2p": {
+      "title": "Codex limits",
+      "subreddit": "OpenAI",
+      "created_utc": 1776118400,
+      "score": 55,
+      "url": "https://reddit.com/r/OpenAI/comments/1skpv2p/codex_limits/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-19"
+    },
+    "1so16hr": {
+      "title": "Opus 4.7 is terrible, and Anthropic has completely dropped the ball",
+      "subreddit": "artificial",
+      "created_utc": 1776432886,
+      "score": 1,
+      "url": "https://reddit.com/r/artificial/comments/1so16hr/opus_47_is_terrible_and_anthropic_has_completely/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-19"
+    },
+    "1sovpyb": {
+      "title": "Rate Limit Is a Real Problem.",
+      "subreddit": "github",
+      "created_utc": 1776513575,
+      "score": 1,
+      "url": "https://reddit.com/r/github/comments/1sovpyb/rate_limit_is_a_real_problem/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 9,
+      "fetched_date": "2026-04-19"
     }
   }
 }
