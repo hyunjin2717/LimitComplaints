@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-04-19T07:30:44.376286+00:00",
-    "total_posts_analyzed": 2574,
-    "total_complaints": 825
+    "last_updated": "2026-04-20T08:21:26.733647+00:00",
+    "total_posts_analyzed": 2681,
+    "total_complaints": 844
   },
   "posts": {
     "1sg1yvw": {
@@ -10065,6 +10065,241 @@
       ],
       "complaint_score": 9,
       "fetched_date": "2026-04-19"
+    },
+    "1sq72gh": {
+      "title": "Usage limit in X20 Max",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1776637442,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1sq72gh/usage_limit_in_x20_max/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-20"
+    },
+    "1sp0fio": {
+      "title": "Whether Claude Pro is sufficient?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1776525574,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1sp0fio/whether_claude_pro_is_sufficient/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-20"
+    },
+    "1sozl16": {
+      "title": "Loving the Claude design research preview, but hit a wall that has me completely stuck",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1776523644,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1sozl16/loving_the_claude_design_research_preview_but_hit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-04-20"
+    },
+    "1sovhju": {
+      "title": "That feeling",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1776512853,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1sovhju/that_feeling/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-20"
+    },
+    "1sor7eg": {
+      "title": "To Help With Usage Limits: WAT321 - Claude And Codex Usage Bars built right into your IDE",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1776498234,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1sor7eg/to_help_with_usage_limits_wat321_claude_and_codex/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-20"
+    },
+    "1snj294": {
+      "title": "Turned Claude's rough week into an excuse to build an OpenCode-compatible version of my D&D skill",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1776379652,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1snj294/turned_claudes_rough_week_into_an_excuse_to_build/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-20"
+    },
+    "1spxbn3": {
+      "title": "Can a subagent session be recovered after it’s rate limited?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776615375,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1spxbn3/can_a_subagent_session_be_recovered_after_its/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-04-20"
+    },
+    "1spwg2n": {
+      "title": "usage limit",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776613382,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1spwg2n/usage_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-20"
+    },
+    "1sqhbwv": {
+      "title": "Is Claude Design going to contribute to the overall weekly limit of all models in Claude Code?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776666632,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sqhbwv/is_claude_design_going_to_contribute_to_the/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-20"
+    },
+    "1sqbgb2": {
+      "title": "Switching from Claude Enterprise (work) to personal use and confused about pricing for serious dev work",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776649063,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sqbgb2/switching_from_claude_enterprise_work_to_personal/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-04-20"
+    },
+    "1sq04mj": {
+      "title": "The worst part about Claude isn’t the AI — it’s the limits",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776621561,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sq04mj/the_worst_part_about_claude_isnt_the_ai_its_the/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-04-20"
+    },
+    "1spw2b1": {
+      "title": "A theory about the amount of usage I'd like to test.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776612518,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1spw2b1/a_theory_about_the_amount_of_usage_id_like_to_test/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-20"
+    },
+    "1sptjxh": {
+      "title": "FYI: Web Searches Cost A LOT More",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776606691,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sptjxh/fyi_web_searches_cost_a_lot_more/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-20"
+    },
+    "1sq66ya": {
+      "title": "3 weeks vibe-coding a real PC-building app with Claude Code — what it nailed, what it silently ruined",
+      "subreddit": "vibecoding",
+      "created_utc": 1776635285,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1sq66ya/3_weeks_vibecoding_a_real_pcbuilding_app_with/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-20"
+    },
+    "1sq38tr": {
+      "title": "Usage limits on Claude Pro vs Max?",
+      "subreddit": "vibecoding",
+      "created_utc": 1776628472,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1sq38tr/usage_limits_on_claude_pro_vs_max/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-20"
+    },
+    "1spejds": {
+      "title": "My full Claude Code setup after months of daily use — context discipline, MCPs, memory, subagents",
+      "subreddit": "vibecoding",
+      "created_utc": 1776559806,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1spejds/my_full_claude_code_setup_after_months_of_daily/",
+      "models": [
+        "claude",
+        "gemini"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-20"
+    },
+    "1sohnmq": {
+      "title": "Claude design finished my weekly limit in two prompts",
+      "subreddit": "vibecoding",
+      "created_utc": 1776469739,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1sohnmq/claude_design_finished_my_weekly_limit_in_two/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-20"
+    },
+    "1sofhi6": {
+      "title": "I think I revolutionized prompt engineering with Claude",
+      "subreddit": "vibecoding",
+      "created_utc": 1776464310,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1sofhi6/i_think_i_revolutionized_prompt_engineering_with/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-20"
+    },
+    "1socsa6": {
+      "title": "Claude didn’t \"free reset\" everyone yesterday - Anthropic probably changed how Max limits work",
+      "subreddit": "vibecoding",
+      "created_utc": 1776458080,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1socsa6/claude_didnt_free_reset_everyone_yesterday/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-20"
     }
   }
 }
