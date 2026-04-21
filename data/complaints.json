@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-04-20T08:21:26.733647+00:00",
-    "total_posts_analyzed": 2681,
-    "total_complaints": 844
+    "last_updated": "2026-04-21T08:04:30.842871+00:00",
+    "total_posts_analyzed": 2756,
+    "total_complaints": 858
   },
   "posts": {
     "1sg1yvw": {
@@ -10300,6 +10300,177 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-04-20"
+    },
+    "1srg3nr": {
+      "title": "Usage limit interrupting task",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1776754673,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1srg3nr/usage_limit_interrupting_task/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-21"
+    },
+    "1sqspc9": {
+      "title": "Usage limit reached ?!",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1776699066,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1sqspc9/usage_limit_reached/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-04-21"
+    },
+    "1sqru36": {
+      "title": "Claude usage limit unresonable",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1776697174,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1sqru36/claude_usage_limit_unresonable/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-21"
+    },
+    "1sphr2s": {
+      "title": "\"Claude Design\" First Experience Review",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1776569167,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1sphr2s/claude_design_first_experience_review/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-04-21"
+    },
+    "1spehot": {
+      "title": "My full Claude Code setup after months of daily use — context discipline, MCPs, memory, subagents",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1776559667,
+      "score": 240,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1spehot/my_full_claude_code_setup_after_months_of_daily/",
+      "models": [
+        "claude",
+        "gemini"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-21"
+    },
+    "1sqkcar": {
+      "title": "I opened claude.ai/settings/usage so many times I built a widget just to stop doing it",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1776677343,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1sqkcar/i_opened_claudeaisettingsusage_so_many_times_i/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-21"
+    },
+    "1sqxxiz": {
+      "title": "API Error: Server is temporarily limiting requests (not your usage limit) · Rate limited",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776709521,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sqxxiz/api_error_server_is_temporarily_limiting_requests/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-21"
+    },
+    "1sqtm69": {
+      "title": "How to prevent hitting 10% token limit on a MAX account in one message!!",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776700973,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sqtm69/how_to_prevent_hitting_10_token_limit_on_a_max/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-04-21"
+    },
+    "1sqkojm": {
+      "title": "Dear Anthropic, what happened to your conscience?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776678554,
+      "score": 12,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sqkojm/dear_anthropic_what_happened_to_your_conscience/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-21"
+    },
+    "1sqx9nf": {
+      "title": "Usage limit reached - wrong message ?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776708308,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sqx9nf/usage_limit_reached_wrong_message/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-21"
+    },
+    "1sqwon6": {
+      "title": "Anthropic support bot keeps stonewalling me",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776707247,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sqwon6/anthropic_support_bot_keeps_stonewalling_me/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-21"
+    },
+    "1sqtp08": {
+      "title": "new limits on tool calls",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1776701131,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sqtp08/new_limits_on_tool_calls/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-21"
+    },
+    "1sq0j6a": {
+      "title": "Production LLM token spend almost always drifts 3-5x above dev estimates. The six patterns that keep showing up in post-mortems.",
+      "subreddit": "LLMDevs",
+      "created_utc": 1776622416,
+      "score": 1,
+      "url": "https://reddit.com/r/LLMDevs/comments/1sq0j6a/production_llm_token_spend_almost_always_drifts/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-21"
+    },
+    "1sp0rua": {
+      "title": "Antigravity Ultra: From \"Too Good To Be True\" to Dirty Business",
+      "subreddit": "google_antigravity",
+      "created_utc": 1776526353,
+      "score": 256,
+      "url": "https://reddit.com/r/google_antigravity/comments/1sp0rua/antigravity_ultra_from_too_good_to_be_true_to/",
+      "models": [
+        "claude",
+        "gemini"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-04-21"
     }
   }
 }
