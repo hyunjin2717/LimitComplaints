@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-04-24T08:16:35.069353+00:00",
-    "total_posts_analyzed": 3127,
-    "total_complaints": 963
+    "last_updated": "2026-04-25T07:29:56.642644+00:00",
+    "total_posts_analyzed": 3228,
+    "total_complaints": 983
   },
   "posts": {
     "1sg1yvw": {
@@ -11750,6 +11750,248 @@
       ],
       "complaint_score": 6,
       "fetched_date": "2026-04-24"
+    },
+    "1suqgm3": {
+      "title": "I have been using sonnet 4.6 after hitting the first rate limit so fast and NOTHING changed",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1777060781,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1suqgm3/i_have_been_using_sonnet_46_after_hitting_the/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-25"
+    },
+    "1suap7m": {
+      "title": "Hit my usage limit on Claude Design – can I continue front end tweaks in Claude Code?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1777022662,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1suap7m/hit_my_usage_limit_on_claude_design_can_i/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-25"
+    },
+    "1stpdef": {
+      "title": "New type of limits - any ideas?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1776965198,
+      "score": 27,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1stpdef/new_type_of_limits_any_ideas/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-25"
+    },
+    "1stlrc0": {
+      "title": "Since tokens are a thing, Why not weekly limits, only?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1776957468,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1stlrc0/since_tokens_are_a_thing_why_not_weekly_limits/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-25"
+    },
+    "1sutsjb": {
+      "title": "I made a Claude Code status line that shows your account, context usage, and rate-limit headroom with reset ETA",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777068442,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sutsjb/i_made_a_claude_code_status_line_that_shows_your/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-25"
+    },
+    "1sutojk": {
+      "title": "I made a Claude Code status line that shows your account, context usage, and rate-limit headroom with limit reset ETA",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777068180,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sutojk/i_made_a_claude_code_status_line_that_shows_your/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-25"
+    },
+    "1suz22e": {
+      "title": "Advance usage from the weekly token limit",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777082457,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1suz22e/advance_usage_from_the_weekly_token_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-04-25"
+    },
+    "1suolbd": {
+      "title": "\"Monthly\" usage limit - is this just incorrect error message?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777056624,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1suolbd/monthly_usage_limit_is_this_just_incorrect_error/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-04-25"
+    },
+    "1sufpfe": {
+      "title": "You've hit your org's monthly usage limit",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777037111,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sufpfe/youve_hit_your_orgs_monthly_usage_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-25"
+    },
+    "1sv0kvs": {
+      "title": "Enjoy the AI coding subscription era while it lasts",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777086726,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sv0kvs/enjoy_the_ai_coding_subscription_era_while_it/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-25"
+    },
+    "1sumq2j": {
+      "title": "Max 5 / 20",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777052562,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sumq2j/max_5_20/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-25"
+    },
+    "1sucx6m": {
+      "title": "Sudden massive token consumption on Max 5x — is something wrong with my setup?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777029825,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sucx6m/sudden_massive_token_consumption_on_max_5x_is/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-25"
+    },
+    "1ssg9aa": {
+      "title": "How Do You Stop Claude From Turning Your Codebase Into AI Slop?",
+      "subreddit": "PromptEngineering",
+      "created_utc": 1776849411,
+      "score": 44,
+      "url": "https://reddit.com/r/PromptEngineering/comments/1ssg9aa/how_do_you_stop_claude_from_turning_your_codebase/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-25"
+    },
+    "1suynle": {
+      "title": "Token efficiency goes a long way!",
+      "subreddit": "codex",
+      "created_utc": 1777081317,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1suynle/token_efficiency_goes_a_long_way/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-04-25"
+    },
+    "1suls4u": {
+      "title": "Beware of burning through usage limits",
+      "subreddit": "codex",
+      "created_utc": 1777050526,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1suls4u/beware_of_burning_through_usage_limits/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-04-25"
+    },
+    "1suiutg": {
+      "title": "Codex vs Claude: One small thing that makes a big difference",
+      "subreddit": "codex",
+      "created_utc": 1777044238,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1suiutg/codex_vs_claude_one_small_thing_that_makes_a_big/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-25"
+    },
+    "1suijjy": {
+      "title": "Hitting usage limits in Claude Code completely locks me out — is ChatGPT/Codex the same?",
+      "subreddit": "codex",
+      "created_utc": 1777043560,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1suijjy/hitting_usage_limits_in_claude_code_completely/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-25"
+    },
+    "1sud5yd": {
+      "title": "Compacting context in Codex takes 8-10% of the 5h limit for me",
+      "subreddit": "codex",
+      "created_utc": 1777030547,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1sud5yd/compacting_context_in_codex_takes_810_of_the_5h/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-25"
+    },
+    "1sua8zy": {
+      "title": "What is the input and output token prices of gpt-5.5 because in codex 1prompt took 90% 5h limit.",
+      "subreddit": "codex",
+      "created_utc": 1777021074,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1sua8zy/what_is_the_input_and_output_token_prices_of/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-25"
+    },
+    "1sv39px": {
+      "title": "GPT-5.5 in Codex is twice as expensive, slower, and worse at implementation than GPT-5.4",
+      "subreddit": "codex",
+      "created_utc": 1777094799,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1sv39px/gpt55_in_codex_is_twice_as_expensive_slower_and/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-25"
     }
   }
 }
