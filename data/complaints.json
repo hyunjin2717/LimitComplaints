@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-04-25T07:29:56.642644+00:00",
-    "total_posts_analyzed": 3228,
-    "total_complaints": 983
+    "last_updated": "2026-04-26T07:51:14.187687+00:00",
+    "total_posts_analyzed": 3349,
+    "total_complaints": 1000
   },
   "posts": {
     "1sg1yvw": {
@@ -11992,6 +11992,214 @@
       ],
       "complaint_score": 4,
       "fetched_date": "2026-04-25"
+    },
+    "1svdg4e": {
+      "title": "I put the 5h + 7d rate-limit countdown on my Claude Code status line and stopped overshooting the cap",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1777126735,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1svdg4e/i_put_the_5h_7d_ratelimit_countdown_on_my_claude/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-26"
+    },
+    "1sv8ath": {
+      "title": "Usage is showing 96% left! But It is showing me \"YOU HAVE HIT THE LIMIT\"",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1777112106,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1sv8ath/usage_is_showing_96_left_but_it_is_showing_me_you/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-26"
+    },
+    "1sullfu": {
+      "title": "Claude is extremely expensive but works like Magic! (For a non-coder)",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1777050128,
+      "score": 94,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1sullfu/claude_is_extremely_expensive_but_works_like/",
+      "models": [
+        "claude",
+        "gemini"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-04-26"
+    },
+    "1stwxbe": {
+      "title": "Hitting Claude Design limits very quickly on the $100 plan — any workflow tips?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1776981807,
+      "score": 10,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1stwxbe/hitting_claude_design_limits_very_quickly_on_the/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-04-26"
+    },
+    "1svgjkn": {
+      "title": "ClaudeCode has reset the usage weekly limit?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777134052,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1svgjkn/claudecode_has_reset_the_usage_weekly_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-26"
+    },
+    "1svdgij": {
+      "title": "You've hit your org's monthly usage limit",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777126761,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1svdgij/youve_hit_your_orgs_monthly_usage_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-26"
+    },
+    "1svb99j": {
+      "title": "monthly usage limit?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777121201,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1svb99j/monthly_usage_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-26"
+    },
+    "1sw01xi": {
+      "title": "Can we talk about the INSANE token usage and session limits recently?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777185836,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sw01xi/can_we_talk_about_the_insane_token_usage_and/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-04-26"
+    },
+    "1svj9n7": {
+      "title": "Help for someone who knows just enough to now be dangerous to himself (and his wallet)",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777140336,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1svj9n7/help_for_someone_who_knows_just_enough_to_now_be/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-26"
+    },
+    "1sug5ys": {
+      "title": "Pro User strange message from Claude",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777038201,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sug5ys/pro_user_strange_message_from_claude/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-26"
+    },
+    "1sv3g9d": {
+      "title": "How are people using up their usage limits? I paid for max cause I hit a limit shortly after paying for pro. but im struggling to use up my allotment, in fact I seem to be barely using any of my limit. at this point I almost feel like im wasting it.",
+      "subreddit": "vibecoding",
+      "created_utc": 1777095370,
+      "score": 2,
+      "url": "https://reddit.com/r/vibecoding/comments/1sv3g9d/how_are_people_using_up_their_usage_limits_i_paid/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-04-26"
+    },
+    "1svxbbh": {
+      "title": "Code rate limit",
+      "subreddit": "codex",
+      "created_utc": 1777177072,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1svxbbh/code_rate_limit/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-26"
+    },
+    "1su64vt": {
+      "title": "The negatives of limit resets",
+      "subreddit": "codex",
+      "created_utc": 1777006973,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1su64vt/the_negatives_of_limit_resets/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-26"
+    },
+    "1suq3x4": {
+      "title": "Do you experience Token/Limit Throttling?",
+      "subreddit": "codex",
+      "created_utc": 1777059979,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1suq3x4/do_you_experience_tokenlimit_throttling/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-04-26"
+    },
+    "1sucb7y": {
+      "title": "Question on Rate Limits",
+      "subreddit": "codex",
+      "created_utc": 1777028026,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1sucb7y/question_on_rate_limits/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-04-26"
+    },
+    "1svyfhb": {
+      "title": "5h limit is only shown as \"Now\"",
+      "subreddit": "codex",
+      "created_utc": 1777180576,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1svyfhb/5h_limit_is_only_shown_as_now/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-26"
+    },
+    "1suom6y": {
+      "title": "Never posted, but this impressed me",
+      "subreddit": "codex",
+      "created_utc": 1777056676,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1suom6y/never_posted_but_this_impressed_me/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-26"
     }
   }
 }
