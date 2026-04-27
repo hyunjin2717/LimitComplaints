@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-04-26T07:51:14.187687+00:00",
-    "total_posts_analyzed": 3349,
-    "total_complaints": 1000
+    "last_updated": "2026-04-27T08:37:21.672425+00:00",
+    "total_posts_analyzed": 3424,
+    "total_complaints": 1011
   },
   "posts": {
     "1sg1yvw": {
@@ -12200,6 +12200,140 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-04-26"
+    },
+    "1swl2jd": {
+      "title": "I color my Claude Code rate-limit bars by pace. Right now my 5h bar is red at 50%.",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1777241110,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1swl2jd/i_color_my_claude_code_ratelimit_bars_by_pace/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-27"
+    },
+    "1svdm1w": {
+      "title": "PSA: The string \"HERMES.md\" in your git commit history silently routes Claude Code billing to extra usage — cost me $200",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1777127137,
+      "score": 1302,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1svdm1w/psa_the_string_hermesmd_in_your_git_commit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-04-27"
+    },
+    "1swpzif": {
+      "title": "Did Claude usage limit decrease?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1777254347,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1swpzif/did_claude_usage_limit_decrease/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-27"
+    },
+    "1swjql5": {
+      "title": "Running Claude Code with Deepseek?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777237856,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1swjql5/running_claude_code_with_deepseek/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-27"
+    },
+    "1swlwxz": {
+      "title": "Is it me or they just increased back the rate limits ??",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777243225,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1swlwxz/is_it_me_or_they_just_increased_back_the_rate/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-04-27"
+    },
+    "1swjog1": {
+      "title": "Monthly limits ? Since when ?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777237715,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1swjog1/monthly_limits_since_when/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-04-27"
+    },
+    "1swed6z": {
+      "title": "What am I doing wrong?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777225795,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1swed6z/what_am_i_doing_wrong/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-27"
+    },
+    "1sw4mrl": {
+      "title": "Seriously Anthropic?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777201576,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sw4mrl/seriously_anthropic/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-27"
+    },
+    "1sw331b": {
+      "title": "Really frustrated by how hard it is to understand what usage I get in each tier",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777196333,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sw331b/really_frustrated_by_how_hard_it_is_to_understand/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-27"
+    },
+    "1sw7nwn": {
+      "title": "Unlimited tokens. every AI tool. no limits, no cost, forever. what's the very first thing you build?",
+      "subreddit": "ChatGPT",
+      "created_utc": 1777210381,
+      "score": 1,
+      "url": "https://reddit.com/r/ChatGPT/comments/1sw7nwn/unlimited_tokens_every_ai_tool_no_limits_no_cost/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-27"
+    },
+    "1sw1mdx": {
+      "title": "Rant: About Codex...",
+      "subreddit": "ChatGPT",
+      "created_utc": 1777191148,
+      "score": 1,
+      "url": "https://reddit.com/r/ChatGPT/comments/1sw1mdx/rant_about_codex/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-27"
     }
   }
 }
