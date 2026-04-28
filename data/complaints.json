@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-04-27T08:37:21.672425+00:00",
-    "total_posts_analyzed": 3424,
-    "total_complaints": 1011
+    "last_updated": "2026-04-28T08:36:50.641756+00:00",
+    "total_posts_analyzed": 3533,
+    "total_complaints": 1029
   },
   "posts": {
     "1sg1yvw": {
@@ -12334,6 +12334,231 @@
       ],
       "complaint_score": 4,
       "fetched_date": "2026-04-27"
+    },
+    "1sxqfum": {
+      "title": "No usage, but \"Usage Limit Reached\"",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1777348709,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1sxqfum/no_usage_but_usage_limit_reached/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-28"
+    },
+    "1sxi9k2": {
+      "title": "Usage Limit Transparency Issue",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1777327365,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1sxi9k2/usage_limit_transparency_issue/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-28"
+    },
+    "1sxa1oh": {
+      "title": "Usage limit reached after only one prompt?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1777309969,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1sxa1oh/usage_limit_reached_after_only_one_prompt/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-28"
+    },
+    "1sx3vzc": {
+      "title": "Compacting used all usage limit?!",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1777296919,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1sx3vzc/compacting_used_all_usage_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-04-28"
+    },
+    "1sw2o2o": {
+      "title": "Anthropic earned our goodwill—now they need to stop squandering it",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1777194843,
+      "score": 16,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1sw2o2o/anthropic_earned_our_goodwillnow_they_need_to/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-04-28"
+    },
+    "1sxn95t": {
+      "title": "RIP $20 Claude Pro: Opus is now locked behind an extra usage paywall in CC",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777340047,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sxn95t/rip_20_claude_pro_opus_is_now_locked_behind_an/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-28"
+    },
+    "1sxurm6": {
+      "title": "Using extra usage despite not hitting the usage limit",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777362805,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sxurm6/using_extra_usage_despite_not_hitting_the_usage/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-28"
+    },
+    "1sx8pi1": {
+      "title": "Claude Pro usage limit bug",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777307186,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sx8pi1/claude_pro_usage_limit_bug/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-28"
+    },
+    "1sxch5b": {
+      "title": "Tired of the Claude Code usage limits and token black hole? I built a local MCP gateway to solve this.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777315000,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sxch5b/tired_of_the_claude_code_usage_limits_and_token/",
+      "models": [
+        "claude",
+        "gemini"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-04-28"
+    },
+    "1sx1wd4": {
+      "title": "Claude usage limits vs Codex. HELP!",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777292146,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sx1wd4/claude_usage_limits_vs_codex_help/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-28"
+    },
+    "1swjib7": {
+      "title": "Has anyone else noticed Claude Pro 5h token limit drop ~50% around noon BST / 6am ET?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777237316,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1swjib7/has_anyone_else_noticed_claude_pro_5h_token_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-04-28"
+    },
+    "1sxs3ze": {
+      "title": "Claude became a joke",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777353805,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sxs3ze/claude_became_a_joke/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-28"
+    },
+    "1sw4llv": {
+      "title": "Switch to chatgpt from claude???",
+      "subreddit": "ChatGPT",
+      "created_utc": 1777201469,
+      "score": 5,
+      "url": "https://reddit.com/r/ChatGPT/comments/1sw4llv/switch_to_chatgpt_from_claude/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-28"
+    },
+    "1sxd7u8": {
+      "title": "Token Cost Intelligence: How I Route LLM Calls to Cut API Costs 60%",
+      "subreddit": "LLMDevs",
+      "created_utc": 1777316539,
+      "score": 1,
+      "url": "https://reddit.com/r/LLMDevs/comments/1sxd7u8/token_cost_intelligence_how_i_route_llm_calls_to/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-28"
+    },
+    "1sximc6": {
+      "title": "I vibe coded my first iOS app with zero coding experience",
+      "subreddit": "vibecoding",
+      "created_utc": 1777328212,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1sximc6/i_vibe_coded_my_first_ios_app_with_zero_coding/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-28"
+    },
+    "1sx4ub1": {
+      "title": "The most valuable AI subscriptions/plans at the moment",
+      "subreddit": "vibecoding",
+      "created_utc": 1777299031,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1sx4ub1/the_most_valuable_ai_subscriptionsplans_at_the/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-28"
+    },
+    "1sx4e85": {
+      "title": "The most valuable AI subscriptions/plans at the moment, my top 5",
+      "subreddit": "vibecoding",
+      "created_utc": 1777298061,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1sx4e85/the_most_valuable_ai_subscriptionsplans_at_the/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-28"
+    },
+    "1swq62u": {
+      "title": "I made a small macOS notifier for Codex usage limits",
+      "subreddit": "codex",
+      "created_utc": 1777254871,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1swq62u/i_made_a_small_macos_notifier_for_codex_usage/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-28"
     }
   }
 }
