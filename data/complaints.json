@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-04-29T08:30:12.989385+00:00",
-    "total_posts_analyzed": 3656,
-    "total_complaints": 1066
+    "last_updated": "2026-04-30T08:32:20.717336+00:00",
+    "total_posts_analyzed": 3763,
+    "total_complaints": 1088
   },
   "posts": {
     "1sg1yvw": {
@@ -13011,6 +13011,275 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-04-29"
+    },
+    "1sxwqs2": {
+      "title": "Am I the only one who always hits rate limits at the worst possible moment?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1777369804,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1sxwqs2/am_i_the_only_one_who_always_hits_rate_limits_at/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-04-30"
+    },
+    "1szovv6": {
+      "title": "Claude Usage limit Hit in 1 Prompt",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1777533454,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1szovv6/claude_usage_limit_hit_in_1_prompt/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-30"
+    },
+    "1sz7u87": {
+      "title": "@anthropic. Please consider fixing the usage limit problem. It is suddenly jumping 50+ and eating all the tokens(My money). This is ridiculous. I am this close migrating to ChatGPT.",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1777488478,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1sz7u87/anthropic_please_consider_fixing_the_usage_limit/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-04-30"
+    },
+    "1sytafw": {
+      "title": "How do I best continue with a stopped generation due to usage limit in regular chat (not Claude Code)",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1777453162,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1sytafw/how_do_i_best_continue_with_a_stopped_generation/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-30"
+    },
+    "1sznz51": {
+      "title": "I hit my Max 5x limit, bought $20 extra usage, and it burned in 30–40 minutes",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777530382,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sznz51/i_hit_my_max_5x_limit_bought_20_extra_usage_and/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-30"
+    },
+    "1syx24b": {
+      "title": "You get rate limited for using more than two subagents at once now. Is this really the direction Anthropic is taking it?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777464910,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1syx24b/you_get_rate_limited_for_using_more_than_two/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 10,
+      "fetched_date": "2026-04-30"
+    },
+    "1sywai8": {
+      "title": "API rate limited on $200 max plan",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777462845,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sywai8/api_rate_limited_on_200_max_plan/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-30"
+    },
+    "1szhy0v": {
+      "title": "20x plan maxing out in 20 mins",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777512549,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1szhy0v/20x_plan_maxing_out_in_20_mins/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-04-30"
+    },
+    "1syw7nl": {
+      "title": "Vindicated, but still annoyed!",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777462611,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1syw7nl/vindicated_but_still_annoyed/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-04-30"
+    },
+    "1szmd5f": {
+      "title": "Literally could be playing videos games right now, instead I am waiting impatiently until my 5h usage limit clears...",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777525171,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1szmd5f/literally_could_be_playing_videos_games_right_now/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-30"
+    },
+    "1sz2bd6": {
+      "title": "Usage limit reached",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777476921,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sz2bd6/usage_limit_reached/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-30"
+    },
+    "1syxum1": {
+      "title": "Why did I hit a limit? Usage says 22% left?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777466933,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1syxum1/why_did_i_hit_a_limit_usage_says_22_left/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-30"
+    },
+    "1szgc1v": {
+      "title": "Tools for preventing hard stops at usage limits and/or recovering progress?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777508182,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1szgc1v/tools_for_preventing_hard_stops_at_usage_limits/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-04-30"
+    },
+    "1szexj4": {
+      "title": "Seriously considering cancelling",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777504564,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1szexj4/seriously_considering_cancelling/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-04-30"
+    },
+    "1sz8d6o": {
+      "title": "Can't reset weekly limit because of stupid 5 hour limtt?!",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777489585,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sz8d6o/cant_reset_weekly_limit_because_of_stupid_5_hour/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 10,
+      "fetched_date": "2026-04-30"
+    },
+    "1sz3zfo": {
+      "title": "Switching between providers",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777480433,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1sz3zfo/switching_between_providers/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-30"
+    },
+    "1szcaoa": {
+      "title": "Codex rate limits frozen?",
+      "subreddit": "ChatGPT",
+      "created_utc": 1777498211,
+      "score": 1,
+      "url": "https://reddit.com/r/ChatGPT/comments/1szcaoa/codex_rate_limits_frozen/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-30"
+    },
+    "1syceko": {
+      "title": "Too many requests for deletion. What's this about?",
+      "subreddit": "ChatGPT",
+      "created_utc": 1777406296,
+      "score": 8,
+      "url": "https://reddit.com/r/ChatGPT/comments/1syceko/too_many_requests_for_deletion_whats_this_about/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-04-30"
+    },
+    "1syqa2v": {
+      "title": "Copilot just 9x'd Sonnet and 27x'd Opus and teams have no idea",
+      "subreddit": "ChatGPT",
+      "created_utc": 1777442837,
+      "score": 1,
+      "url": "https://reddit.com/r/ChatGPT/comments/1syqa2v/copilot_just_9xd_sonnet_and_27xd_opus_and_teams/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-04-30"
+    },
+    "1szq1fd": {
+      "title": "New vibecoder seeking advice",
+      "subreddit": "vibecoding",
+      "created_utc": 1777537534,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1szq1fd/new_vibecoder_seeking_advice/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 2,
+      "fetched_date": "2026-04-30"
+    },
+    "1sya7ui": {
+      "title": "Any rate limit reset forecasters amongst us?",
+      "subreddit": "codex",
+      "created_utc": 1777401624,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1sya7ui/any_rate_limit_reset_forecasters_amongst_us/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-30"
+    },
+    "1sxqd0j": {
+      "title": "WTF is going on with codex limits?!",
+      "subreddit": "codex",
+      "created_utc": 1777348475,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1sxqd0j/wtf_is_going_on_with_codex_limits/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-04-30"
     }
   }
 }
