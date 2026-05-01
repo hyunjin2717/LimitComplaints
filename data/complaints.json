@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-04-30T08:32:20.717336+00:00",
-    "total_posts_analyzed": 3763,
-    "total_complaints": 1088
+    "last_updated": "2026-05-01T08:23:23.989240+00:00",
+    "total_posts_analyzed": 3852,
+    "total_complaints": 1105
   },
   "posts": {
     "1sg1yvw": {
@@ -13280,6 +13280,218 @@
       ],
       "complaint_score": 4,
       "fetched_date": "2026-04-30"
+    },
+    "1sz1rca": {
+      "title": "Claude Design is amazing but I keep hitting rate limits. Tested an open source skill that runs on your normal subscription limits — here's both outputs for you to judge.",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1777475733,
+      "score": 4,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1sz1rca/claude_design_is_amazing_but_i_keep_hitting_rate/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-05-01"
+    },
+    "1syfnjj": {
+      "title": "Throttle Meter — open-source Claude Code usage meter for macOS (live 5h + weekly limits in your menu bar)",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1777413525,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1syfnjj/throttle_meter_opensource_claude_code_usage_meter/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-01"
+    },
+    "1t0lxve": {
+      "title": "Claude Usage limit bug?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1777618932,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1t0lxve/claude_usage_limit_bug/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-01"
+    },
+    "1t02ohf": {
+      "title": "Built an MCP Claude Connector for SEC filings after I nuked through my Claude usage limit",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1777569450,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1t02ohf/built_an_mcp_claude_connector_for_sec_filings/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-05-01"
+    },
+    "1sz48rg": {
+      "title": "Did we get a massive increase of tokens in Opus 4.7?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1777481000,
+      "score": 51,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1sz48rg/did_we_get_a_massive_increase_of_tokens_in_opus_47/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-01"
+    },
+    "1syhroz": {
+      "title": "pdf building tips!",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1777418727,
+      "score": 3,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1syhroz/pdf_building_tips/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-01"
+    },
+    "1t0f4gw": {
+      "title": "Hit a rate limit on Claude Code? I built Ripcord to recover your context so you can switch to Codex without starting over.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777598583,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1t0f4gw/hit_a_rate_limit_on_claude_code_i_built_ripcord/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-05-01"
+    },
+    "1t0iphr": {
+      "title": "I've shipped 80K lines of production code per week with Claude for five months. The tool is exactly as dangerous as your workflow allows it to be.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777608688,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1t0iphr/ive_shipped_80k_lines_of_production_code_per_week/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-01"
+    },
+    "1t04d4t": {
+      "title": "Rate limited API errors for last 24 hours. Anyone else?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777573016,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1t04d4t/rate_limited_api_errors_for_last_24_hours_anyone/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-05-01"
+    },
+    "1szskg6": {
+      "title": "Is this true or fake from X?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777546130,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1szskg6/is_this_true_or_fake_from_x/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-05-01"
+    },
+    "1t02q7z": {
+      "title": "Built an MCP Claude Connector for SEC filings after I nuked through my Claude usage limit",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777569554,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1t02q7z/built_an_mcp_claude_connector_for_sec_filings/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-05-01"
+    },
+    "1szwprw": {
+      "title": "Sudden usage limit change? Opus 4.7 X-High barely completing one prompt now",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777557134,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1szwprw/sudden_usage_limit_change_opus_47_xhigh_barely/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-05-01"
+    },
+    "1t0fqgl": {
+      "title": "I run out of usage in gpt, gemini and claude but for some reason people only bitch about anthropic.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777600283,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1t0fqgl/i_run_out_of_usage_in_gpt_gemini_and_claude_but/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-01"
+    },
+    "1szs3a2": {
+      "title": "What the hell is Claude Guest Pass & am I being efficient with my usage?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777544639,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1szs3a2/what_the_hell_is_claude_guest_pass_am_i_being/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-01"
+    },
+    "1szrjk7": {
+      "title": "[Opensource - Free] Quillmit - Free to use `Generate Commit Message with AI` tool",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777542804,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1szrjk7/opensource_free_quillmit_free_to_use_generate/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-01"
+    },
+    "1t0f0as": {
+      "title": "vibe-coded an anonymous global concern map onto a draggable 3D globe in one session - open source, ~3 hours start to finish",
+      "subreddit": "vibecoding",
+      "created_utc": 1777598268,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1t0f0as/vibecoded_an_anonymous_global_concern_map_onto_a/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-01"
+    },
+    "1szs4b3": {
+      "title": "I tried doing a month of real coding work using only free LLMs. Here's what I learned.",
+      "subreddit": "vibecoding",
+      "created_utc": 1777544732,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1szs4b3/i_tried_doing_a_month_of_real_coding_work_using/",
+      "models": [
+        "gemini"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-01"
     }
   }
 }
