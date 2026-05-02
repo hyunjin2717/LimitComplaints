@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-05-01T08:23:23.989240+00:00",
-    "total_posts_analyzed": 3852,
-    "total_complaints": 1105
+    "last_updated": "2026-05-02T07:55:13.222851+00:00",
+    "total_posts_analyzed": 3956,
+    "total_complaints": 1121
   },
   "posts": {
     "1sg1yvw": {
@@ -13492,6 +13492,208 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-05-01"
+    },
+    "1t0329j": {
+      "title": "How would you feel about \"Claude Go\"?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1777570272,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1t0329j/how_would_you_feel_about_claude_go/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-02"
+    },
+    "1t0vaot": {
+      "title": "Usage Management Tips",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777646339,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1t0vaot/usage_management_tips/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-02"
+    },
+    "1t1fj00": {
+      "title": "Why do I genuinely get chest pains and heart palpitations when I see the “approaching usage limit” message?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777695318,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1t1fj00/why_do_i_genuinely_get_chest_pains_and_heart/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-05-02"
+    },
+    "1szckkn": {
+      "title": "Codex rate limits frozen?",
+      "subreddit": "OpenAI",
+      "created_utc": 1777498857,
+      "score": 2,
+      "url": "https://reddit.com/r/OpenAI/comments/1szckkn/codex_rate_limits_frozen/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-02"
+    },
+    "1t11f1y": {
+      "title": "GREATEST CHEAT CODE OF AI VIBE CODING",
+      "subreddit": "vibecoding",
+      "created_utc": 1777659495,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1t11f1y/greatest_cheat_code_of_ai_vibe_coding/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-02"
+    },
+    "1t10zmw": {
+      "title": "Brutally honest review of Codex, Claude Code, Cursor, Antigravity, Lovable and Replit from someone who pays for all of them.",
+      "subreddit": "vibecoding",
+      "created_utc": 1777658592,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1t10zmw/brutally_honest_review_of_codex_claude_code/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-02"
+    },
+    "1t0vq4p": {
+      "title": "When your weekly rate limit is used up, which models do you lose access to, or do you lose access to all models?",
+      "subreddit": "codex",
+      "created_utc": 1777647301,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1t0vq4p/when_your_weekly_rate_limit_is_used_up_which/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-05-02"
+    },
+    "1t0f3lb": {
+      "title": "Hit a rate limit on Codex? I built Ripcord to recover your context so you can switch to Claude Code without starting over.",
+      "subreddit": "codex",
+      "created_utc": 1777598516,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1t0f3lb/hit_a_rate_limit_on_codex_i_built_ripcord_to/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-02"
+    },
+    "1t0n5gr": {
+      "title": "When you hit your usage limit right as you were cooking",
+      "subreddit": "codex",
+      "created_utc": 1777623117,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1t0n5gr/when_you_hit_your_usage_limit_right_as_you_were/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-02"
+    },
+    "1t1ht5b": {
+      "title": "[Discussion] Team plan (multiple seats) vs Pro plan — which is actually better for heavy Codex usage?",
+      "subreddit": "codex",
+      "created_utc": 1777702604,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1t1ht5b/discussion_team_plan_multiple_seats_vs_pro_plan/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-02"
+    },
+    "1t1bqkw": {
+      "title": "Just candled my Claude subscription, need help on codex usage",
+      "subreddit": "codex",
+      "created_utc": 1777684346,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1t1bqkw/just_candled_my_claude_subscription_need_help_on/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-02"
+    },
+    "1t05y8h": {
+      "title": "Codex 5.5 usage limits for Plus plan user",
+      "subreddit": "codex",
+      "created_utc": 1777576439,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1t05y8h/codex_55_usage_limits_for_plus_plan_user/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 9,
+      "fetched_date": "2026-05-02"
+    },
+    "1szrith": {
+      "title": "[Free - Opensource] Quillmit - free ai git commit tool",
+      "subreddit": "codex",
+      "created_utc": 1777542731,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1szrith/free_opensource_quillmit_free_ai_git_commit_tool/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-02"
+    },
+    "1sze27e": {
+      "title": "Is usage for ChatGPT for Business Codex Bugged?",
+      "subreddit": "codex",
+      "created_utc": 1777502389,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1sze27e/is_usage_for_chatgpt_for_business_codex_bugged/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-05-02"
+    },
+    "1t0g825": {
+      "title": "5h limit work really well for me lately",
+      "subreddit": "codex",
+      "created_utc": 1777601594,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1t0g825/5h_limit_work_really_well_for_me_lately/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-05-02"
+    },
+    "1syt0wc": {
+      "title": "Using codex without 5h and weekly limit",
+      "subreddit": "codex",
+      "created_utc": 1777452229,
+      "score": 7,
+      "url": "https://reddit.com/r/codex/comments/1syt0wc/using_codex_without_5h_and_weekly_limit/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-02"
     }
   }
 }
