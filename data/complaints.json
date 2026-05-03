@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-05-02T07:55:13.222851+00:00",
-    "total_posts_analyzed": 3956,
-    "total_complaints": 1121
+    "last_updated": "2026-05-03T08:11:25.093660+00:00",
+    "total_posts_analyzed": 4047,
+    "total_complaints": 1134
   },
   "posts": {
     "1sg1yvw": {
@@ -13694,6 +13694,165 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-05-02"
+    },
+    "1t11mmy": {
+      "title": "I accidentally burned ~$6,000 of Claude usage overnight with one command.",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1777659966,
+      "score": 1098,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1t11mmy/i_accidentally_burned_6000_of_claude_usage/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-05-03"
+    },
+    "1t0ti7h": {
+      "title": "Got tired of flying blind on Claude.ai usage, built a browser extension that surfaces token counts, cache timers, and rate limits",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1777642204,
+      "score": 7,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1t0ti7h/got_tired_of_flying_blind_on_claudeai_usage_built/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-05-03"
+    },
+    "1t0aw95": {
+      "title": "Throttle Meter — open-source Claude Code usage meter for macOS (live 5h + weekly limits in your menu bar)",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1777587555,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1t0aw95/throttle_meter_opensource_claude_code_usage_meter/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-03"
+    },
+    "1t2exzt": {
+      "title": "I made cux: a CLI tool that pools multiple Claude Code Pro/Max accounts into one live session and auto-resumes the conversation on rate-limit.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777794092,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1t2exzt/i_made_cux_a_cli_tool_that_pools_multiple_claude/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-03"
+    },
+    "1t24grx": {
+      "title": "Subagents can't continue after the usage limit resets",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777762643,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1t24grx/subagents_cant_continue_after_the_usage_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-05-03"
+    },
+    "1t28rl5": {
+      "title": "I don't care about session limits - why is there ZERO info about weekly limits on the 20x claude code max plan available on the internet, even as anecdotes or via user tests?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777774524,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1t28rl5/i_dont_care_about_session_limits_why_is_there/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-05-03"
+    },
+    "1sz7z4e": {
+      "title": "Try to break my prompt injection detector — I’ll respond to every bypass attempt",
+      "subreddit": "OpenAI",
+      "created_utc": 1777488763,
+      "score": 1,
+      "url": "https://reddit.com/r/OpenAI/comments/1sz7z4e/try_to_break_my_prompt_injection_detector_ill/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-03"
+    },
+    "1t1491d": {
+      "title": "Has anyone else been hitting Claude max limits way faster lately?",
+      "subreddit": "OpenAI",
+      "created_utc": 1777665707,
+      "score": 0,
+      "url": "https://reddit.com/r/OpenAI/comments/1t1491d/has_anyone_else_been_hitting_claude_max_limits/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 2,
+      "fetched_date": "2026-05-03"
+    },
+    "1t146c2": {
+      "title": "Has anyone else been hitting Claude max limits way faster lately?",
+      "subreddit": "OpenAI",
+      "created_utc": 1777665550,
+      "score": 0,
+      "url": "https://reddit.com/r/OpenAI/comments/1t146c2/has_anyone_else_been_hitting_claude_max_limits/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 2,
+      "fetched_date": "2026-05-03"
+    },
+    "1t1t56o": {
+      "title": "Impossible to upgrade subscription: \"Your card may be invalid or may require authentication\" (Silent decline, no 3DS prompt). Tried EVERYTHING!",
+      "subreddit": "ChatGPT",
+      "created_utc": 1777736094,
+      "score": 1,
+      "url": "https://reddit.com/r/ChatGPT/comments/1t1t56o/impossible_to_upgrade_subscription_your_card_may/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-05-03"
+    },
+    "1t0vjp9": {
+      "title": "Somthing weird is happening with my rate limits.",
+      "subreddit": "codex",
+      "created_utc": 1777646916,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1t0vjp9/somthing_weird_is_happening_with_my_rate_limits/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-03"
+    },
+    "1t0n2ac": {
+      "title": "From Claude Code to Codex Pro user.",
+      "subreddit": "codex",
+      "created_utc": 1777622807,
+      "score": 25,
+      "url": "https://reddit.com/r/codex/comments/1t0n2ac/from_claude_code_to_codex_pro_user/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-03"
+    },
+    "1t1wkd3": {
+      "title": "Why your hitting limits and how to stop. (extend your usage 2.11x \"so far..\")",
+      "subreddit": "codex",
+      "created_utc": 1777743940,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1t1wkd3/why_your_hitting_limits_and_how_to_stop_extend/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-03"
     }
   }
 }
