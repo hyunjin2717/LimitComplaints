@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-05-03T08:11:25.093660+00:00",
-    "total_posts_analyzed": 4047,
-    "total_complaints": 1134
+    "last_updated": "2026-05-04T08:39:20.157432+00:00",
+    "total_posts_analyzed": 4100,
+    "total_complaints": 1139
   },
   "posts": {
     "1sg1yvw": {
@@ -13853,6 +13853,68 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-05-03"
+    },
+    "1t2gmru": {
+      "title": "Throttled?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777800025,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1t2gmru/throttled/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-04"
+    },
+    "1t2wehr": {
+      "title": "Are you kidding me Claude? 100$ plan lasts Less than 30 mins before limit hits, but last month it would last an hour and a half.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777839691,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1t2wehr/are_you_kidding_me_claude_100_plan_lasts_less/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-05-04"
+    },
+    "1t2ir9e": {
+      "title": "Damn! I Got Baited by Codex Bot Army, I Guess?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777807251,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1t2ir9e/damn_i_got_baited_by_codex_bot_army_i_guess/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 2,
+      "fetched_date": "2026-05-04"
+    },
+    "1t33lua": {
+      "title": "Costumer Support (Romeo and Juliet version)",
+      "subreddit": "ChatGPT",
+      "created_utc": 1777857963,
+      "score": 1,
+      "url": "https://reddit.com/r/ChatGPT/comments/1t33lua/costumer_support_romeo_and_juliet_version/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-04"
+    },
+    "1t1177n": {
+      "title": "Looking for alternatives to move from GitHub Copilot",
+      "subreddit": "vibecoding",
+      "created_utc": 1777659034,
+      "score": 5,
+      "url": "https://reddit.com/r/vibecoding/comments/1t1177n/looking_for_alternatives_to_move_from_github/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-05-04"
     }
   }
 }
