@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-05-04T08:39:20.157432+00:00",
-    "total_posts_analyzed": 4100,
-    "total_complaints": 1139
+    "last_updated": "2026-05-05T08:21:28.844217+00:00",
+    "total_posts_analyzed": 4164,
+    "total_complaints": 1156
   },
   "posts": {
     "1sg1yvw": {
@@ -13915,6 +13915,211 @@
       ],
       "complaint_score": 6,
       "fetched_date": "2026-05-04"
+    },
+    "1t3fuk1": {
+      "title": "Claude Code need to stop giving you rate limit mid task",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1777896648,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1t3fuk1/claude_code_need_to_stop_giving_you_rate_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-05"
+    },
+    "1t2w1yb": {
+      "title": "Optimizing code generation",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1777838896,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1t2w1yb/optimizing_code_generation/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-05"
+    },
+    "1t3qj55": {
+      "title": "Did the 5h limit increase to 6h limit?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1777919933,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1t3qj55/did_the_5h_limit_increase_to_6h_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-05"
+    },
+    "1t3dlc0": {
+      "title": "Claude Code need to stop giving you rate limit mid task",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777890025,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1t3dlc0/claude_code_need_to_stop_giving_you_rate_limit/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-05-05"
+    },
+    "1t3i3ux": {
+      "title": "My gift to the Claude community... My Mythos-level CLAUDE.md (9kb)",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777902173,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1t3i3ux/my_gift_to_the_claude_community_my_mythoslevel/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-05"
+    },
+    "1t3svuq": {
+      "title": "Claude thinks my usage limit has been reached, but it's not even close.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777924843,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1t3svuq/claude_thinks_my_usage_limit_has_been_reached_but/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-05"
+    },
+    "1t3nu35": {
+      "title": "Hitting my usage limit 4X as fast today. WTF?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777914345,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1t3nu35/hitting_my_usage_limit_4x_as_fast_today_wtf/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-05-05"
+    },
+    "1t3jgw0": {
+      "title": "I stopped hitting Claude's usage limit. Here's the setup that fixed it.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777905181,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1t3jgw0/i_stopped_hitting_claudes_usage_limit_heres_the/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-05"
+    },
+    "1t3h7bo": {
+      "title": "Claude code usage limit. Claude is stealing our money.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777900038,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1t3h7bo/claude_code_usage_limit_claude_is_stealing_our/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-05"
+    },
+    "1t3dzuj": {
+      "title": "Max x20 account weekly limit usage issue",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777891318,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1t3dzuj/max_x20_account_weekly_limit_usage_issue/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-05"
+    },
+    "1t47uas": {
+      "title": "Claude Code burned through 90% of my limit in 2 minutes — is this normal?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777964294,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1t47uas/claude_code_burned_through_90_of_my_limit_in_2/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-05-05"
+    },
+    "1t43kff": {
+      "title": "Which model you’ll using these days?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777950899,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1t43kff/which_model_youll_using_these_days/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 2,
+      "fetched_date": "2026-05-05"
+    },
+    "1t3xdk0": {
+      "title": "On the Max plan but hit the 5-hour limit insanely fast today… just me, or did something change?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777934835,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1t3xdk0/on_the_max_plan_but_hit_the_5hour_limit_insanely/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-05-05"
+    },
+    "1t3o4qv": {
+      "title": "Is Claude Code “stealing” tokens or is the billing/session reset completely broken?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777914955,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1t3o4qv/is_claude_code_stealing_tokens_or_is_the/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-05"
+    },
+    "1t3f3dv": {
+      "title": "Claude Code completely unusable – 2.6M tokens burned in 2 days of light work (Version 1.5354.0) – anyone else?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777894597,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1t3f3dv/claude_code_completely_unusable_26m_tokens_burned/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-05-05"
+    },
+    "1t3dnmp": {
+      "title": "How to \"Shrink\" Your Claude 5-Hour Limit to 1–4 Hours (and Why That's Actually Useful)",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777890238,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1t3dnmp/how_to_shrink_your_claude_5hour_limit_to_14_hours/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-05-05"
+    },
+    "1t3cgfk": {
+      "title": "I Let a Claude Sub-Agent Plan — It Maxed My 5-Hour Limit with No Output",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777886196,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1t3cgfk/i_let_a_claude_subagent_plan_it_maxed_my_5hour/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-05"
     }
   }
 }
