@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-05-07T08:45:12.320421+00:00",
-    "total_posts_analyzed": 4283,
-    "total_complaints": 1205
+    "last_updated": "2026-05-08T07:51:38.946135+00:00",
+    "total_posts_analyzed": 4353,
+    "total_complaints": 1214
   },
   "posts": {
     "1sg1yvw": {
@@ -14718,6 +14718,114 @@
       ],
       "complaint_score": 4,
       "fetched_date": "2026-05-07"
+    },
+    "1t6jy7v": {
+      "title": "Who have started receiving 10 hours, peak hours limit reduction and API rate limits since the 6 May 2026 announcement?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1778180357,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1t6jy7v/who_have_started_receiving_10_hours_peak_hours/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-08"
+    },
+    "1t6bkgp": {
+      "title": "Hit my Max 5x usage limit suspiciously fast today, ccusage tells a different story than I expected",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1778162765,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1t6bkgp/hit_my_max_5x_usage_limit_suspiciously_fast_today/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-05-08"
+    },
+    "1t6a5oy": {
+      "title": "Hit limit while compacting and now the hit limit warning is part of the Compact summary",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1778159533,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1t6a5oy/hit_limit_while_compacting_and_now_the_hit_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-08"
+    },
+    "1t693ut": {
+      "title": "5-hour Claude Code limits doubled today. The cost angle nobody's talking about.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1778156991,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1t693ut/5hour_claude_code_limits_doubled_today_the_cost/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-08"
+    },
+    "1t6rfm1": {
+      "title": "Why my Usage limit is reached when claude is still running and I didn't reach 100 %",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1778197530,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1t6rfm1/why_my_usage_limit_is_reached_when_claude_is/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-08"
+    },
+    "1t6ngzc": {
+      "title": "Limits draining faster than normal according to this link. I thought the new partnership with SpaceX was supposed to improve it?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1778187873,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1t6ngzc/limits_draining_faster_than_normal_according_to/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-08"
+    },
+    "1t6xnzz": {
+      "title": "Thought I was going crazy with Weekly meter until I wasn't",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1778215174,
+      "score": 2,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1t6xnzz/thought_i_was_going_crazy_with_weekly_meter_until/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-08"
+    },
+    "1t6ny2b": {
+      "title": "Built a custom Claude Code status to git branch, PR#, and more importantly quota usage - believe it or not - helps manage the day!!!",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1778188930,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1t6ny2b/built_a_custom_claude_code_status_to_git_branch/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-05-08"
+    },
+    "1t5l92i": {
+      "title": "Anthropic just partnered with SpaceX  and doubled Claude Code rate limits effective today",
+      "subreddit": "artificial",
+      "created_utc": 1778091646,
+      "score": 1,
+      "url": "https://reddit.com/r/artificial/comments/1t5l92i/anthropic_just_partnered_with_spacex_and_doubled/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-05-08"
     }
   }
 }
