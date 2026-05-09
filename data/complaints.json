@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-05-08T07:51:38.946135+00:00",
-    "total_posts_analyzed": 4353,
-    "total_complaints": 1214
+    "last_updated": "2026-05-09T08:05:30.939142+00:00",
+    "total_posts_analyzed": 4410,
+    "total_complaints": 1223
   },
   "posts": {
     "1sg1yvw": {
@@ -14826,6 +14826,118 @@
       ],
       "complaint_score": 6,
       "fetched_date": "2026-05-08"
+    },
+    "1t7amnr": {
+      "title": "Rate limit exceeded - \"Failed to submit request: Request failed\"",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1778252716,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1t7amnr/rate_limit_exceeded_failed_to_submit_request/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-09"
+    },
+    "1t66fjc": {
+      "title": "Did Anthropic just greatlg inreaae the weekly limits?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1778149507,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1t66fjc/did_anthropic_just_greatlg_inreaae_the_weekly/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-09"
+    },
+    "1t75nqm": {
+      "title": "Claude Code kept hitting rate limits for me. This helped",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1778241153,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1t75nqm/claude_code_kept_hitting_rate_limits_for_me_this/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-05-09"
+    },
+    "1t7hzlu": {
+      "title": "I built bloclawd: open-source public data for Claude Code / Codex usage limit hits",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1778268365,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1t7hzlu/i_built_bloclawd_opensource_public_data_for/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-09"
+    },
+    "1t743q7": {
+      "title": "did anthropic increase the usage limit?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1778236588,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1t743q7/did_anthropic_increase_the_usage_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-09"
+    },
+    "1t7glnw": {
+      "title": "Am I crazy or did Anthropic just help us hit the weekly cap faster?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1778265359,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1t7glnw/am_i_crazy_or_did_anthropic_just_help_us_hit_the/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-05-09"
+    },
+    "1t77pp8": {
+      "title": "Claude asking me to buy extra credits even though I haven’t hit my weekly limit?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1778246296,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1t77pp8/claude_asking_me_to_buy_extra_credits_even_though/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-05-09"
+    },
+    "1t724bj": {
+      "title": "CodexIsland — Dynamic Island for Claude Code / Codex usage limits",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1778229991,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1t724bj/codexisland_dynamic_island_for_claude_code_codex/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-05-09"
+    },
+    "1t5yh2x": {
+      "title": "It’s 2026, and you honestly don’t need to pay for AI tools anymore (everything here is free)",
+      "subreddit": "PromptEngineering",
+      "created_utc": 1778123280,
+      "score": 3,
+      "url": "https://reddit.com/r/PromptEngineering/comments/1t5yh2x/its_2026_and_you_honestly_dont_need_to_pay_for_ai/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-09"
     }
   }
 }
