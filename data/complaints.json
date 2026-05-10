@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-05-09T08:05:30.939142+00:00",
-    "total_posts_analyzed": 4410,
-    "total_complaints": 1223
+    "last_updated": "2026-05-10T08:16:55.628214+00:00",
+    "total_posts_analyzed": 4463,
+    "total_complaints": 1233
   },
   "posts": {
     "1sg1yvw": {
@@ -14938,6 +14938,130 @@
       ],
       "complaint_score": 4,
       "fetched_date": "2026-05-09"
+    },
+    "1t8mo2u": {
+      "title": "How to run Claude Code for free! Full setup",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1778360074,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1t8mo2u/how_to_run_claude_code_for_free_full_setup/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-10"
+    },
+    "1t8pvj1": {
+      "title": "📢 ATTENTION: Claude (Anthropic) Users – Are You Being Overcharged?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1778367752,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1t8pvj1/attention_claude_anthropic_users_are_you_being/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-10"
+    },
+    "1t8wc77": {
+      "title": "getting an \"out of extra usage\" error even though  have remaining quota in your subscription plan",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1778385940,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1t8wc77/getting_an_out_of_extra_usage_error_even_though/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-05-10"
+    },
+    "1t81vi6": {
+      "title": "💦 Made a small statusline for Claude Code because I got tired of checking my usage page constantly",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1778324457,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1t81vi6/made_a_small_statusline_for_claude_code_because_i/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-05-10"
+    },
+    "1t3cf1w": {
+      "title": "What is going on????",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1777886061,
+      "score": 312,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1t3cf1w/what_is_going_on/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-10"
+    },
+    "1t8wk9r": {
+      "title": "How are you all mitigating the WEEKLY usage tight quota issue? Here's my latest idea...",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1778386615,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1t8wk9r/how_are_you_all_mitigating_the_weekly_usage_tight/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-05-10"
+    },
+    "1t6gdue": {
+      "title": "One Five hour session is 25% of WEEKLY QUOTA NOW`",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1778172952,
+      "score": 379,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1t6gdue/one_five_hour_session_is_25_of_weekly_quota_now/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-10"
+    },
+    "1t8nfsd": {
+      "title": "New to Codex: cli keeps working normal even tho my 5h limit has ended. Should I be afraid of any charges?",
+      "subreddit": "codex",
+      "created_utc": 1778361635,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1t8nfsd/new_to_codex_cli_keeps_working_normal_even_tho_my/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-10"
+    },
+    "1t7igx2": {
+      "title": "I built bloclawd: open-source public data for Claude Code / Codex usage limit hits",
+      "subreddit": "codex",
+      "created_utc": 1778269440,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1t7igx2/i_built_bloclawd_opensource_public_data_for/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-05-10"
+    },
+    "1t725kn": {
+      "title": "CodexIsland — Dynamic Island for Codex usage limits",
+      "subreddit": "codex",
+      "created_utc": 1778230105,
+      "score": 13,
+      "url": "https://reddit.com/r/codex/comments/1t725kn/codexisland_dynamic_island_for_codex_usage_limits/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-10"
     }
   }
 }
