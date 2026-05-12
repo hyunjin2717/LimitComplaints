@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-05-11T09:54:20.581305+00:00",
-    "total_posts_analyzed": 4549,
-    "total_complaints": 1257
+    "last_updated": "2026-05-12T08:50:34.659248+00:00",
+    "total_posts_analyzed": 4611,
+    "total_complaints": 1269
   },
   "posts": {
     "1sg1yvw": {
@@ -15356,6 +15356,151 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-05-11"
+    },
+    "1ta7jhq": {
+      "title": "Antropic is playing games recently on the usage limit",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1778515124,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1ta7jhq/antropic_is_playing_games_recently_on_the_usage/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-12"
+    },
+    "1ta7eim": {
+      "title": "Instant usage limit hit",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1778514833,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1ta7eim/instant_usage_limit_hit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-12"
+    },
+    "1ta01zw": {
+      "title": "I get no warning or interrupt when exceeding Claude's usage limit on my work account",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1778497732,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1ta01zw/i_get_no_warning_or_interrupt_when_exceeding/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-12"
+    },
+    "1ta02pf": {
+      "title": "Did Cursor Secretly Remove My Rate Limit?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1778497790,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1ta02pf/did_cursor_secretly_remove_my_rate_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-12"
+    },
+    "1ta4yix": {
+      "title": "Anthropic doubled the rate limits but you won't fix your quota problem.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1778509684,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1ta4yix/anthropic_doubled_the_rate_limits_but_you_wont/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-12"
+    },
+    "1ta23lr": {
+      "title": "Claude bootstrap v5 is out and is now called Maggy - Your AI CLIs now route tasks to the cheapest model that can handle them (benchmarked)",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1778503185,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1ta23lr/claude_bootstrap_v5_is_out_and_is_now_called/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-12"
+    },
+    "1takxpl": {
+      "title": "Clawdmeter - a small ESP32 usage limit monitor (source code in description)",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1778544067,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1takxpl/clawdmeter_a_small_esp32_usage_limit_monitor/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-12"
+    },
+    "1tavl97": {
+      "title": "Says limit reached even though I have used only 94%",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1778575386,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tavl97/says_limit_reached_even_though_i_have_used_only_94/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-05-12"
+    },
+    "1taa3kn": {
+      "title": "RIP claude-code , I am in love with this one",
+      "subreddit": "vibecoding",
+      "created_utc": 1778520372,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1taa3kn/rip_claudecode_i_am_in_love_with_this_one/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-12"
+    },
+    "1t8m55w": {
+      "title": "How to run Claude Code for free!",
+      "subreddit": "vibecoding",
+      "created_utc": 1778359652,
+      "score": 19,
+      "url": "https://reddit.com/r/vibecoding/comments/1t8m55w/how_to_run_claude_code_for_free/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-12"
+    },
+    "1t5kwwp": {
+      "title": "Anthropic just secured 220k GPUs from SpaceX, doubled Claude usage limits today, and is exploring \"orbital AI compute\"",
+      "subreddit": "vibecoding",
+      "created_utc": 1778090954,
+      "score": 97,
+      "url": "https://reddit.com/r/vibecoding/comments/1t5kwwp/anthropic_just_secured_220k_gpus_from_spacex/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-12"
+    },
+    "1t5kk8n": {
+      "title": "Claude partner with SpaceX",
+      "subreddit": "vibecoding",
+      "created_utc": 1778090246,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1t5kk8n/claude_partner_with_spacex/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-12"
     }
   }
 }
