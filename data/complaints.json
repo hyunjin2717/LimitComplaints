@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-05-12T08:50:34.659248+00:00",
-    "total_posts_analyzed": 4611,
-    "total_complaints": 1269
+    "last_updated": "2026-05-13T08:55:31.890557+00:00",
+    "total_posts_analyzed": 4704,
+    "total_complaints": 1292
   },
   "posts": {
     "1sg1yvw": {
@@ -15501,6 +15501,287 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-05-12"
+    },
+    "1ta96vy": {
+      "title": "Claude told me to pay. I paid. It didn't work. I asked for a representative 11 times. The bot told me that's my problem.",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1778518537,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1ta96vy/claude_told_me_to_pay_i_paid_it_didnt_work_i/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-13"
+    },
+    "1tbmg7g": {
+      "title": "TeamCreate best practices?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1778639130,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tbmg7g/teamcreate_best_practices/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-13"
+    },
+    "1tavsu8": {
+      "title": "2 sessions in and already at 50% of my weekly limit",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1778576103,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tavsu8/2_sessions_in_and_already_at_50_of_my_weekly_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-05-13"
+    },
+    "1tavpfn": {
+      "title": "Anyone using Claude Code with free/open model backends? My NVIDIA NIM setup works but it’s slow + constantly rate limited.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1778575784,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tavpfn/anyone_using_claude_code_with_freeopen_model/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-05-13"
+    },
+    "1tb9q75": {
+      "title": "Codex vs Claude",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1778609415,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tb9q75/codex_vs_claude/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-13"
+    },
+    "1t9lywa": {
+      "title": "GPT-5.5 Thinking selected, but ChatGPT web replies as GPT-5 mini",
+      "subreddit": "ChatGPT",
+      "created_utc": 1778454746,
+      "score": 1,
+      "url": "https://reddit.com/r/ChatGPT/comments/1t9lywa/gpt55_thinking_selected_but_chatgpt_web_replies/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-13"
+    },
+    "1t4lymd": {
+      "title": "Did I just pay $100 for 1.5 days of ChatGPT Pro?",
+      "subreddit": "ChatGPT",
+      "created_utc": 1778001488,
+      "score": 385,
+      "url": "https://reddit.com/r/ChatGPT/comments/1t4lymd/did_i_just_pay_100_for_15_days_of_chatgpt_pro/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-13"
+    },
+    "1t8xype": {
+      "title": "Chinese AI Coding Plan",
+      "subreddit": "vibecoding",
+      "created_utc": 1778390950,
+      "score": 0,
+      "url": "https://reddit.com/r/vibecoding/comments/1t8xype/chinese_ai_coding_plan/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-13"
+    },
+    "1t7loct": {
+      "title": "Opencode Go Plan is just so much better than Claude Code Pro $20 plan",
+      "subreddit": "vibecoding",
+      "created_utc": 1778276632,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1t7loct/opencode_go_plan_is_just_so_much_better_than/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-13"
+    },
+    "1t713t6": {
+      "title": "What is the best $20 coding plan",
+      "subreddit": "vibecoding",
+      "created_utc": 1778226434,
+      "score": 7,
+      "url": "https://reddit.com/r/vibecoding/comments/1t713t6/what_is_the_best_20_coding_plan/",
+      "models": [
+        "claude",
+        "gemini"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-05-13"
+    },
+    "1tbgdi3": {
+      "title": "rate limit info disappeared from my codex app",
+      "subreddit": "codex",
+      "created_utc": 1778623618,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tbgdi3/rate_limit_info_disappeared_from_my_codex_app/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-13"
+    },
+    "1tbfbng": {
+      "title": "Plus Rate Limit Reset or am I going Delulu.",
+      "subreddit": "codex",
+      "created_utc": 1778621213,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tbfbng/plus_rate_limit_reset_or_am_i_going_delulu/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-13"
+    },
+    "1tbbe6c": {
+      "title": "Codex's best feature over Claude: It doesn't abruptly stop when the rate limit is hit",
+      "subreddit": "codex",
+      "created_utc": 1778612834,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tbbe6c/codexs_best_feature_over_claude_it_doesnt/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-13"
+    },
+    "1tbbbo0": {
+      "title": "Codex's best feature over Claude: It doesn't abruptly stop when the rate limit is hit",
+      "subreddit": "codex",
+      "created_utc": 1778612689,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tbbbo0/codexs_best_feature_over_claude_it_doesnt/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-13"
+    },
+    "1taoxvz": {
+      "title": "Rate limit issue!",
+      "subreddit": "codex",
+      "created_utc": 1778554631,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1taoxvz/rate_limit_issue/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-05-13"
+    },
+    "1tauuj7": {
+      "title": "Is it just me or does Codex usage run through limit faster now?",
+      "subreddit": "codex",
+      "created_utc": 1778572824,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tauuj7/is_it_just_me_or_does_codex_usage_run_through/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-13"
+    },
+    "1tavoyz": {
+      "title": "Anyone using Claude Code with free/open model backends? My NVIDIA NIM setup works but it’s slow + constantly rate limited.",
+      "subreddit": "codex",
+      "created_utc": 1778575737,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tavoyz/anyone_using_claude_code_with_freeopen_model/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-05-13"
+    },
+    "1taiigx": {
+      "title": "My last 3% of weekly quota disappeared",
+      "subreddit": "codex",
+      "created_utc": 1778538105,
+      "score": 3,
+      "url": "https://reddit.com/r/codex/comments/1taiigx/my_last_3_of_weekly_quota_disappeared/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-13"
+    },
+    "1tayh7r": {
+      "title": "Usage limit have been lowered again",
+      "subreddit": "codex",
+      "created_utc": 1778584565,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tayh7r/usage_limit_have_been_lowered_again/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-13"
+    },
+    "1tbks2i": {
+      "title": "Codex Usage Limits Might Be More About Workflow Architecture Than People Realize",
+      "subreddit": "codex",
+      "created_utc": 1778634752,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tbks2i/codex_usage_limits_might_be_more_about_workflow/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 9,
+      "fetched_date": "2026-05-13"
+    },
+    "1ta93ua": {
+      "title": "Codex without 5h and weekly limit",
+      "subreddit": "codex",
+      "created_utc": 1778518370,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1ta93ua/codex_without_5h_and_weekly_limit/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-13"
+    },
+    "1tbaxoy": {
+      "title": "Am I the only one who burns through 5h limit way faster on GPT-5.5 than 5.4?",
+      "subreddit": "codex",
+      "created_utc": 1778611897,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tbaxoy/am_i_the_only_one_who_burns_through_5h_limit_way/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-05-13"
+    },
+    "1ta8zjh": {
+      "title": "Codex without 5h and weekly limit",
+      "subreddit": "codex",
+      "created_utc": 1778518132,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1ta8zjh/codex_without_5h_and_weekly_limit/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-13"
     }
   }
 }
