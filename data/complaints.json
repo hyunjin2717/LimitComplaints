@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-05-13T08:55:31.890557+00:00",
-    "total_posts_analyzed": 4704,
-    "total_complaints": 1292
+    "last_updated": "2026-05-14T08:48:45.908872+00:00",
+    "total_posts_analyzed": 4782,
+    "total_complaints": 1305
   },
   "posts": {
     "1sg1yvw": {
@@ -15782,6 +15782,165 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-05-13"
+    },
+    "1tbafuu": {
+      "title": "been using claude code's new agent view since yesterday. here's what it actually changes.",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1778610849,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tbafuu/been_using_claude_codes_new_agent_view_since/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-05-14"
+    },
+    "1tazj4y": {
+      "title": "Why I added a second Claude chat whose only job is to disagree with my first Claude chat",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1778587374,
+      "score": 3,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tazj4y/why_i_added_a_second_claude_chat_whose_only_job/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-14"
+    },
+    "1tcofbt": {
+      "title": "Pro usage limit frustration!!!",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1778735949,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tcofbt/pro_usage_limit_frustration/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-05-14"
+    },
+    "1tc9m7w": {
+      "title": "usage limit reset?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1778699468,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tc9m7w/usage_limit_reset/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-14"
+    },
+    "1tbck1o": {
+      "title": "Can someone just sanity check me so I am 100% sure I’m not about to cost my workplace a bunch of money?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1778615247,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tbck1o/can_someone_just_sanity_check_me_so_i_am_100_sure/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-14"
+    },
+    "1tc9mgb": {
+      "title": "50% rate limit increase",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1778699482,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tc9mgb/50_rate_limit_increase/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-14"
+    },
+    "1tc0zkl": {
+      "title": "Went back to Autocomplete after Claude Code & Codex! Agentic AI really is a trap!",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1778681794,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tc0zkl/went_back_to_autocomplete_after_claude_code_codex/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-05-14"
+    },
+    "1tcip0k": {
+      "title": "Claude Chrome extension using extra usage even though I have usage left?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1778720241,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tcip0k/claude_chrome_extension_using_extra_usage_even/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-14"
+    },
+    "1tcdvps": {
+      "title": "Default Sonnet? I thought they were being generous",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1778708507,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tcdvps/default_sonnet_i_thought_they_were_being_generous/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-14"
+    },
+    "1tc05z8": {
+      "title": "An attempt to reduce token bloat. Part I: test runner output",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1778680000,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tc05z8/an_attempt_to_reduce_token_bloat_part_i_test/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-14"
+    },
+    "1tavsn0": {
+      "title": "Anyone using Claude Code with free/open model backends? My NVIDIA NIM setup works but it’s slow + constantly rate limited.",
+      "subreddit": "vibecoding",
+      "created_utc": 1778576082,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1tavsn0/anyone_using_claude_code_with_freeopen_model/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-05-14"
+    },
+    "1t77t6y": {
+      "title": "Extent of practicality to vibe code software without extensive technical understanding",
+      "subreddit": "vibecoding",
+      "created_utc": 1778246521,
+      "score": 6,
+      "url": "https://reddit.com/r/vibecoding/comments/1t77t6y/extent_of_practicality_to_vibe_code_software/",
+      "models": [
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-05-14"
+    },
+    "1tc3skk": {
+      "title": "Codex 5 hour usage limit steady declining without actually being used..",
+      "subreddit": "codex",
+      "created_utc": 1778687699,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tc3skk/codex_5_hour_usage_limit_steady_declining_without/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-14"
     }
   }
 }
