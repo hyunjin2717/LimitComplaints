@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-05-14T08:48:45.908872+00:00",
-    "total_posts_analyzed": 4782,
-    "total_complaints": 1305
+    "last_updated": "2026-05-15T08:58:14.574069+00:00",
+    "total_posts_analyzed": 4833,
+    "total_complaints": 1310
   },
   "posts": {
     "1sg1yvw": {
@@ -15941,6 +15941,69 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-05-14"
+    },
+    "1tbtpl2": {
+      "title": "I built a native macOS app to manage Claude Code sessions, accounts, and projects",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1778661772,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tbtpl2/i_built_a_native_macos_app_to_manage_claude_code/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-15"
+    },
+    "1tdhqkf": {
+      "title": "Says I reached weekly limit, but I'm only at 60% usage?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1778808674,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tdhqkf/says_i_reached_weekly_limit_but_im_only_at_60/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-15"
+    },
+    "1tc1igd": {
+      "title": "I offloaded bulk file reading from Claude Code to a cheaper model for a week. Here are the numbers.",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1778682923,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tc1igd/i_offloaded_bulk_file_reading_from_claude_code_to/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-15"
+    },
+    "1tcvroc": {
+      "title": "It is sad, but I had to do it",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1778759346,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tcvroc/it_is_sad_but_i_had_to_do_it/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-15"
+    },
+    "1tcwk52": {
+      "title": "Best A.I. Coding Plan (Outside of ChatGPT and Claude)",
+      "subreddit": "vibecoding",
+      "created_utc": 1778761353,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1tcwk52/best_ai_coding_plan_outside_of_chatgpt_and_claude/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-15"
     }
   }
 }
