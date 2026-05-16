@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-05-15T08:58:14.574069+00:00",
-    "total_posts_analyzed": 4833,
-    "total_complaints": 1310
+    "last_updated": "2026-05-16T08:14:52.176072+00:00",
+    "total_posts_analyzed": 4895,
+    "total_complaints": 1319
   },
   "posts": {
     "1sg1yvw": {
@@ -16004,6 +16004,116 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-05-15"
+    },
+    "1tdx1na": {
+      "title": "Rate Limit on Sub?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1778853185,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tdx1na/rate_limit_on_sub/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-16"
+    },
+    "1te59ae": {
+      "title": "Usage limit reset, including weekly limit increase?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1778870594,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1te59ae/usage_limit_reset_including_weekly_limit_increase/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-16"
+    },
+    "1tcgfya": {
+      "title": "Broken queries burning most of 5h limits",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1778714473,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tcgfya/broken_queries_burning_most_of_5h_limits/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-05-16"
+    },
+    "1te5pvk": {
+      "title": "I got tired of Claude Code silently dying at rate limits during mid task, so I built something",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1778871587,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1te5pvk/i_got_tired_of_claude_code_silently_dying_at_rate/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 9,
+      "fetched_date": "2026-05-16"
+    },
+    "1teiism": {
+      "title": "Did anyone else's weekly limits get reset?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1778903579,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1teiism/did_anyone_elses_weekly_limits_get_reset/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-16"
+    },
+    "1te8pma": {
+      "title": "Max 20x ($200/mo): Neither the 2x session nor 1.5x weekly limit increase applied to my account. Math proof inside. Zero response from support.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1778878069,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1te8pma/max_20x_200mo_neither_the_2x_session_nor_15x/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-05-16"
+    },
+    "1te1n6r": {
+      "title": "Not impressed. What did I do wrong ?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1778863012,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1te1n6r/not_impressed_what_did_i_do_wrong/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-16"
+    },
+    "1tdvepu": {
+      "title": "Claude Code hitting weekly limit incredibly fast? (50% in under 12 hours with sonnet)",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1778849383,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tdvepu/claude_code_hitting_weekly_limit_incredibly_fast/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-05-16"
+    },
+    "1t9cq7o": {
+      "title": "TIL Max x20 barely makes a difference in weekly limits",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1778433138,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1t9cq7o/til_max_x20_barely_makes_a_difference_in_weekly/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-16"
     }
   }
 }
