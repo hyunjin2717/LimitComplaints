@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-05-16T08:14:52.176072+00:00",
-    "total_posts_analyzed": 4895,
-    "total_complaints": 1319
+    "last_updated": "2026-05-17T08:30:59.142357+00:00",
+    "total_posts_analyzed": 4966,
+    "total_complaints": 1331
   },
   "posts": {
     "1sg1yvw": {
@@ -16114,6 +16114,154 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-05-16"
+    },
+    "1tf9xws": {
+      "title": "⎿  API Error: Server is temporarily limiting requests (not your usage limit) · Rate limited",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1778976924,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tf9xws/api_error_server_is_temporarily_limiting_requests/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-17"
+    },
+    "1tdjx4f": {
+      "title": "Anthropic built the agentic features. Now they're billing them separately.",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1778814501,
+      "score": 22,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tdjx4f/anthropic_built_the_agentic_features_now_theyre/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-17"
+    },
+    "1te7y3i": {
+      "title": "My weekly limit just got refreshed, anyone knows why?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1778876357,
+      "score": 3,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1te7y3i/my_weekly_limit_just_got_refreshed_anyone_knows/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 9,
+      "fetched_date": "2026-05-17"
+    },
+    "1tezo77": {
+      "title": "Anyone getting API Error: Server is temporarily limiting requests (not your usage limit)?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1778951801,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tezo77/anyone_getting_api_error_server_is_temporarily/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-17"
+    },
+    "1tenqw2": {
+      "title": "Did Claude Code increase their Weekly Limit?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1778920079,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tenqw2/did_claude_code_increase_their_weekly_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-05-17"
+    },
+    "1terjmx": {
+      "title": "spacebrr: choose your champion",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1778932375,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1terjmx/spacebrr_choose_your_champion/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-17"
+    },
+    "1terj56": {
+      "title": "spacebrr: choose your champion",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1778932337,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1terj56/spacebrr_choose_your_champion/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-17"
+    },
+    "1tes18e": {
+      "title": "I vibe code 100M+ tokens with Codex and GPT-5.4 for ~$1/day — some stories from China",
+      "subreddit": "ChatGPT",
+      "created_utc": 1778933704,
+      "score": 1,
+      "url": "https://reddit.com/r/ChatGPT/comments/1tes18e/i_vibe_code_100m_tokens_with_codex_and_gpt54_for/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-17"
+    },
+    "1tf99hm": {
+      "title": "Any good local AI model?",
+      "subreddit": "LocalLLaMA",
+      "created_utc": 1778975109,
+      "score": 1,
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1tf99hm/any_good_local_ai_model/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-17"
+    },
+    "1tevaoa": {
+      "title": "LLM Gateway is it the new OpenRouter?",
+      "subreddit": "vibecoding",
+      "created_utc": 1778941871,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1tevaoa/llm_gateway_is_it_the_new_openrouter/",
+      "models": [
+        "claude",
+        "gemini"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-17"
+    },
+    "1tf3pmh": {
+      "title": "Weekly rate limit resets",
+      "subreddit": "codex",
+      "created_utc": 1778961095,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tf3pmh/weekly_rate_limit_resets/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-17"
+    },
+    "1tcxftk": {
+      "title": "Does Codex \"wait for output\" without consuming tokens?",
+      "subreddit": "codex",
+      "created_utc": 1778763536,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tcxftk/does_codex_wait_for_output_without_consuming/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-17"
     }
   }
 }
