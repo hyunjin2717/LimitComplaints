@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-05-17T08:30:59.142357+00:00",
-    "total_posts_analyzed": 4966,
-    "total_complaints": 1331
+    "last_updated": "2026-05-18T10:23:07.854461+00:00",
+    "total_posts_analyzed": 5076,
+    "total_complaints": 1354
   },
   "posts": {
     "1sg1yvw": {
@@ -16262,6 +16262,287 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-05-17"
+    },
+    "1tegadj": {
+      "title": "The reason why Claude subscription seems to have less capacity than Codex",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1778897224,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tegadj/the_reason_why_claude_subscription_seems_to_have/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-18"
+    },
+    "1te8oap": {
+      "title": "Max 20x ($200/mo): Neither the 2x session nor 1.5x weekly limit increase applied to my account. Math proof inside. Zero response from support.",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1778877987,
+      "score": 38,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1te8oap/max_20x_200mo_neither_the_2x_session_nor_15x/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-05-18"
+    },
+    "1tfnghi": {
+      "title": "Is the Pro plan usable for Sonnet only utilization?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1779018964,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tfnghi/is_the_pro_plan_usable_for_sonnet_only_utilization/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-18"
+    },
+    "1tflbyx": {
+      "title": "So both Codex and Claude Code reset the weekly usage limit",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1779012414,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tflbyx/so_both_codex_and_claude_code_reset_the_weekly/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-18"
+    },
+    "1tedyb8": {
+      "title": "Codex Stole the rest of my entire weekly limit 48% of my weekly and 24% of my hourly usage in one message.",
+      "subreddit": "OpenAI",
+      "created_utc": 1778890784,
+      "score": 1,
+      "url": "https://reddit.com/r/OpenAI/comments/1tedyb8/codex_stole_the_rest_of_my_entire_weekly_limit_48/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-18"
+    },
+    "1tgd2vm": {
+      "title": "Why is Claude Pro hitting usage limits so aggressively now? Using 4.6 Thinking, one simple email refinement used 26% of my quota. A few normal business prompts now seem to consume limits dramatically faster than before. Has Anthropic recently changed token usage, reasoning allocation, or Pro limits?",
+      "subreddit": "LLMDevs",
+      "created_utc": 1779082218,
+      "score": 1,
+      "url": "https://reddit.com/r/LLMDevs/comments/1tgd2vm/why_is_claude_pro_hitting_usage_limits_so/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-18"
+    },
+    "1tgghwd": {
+      "title": "How's Codex Enterprise usage limit for you all recently?",
+      "subreddit": "codex",
+      "created_utc": 1779093583,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tgghwd/hows_codex_enterprise_usage_limit_for_you_all/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-05-18"
+    },
+    "1tctogl": {
+      "title": "OpenAi Usage Exchange",
+      "subreddit": "codex",
+      "created_utc": 1778753208,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1tctogl/openai_usage_exchange/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-18"
+    },
+    "1tcdvsj": {
+      "title": "Advice on which LLM",
+      "subreddit": "codex",
+      "created_utc": 1778708511,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tcdvsj/advice_on_which_llm/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-18"
+    },
+    "1tdwzeb": {
+      "title": "Quota exceeded?",
+      "subreddit": "codex",
+      "created_utc": 1778853039,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1tdwzeb/quota_exceeded/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-05-18"
+    },
+    "1tg7id2": {
+      "title": "Out of Codex Messages but not hit usage limit?",
+      "subreddit": "codex",
+      "created_utc": 1779066313,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tg7id2/out_of_codex_messages_but_not_hit_usage_limit/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-18"
+    },
+    "1te1kkj": {
+      "title": "Codex Says Usage Limit done but Its not?",
+      "subreddit": "codex",
+      "created_utc": 1778862858,
+      "score": 3,
+      "url": "https://reddit.com/r/codex/comments/1te1kkj/codex_says_usage_limit_done_but_its_not/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-18"
+    },
+    "1tdmw5s": {
+      "title": "Codex Usage/Balance Updated? Where is the 5 hour limit usage?",
+      "subreddit": "codex",
+      "created_utc": 1778823217,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tdmw5s/codex_usagebalance_updated_where_is_the_5_hour/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-05-18"
+    },
+    "1tdgmki": {
+      "title": "codex usage limit",
+      "subreddit": "codex",
+      "created_utc": 1778805711,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tdgmki/codex_usage_limit/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-18"
+    },
+    "1tf6tgx": {
+      "title": "Usage draining fast lately",
+      "subreddit": "codex",
+      "created_utc": 1778968721,
+      "score": 22,
+      "url": "https://reddit.com/r/codex/comments/1tf6tgx/usage_draining_fast_lately/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-18"
+    },
+    "1texehg": {
+      "title": "Codex mobile doesn't work or show up",
+      "subreddit": "codex",
+      "created_utc": 1778946711,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1texehg/codex_mobile_doesnt_work_or_show_up/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-18"
+    },
+    "1tepuhf": {
+      "title": "New codex app version seems to silently consume 5h and weekly usages?",
+      "subreddit": "codex",
+      "created_utc": 1778927198,
+      "score": 2,
+      "url": "https://reddit.com/r/codex/comments/1tepuhf/new_codex_app_version_seems_to_silently_consume/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-18"
+    },
+    "1te8uyh": {
+      "title": "why does usage limits dissipate so much.",
+      "subreddit": "codex",
+      "created_utc": 1778878405,
+      "score": 4,
+      "url": "https://reddit.com/r/codex/comments/1te8uyh/why_does_usage_limits_dissipate_so_much/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-05-18"
+    },
+    "1te80pr": {
+      "title": "\"Your out of codex messages\" even after adding more credits",
+      "subreddit": "codex",
+      "created_utc": 1778876519,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1te80pr/your_out_of_codex_messages_even_after_adding_more/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-05-18"
+    },
+    "1tghbyt": {
+      "title": "Unlimmited usage on my account?",
+      "subreddit": "codex",
+      "created_utc": 1779096395,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tghbyt/unlimmited_usage_on_my_account/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-18"
+    },
+    "1td74jz": {
+      "title": "Codex keeps working and complete the running session even after running out of limit",
+      "subreddit": "codex",
+      "created_utc": 1778783856,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1td74jz/codex_keeps_working_and_complete_the_running/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-05-18"
+    },
+    "1te1otk": {
+      "title": "What helped us reduce Codex usage burn without trying to “game” the limits",
+      "subreddit": "codex",
+      "created_utc": 1778863102,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1te1otk/what_helped_us_reduce_codex_usage_burn_without/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-18"
+    },
+    "1tdatxh": {
+      "title": "Limit just gassed in hours?",
+      "subreddit": "codex",
+      "created_utc": 1778791729,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tdatxh/limit_just_gassed_in_hours/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-18"
     }
   }
 }
