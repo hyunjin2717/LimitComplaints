@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-05-18T10:23:07.854461+00:00",
-    "total_posts_analyzed": 5076,
-    "total_complaints": 1354
+    "last_updated": "2026-05-19T09:58:21.457412+00:00",
+    "total_posts_analyzed": 5131,
+    "total_complaints": 1362
   },
   "posts": {
     "1sg1yvw": {
@@ -16543,6 +16543,102 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-05-18"
+    },
+    "1th93yk": {
+      "title": "Thanks Anthropic for the x2 5h usage + 50% weekly limit boost — time to burn through it while it lasts",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1779156856,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1th93yk/thanks_anthropic_for_the_x2_5h_usage_50_weekly/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-05-19"
+    },
+    "1tgj524": {
+      "title": "[Show r/claude] macOS menu bar that shows your Claude Code usage — no API calls, no quota drain",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1779102047,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tgj524/show_rclaude_macos_menu_bar_that_shows_your/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-19"
+    },
+    "1thf973": {
+      "title": "5H limit drop again.",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1779174854,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1thf973/5h_limit_drop_again/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-19"
+    },
+    "1tfqewx": {
+      "title": "Artifacts are borderline unusable now that Claude checks usage whenever it finishes one.",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1779026523,
+      "score": 19,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tfqewx/artifacts_are_borderline_unusable_now_that_claude/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-19"
+    },
+    "1thg61o": {
+      "title": "Nobody reads the README anymore. Make Claude draw you the map instead.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1779177935,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1thg61o/nobody_reads_the_readme_anymore_make_claude_draw/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-19"
+    },
+    "1tgtkbl": {
+      "title": "Claude code down?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1779125157,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tgtkbl/claude_code_down/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-19"
+    },
+    "1th429l": {
+      "title": "Pro X20 weekly quota is draining insanely fast after the latest Codex update. Pro X20 used ~48% in one day!!!",
+      "subreddit": "OpenAI",
+      "created_utc": 1779144218,
+      "score": 1,
+      "url": "https://reddit.com/r/OpenAI/comments/1th429l/pro_x20_weekly_quota_is_draining_insanely_fast/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-05-19"
+    },
+    "1tgiwk4": {
+      "title": "We're turning into prompt managers, not craftsmen. Anyone else seeing this?",
+      "subreddit": "artificial",
+      "created_utc": 1779101360,
+      "score": 1,
+      "url": "https://reddit.com/r/artificial/comments/1tgiwk4/were_turning_into_prompt_managers_not_craftsmen/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-19"
     }
   }
 }
