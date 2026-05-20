@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-05-19T09:58:21.457412+00:00",
-    "total_posts_analyzed": 5131,
-    "total_complaints": 1362
+    "last_updated": "2026-05-20T09:47:29.907076+00:00",
+    "total_posts_analyzed": 5224,
+    "total_complaints": 1383
   },
   "posts": {
     "1sg1yvw": {
@@ -16639,6 +16639,265 @@
       ],
       "complaint_score": 4,
       "fetched_date": "2026-05-19"
+    },
+    "1thj8o5": {
+      "title": "Built a physical desk display to track Claude Code's 5h rate-limit window — open source, no cloud, reads local transcripts",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1779187860,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1thj8o5/built_a_physical_desk_display_to_track_claude/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-20"
+    },
+    "1thj358": {
+      "title": "Built a physical desk display to track Claude Code's 5h rate-limit window — open source, no cloud, reads local transcripts",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1779187416,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1thj358/built_a_physical_desk_display_to_track_claude/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-20"
+    },
+    "1tgel55": {
+      "title": "Made claude code warn you, time before it hits usage to transfer the pending work, all dynamically",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1779087067,
+      "score": 36,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tgel55/made_claude_code_warn_you_time_before_it_hits/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-05-20"
+    },
+    "1ti5dil": {
+      "title": "tracked every api call across two max 20 accounts. the older one gets 50% less quota on weekly limits.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1779236555,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1ti5dil/tracked_every_api_call_across_two_max_20_accounts/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-05-20"
+    },
+    "1tid88s": {
+      "title": "Demystifying Gemini's New Compute Limit",
+      "subreddit": "GoogleGemini",
+      "created_utc": 1779258484,
+      "score": 1,
+      "url": "https://reddit.com/r/GoogleGemini/comments/1tid88s/demystifying_geminis_new_compute_limit/",
+      "models": [
+        "gemini"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-20"
+    },
+    "1ths71k": {
+      "title": "Cross-provider api cost allocation at team scale, what the openai org dashboard doesn't tell you",
+      "subreddit": "LLMDevs",
+      "created_utc": 1779208234,
+      "score": 1,
+      "url": "https://reddit.com/r/LLMDevs/comments/1ths71k/crossprovider_api_cost_allocation_at_team_scale/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-20"
+    },
+    "1tgysar": {
+      "title": "ChatGPT customer support?",
+      "subreddit": "codex",
+      "created_utc": 1779133319,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tgysar/chatgpt_customer_support/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-20"
+    },
+    "1tfop2x": {
+      "title": "Claude Code users have killed Codex by mass switching",
+      "subreddit": "codex",
+      "created_utc": 1779022311,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1tfop2x/claude_code_users_have_killed_codex_by_mass/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-20"
+    },
+    "1ti6jyw": {
+      "title": "Does anyone else's Weekly usage limit reset early?",
+      "subreddit": "codex",
+      "created_utc": 1779239618,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1ti6jyw/does_anyone_elses_weekly_usage_limit_reset_early/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-20"
+    },
+    "1thrspd": {
+      "title": "Codex usage limit",
+      "subreddit": "codex",
+      "created_utc": 1779207406,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1thrspd/codex_usage_limit/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-20"
+    },
+    "1tgj8kj": {
+      "title": "Codex Usage Limit Watcher",
+      "subreddit": "codex",
+      "created_utc": 1779102301,
+      "score": 4,
+      "url": "https://reddit.com/r/codex/comments/1tgj8kj/codex_usage_limit_watcher/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-05-20"
+    },
+    "1ti8xir": {
+      "title": "Limit resets are counterproductive",
+      "subreddit": "codex",
+      "created_utc": 1779245804,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1ti8xir/limit_resets_are_counterproductive/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-05-20"
+    },
+    "1th3zah": {
+      "title": "Pro X20 weekly quota is draining insanely fast after the latest Codex update. Pro X20 used ~48% in one day!!!",
+      "subreddit": "codex",
+      "created_utc": 1779144036,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1th3zah/pro_x20_weekly_quota_is_draining_insanely_fast/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-05-20"
+    },
+    "1tgz46h": {
+      "title": "Newish user, experience with Codex this past weekend (overall pretty good)",
+      "subreddit": "codex",
+      "created_utc": 1779133976,
+      "score": 4,
+      "url": "https://reddit.com/r/codex/comments/1tgz46h/newish_user_experience_with_codex_this_past/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-20"
+    },
+    "1tieiwh": {
+      "title": "anybody else got weekly limit reset?",
+      "subreddit": "codex",
+      "created_utc": 1779262716,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tieiwh/anybody_else_got_weekly_limit_reset/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-05-20"
+    },
+    "1thy7t5": {
+      "title": "Goal not continuing anoymore after 5h limit hit?",
+      "subreddit": "codex",
+      "created_utc": 1779220253,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1thy7t5/goal_not_continuing_anoymore_after_5h_limit_hit/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-20"
+    },
+    "1thmwgr": {
+      "title": "Heads up, you have less than 25% of your 5h limit left. Run /status for a breakdown.",
+      "subreddit": "codex",
+      "created_utc": 1779197059,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1thmwgr/heads_up_you_have_less_than_25_of_your_5h_limit/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-20"
+    },
+    "1thlufl": {
+      "title": "Codex weekly quota seems not to be reset with auto-renewal",
+      "subreddit": "codex",
+      "created_utc": 1779194645,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1thlufl/codex_weekly_quota_seems_not_to_be_reset_with/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-20"
+    },
+    "1tif4el": {
+      "title": "Google I/O 2026 confirms AI companies are creating their own bubble narrative",
+      "subreddit": "artificial",
+      "created_utc": 1779264764,
+      "score": 1,
+      "url": "https://reddit.com/r/artificial/comments/1tif4el/google_io_2026_confirms_ai_companies_are_creating/",
+      "models": [
+        "gemini"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-20"
+    },
+    "1thnue1": {
+      "title": "Gemini Omni model is out!",
+      "subreddit": "singularity",
+      "created_utc": 1779199154,
+      "score": 1,
+      "url": "https://reddit.com/r/singularity/comments/1thnue1/gemini_omni_model_is_out/",
+      "models": [
+        "gemini"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-20"
+    },
+    "1thymta": {
+      "title": "Made claude code to dynamically fetch the usage limit and transfer pending work, OS on github!",
+      "subreddit": "github",
+      "created_utc": 1779221117,
+      "score": 1,
+      "url": "https://reddit.com/r/github/comments/1thymta/made_claude_code_to_dynamically_fetch_the_usage/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 10,
+      "fetched_date": "2026-05-20"
     }
   }
 }
