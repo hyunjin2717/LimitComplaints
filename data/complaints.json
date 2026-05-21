@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-05-20T09:47:29.907076+00:00",
-    "total_posts_analyzed": 5224,
-    "total_complaints": 1383
+    "last_updated": "2026-05-21T09:55:40.544223+00:00",
+    "total_posts_analyzed": 5303,
+    "total_complaints": 1392
   },
   "posts": {
     "1sg1yvw": {
@@ -16898,6 +16898,122 @@
       ],
       "complaint_score": 10,
       "fetched_date": "2026-05-20"
+    },
+    "1tj6rxz": {
+      "title": "When is the next rate limit reset",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1779329881,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tj6rxz/when_is_the_next_rate_limit_reset/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-21"
+    },
+    "1tiwzuk": {
+      "title": "Planning a self-hosted app that puts every AI in one place would you use it?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1779306964,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tiwzuk/planning_a_selfhosted_app_that_puts_every_ai_in/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-21"
+    },
+    "1tj9ope": {
+      "title": "Plus 5 hr usage limits",
+      "subreddit": "OpenAI",
+      "created_utc": 1779337796,
+      "score": 1,
+      "url": "https://reddit.com/r/OpenAI/comments/1tj9ope/plus_5_hr_usage_limits/",
+      "models": [
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-05-21"
+    },
+    "1tilvvm": {
+      "title": "ChatGPT becoming unusable in browser? But iOS app always works?",
+      "subreddit": "ChatGPT",
+      "created_utc": 1779284041,
+      "score": 1,
+      "url": "https://reddit.com/r/ChatGPT/comments/1tilvvm/chatgpt_becoming_unusable_in_browser_but_ios_app/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-21"
+    },
+    "1th9nj6": {
+      "title": "Is this ok? Codex to hit 70% of usage limit for this only",
+      "subreddit": "ChatGPT",
+      "created_utc": 1779158276,
+      "score": 0,
+      "url": "https://reddit.com/r/ChatGPT/comments/1th9nj6/is_this_ok_codex_to_hit_70_of_usage_limit_for/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-21"
+    },
+    "1tih003": {
+      "title": "I AM CANCELLING MY CLAUDE PRO SUBSCRIPTION (and here's my honest take)",
+      "subreddit": "PromptEngineering",
+      "created_utc": 1779271125,
+      "score": 1,
+      "url": "https://reddit.com/r/PromptEngineering/comments/1tih003/i_am_cancelling_my_claude_pro_subscription_and/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-05-21"
+    },
+    "1tiw6f6": {
+      "title": "i downgraded from every paid AI subscription and nothing broke. i'm genuinely embarrassed it took me this long.",
+      "subreddit": "PromptEngineering",
+      "created_utc": 1779305270,
+      "score": 1,
+      "url": "https://reddit.com/r/PromptEngineering/comments/1tiw6f6/i_downgraded_from_every_paid_ai_subscription_and/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-21"
+    },
+    "1tixynx": {
+      "title": "OpenAI $20 vs Gemini $20 - workplace AI setup dilemma. Best model for content writing?",
+      "subreddit": "vibecoding",
+      "created_utc": 1779308986,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1tixynx/openai_20_vs_gemini_20_workplace_ai_setup_dilemma/",
+      "models": [
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 2,
+      "fetched_date": "2026-05-21"
+    },
+    "1tiy49z": {
+      "title": "OpenAI vs Gemini ($20) for Content Writing? (Dealing with local folder access & app usage)",
+      "subreddit": "google_antigravity",
+      "created_utc": 1779309290,
+      "score": 1,
+      "url": "https://reddit.com/r/google_antigravity/comments/1tiy49z/openai_vs_gemini_20_for_content_writing_dealing/",
+      "models": [
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 2,
+      "fetched_date": "2026-05-21"
     }
   }
 }
