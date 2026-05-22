@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-05-21T09:55:40.544223+00:00",
-    "total_posts_analyzed": 5303,
-    "total_complaints": 1392
+    "last_updated": "2026-05-22T09:39:45.773325+00:00",
+    "total_posts_analyzed": 5378,
+    "total_complaints": 1412
   },
   "posts": {
     "1sg1yvw": {
@@ -17014,6 +17014,250 @@
       ],
       "complaint_score": 2,
       "fetched_date": "2026-05-21"
+    },
+    "1tkd62t": {
+      "title": "I spent time building a CLAUDE.md that makes AI coding assistants behave like senior engineers",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1779439977,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tkd62t/i_spent_time_building_a_claudemd_that_makes_ai/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-22"
+    },
+    "1tkbh6l": {
+      "title": "Hitting my limit way too fast on the 200 USD Max plan!",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1779434244,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tkbh6l/hitting_my_limit_way_too_fast_on_the_200_usd_max/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-22"
+    },
+    "1tkbg0b": {
+      "title": "Hitting my limit way too on 200 USD max plan!",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1779434140,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tkbg0b/hitting_my_limit_way_too_on_200_usd_max_plan/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 2,
+      "fetched_date": "2026-05-22"
+    },
+    "1tkcp63": {
+      "title": "Usage limit recommendations",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1779438346,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tkcp63/usage_limit_recommendations/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-22"
+    },
+    "1tk9bz1": {
+      "title": "How do you reach your usage limit?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1779427405,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tk9bz1/how_do_you_reach_your_usage_limit/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-22"
+    },
+    "1tk7wc5": {
+      "title": "I still have quite sufficient plan in my limit. But it says my usage limit reached. Anyone meeting with this issue today?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1779423131,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tk7wc5/i_still_have_quite_sufficient_plan_in_my_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-05-22"
+    },
+    "1tjxd2s": {
+      "title": "Pro subscription - unclear usage limits",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1779396313,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tjxd2s/pro_subscription_unclear_usage_limits/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-22"
+    },
+    "1tiky1e": {
+      "title": "Hitting the Usage-Limit Within a Couple of Hours Now",
+      "subreddit": "GoogleGemini",
+      "created_utc": 1779281900,
+      "score": 18,
+      "url": "https://reddit.com/r/GoogleGemini/comments/1tiky1e/hitting_the_usagelimit_within_a_couple_of_hours/",
+      "models": [
+        "gemini"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-05-22"
+    },
+    "1tjzl63": {
+      "title": "Severe Degradation In Usage Limit Consumption",
+      "subreddit": "codex",
+      "created_utc": 1779401303,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tjzl63/severe_degradation_in_usage_limit_consumption/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-05-22"
+    },
+    "1tkbk7g": {
+      "title": "Weekly usage limit got reset without replenishing tokens",
+      "subreddit": "codex",
+      "created_utc": 1779434503,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tkbk7g/weekly_usage_limit_got_reset_without_replenishing/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-22"
+    },
+    "1tit0z1": {
+      "title": "First, goals task not continuing after usage limit reached, now this?",
+      "subreddit": "codex",
+      "created_utc": 1779298943,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1tit0z1/first_goals_task_not_continuing_after_usage_limit/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-22"
+    },
+    "1tkaf2q": {
+      "title": "Codex was perfect yesterday. Today the limit got nuked in 1 hour again.",
+      "subreddit": "codex",
+      "created_utc": 1779430798,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tkaf2q/codex_was_perfect_yesterday_today_the_limit_got/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-22"
+    },
+    "1tjyup8": {
+      "title": "What is your next stop?",
+      "subreddit": "codex",
+      "created_utc": 1779399631,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tjyup8/what_is_your_next_stop/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-22"
+    },
+    "1tj9oxi": {
+      "title": "Day 6 of slow-switching to Codex",
+      "subreddit": "codex",
+      "created_utc": 1779337811,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tj9oxi/day_6_of_slowswitching_to_codex/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-22"
+    },
+    "1tj5cdf": {
+      "title": "What’s going on with the sudden change in usage limits?",
+      "subreddit": "codex",
+      "created_utc": 1779326170,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tj5cdf/whats_going_on_with_the_sudden_change_in_usage/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-05-22"
+    },
+    "1tj1h0g": {
+      "title": "Weekly Usage Window Question",
+      "subreddit": "codex",
+      "created_utc": 1779316555,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tj1h0g/weekly_usage_window_question/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-22"
+    },
+    "1tiqbdk": {
+      "title": "Anyone else burning through Codex tokens insanely fast today? Feel like something is wrong",
+      "subreddit": "codex",
+      "created_utc": 1779293408,
+      "score": 28,
+      "url": "https://reddit.com/r/codex/comments/1tiqbdk/anyone_else_burning_through_codex_tokens_insanely/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-05-22"
+    },
+    "1tikpbb": {
+      "title": "Codex limits still feel broken after the “fix” what is going on?",
+      "subreddit": "codex",
+      "created_utc": 1779281330,
+      "score": 15,
+      "url": "https://reddit.com/r/codex/comments/1tikpbb/codex_limits_still_feel_broken_after_the_fix_what/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-22"
+    },
+    "1tijynd": {
+      "title": "Usage WIdget For codex and or Claude",
+      "subreddit": "codex",
+      "created_utc": 1779279542,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tijynd/usage_widget_for_codex_and_or_claude/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-05-22"
+    },
+    "1tjedup": {
+      "title": "What is wrong with rate limits?",
+      "subreddit": "codex",
+      "created_utc": 1779352890,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tjedup/what_is_wrong_with_rate_limits/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-05-22"
     }
   }
 }
