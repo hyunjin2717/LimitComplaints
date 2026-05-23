@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-05-22T09:39:45.773325+00:00",
-    "total_posts_analyzed": 5378,
-    "total_complaints": 1412
+    "last_updated": "2026-05-23T08:32:00.750861+00:00",
+    "total_posts_analyzed": 5450,
+    "total_complaints": 1419
   },
   "posts": {
     "1sg1yvw": {
@@ -17258,6 +17258,92 @@
       ],
       "complaint_score": 8,
       "fetched_date": "2026-05-22"
+    },
+    "1tjjvwc": {
+      "title": "[ Removed by moderator ]",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1779368622,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tjjvwc/opus_4647_regression_is_real_and_getting_worse_3/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-23"
+    },
+    "1tj9aho": {
+      "title": "Dispatch (with Cowork) is insanely credit-hungry, so I made my own Dispatch",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1779336679,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tj9aho/dispatch_with_cowork_is_insanely_credithungry_so/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-23"
+    },
+    "1tkqxok": {
+      "title": "Thinking of switching back to Claude Max from ChatGPT 5.5—have the token limit and usage cap issues been fixed?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1779473278,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tkqxok/thinking_of_switching_back_to_claude_max_from/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-05-23"
+    },
+    "1tkp32p": {
+      "title": "Claude Code vs Codex nowadays",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1779469470,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tkp32p/claude_code_vs_codex_nowadays/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-23"
+    },
+    "1tklmo8": {
+      "title": "Token Limit Change? or a Scam?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1779462220,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tklmo8/token_limit_change_or_a_scam/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-05-23"
+    },
+    "1tkzfdd": {
+      "title": "Weekly usage limits are designed to double dip on customers",
+      "subreddit": "OpenAI",
+      "created_utc": 1779492209,
+      "score": 1,
+      "url": "https://reddit.com/r/OpenAI/comments/1tkzfdd/weekly_usage_limits_are_designed_to_double_dip_on/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-23"
+    },
+    "1tkx1h8": {
+      "title": "How many Codex weekly tokens are included in the ChatGPT Plus subscription ?",
+      "subreddit": "OpenAI",
+      "created_utc": 1779486426,
+      "score": 1,
+      "url": "https://reddit.com/r/OpenAI/comments/1tkx1h8/how_many_codex_weekly_tokens_are_included_in_the/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-23"
     }
   }
 }
