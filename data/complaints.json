@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-05-23T08:32:00.750861+00:00",
-    "total_posts_analyzed": 5450,
-    "total_complaints": 1419
+    "last_updated": "2026-05-24T08:39:43.830222+00:00",
+    "total_posts_analyzed": 5526,
+    "total_complaints": 1432
   },
   "posts": {
     "1sg1yvw": {
@@ -17344,6 +17344,165 @@
       ],
       "complaint_score": 4,
       "fetched_date": "2026-05-23"
+    },
+    "1tm5g45": {
+      "title": "What’s wrong with usage limit",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1779608284,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tm5g45/whats_wrong_with_usage_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-24"
+    },
+    "1tletcj": {
+      "title": "BUG/OUTAGE What's going on with Sonnet? I have full daily usage available and weekly, and hit the error: usage limit reached 'usage credits credits required for 1 m context'",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1779538349,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tletcj/bugoutage_whats_going_on_with_sonnet_i_have_full/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-24"
+    },
+    "1tlb5sj": {
+      "title": "Can I temporarily upgrade to Pro and then drop back to Free when I no longer need the increased usage limit?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1779526531,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tlb5sj/can_i_temporarily_upgrade_to_pro_and_then_drop/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-24"
+    },
+    "1tkhp7a": {
+      "title": "After comparing Claude Max $100 and ChatGPT Pro $100 side by side on actual billable work, I'm cancelling my ChatGPT Pro subscription",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1779453360,
+      "score": 162,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tkhp7a/after_comparing_claude_max_100_and_chatgpt_pro/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-24"
+    },
+    "1tldzxs": {
+      "title": "I built a tiny Claude Code companion app because I got tired of babysitting the terminal",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1779535978,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tldzxs/i_built_a_tiny_claude_code_companion_app_because/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-24"
+    },
+    "1tm1q0u": {
+      "title": "Claude Code Usage Limit Reached???",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1779596340,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tm1q0u/claude_code_usage_limit_reached/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-24"
+    },
+    "1tlqn1o": {
+      "title": "Usage Limit Reached...but it's not?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1779566605,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tlqn1o/usage_limit_reachedbut_its_not/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-05-24"
+    },
+    "1tljqxj": {
+      "title": "Claude AI pricing and usage limit is worst",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1779550635,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tljqxj/claude_ai_pricing_and_usage_limit_is_worst/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-24"
+    },
+    "1tleuhx": {
+      "title": "BUG/OUTAGE What's going on with Sonnet? I have full daily usage available and weekly, and hit the error: usage limit reached 'usage credits credits required for 1 m context'",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1779538440,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tleuhx/bugoutage_whats_going_on_with_sonnet_i_have_full/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-24"
+    },
+    "1tm63ur": {
+      "title": "Shunt - No more rate limits on Claude code - Fully Free and Open source",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1779610513,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tm63ur/shunt_no_more_rate_limits_on_claude_code_fully/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-24"
+    },
+    "1tkhsdq": {
+      "title": "I'm cancelling my ChatGPT Pro subscription",
+      "subreddit": "ChatGPT",
+      "created_utc": 1779453580,
+      "score": 0,
+      "url": "https://reddit.com/r/ChatGPT/comments/1tkhsdq/im_cancelling_my_chatgpt_pro_subscription/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-24"
+    },
+    "1tjyd8t": {
+      "title": "Claude Max worth it?",
+      "subreddit": "vibecoding",
+      "created_utc": 1779398535,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1tjyd8t/claude_max_worth_it/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-05-24"
+    },
+    "1tj0gsg": {
+      "title": "Your productivity will soon be measured by how much quota is left from your Claude Weekly budget. Looks like I was only 85% productive this week on Pro tier 😊",
+      "subreddit": "vibecoding",
+      "created_utc": 1779314273,
+      "score": 4,
+      "url": "https://reddit.com/r/vibecoding/comments/1tj0gsg/your_productivity_will_soon_be_measured_by_how/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-24"
     }
   }
 }
