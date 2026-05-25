@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-05-24T08:39:43.830222+00:00",
-    "total_posts_analyzed": 5526,
-    "total_complaints": 1432
+    "last_updated": "2026-05-25T10:22:10.385947+00:00",
+    "total_posts_analyzed": 5603,
+    "total_complaints": 1455
   },
   "posts": {
     "1sg1yvw": {
@@ -17503,6 +17503,292 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-05-24"
+    },
+    "1tm8y6i": {
+      "title": "Usage limit",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1779620075,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tm8y6i/usage_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-25"
+    },
+    "1tlk5fe": {
+      "title": "Claude web searches through Github taking a lot of tokens",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1779551568,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tlk5fe/claude_web_searches_through_github_taking_a_lot/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-25"
+    },
+    "1tmzoyn": {
+      "title": "Claude Code can run rm -rf, dd, curl|sh, and git --force on its own. Here's the hook config that blocks all of them.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1779687487,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tmzoyn/claude_code_can_run_rm_rf_dd_curlsh_and_git_force/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-25"
+    },
+    "1tmm9xx": {
+      "title": "Usage limit error",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1779652191,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tmm9xx/usage_limit_error/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-25"
+    },
+    "1tmfjvb": {
+      "title": "FINAL NOTICE: Gemini Pro destroyed my professional workflow – 6 queries wiped 80% of my quota. Cancelling. Here's my full protest letter to Google",
+      "subreddit": "GoogleGemini",
+      "created_utc": 1779637145,
+      "score": 1,
+      "url": "https://reddit.com/r/GoogleGemini/comments/1tmfjvb/final_notice_gemini_pro_destroyed_my_professional/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 9,
+      "fetched_date": "2026-05-25"
+    },
+    "1tlmv19": {
+      "title": "Codex's best feature over Claude: It doesn't abruptly stop when the rate limit is hit",
+      "subreddit": "codex",
+      "created_utc": 1779557820,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tlmv19/codexs_best_feature_over_claude_it_doesnt/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-25"
+    },
+    "1tkrh4j": {
+      "title": "They Acknowledged The Rate Limit Nuke",
+      "subreddit": "codex",
+      "created_utc": 1779474379,
+      "score": 46,
+      "url": "https://reddit.com/r/codex/comments/1tkrh4j/they_acknowledged_the_rate_limit_nuke/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-25"
+    },
+    "1tkoqex": {
+      "title": "openai is investigating user hitting rate limit too fast in codex",
+      "subreddit": "codex",
+      "created_utc": 1779468743,
+      "score": 171,
+      "url": "https://reddit.com/r/codex/comments/1tkoqex/openai_is_investigating_user_hitting_rate_limit/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-05-25"
+    },
+    "1tmq15x": {
+      "title": "Codex CLI lists Codex 5.3-Spark limit but won't let me run with 5.3 Spark ?",
+      "subreddit": "codex",
+      "created_utc": 1779661046,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tmq15x/codex_cli_lists_codex_53spark_limit_but_wont_let/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-25"
+    },
+    "1tluhk0": {
+      "title": "Evidence OpenAI fixed Codex rate limits",
+      "subreddit": "codex",
+      "created_utc": 1779576160,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tluhk0/evidence_openai_fixed_codex_rate_limits/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-25"
+    },
+    "1tle6ld": {
+      "title": "Built a lightweight macOS menu bar system monitor because I got tired of opening Activity Monitor constantly.",
+      "subreddit": "codex",
+      "created_utc": 1779536554,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1tle6ld/built_a_lightweight_macos_menu_bar_system_monitor/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-25"
+    },
+    "1tlbo72": {
+      "title": "story timee!!!",
+      "subreddit": "codex",
+      "created_utc": 1779528306,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1tlbo72/story_timee/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-05-25"
+    },
+    "1tjkzmk": {
+      "title": "The usage limits for ChatGPT Excel are way too low for actual financial modeling",
+      "subreddit": "codex",
+      "created_utc": 1779371059,
+      "score": 5,
+      "url": "https://reddit.com/r/codex/comments/1tjkzmk/the_usage_limits_for_chatgpt_excel_are_way_too/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-05-25"
+    },
+    "1tlm000": {
+      "title": "Codex client no longer shows usage limit?",
+      "subreddit": "codex",
+      "created_utc": 1779555836,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tlm000/codex_client_no_longer_shows_usage_limit/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-25"
+    },
+    "1tkik84": {
+      "title": "Codex usage limit reduced by half (estimated) pro x5 -> pro x20 = pro 10x",
+      "subreddit": "codex",
+      "created_utc": 1779455440,
+      "score": 152,
+      "url": "https://reddit.com/r/codex/comments/1tkik84/codex_usage_limit_reduced_by_half_estimated_pro/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-05-25"
+    },
+    "1tmxvf2": {
+      "title": "Auto compact is still destroying usage limits, how is this not fixed?",
+      "subreddit": "codex",
+      "created_utc": 1779682053,
+      "score": 20,
+      "url": "https://reddit.com/r/codex/comments/1tmxvf2/auto_compact_is_still_destroying_usage_limits_how/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-05-25"
+    },
+    "1tm0pa5": {
+      "title": "Codex performance is useless since the thinking time was reduced...",
+      "subreddit": "codex",
+      "created_utc": 1779593308,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tm0pa5/codex_performance_is_useless_since_the_thinking/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-25"
+    },
+    "1tl8o4b": {
+      "title": "Codex CLI limits vs Claude Code: is everyone seeing this huge difference?",
+      "subreddit": "codex",
+      "created_utc": 1779518190,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1tl8o4b/codex_cli_limits_vs_claude_code_is_everyone/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-25"
+    },
+    "1tkp42w": {
+      "title": "Claude Code vs codex nowadays",
+      "subreddit": "codex",
+      "created_utc": 1779469524,
+      "score": 2,
+      "url": "https://reddit.com/r/codex/comments/1tkp42w/claude_code_vs_codex_nowadays/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-25"
+    },
+    "1tkf0dc": {
+      "title": "Paid Codex users are being squeezed while the free tier keeps getting access",
+      "subreddit": "codex",
+      "created_utc": 1779445861,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1tkf0dc/paid_codex_users_are_being_squeezed_while_the/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-05-25"
+    },
+    "1tmqbpt": {
+      "title": "Weekly limit drains almost as fast as 5h limit after reset",
+      "subreddit": "codex",
+      "created_utc": 1779661744,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tmqbpt/weekly_limit_drains_almost_as_fast_as_5h_limit/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-25"
+    },
+    "1tmrcfj": {
+      "title": "going back to 5.3",
+      "subreddit": "codex",
+      "created_utc": 1779664324,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tmrcfj/going_back_to_53/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-05-25"
+    },
+    "1tluj25": {
+      "title": "they need to make an ultra fast mode",
+      "subreddit": "codex",
+      "created_utc": 1779576269,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tluj25/they_need_to_make_an_ultra_fast_mode/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-25"
     }
   }
 }
