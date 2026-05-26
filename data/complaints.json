@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-05-25T10:22:10.385947+00:00",
-    "total_posts_analyzed": 5603,
-    "total_complaints": 1455
+    "last_updated": "2026-05-26T10:07:55.105624+00:00",
+    "total_posts_analyzed": 5666,
+    "total_complaints": 1468
   },
   "posts": {
     "1sg1yvw": {
@@ -17789,6 +17789,165 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-05-25"
+    },
+    "1tn54un": {
+      "title": "Usage Limit Reached Bug",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1779704936,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tn54un/usage_limit_reached_bug/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-26"
+    },
+    "1tmi5ux": {
+      "title": "The weekly limit bump is great, but my biggest issue is how fast I burn tokens when Claude gets stubborn",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1779643020,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tmi5ux/the_weekly_limit_bump_is_great_but_my_biggest/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-26"
+    },
+    "1tnzz69": {
+      "title": "Coding 8 hours/day with Claude Code is great, until you realize you haven't talked to another dev all week",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1779781672,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tnzz69/coding_8_hoursday_with_claude_code_is_great_until/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-26"
+    },
+    "1tn556d": {
+      "title": "Moving Claude Code over to Vertex AI completely fixed my rate-limiting issues.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1779704964,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tn556d/moving_claude_code_over_to_vertex_ai_completely/",
+      "models": [
+        "claude",
+        "gemini"
+      ],
+      "complaint_score": 9,
+      "fetched_date": "2026-05-26"
+    },
+    "1tngu3v": {
+      "title": "Usage limit reached – barely got 2 responses",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1779732110,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tngu3v/usage_limit_reached_barely_got_2_responses/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-26"
+    },
+    "1tn6tsa": {
+      "title": "5 Hour Usage Limit Exploded After Two Prompts",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1779709846,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tn6tsa/5_hour_usage_limit_exploded_after_two_prompts/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-05-26"
+    },
+    "1tnpisy": {
+      "title": "After weekly Codex limits reset, usage is draining too fast and subagents are hitting 429 retry limits",
+      "subreddit": "codex",
+      "created_utc": 1779751911,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tnpisy/after_weekly_codex_limits_reset_usage_is_draining/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 9,
+      "fetched_date": "2026-05-26"
+    },
+    "1tnm6ig": {
+      "title": "I Think I Fixed My Rapidly Draining Usage Limits ($200 Pro Plan)",
+      "subreddit": "codex",
+      "created_utc": 1779743771,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tnm6ig/i_think_i_fixed_my_rapidly_draining_usage_limits/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-05-26"
+    },
+    "1tnh4r9": {
+      "title": "Why are so many people still complaining?",
+      "subreddit": "codex",
+      "created_utc": 1779732739,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tnh4r9/why_are_so_many_people_still_complaining/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-26"
+    },
+    "1tn7x0h": {
+      "title": "Codex is literally insane",
+      "subreddit": "codex",
+      "created_utc": 1779712620,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tn7x0h/codex_is_literally_insane/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-26"
+    },
+    "1tlunv0": {
+      "title": "Apparently the fix was to reduce weekly limits.",
+      "subreddit": "codex",
+      "created_utc": 1779576628,
+      "score": 7,
+      "url": "https://reddit.com/r/codex/comments/1tlunv0/apparently_the_fix_was_to_reduce_weekly_limits/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-05-26"
+    },
+    "1to15a9": {
+      "title": "Did Google secretly nerf Antigravity models after day one?",
+      "subreddit": "google_antigravity",
+      "created_utc": 1779785665,
+      "score": 1,
+      "url": "https://reddit.com/r/google_antigravity/comments/1to15a9/did_google_secretly_nerf_antigravity_models_after/",
+      "models": [
+        "gemini"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-05-26"
+    },
+    "1tm8z4k": {
+      "title": "Positive view of Antigravity 2.0 having been trying and testing it",
+      "subreddit": "google_antigravity",
+      "created_utc": 1779620161,
+      "score": 4,
+      "url": "https://reddit.com/r/google_antigravity/comments/1tm8z4k/positive_view_of_antigravity_20_having_been/",
+      "models": [
+        "gemini"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-26"
     }
   }
 }
