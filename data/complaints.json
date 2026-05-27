@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-05-26T10:07:55.105624+00:00",
-    "total_posts_analyzed": 5666,
-    "total_complaints": 1468
+    "last_updated": "2026-05-27T10:05:39.936342+00:00",
+    "total_posts_analyzed": 5712,
+    "total_complaints": 1476
   },
   "posts": {
     "1sg1yvw": {
@@ -17948,6 +17948,103 @@
       ],
       "complaint_score": 4,
       "fetched_date": "2026-05-26"
+    },
+    "1tn6zzw": {
+      "title": "Built with Claude Code: a Pi Zero 2W BadUSB toolkit, fixed a feature I'd called \"impossible\" for a year",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1779710318,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tn6zzw/built_with_claude_code_a_pi_zero_2w_badusb/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-27"
+    },
+    "1tozl76": {
+      "title": "usage limit",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1779871274,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tozl76/usage_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-27"
+    },
+    "1toam6v": {
+      "title": "I built a Windows tray that shows your Claude Code rate-limit usage at a glance",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1779809860,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1toam6v/i_built_a_windows_tray_that_shows_your_claude/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-27"
+    },
+    "1tp07f0": {
+      "title": "Rate Limit Bug?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1779873399,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tp07f0/rate_limit_bug/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-27"
+    },
+    "1to5dls": {
+      "title": "Is there any way by which we can get more usage limit in claude or at very cheap price please lmk",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1779798269,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1to5dls/is_there_any_way_by_which_we_can_get_more_usage/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-27"
+    },
+    "1toyuid": {
+      "title": "Max 5x on two accounts vs upgrading to Max 20x - which gives more weekly limit?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1779868743,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1toyuid/max_5x_on_two_accounts_vs_upgrading_to_max_20x/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-27"
+    },
+    "1tohuin": {
+      "title": "> The worst part about LLM rate limits isn't the waiting, it's losing the conversation momentum.",
+      "subreddit": "PromptEngineering",
+      "created_utc": 1779824540,
+      "score": 1,
+      "url": "https://reddit.com/r/PromptEngineering/comments/1tohuin/the_worst_part_about_llm_rate_limits_isnt_the/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-05-27"
+    },
+    "1tnoavm": {
+      "title": "How would you fix the pricing of AI features without hurting UX?",
+      "subreddit": "PromptEngineering",
+      "created_utc": 1779748836,
+      "score": 1,
+      "url": "https://reddit.com/r/PromptEngineering/comments/1tnoavm/how_would_you_fix_the_pricing_of_ai_features/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-27"
     }
   }
 }
