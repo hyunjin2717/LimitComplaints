@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-05-27T10:05:39.936342+00:00",
-    "total_posts_analyzed": 5712,
-    "total_complaints": 1476
+    "last_updated": "2026-05-28T10:15:51.594447+00:00",
+    "total_posts_analyzed": 5771,
+    "total_complaints": 1488
   },
   "posts": {
     "1sg1yvw": {
@@ -18045,6 +18045,153 @@
       ],
       "complaint_score": 4,
       "fetched_date": "2026-05-27"
+    },
+    "1tp9282": {
+      "title": "Ways to optimize usage limit on pro plan, I’ll go first",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1779895904,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tp9282/ways_to_optimize_usage_limit_on_pro_plan_ill_go/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-28"
+    },
+    "1tp4s9n": {
+      "title": "Genuinely, what is wrong with Anthropic?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1779886612,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tp4s9n/genuinely_what_is_wrong_with_anthropic/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-28"
+    },
+    "1tp3pep": {
+      "title": "Reverse-engineering Claude’s weekly quota formula - need data points from Pro & Max 5x users",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1779883923,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tp3pep/reverseengineering_claudes_weekly_quota_formula/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-05-28"
+    },
+    "1tpyj6y": {
+      "title": "Vertex AI Quota Exceeded for Claude Opus 4.7 in Excel Add-in – Anyone dealt with this?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1779960667,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tpyj6y/vertex_ai_quota_exceeded_for_claude_opus_47_in/",
+      "models": [
+        "claude",
+        "gemini"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-28"
+    },
+    "1tpvd4s": {
+      "title": "Making Claude check its own work with 3x'd my output quality",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1779949838,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tpvd4s/making_claude_check_its_own_work_with_3xd_my/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-28"
+    },
+    "1tpuwg9": {
+      "title": "Does unused capacity in a 5h session roll into your weekly limit, or is it lost?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1779948330,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tpuwg9/does_unused_capacity_in_a_5h_session_roll_into/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-05-28"
+    },
+    "1tpa9is": {
+      "title": "Why is it an act of Congress in ChatGPT to selectively delete conversations? Why is there no checkbox for batch deletion? Even trying to delete a few at a time (like only 3) is taking a long time and getting \"Too many requests\" messages and shutting down.",
+      "subreddit": "ChatGPT",
+      "created_utc": 1779898418,
+      "score": 1,
+      "url": "https://reddit.com/r/ChatGPT/comments/1tpa9is/why_is_it_an_act_of_congress_in_chatgpt_to/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-28"
+    },
+    "1tp97rb": {
+      "title": "ChatGPT Go and usage limits",
+      "subreddit": "ChatGPT",
+      "created_utc": 1779896229,
+      "score": 1,
+      "url": "https://reddit.com/r/ChatGPT/comments/1tp97rb/chatgpt_go_and_usage_limits/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-05-28"
+    },
+    "1tp1vzt": {
+      "title": "ChatGPT Plus and usage limits",
+      "subreddit": "ChatGPT",
+      "created_utc": 1779878799,
+      "score": 1,
+      "url": "https://reddit.com/r/ChatGPT/comments/1tp1vzt/chatgpt_plus_and_usage_limits/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-05-28"
+    },
+    "1tp1s7e": {
+      "title": "ChatGPT plus subscription abs usher limits",
+      "subreddit": "ChatGPT",
+      "created_utc": 1779878472,
+      "score": 1,
+      "url": "https://reddit.com/r/ChatGPT/comments/1tp1s7e/chatgpt_plus_subscription_abs_usher_limits/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-28"
+    },
+    "1tpaixt": {
+      "title": "Claude Usage Tray: a zero-dep WinForms NotifyIcon utility for tracking AI rate limits",
+      "subreddit": "vibecoding",
+      "created_utc": 1779898950,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1tpaixt/claude_usage_tray_a_zerodep_winforms_notifyicon/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-28"
+    },
+    "1tnf8dg": {
+      "title": "Top 3 common critical issues with vibe-coded apps",
+      "subreddit": "vibecoding",
+      "created_utc": 1779728706,
+      "score": 3,
+      "url": "https://reddit.com/r/vibecoding/comments/1tnf8dg/top_3_common_critical_issues_with_vibecoded_apps/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-28"
     }
   }
 }
