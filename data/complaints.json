@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-05-28T10:15:51.594447+00:00",
-    "total_posts_analyzed": 5771,
-    "total_complaints": 1488
+    "last_updated": "2026-05-29T10:05:57.266180+00:00",
+    "total_posts_analyzed": 5829,
+    "total_complaints": 1499
   },
   "posts": {
     "1sg1yvw": {
@@ -18192,6 +18192,141 @@
       ],
       "complaint_score": 4,
       "fetched_date": "2026-05-28"
+    },
+    "1tqwuss": {
+      "title": "Bypassed Usage Limit Bug?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1780048171,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tqwuss/bypassed_usage_limit_bug/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-29"
+    },
+    "1tqgz9s": {
+      "title": "My weekly usage limit just dropped 50%",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1780003409,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tqgz9s/my_weekly_usage_limit_just_dropped_50/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-29"
+    },
+    "1tq98es": {
+      "title": "Weekly usage limit reset again?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1779987065,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tq98es/weekly_usage_limit_reset_again/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-29"
+    },
+    "1tq8opo": {
+      "title": "Temporary rate limits?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1779985875,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tq8opo/temporary_rate_limits/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-05-29"
+    },
+    "1tpotms": {
+      "title": "[Architecture Review] Splitting a massive 60k-token LLM payload across 3 different providers in parallel to bypass free-tier rate limits. Genius or fragile anti-pattern?",
+      "subreddit": "LLMDevs",
+      "created_utc": 1779930972,
+      "score": 1,
+      "url": "https://reddit.com/r/LLMDevs/comments/1tpotms/architecture_review_splitting_a_massive_60ktoken/",
+      "models": [
+        "gemini"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-05-29"
+    },
+    "1tqx1jp": {
+      "title": "You've hit your usage limit",
+      "subreddit": "codex",
+      "created_utc": 1780048762,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tqx1jp/youve_hit_your_usage_limit/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-29"
+    },
+    "1toytb4": {
+      "title": "Usage limit not resetting - credit usage history not displaying",
+      "subreddit": "codex",
+      "created_utc": 1779868621,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1toytb4/usage_limit_not_resetting_credit_usage_history/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-05-29"
+    },
+    "1tqp4zk": {
+      "title": "Your plan does not impose Codex rate limits",
+      "subreddit": "codex",
+      "created_utc": 1780023971,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tqp4zk/your_plan_does_not_impose_codex_rate_limits/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-05-29"
+    },
+    "1tp7458": {
+      "title": "Token or Setup Problem?",
+      "subreddit": "codex",
+      "created_utc": 1779891815,
+      "score": 5,
+      "url": "https://reddit.com/r/codex/comments/1tp7458/token_or_setup_problem/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-05-29"
+    },
+    "1tog780": {
+      "title": "Did Codex limits change recently?",
+      "subreddit": "codex",
+      "created_utc": 1779821142,
+      "score": 9,
+      "url": "https://reddit.com/r/codex/comments/1tog780/did_codex_limits_change_recently/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-29"
+    },
+    "1to94vs": {
+      "title": "There is a severe token-draining issue with GPT-Codex.",
+      "subreddit": "codex",
+      "created_utc": 1779806762,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1to94vs/there_is_a_severe_tokendraining_issue_with/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-05-29"
     }
   }
 }
