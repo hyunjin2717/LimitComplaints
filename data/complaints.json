@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-05-29T10:05:57.266180+00:00",
-    "total_posts_analyzed": 5829,
-    "total_complaints": 1499
+    "last_updated": "2026-05-30T08:37:54.419648+00:00",
+    "total_posts_analyzed": 5903,
+    "total_complaints": 1520
   },
   "posts": {
     "1sg1yvw": {
@@ -18327,6 +18327,265 @@
       ],
       "complaint_score": 7,
       "fetched_date": "2026-05-29"
+    },
+    "1tpx1ve": {
+      "title": "Claude code usage limits while building apps from scratch I am",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1779955549,
+      "score": 8,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tpx1ve/claude_code_usage_limits_while_building_apps_from/",
+      "models": [
+        "claude",
+        "gemini"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-05-30"
+    },
+    "1trsqot": {
+      "title": "I got tired of losing all my context when Claude hits its usage limit, so I built a tool that hands off to Codex/Gemini automatically",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1780124894,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1trsqot/i_got_tired_of_losing_all_my_context_when_claude/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-30"
+    },
+    "1tr87bu": {
+      "title": "Claude usage limit warning appears even when usage is below limit",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1780073898,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tr87bu/claude_usage_limit_warning_appears_even_when/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-05-30"
+    },
+    "1tr5pce": {
+      "title": "USAGE RESET, 3 DAYS BEFORE MY WEEKLY LIMIT RESETS?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1780069095,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tr5pce/usage_reset_3_days_before_my_weekly_limit_resets/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-30"
+    },
+    "1tq9kla": {
+      "title": "Can someone explain to me what happened??",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1779987797,
+      "score": 2,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tq9kla/can_someone_explain_to_me_what_happened/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-30"
+    },
+    "1tq1cfv": {
+      "title": "Tried using my own brain to save Claude tokens. Bad trade",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1779969226,
+      "score": 116,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tq1cfv/tried_using_my_own_brain_to_save_claude_tokens/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-30"
+    },
+    "1tpyq06": {
+      "title": "The Uber claude code budget story is the most claude code thing possible",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1779961305,
+      "score": 32,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tpyq06/the_uber_claude_code_budget_story_is_the_most/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-30"
+    },
+    "1trf57d": {
+      "title": "Claude usage limit is weird?!?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1780087606,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1trf57d/claude_usage_limit_is_weird/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-05-30"
+    },
+    "1tqxo7q": {
+      "title": "Are alternative frontends still blocked?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1780050593,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tqxo7q/are_alternative_frontends_still_blocked/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-30"
+    },
+    "1tqbdj3": {
+      "title": "I think they should have a 5h limit override.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1779991538,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tqbdj3/i_think_they_should_have_a_5h_limit_override/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-30"
+    },
+    "1tq9wo7": {
+      "title": "Why 5 hours limit is only 6% of weekly limit?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1779988497,
+      "score": 3,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tq9wo7/why_5_hours_limit_is_only_6_of_weekly_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-30"
+    },
+    "1tri2gc": {
+      "title": "dynamic workflows are cool and fast",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1780094359,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tri2gc/dynamic_workflows_are_cool_and_fast/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-30"
+    },
+    "1tq9dji": {
+      "title": "Weekly limit resetting multiple times per week",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1779987381,
+      "score": 2,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tq9dji/weekly_limit_resetting_multiple_times_per_week/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-05-30"
+    },
+    "1tox2qm": {
+      "title": "It's time to move ? Free our tokens !",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1779862894,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tox2qm/its_time_to_move_free_our_tokens/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-05-30"
+    },
+    "1tqwxxb": {
+      "title": "AI coding is getting expensive and cannot afford $100 now 😔. What's the best coding setup under $20/month in 2026?",
+      "subreddit": "vibecoding",
+      "created_utc": 1780048456,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1tqwxxb/ai_coding_is_getting_expensive_and_cannot_afford/",
+      "models": [
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-30"
+    },
+    "1tr0b4z": {
+      "title": "How can I use my Codex usage limit efficiently?",
+      "subreddit": "vibecoding",
+      "created_utc": 1780057636,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1tr0b4z/how_can_i_use_my_codex_usage_limit_efficiently/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-30"
+    },
+    "1tqy4z3": {
+      "title": "Why is everyone complaining about usage limits?",
+      "subreddit": "vibecoding",
+      "created_utc": 1780051978,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1tqy4z3/why_is_everyone_complaining_about_usage_limits/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-05-30"
+    },
+    "1top7w2": {
+      "title": "Antigravity weekly quota",
+      "subreddit": "vibecoding",
+      "created_utc": 1779841100,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1top7w2/antigravity_weekly_quota/",
+      "models": [
+        "gemini"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-05-30"
+    },
+    "1tpg1p5": {
+      "title": "Quantized? Rate limits?",
+      "subreddit": "codex",
+      "created_utc": 1779910346,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1tpg1p5/quantized_rate_limits/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-30"
+    },
+    "1tr0a3j": {
+      "title": "How can I use my usage limit efficiently?",
+      "subreddit": "codex",
+      "created_utc": 1780057566,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tr0a3j/how_can_i_use_my_usage_limit_efficiently/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-30"
+    },
+    "1trmvgh": {
+      "title": "Mystery company accidentally blew $500 million on Claude AI in a single month — failed to put usage limit on licenses for employees",
+      "subreddit": "artificial",
+      "created_utc": 1780107146,
+      "score": 1,
+      "url": "https://reddit.com/r/artificial/comments/1trmvgh/mystery_company_accidentally_blew_500_million_on/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-30"
     }
   }
 }
