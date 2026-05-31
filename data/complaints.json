@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-05-30T08:37:54.419648+00:00",
-    "total_posts_analyzed": 5903,
-    "total_complaints": 1520
+    "last_updated": "2026-05-31T08:56:57.718632+00:00",
+    "total_posts_analyzed": 5975,
+    "total_complaints": 1532
   },
   "posts": {
     "1sg1yvw": {
@@ -18586,6 +18586,152 @@
       ],
       "complaint_score": 4,
       "fetched_date": "2026-05-30"
+    },
+    "1tsggay": {
+      "title": "VSCode plugin says I'm at my rate limit? What am I missing?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1780188050,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tsggay/vscode_plugin_says_im_at_my_rate_limit_what_am_i/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-31"
+    },
+    "1tsh2r3": {
+      "title": "Weekly usage reset this morning and I’m already at 29%. Anyone else seeing this?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1780189834,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tsh2r3/weekly_usage_reset_this_morning_and_im_already_at/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-31"
+    },
+    "1tsi6ph": {
+      "title": "Codex limit situation feels bad right now",
+      "subreddit": "codex",
+      "created_utc": 1780193081,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tsi6ph/codex_limit_situation_feels_bad_right_now/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-31"
+    },
+    "1ts4fbn": {
+      "title": "Codex CLI keeps switching from GPT-5.5 to GPT-5.4 mid-session",
+      "subreddit": "codex",
+      "created_utc": 1780158412,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1ts4fbn/codex_cli_keeps_switching_from_gpt55_to_gpt54/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-05-31"
+    },
+    "1ts1siw": {
+      "title": "Are people getting paid to say it's good",
+      "subreddit": "codex",
+      "created_utc": 1780152116,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1ts1siw/are_people_getting_paid_to_say_its_good/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-31"
+    },
+    "1trt72w": {
+      "title": "Codex says I hit my usage limits when I wasn't",
+      "subreddit": "codex",
+      "created_utc": 1780126438,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1trt72w/codex_says_i_hit_my_usage_limits_when_i_wasnt/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-31"
+    },
+    "1trsnsy": {
+      "title": "Now when I ran out earlier they didn't reset",
+      "subreddit": "codex",
+      "created_utc": 1780124630,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1trsnsy/now_when_i_ran_out_earlier_they_didnt_reset/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-31"
+    },
+    "1tqiy4l": {
+      "title": "Codex’s \"gift\" limit resets are ruining my workflow. Here is a better way.",
+      "subreddit": "codex",
+      "created_utc": 1780007900,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1tqiy4l/codexs_gift_limit_resets_are_ruining_my_workflow/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-05-31"
+    },
+    "1tq0tvu": {
+      "title": "First time hitting the limit EVER",
+      "subreddit": "codex",
+      "created_utc": 1779967782,
+      "score": 11,
+      "url": "https://reddit.com/r/codex/comments/1tq0tvu/first_time_hitting_the_limit_ever/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-05-31"
+    },
+    "1tpxfeh": {
+      "title": "can someone explain this?",
+      "subreddit": "codex",
+      "created_utc": 1779956844,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tpxfeh/can_someone_explain_this/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-31"
+    },
+    "1trpmbd": {
+      "title": "Codex vs. Claude Code: Which one has the higher quota (daily and weekly)?",
+      "subreddit": "codex",
+      "created_utc": 1780115069,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1trpmbd/codex_vs_claude_code_which_one_has_the_higher/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-05-31"
+    },
+    "1trym4h": {
+      "title": "I've been working on a project... I have Pro an ran out of tokens on 5.3...",
+      "subreddit": "codex",
+      "created_utc": 1780144060,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1trym4h/ive_been_working_on_a_project_i_have_pro_an_ran/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-05-31"
     }
   }
 }
