@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-05-31T08:56:57.718632+00:00",
-    "total_posts_analyzed": 5975,
-    "total_complaints": 1532
+    "last_updated": "2026-06-01T11:51:32.067292+00:00",
+    "total_posts_analyzed": 6068,
+    "total_complaints": 1555
   },
   "posts": {
     "1sg1yvw": {
@@ -18732,6 +18732,285 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-05-31"
+    },
+    "1tsb1eo": {
+      "title": "ClaudeGauge - Tired of opening claude.ai to check my 5h limit? Here.. a real-time Claude.ai monitor on ESP32-S3 with a Star Trek LCARS interface",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1780174013,
+      "score": 11,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tsb1eo/claudegauge_tired_of_opening_claudeai_to_check_my/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-06-01"
+    },
+    "1ttmjn8": {
+      "title": "Approaching weekly usage limit -> but limit is at 30%. Is it a bug?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1780304723,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1ttmjn8/approaching_weekly_usage_limit_but_limit_is_at_30/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-06-01"
+    },
+    "1tt6v7a": {
+      "title": "Hitting Max Usage Limit? Something I don’t know? (Opus 4.8 - 20x)",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1780260163,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tt6v7a/hitting_max_usage_limit_something_i_dont_know/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-01"
+    },
+    "1tsb0qf": {
+      "title": "Introducing Machinaos[Fully Opensource]: OS That converts LLM Tokens to Work.",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1780173968,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tsb0qf/introducing_machinaosfully_opensource_os_that/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-06-01"
+    },
+    "1trjwk7": {
+      "title": "Noob question: how do I stop burning through tokens so fast?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1780099029,
+      "score": 2,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1trjwk7/noob_question_how_do_i_stop_burning_through/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-01"
+    },
+    "1tt8uqv": {
+      "title": "I wish Claude could let us skip 5h limit once every week.",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1780264843,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tt8uqv/i_wish_claude_could_let_us_skip_5h_limit_once/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-01"
+    },
+    "1tt3dal": {
+      "title": "API Error: Server is temporarily limiting requests (not your usage limit) · Rate limited",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1780252380,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tt3dal/api_error_server_is_temporarily_limiting_requests/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-06-01"
+    },
+    "1tt3cbo": {
+      "title": "API Error: Server is temporarily limiting requests (not your usage limit) · Rate limited",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1780252320,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tt3cbo/api_error_server_is_temporarily_limiting_requests/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-01"
+    },
+    "1tt95nk": {
+      "title": "Claude Pro/Max Weekly Limits and Silent Cuts are a Breach of Contract. Stop accepting it and start filing Chargebacks (FTC / Global Action Guide)",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1780265576,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tt95nk/claude_promax_weekly_limits_and_silent_cuts_are_a/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-06-01"
+    },
+    "1tt7ub2": {
+      "title": "Opus 4.8 very trigger happy with /deep-research and workflows...",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1780262419,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tt7ub2/opus_48_very_trigger_happy_with_deepresearch_and/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-06-01"
+    },
+    "1ttnksh": {
+      "title": "Claude tried 4 wrong fixes for the same bug. My teammate found it in 30 min.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1780308143,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1ttnksh/claude_tried_4_wrong_fixes_for_the_same_bug_my/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-01"
+    },
+    "1tsqyj1": {
+      "title": "Claude answers what you ask. I built a plugin that catches what you miss.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1780221130,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tsqyj1/claude_answers_what_you_ask_i_built_a_plugin_that/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-01"
+    },
+    "1ttmj5k": {
+      "title": "Approaching weekly usage limit -> but limit is at 30%. Is it a bug?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1780304681,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1ttmj5k/approaching_weekly_usage_limit_but_limit_is_at_30/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-06-01"
+    },
+    "1tt260i": {
+      "title": "Open Request to Anthropic: Reset 5-Hour and Weekly Limits After Claude 4.8 Regressions",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1780249789,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tt260i/open_request_to_anthropic_reset_5hour_and_weekly/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-06-01"
+    },
+    "1tt1z3z": {
+      "title": "Dynamic workflows are unusable for max 20x",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1780249340,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tt1z3z/dynamic_workflows_are_unusable_for_max_20x/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-01"
+    },
+    "1ttky85": {
+      "title": "What's going on ? (LIMIT ISSUE)",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1780299271,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1ttky85/whats_going_on_limit_issue/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-01"
+    },
+    "1ttmyxl": {
+      "title": "Codex users -- change from weekly limit to monthly limit",
+      "subreddit": "ChatGPT",
+      "created_utc": 1780306152,
+      "score": 1,
+      "url": "https://reddit.com/r/ChatGPT/comments/1ttmyxl/codex_users_change_from_weekly_limit_to_monthly/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-01"
+    },
+    "1tssafk": {
+      "title": "Today, 5 projects, 20 agents, 8hours, Weekly 100%->92%, what happened???",
+      "subreddit": "ChatGPT",
+      "created_utc": 1780225467,
+      "score": 1,
+      "url": "https://reddit.com/r/ChatGPT/comments/1tssafk/today_5_projects_20_agents_8hours_weekly_10092/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-01"
+    },
+    "1tsowg3": {
+      "title": "Spent 533 hours vibe coding my productivity app, how I save tokens.",
+      "subreddit": "vibecoding",
+      "created_utc": 1780213961,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1tsowg3/spent_533_hours_vibe_coding_my_productivity_app/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-01"
+    },
+    "1tto7np": {
+      "title": "End of 2x promo: On my 100$ plan, there's WAY less juice than just half of that orange",
+      "subreddit": "codex",
+      "created_utc": 1780310083,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tto7np/end_of_2x_promo_on_my_100_plan_theres_way_less/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-06-01"
+    },
+    "1ttdyoj": {
+      "title": "Please don't do it Slodex!",
+      "subreddit": "codex",
+      "created_utc": 1780278259,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1ttdyoj/please_dont_do_it_slodex/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-06-01"
+    },
+    "1ts9bw3": {
+      "title": "Tomorrow is the 31st of May, just saying.",
+      "subreddit": "codex",
+      "created_utc": 1780169950,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1ts9bw3/tomorrow_is_the_31st_of_may_just_saying/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-06-01"
+    },
+    "1ttm9vw": {
+      "title": "Getting better reports and results on ChatGPT 5.5 than Opus 4.8 for business analytics",
+      "subreddit": "artificial",
+      "created_utc": 1780303813,
+      "score": 1,
+      "url": "https://reddit.com/r/artificial/comments/1ttm9vw/getting_better_reports_and_results_on_chatgpt_55/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-01"
     }
   }
 }
