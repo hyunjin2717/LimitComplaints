@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-01T11:51:32.067292+00:00",
-    "total_posts_analyzed": 6068,
-    "total_complaints": 1555
+    "last_updated": "2026-06-02T10:48:49.083335+00:00",
+    "total_posts_analyzed": 6144,
+    "total_complaints": 1569
   },
   "posts": {
     "1sg1yvw": {
@@ -19011,6 +19011,176 @@
       ],
       "complaint_score": 4,
       "fetched_date": "2026-06-01"
+    },
+    "1ttw4mu": {
+      "title": "I kept getting rate limited mid-conversation so I built a Chrome extension that shows your 5-hour window in real time, i haven't found anything else like this.",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1780328584,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1ttw4mu/i_kept_getting_rate_limited_midconversation_so_i/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-06-02"
+    },
+    "1tsqwr8": {
+      "title": "[ Removed by moderator ]",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1780220961,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tsqwr8/claude_answers_what_you_ask_i_built_a_plugin_that/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-02"
+    },
+    "1tu1hym": {
+      "title": "My Claude usage limit just reset at 89%... has this happened to anyone else?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1780339116,
+      "score": 4,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tu1hym/my_claude_usage_limit_just_reset_at_89_has_this/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-02"
+    },
+    "1ttq8nf": {
+      "title": "Bug: Usage limit instantly jumped from 40% to 100% in 1 minute. Is anyone else experiencing this?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1780315758,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1ttq8nf/bug_usage_limit_instantly_jumped_from_40_to_100/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-02"
+    },
+    "1tts5ei": {
+      "title": "Reached the Token Limit in 8 Minutes. How generous of you Claude! (and an experiment with DeepSeek with surprising results)",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1780320282,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tts5ei/reached_the_token_limit_in_8_minutes_how_generous/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-06-02"
+    },
+    "1ttzjoq": {
+      "title": "Rate limit reset",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1780335377,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1ttzjoq/rate_limit_reset/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-02"
+    },
+    "1ttwuz8": {
+      "title": "When you hit the \"Message limit reached until 4:00 PM\" warning and have to resort to this... 💀",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1780330024,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1ttwuz8/when_you_hit_the_message_limit_reached_until_400/",
+      "models": [
+        "claude",
+        "gemini"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-06-02"
+    },
+    "1ttwbo9": {
+      "title": "I kept getting rate limited mid-conversation so I built a Chrome extension that shows your 5-hour window in real time,i havent found anything else like this.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1780328981,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1ttwbo9/i_kept_getting_rate_limited_midconversation_so_i/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 9,
+      "fetched_date": "2026-06-02"
+    },
+    "1tts4qj": {
+      "title": "Add MiniMax M3 as a fallback to Claude Code and never get rate-limited again",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1780320240,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tts4qj/add_minimax_m3_as_a_fallback_to_claude_code_and/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-02"
+    },
+    "1ttqclw": {
+      "title": "Usage limit instantly jumped from 40% to 100% in 1 minute. Is anyone else experiencing this?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1780316035,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1ttqclw/usage_limit_instantly_jumped_from_40_to_100_in_1/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-02"
+    },
+    "1tukfwg": {
+      "title": "Weekly limit gone, what happens at renewal?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1780388051,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tukfwg/weekly_limit_gone_what_happens_at_renewal/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-02"
+    },
+    "1tu7q16": {
+      "title": "Is it time to go back to Claude?",
+      "subreddit": "codex",
+      "created_utc": 1780352161,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tu7q16/is_it_time_to_go_back_to_claude/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-02"
+    },
+    "1tu7686": {
+      "title": "Ran /goal for 24+ hours, hit limit multiple times and now I know why",
+      "subreddit": "codex",
+      "created_utc": 1780350950,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tu7686/ran_goal_for_24_hours_hit_limit_multiple_times/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-02"
+    },
+    "1tu3l8s": {
+      "title": "WTF Slodex?!",
+      "subreddit": "codex",
+      "created_utc": 1780343375,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1tu3l8s/wtf_slodex/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-02"
     }
   }
 }
