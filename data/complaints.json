@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-02T10:48:49.083335+00:00",
-    "total_posts_analyzed": 6144,
-    "total_complaints": 1569
+    "last_updated": "2026-06-03T11:12:48.139177+00:00",
+    "total_posts_analyzed": 6220,
+    "total_complaints": 1576
   },
   "posts": {
     "1sg1yvw": {
@@ -19181,6 +19181,90 @@
       ],
       "complaint_score": 4,
       "fetched_date": "2026-06-02"
+    },
+    "1ttnl78": {
+      "title": "Claude tried 4 wrong fixes for the same bug. My teammate found it in 30 min.",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1780308178,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1ttnl78/claude_tried_4_wrong_fixes_for_the_same_bug_my/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-03"
+    },
+    "1ttptw1": {
+      "title": "How do usage limits actually work?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1780314711,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1ttptw1/how_do_usage_limits_actually_work/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-06-03"
+    },
+    "1tvj16t": {
+      "title": "What's with the slow responses and server overloads?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1780475081,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tvj16t/whats_with_the_slow_responses_and_server_overloads/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-06-03"
+    },
+    "1tut9ah": {
+      "title": "why do people purchase API credits in claude? when Max plan provides almost 3 time usage? approxly 600$ (i measured it using token count and model cost)",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1780411835,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tut9ah/why_do_people_purchase_api_credits_in_claude_when/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-03"
+    },
+    "1tuth44": {
+      "title": "Claude still throttled/broken despite status saying all systems operational",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1780412294,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tuth44/claude_still_throttledbroken_despite_status/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-06-03"
+    },
+    "1tuoffw": {
+      "title": "Claude saying Ive hit my limit (yet limit is at 25^)",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1780400642,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tuoffw/claude_saying_ive_hit_my_limit_yet_limit_is_at_25/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-06-03"
+    },
+    "1tvf3nx": {
+      "title": "Why does Gemini's usage limit now reset every 5 hours?",
+      "subreddit": "GoogleGemini",
+      "created_utc": 1780462199,
+      "score": 1,
+      "url": "https://reddit.com/r/GoogleGemini/comments/1tvf3nx/why_does_geminis_usage_limit_now_reset_every_5/",
+      "models": [
+        "gemini"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-03"
     }
   }
 }
