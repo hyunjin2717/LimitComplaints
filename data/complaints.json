@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-03T11:12:48.139177+00:00",
-    "total_posts_analyzed": 6220,
-    "total_complaints": 1576
+    "last_updated": "2026-06-04T10:07:01.111503+00:00",
+    "total_posts_analyzed": 6320,
+    "total_complaints": 1598
   },
   "posts": {
     "1sg1yvw": {
@@ -19265,6 +19265,271 @@
       ],
       "complaint_score": 4,
       "fetched_date": "2026-06-03"
+    },
+    "1tulg6j": {
+      "title": "I made a free macOS menu bar app so I'd stop running out of Claude Code quota mid-task",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1780391471,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tulg6j/i_made_a_free_macos_menu_bar_app_so_id_stop/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-06-04"
+    },
+    "1tvody1": {
+      "title": "Hit my usage limit",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1780491022,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tvody1/hit_my_usage_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-04"
+    },
+    "1tukee7": {
+      "title": "On Claude free, you have no idea how close you are to your limit until it cuts you off mid-thought. I finally got a live usage view that works on the free plan",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1780387906,
+      "score": 10,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tukee7/on_claude_free_you_have_no_idea_how_close_you_are/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-04"
+    },
+    "1tvn5q4": {
+      "title": "I’ve only used 25% of my quota this week, but it says I’m close to the weekly limit?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1780487941,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tvn5q4/ive_only_used_25_of_my_quota_this_week_but_it/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-04"
+    },
+    "1tvribu": {
+      "title": "1M context requires usage limit?!",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1780497894,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tvribu/1m_context_requires_usage_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-06-04"
+    },
+    "1tvxq31": {
+      "title": "weird pattern since 4.8: feels slower, but I’m using way less of my limit",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1780510414,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tvxq31/weird_pattern_since_48_feels_slower_but_im_using/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-04"
+    },
+    "1tvh803": {
+      "title": "Has 5h/weekly limit gone? I only see one combined \"Usage limit\" meter now",
+      "subreddit": "codex",
+      "created_utc": 1780468885,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tvh803/has_5hweekly_limit_gone_i_only_see_one_combined/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-04"
+    },
+    "1tv1tar": {
+      "title": "1 prompt using 140k tokens on GPT 5.4 medium took up 20% of my 5h limit (plus plan)",
+      "subreddit": "codex",
+      "created_utc": 1780429263,
+      "score": 2,
+      "url": "https://reddit.com/r/codex/comments/1tv1tar/1_prompt_using_140k_tokens_on_gpt_54_medium_took/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-04"
+    },
+    "1tv0q6y": {
+      "title": "1 prompt using 140k tokens on GPT 4.4 medium took up 20% of my 5h limit (plus plan)",
+      "subreddit": "codex",
+      "created_utc": 1780426993,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tv0q6y/1_prompt_using_140k_tokens_on_gpt_44_medium_took/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-04"
+    },
+    "1tuk748": {
+      "title": "Weekly limit dropping the same speed 5h limit dropped during 2x event, honestly it seems like they reduced 10x plan to 2x not cutting usage in half but by 5 times",
+      "subreddit": "codex",
+      "created_utc": 1780387224,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tuk748/weekly_limit_dropping_the_same_speed_5h_limit/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-04"
+    },
+    "1tujbd0": {
+      "title": "Weekly limit dropping the same speed 5h limit dropped during 2x event, honestly it seems like they reduced 10x plan to 2x not cutting usage in half but by 5 times",
+      "subreddit": "codex",
+      "created_utc": 1780384190,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tujbd0/weekly_limit_dropping_the_same_speed_5h_limit/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-04"
+    },
+    "1tsu8ed": {
+      "title": "5h limit used on multiple accounts at once ?",
+      "subreddit": "codex",
+      "created_utc": 1780231103,
+      "score": 2,
+      "url": "https://reddit.com/r/codex/comments/1tsu8ed/5h_limit_used_on_multiple_accounts_at_once/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-04"
+    },
+    "1tvzpyf": {
+      "title": "The rate limits remind me on the hell that happened on Github Copilot. 1 prompt, 0 lines written 60% 5h limits used and 10% of weekly..",
+      "subreddit": "codex",
+      "created_utc": 1780514419,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tvzpyf/the_rate_limits_remind_me_on_the_hell_that/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-06-04"
+    },
+    "1tupu8w": {
+      "title": "RIP Codex5.3",
+      "subreddit": "codex",
+      "created_utc": 1780404224,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tupu8w/rip_codex53/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-04"
+    },
+    "1tu1htn": {
+      "title": "Codex just reduced massively it's tokens allowance. Totally HIDDEN change. Very bad business model.",
+      "subreddit": "codex",
+      "created_utc": 1780339108,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1tu1htn/codex_just_reduced_massively_its_tokens_allowance/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-04"
+    },
+    "1ttlm6d": {
+      "title": "Codex passively uses tokens when /status command is on",
+      "subreddit": "codex",
+      "created_utc": 1780301548,
+      "score": 4,
+      "url": "https://reddit.com/r/codex/comments/1ttlm6d/codex_passively_uses_tokens_when_status_command/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-04"
+    },
+    "1ttlrp2": {
+      "title": "There seems to be a serious bug in weekly quota calculation now",
+      "subreddit": "codex",
+      "created_utc": 1780302072,
+      "score": 17,
+      "url": "https://reddit.com/r/codex/comments/1ttlrp2/there_seems_to_be_a_serious_bug_in_weekly_quota/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-06-04"
+    },
+    "1tvridi": {
+      "title": "I'm only getting like 4–5 prompts every 5 hours on the $20 ChatGPT plan when using GPT-5.4 / Codex?",
+      "subreddit": "codex",
+      "created_utc": 1780497898,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tvridi/im_only_getting_like_45_prompts_every_5_hours_on/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-06-04"
+    },
+    "1tu55nk": {
+      "title": "The rug pull is real. GPT Codex 5.5 just screwed the indie dev (even on the $100 Pro plan).",
+      "subreddit": "codex",
+      "created_utc": 1780346586,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1tu55nk/the_rug_pull_is_real_gpt_codex_55_just_screwed/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-06-04"
+    },
+    "1tt3l5c": {
+      "title": "Stealing 1%",
+      "subreddit": "codex",
+      "created_utc": 1780252846,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tt3l5c/stealing_1/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-04"
+    },
+    "1tt0c7n": {
+      "title": "Codex reset speedrun",
+      "subreddit": "codex",
+      "created_utc": 1780245666,
+      "score": 17,
+      "url": "https://reddit.com/r/codex/comments/1tt0c7n/codex_reset_speedrun/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-06-04"
+    },
+    "1tss707": {
+      "title": "Today, 5 projects, 20 agents, 8hours, Weekly 100%->92%, what happened???",
+      "subreddit": "codex",
+      "created_utc": 1780225189,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1tss707/today_5_projects_20_agents_8hours_weekly_10092/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-04"
     }
   }
 }
