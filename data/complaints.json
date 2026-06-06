@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-05T10:06:31.663943+00:00",
-    "total_posts_analyzed": 6457,
-    "total_complaints": 1633
+    "last_updated": "2026-06-06T08:43:13.039898+00:00",
+    "total_posts_analyzed": 6538,
+    "total_complaints": 1647
   },
   "posts": {
     "1sg1yvw": {
@@ -19957,6 +19957,177 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-06-05"
+    },
+    "1twsxtn": {
+      "title": "Claude Usage Limitation For Pro Users",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1780590954,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1twsxtn/claude_usage_limitation_for_pro_users/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-06-06"
+    },
+    "1ty7w7i": {
+      "title": "I used 5 prompts and hit a 5-hour timeout. This cannot be real.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1780721936,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1ty7w7i/i_used_5_prompts_and_hit_a_5hour_timeout_this/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-06-06"
+    },
+    "1ty8jg5": {
+      "title": "Max 20x Plan — Usage limit increasing with zero activity, no API keys, no sessions. Billing dispute.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1780723965,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1ty8jg5/max_20x_plan_usage_limit_increasing_with_zero/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-06"
+    },
+    "1ty3naf": {
+      "title": "Wtf is the point of /export when you can't use it after you've reached your usage limit even though it's just a local command?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1780709362,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1ty3naf/wtf_is_the_point_of_export_when_you_cant_use_it/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 10,
+      "fetched_date": "2026-06-06"
+    },
+    "1ty9lug": {
+      "title": "Reduced weekly limits? Workflows?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1780727469,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1ty9lug/reduced_weekly_limits_workflows/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-06"
+    },
+    "1txzd0d": {
+      "title": "Sonnet 4.6 just burnt though my whole extra usage credit budget for exceeding the 200k context even though I had `\"env\": { \"CLAUDE_CODE_DISABLE_1M_CONTEXT\": \"1\" }` explicitly set",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1780698049,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1txzd0d/sonnet_46_just_burnt_though_my_whole_extra_usage/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-06"
+    },
+    "1twom4i": {
+      "title": "ChatGPT Pro - funky rate limits",
+      "subreddit": "ChatGPT",
+      "created_utc": 1780581770,
+      "score": 1,
+      "url": "https://reddit.com/r/ChatGPT/comments/1twom4i/chatgpt_pro_funky_rate_limits/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-06"
+    },
+    "1ty2by2": {
+      "title": "Made a Claude usage limit screen for my Tidbyt pixel display to help with timing my coffee breaks",
+      "subreddit": "vibecoding",
+      "created_utc": 1780705685,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1ty2by2/made_a_claude_usage_limit_screen_for_my_tidbyt/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-06"
+    },
+    "1tvhu1j": {
+      "title": "rate limit gone?",
+      "subreddit": "codex",
+      "created_utc": 1780470946,
+      "score": 19,
+      "url": "https://reddit.com/r/codex/comments/1tvhu1j/rate_limit_gone/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-06"
+    },
+    "1txz638": {
+      "title": "Codex Limits Workaround",
+      "subreddit": "codex",
+      "created_utc": 1780697570,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1txz638/codex_limits_workaround/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-06"
+    },
+    "1txqk9b": {
+      "title": "We're cooked - Weekly Quota Rate Change",
+      "subreddit": "codex",
+      "created_utc": 1780678369,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1txqk9b/were_cooked_weekly_quota_rate_change/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 9,
+      "fetched_date": "2026-06-06"
+    },
+    "1twcgw7": {
+      "title": "codex-bengalfox appeared in my rate limits — is this GPT-5.5-Codex-Spark?",
+      "subreddit": "codex",
+      "created_utc": 1780545487,
+      "score": 9,
+      "url": "https://reddit.com/r/codex/comments/1twcgw7/codexbengalfox_appeared_in_my_rate_limits_is_this/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-06"
+    },
+    "1txbzjj": {
+      "title": "POV: you upgrade to the $200 plan and get rate-limited on day one",
+      "subreddit": "codex",
+      "created_utc": 1780638105,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1txbzjj/pov_you_upgrade_to_the_200_plan_and_get/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-06"
+    },
+    "1tuuviv": {
+      "title": "Unable to access my codex account one day after subscribing to Plus!",
+      "subreddit": "codex",
+      "created_utc": 1780415164,
+      "score": 3,
+      "url": "https://reddit.com/r/codex/comments/1tuuviv/unable_to_access_my_codex_account_one_day_after/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-06-06"
     }
   }
 }
