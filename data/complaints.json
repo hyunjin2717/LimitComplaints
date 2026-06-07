@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-06T08:43:13.039898+00:00",
-    "total_posts_analyzed": 6538,
-    "total_complaints": 1647
+    "last_updated": "2026-06-07T09:25:21.617139+00:00",
+    "total_posts_analyzed": 6641,
+    "total_complaints": 1668
   },
   "posts": {
     "1sg1yvw": {
@@ -20128,6 +20128,261 @@
       ],
       "complaint_score": 5,
       "fetched_date": "2026-06-06"
+    },
+    "1tx0zt6": {
+      "title": "I used Claude Code to help take my site from 88 to 100 on mobile PageSpeed Insights",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1780608135,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tx0zt6/i_used_claude_code_to_help_take_my_site_from_88/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-07"
+    },
+    "1txrt8b": {
+      "title": "How to Download Your Project Files From Claude",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1780681015,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1txrt8b/how_to_download_your_project_files_from_claude/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-06-07"
+    },
+    "1tz13mb": {
+      "title": "I built a live usage status line for Claude Code, see your session/weekly\n  limits above the prompt, no /usage needed",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1780803002,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tz13mb/i_built_a_live_usage_status_line_for_claude_code/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-07"
+    },
+    "1tz4b9a": {
+      "title": "Honestly, Claude limits on the $100 plan feel pretty generous now",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1780813234,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tz4b9a/honestly_claude_limits_on_the_100_plan_feel/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-07"
+    },
+    "1tyjy7s": {
+      "title": "Claude plugin for VSCode stopped working 2 days ago",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1780758980,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tyjy7s/claude_plugin_for_vscode_stopped_working_2_days/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 2,
+      "fetched_date": "2026-06-07"
+    },
+    "1tyii93": {
+      "title": "Opus 4.8 1M Fast",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1780755531,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tyii93/opus_48_1m_fast/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-07"
+    },
+    "1tygutx": {
+      "title": "Claude kept hitting its context limit mid-project, so I used Claude Code to build the fix. Here's what I learned.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1780751305,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tygutx/claude_kept_hitting_its_context_limit_midproject/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-07"
+    },
+    "1tydgk0": {
+      "title": "Claude Pro users: how do you actually manage usage limits during the day?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1780741012,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tydgk0/claude_pro_users_how_do_you_actually_manage_usage/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 9,
+      "fetched_date": "2026-06-07"
+    },
+    "1twfe4u": {
+      "title": "Codex just reset its usage limit for paid plan users",
+      "subreddit": "OpenAI",
+      "created_utc": 1780554496,
+      "score": 51,
+      "url": "https://reddit.com/r/OpenAI/comments/1twfe4u/codex_just_reset_its_usage_limit_for_paid_plan/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-07"
+    },
+    "1txdmt6": {
+      "title": "My OpenAI account was disabled 5 days into the billing cycle, under 10% weekly usage. Appeal submitted.",
+      "subreddit": "OpenAI",
+      "created_utc": 1780643592,
+      "score": 13,
+      "url": "https://reddit.com/r/OpenAI/comments/1txdmt6/my_openai_account_was_disabled_5_days_into_the/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-06-07"
+    },
+    "1tz556u": {
+      "title": "Upgrading from Pro 5x to 25x Usage limit no longer resets like with Plus, right guys?",
+      "subreddit": "codex",
+      "created_utc": 1780816071,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tz556u/upgrading_from_pro_5x_to_25x_usage_limit_no/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-06-07"
+    },
+    "1tyzs8b": {
+      "title": "Codex says I hit usage limit, but UI still shows 5h and weekly usage remaining",
+      "subreddit": "codex",
+      "created_utc": 1780799072,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tyzs8b/codex_says_i_hit_usage_limit_but_ui_still_shows/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-07"
+    },
+    "1tyd2u2": {
+      "title": "Limit usage widget polling",
+      "subreddit": "codex",
+      "created_utc": 1780739673,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tyd2u2/limit_usage_widget_polling/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 2,
+      "fetched_date": "2026-06-07"
+    },
+    "1txl0w2": {
+      "title": "When did even monthly resets come? 2 days ago, I saw it like June 5 and now it's Jul 5 and even the usage limit also decreased it seems 💔",
+      "subreddit": "codex",
+      "created_utc": 1780666159,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1txl0w2/when_did_even_monthly_resets_come_2_days_ago_i/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-07"
+    },
+    "1tyxkzj": {
+      "title": "How I cut Codex token use from ~138M/day to ~20M/day after the 2x promo ended",
+      "subreddit": "codex",
+      "created_utc": 1780792605,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tyxkzj/how_i_cut_codex_token_use_from_138mday_to_20mday/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-07"
+    },
+    "1typ2kq": {
+      "title": "Is there a way to queue Codex prompts until usage limits refresh?",
+      "subreddit": "codex",
+      "created_utc": 1780770887,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1typ2kq/is_there_a_way_to_queue_codex_prompts_until_usage/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-06-07"
+    },
+    "1txljg0": {
+      "title": "For the first time, I’m paying $200/month and not constantly worrying about hitting a limit",
+      "subreddit": "codex",
+      "created_utc": 1780667412,
+      "score": 9,
+      "url": "https://reddit.com/r/codex/comments/1txljg0/for_the_first_time_im_paying_200month_and_not/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-06-07"
+    },
+    "1txir8e": {
+      "title": "5hr limit equivalent to weekly limit",
+      "subreddit": "codex",
+      "created_utc": 1780660444,
+      "score": 9,
+      "url": "https://reddit.com/r/codex/comments/1txir8e/5hr_limit_equivalent_to_weekly_limit/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-07"
+    },
+    "1ty74y0": {
+      "title": "Codex taking from the weekly while the 5h limit is up",
+      "subreddit": "codex",
+      "created_utc": 1780719569,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1ty74y0/codex_taking_from_the_weekly_while_the_5h_limit/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-07"
+    },
+    "1txhvzj": {
+      "title": "$100 plan gives less then $20 did before promo, insane 5h and weekly drains. 1 minutes of work took 2%",
+      "subreddit": "codex",
+      "created_utc": 1780657933,
+      "score": 37,
+      "url": "https://reddit.com/r/codex/comments/1txhvzj/100_plan_gives_less_then_20_did_before_promo/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-07"
+    },
+    "1tyng43": {
+      "title": "Limits Must be Increased",
+      "subreddit": "codex",
+      "created_utc": 1780767149,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tyng43/limits_must_be_increased/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-06-07"
     }
   }
 }
