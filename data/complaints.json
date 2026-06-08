@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-07T09:25:21.617139+00:00",
-    "total_posts_analyzed": 6641,
-    "total_complaints": 1668
+    "last_updated": "2026-06-08T11:22:10.007411+00:00",
+    "total_posts_analyzed": 6715,
+    "total_complaints": 1675
   },
   "posts": {
     "1sg1yvw": {
@@ -20383,6 +20383,91 @@
       ],
       "complaint_score": 6,
       "fetched_date": "2026-06-07"
+    },
+    "1tya0m4": {
+      "title": "Claude Design went through all my 5 hour quota + $8 of my own credits in one prompt + 1 change logo request.",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1780728865,
+      "score": 2,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tya0m4/claude_design_went_through_all_my_5_hour_quota_8/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-06-08"
+    },
+    "1tzn6r3": {
+      "title": "Woah woah woah.  Hold up. So I canceled my sub last month, it finally expired, I subscribed again, and my weekly usage quota does NOT get reset?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1780864302,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1tzn6r3/woah_woah_woah_hold_up_so_i_canceled_my_sub_last/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-06-08"
+    },
+    "1u04i3i": {
+      "title": "There are still issues with the weekly limits",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1780916140,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1u04i3i/there_are_still_issues_with_the_weekly_limits/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-06-08"
+    },
+    "1u008h6": {
+      "title": "Anyone else facing the issue with codex usage limit for one month?",
+      "subreddit": "codex",
+      "created_utc": 1780901404,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1u008h6/anyone_else_facing_the_issue_with_codex_usage/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-06-08"
+    },
+    "1tzviwl": {
+      "title": "Upgraded and usage limit remains the same",
+      "subreddit": "codex",
+      "created_utc": 1780886454,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tzviwl/upgraded_and_usage_limit_remains_the_same/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-08"
+    },
+    "1tybu2m": {
+      "title": "The post-promo $100 Pro tier is completely unusable. OpenAI, make the 2x limits permanent or everyone is just going to switch to Claude.",
+      "subreddit": "codex",
+      "created_utc": 1780735215,
+      "score": 111,
+      "url": "https://reddit.com/r/codex/comments/1tybu2m/the_postpromo_100_pro_tier_is_completely_unusable/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-06-08"
+    },
+    "1tyk7sv": {
+      "title": "Antigravity Tokens Spend",
+      "subreddit": "google_antigravity",
+      "created_utc": 1780759619,
+      "score": 1,
+      "url": "https://reddit.com/r/google_antigravity/comments/1tyk7sv/antigravity_tokens_spend/",
+      "models": [
+        "gemini"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-06-08"
     }
   }
 }
