@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-08T11:22:10.007411+00:00",
-    "total_posts_analyzed": 6715,
-    "total_complaints": 1675
+    "last_updated": "2026-06-09T10:03:04.874037+00:00",
+    "total_posts_analyzed": 6813,
+    "total_complaints": 1697
   },
   "posts": {
     "1sg1yvw": {
@@ -20468,6 +20468,274 @@
       ],
       "complaint_score": 6,
       "fetched_date": "2026-06-08"
+    },
+    "1u0qo2y": {
+      "title": "If you are reaching rate limit on a max plan too easily in claude code, this might be helpful",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1780967350,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1u0qo2y/if_you_are_reaching_rate_limit_on_a_max_plan_too/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-09"
+    },
+    "1u0ci26": {
+      "title": "Rate limit bug with sonnet ?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1780935278,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1u0ci26/rate_limit_bug_with_sonnet/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-09"
+    },
+    "1tzagkc": {
+      "title": "LLM delegation - probing task handoff efficiency and economics",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1780834235,
+      "score": 2,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tzagkc/llm_delegation_probing_task_handoff_efficiency/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-09"
+    },
+    "1u0s9gw": {
+      "title": "Testing Claude Max 5x for heavy full-stack workflows: Quota durability with Claude Code?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1780971769,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1u0s9gw/testing_claude_max_5x_for_heavy_fullstack/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 9,
+      "fetched_date": "2026-06-09"
+    },
+    "1u0k6g0": {
+      "title": "Can someone explain to me rate-limits?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1780951346,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1u0k6g0/can_someone_explain_to_me_ratelimits/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-06-09"
+    },
+    "1u0hw4s": {
+      "title": "API Error - Rate Limited",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1780946434,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1u0hw4s/api_error_rate_limited/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-09"
+    },
+    "1u0s5nh": {
+      "title": "I built a local-first budget circuit breaker for Python LLM agents after a stuck loop cost me real money",
+      "subreddit": "LLMDevs",
+      "created_utc": 1780971472,
+      "score": 1,
+      "url": "https://reddit.com/r/LLMDevs/comments/1u0s5nh/i_built_a_localfirst_budget_circuit_breaker_for/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-06-09"
+    },
+    "1tznq52": {
+      "title": "Cheap and free LLM APIs - for the token price hike era",
+      "subreddit": "LLMDevs",
+      "created_utc": 1780865554,
+      "score": 2,
+      "url": "https://reddit.com/r/LLMDevs/comments/1tznq52/cheap_and_free_llm_apis_for_the_token_price_hike/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-09"
+    },
+    "1u00v3z": {
+      "title": "Anyone else juggling Claude Code, Codex and Cursor and constantly forgetting how much usage they have left?",
+      "subreddit": "vibecoding",
+      "created_utc": 1780903543,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1u00v3z/anyone_else_juggling_claude_code_codex_and_cursor/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 2,
+      "fetched_date": "2026-06-09"
+    },
+    "1tzsn2u": {
+      "title": "Discussion of Rate Limits and 5.6 - P.S. ADD A DISCUSSION FLAIR",
+      "subreddit": "codex",
+      "created_utc": 1780878200,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tzsn2u/discussion_of_rate_limits_and_56_ps_add_a/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-06-09"
+    },
+    "1tyhs7h": {
+      "title": "Reminder - Codex 5.3 Spark is pretty damn good and fast too and it has its own weekly limit",
+      "subreddit": "codex",
+      "created_utc": 1780753764,
+      "score": 14,
+      "url": "https://reddit.com/r/codex/comments/1tyhs7h/reminder_codex_53_spark_is_pretty_damn_good_and/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-09"
+    },
+    "1u053ph": {
+      "title": "ImageGen in Codex hitting server errors / too many requests",
+      "subreddit": "codex",
+      "created_utc": 1780917940,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1u053ph/imagegen_in_codex_hitting_server_errors_too_many/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-06-09"
+    },
+    "1u0zq2e": {
+      "title": "hit my weekly usage limit too quickly",
+      "subreddit": "codex",
+      "created_utc": 1780995993,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1u0zq2e/hit_my_weekly_usage_limit_too_quickly/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-09"
+    },
+    "1u0zimj": {
+      "title": "Just upgraded my plan to x20 pro plan minutes ago, and it says You've hit your usage limit. Upgrade to Plus to continue using Codex",
+      "subreddit": "codex",
+      "created_utc": 1780995260,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1u0zimj/just_upgraded_my_plan_to_x20_pro_plan_minutes_ago/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-09"
+    },
+    "1u0g8xn": {
+      "title": "Hitting token limit at work - limiting more personal usage? Curious what's happening out here",
+      "subreddit": "codex",
+      "created_utc": 1780943068,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1u0g8xn/hitting_token_limit_at_work_limiting_more/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-09"
+    },
+    "1u08n13": {
+      "title": "Usage limit hit too quick",
+      "subreddit": "codex",
+      "created_utc": 1780926920,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1u08n13/usage_limit_hit_too_quick/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-06-09"
+    },
+    "1u0bdqc": {
+      "title": "Codex Usage Limits Are Disrupting Our Workflow",
+      "subreddit": "codex",
+      "created_utc": 1780932898,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1u0bdqc/codex_usage_limits_are_disrupting_our_workflow/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-06-09"
+    },
+    "1tztwab": {
+      "title": "Doe codex now forced end of work as soon as you hit 0% usage?",
+      "subreddit": "codex",
+      "created_utc": 1780881733,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tztwab/doe_codex_now_forced_end_of_work_as_soon_as_you/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-09"
+    },
+    "1tzsrsi": {
+      "title": "One prompt",
+      "subreddit": "codex",
+      "created_utc": 1780878552,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tzsrsi/one_prompt/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-09"
+    },
+    "1tz6ios": {
+      "title": "Masterful work, OpenAI!",
+      "subreddit": "codex",
+      "created_utc": 1780821019,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1tz6ios/masterful_work_openai/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-09"
+    },
+    "1tzwo7k": {
+      "title": "Extreme quota leakage / drain, no active tasks!",
+      "subreddit": "codex",
+      "created_utc": 1780889857,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1tzwo7k/extreme_quota_leakage_drain_no_active_tasks/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-09"
+    },
+    "1u00dbp": {
+      "title": "Memanto vs SQLite R_A_G Benchmark Results - Cloud vs Local Memory Systems [P]",
+      "subreddit": "MachineLearning",
+      "created_utc": 1780901875,
+      "score": 1,
+      "url": "https://reddit.com/r/MachineLearning/comments/1u00dbp/memanto_vs_sqlite_r_a_g_benchmark_results_cloud/",
+      "models": [
+        "gemini"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-09"
     }
   }
 }
