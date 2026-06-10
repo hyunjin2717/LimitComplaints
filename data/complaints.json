@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-09T10:03:04.874037+00:00",
-    "total_posts_analyzed": 6813,
-    "total_complaints": 1697
+    "last_updated": "2026-06-10T10:14:49.898665+00:00",
+    "total_posts_analyzed": 6882,
+    "total_complaints": 1715
   },
   "posts": {
     "1sg1yvw": {
@@ -20736,6 +20736,226 @@
       ],
       "complaint_score": 4,
       "fetched_date": "2026-06-09"
+    },
+    "1u0f7et": {
+      "title": "Claude Pro showing “usage limit reached” even though account settings show weekly limit only 33% used — is there another hidden limit?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1780940979,
+      "score": 3,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1u0f7et/claude_pro_showing_usage_limit_reached_even/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-06-10"
+    },
+    "1u1tmsh": {
+      "title": "VS Code Extension for CC usage — Claudometer (cost, tokens, live quota + weekly limit forecast)",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1781071219,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1u1tmsh/vs_code_extension_for_cc_usage_claudometer_cost/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-10"
+    },
+    "1u1mc0p": {
+      "title": "I let morbid curiosity win, dynamic workflows with Fable hit a 5x usage limit within 4m",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1781049984,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1u1mc0p/i_let_morbid_curiosity_win_dynamic_workflows_with/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-10"
+    },
+    "1u06w9l": {
+      "title": "The usage limits are real and I've made peace with a workflow around them, but I think the silent part is the actual problem",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1780922843,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1u06w9l/the_usage_limits_are_real_and_ive_made_peace_with/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-10"
+    },
+    "1tzzy5i": {
+      "title": "Can you change the weekly reset day for Claude Code usage limits?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1780900390,
+      "score": 7,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tzzy5i/can_you_change_the_weekly_reset_day_for_claude/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-06-10"
+    },
+    "1tzwrxs": {
+      "title": "Claude's new usage limits are insane.",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1780890171,
+      "score": 765,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1tzwrxs/claudes_new_usage_limits_are_insane/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-06-10"
+    },
+    "1u1ovah": {
+      "title": "I have ~18 hours to spend 93% of my weekly quota. Ideas??",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1781056954,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1u1ovah/i_have_18_hours_to_spend_93_of_my_weekly_quota/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-10"
+    },
+    "1u1ii6y": {
+      "title": "5x vs 20x Weekly Quota",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1781040602,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1u1ii6y/5x_vs_20x_weekly_quota/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-10"
+    },
+    "1u1it2q": {
+      "title": "Fable5 hits... MONTHLY spend limit?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1781041287,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1u1it2q/fable5_hits_monthly_spend_limit/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-10"
+    },
+    "1u1ud1q": {
+      "title": "How to burn your usage limit in minutes lol.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1781073630,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1u1ud1q/how_to_burn_your_usage_limit_in_minutes_lol/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-10"
+    },
+    "1u1iztc": {
+      "title": "Usage limit reset! Happy fable day",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1781041718,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1u1iztc/usage_limit_reset_happy_fable_day/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-10"
+    },
+    "1u1wjr1": {
+      "title": "Are usage limits burning faster for anyone else from yesterday?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1781081282,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1u1wjr1/are_usage_limits_burning_faster_for_anyone_else/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-06-10"
+    },
+    "1u18jyd": {
+      "title": "Claude Code Max account hit weekly limit twice within 20 minutes of single threaded work",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1781019440,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1u18jyd/claude_code_max_account_hit_weekly_limit_twice/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-06-10"
+    },
+    "1u0vjhl": {
+      "title": "Is the Weekly Limit Reduced, or Does Opus 4.8 Consume More of the Weekly Quota Than the 5-Hour Limit?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1780981500,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1u0vjhl/is_the_weekly_limit_reduced_or_does_opus_48/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-06-10"
+    },
+    "1u0jeo4": {
+      "title": "Session Usage Limits really suck, how are you working around them?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1780949656,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1u0jeo4/session_usage_limits_really_suck_how_are_you/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-10"
+    },
+    "1u1gv6q": {
+      "title": "DEATH LOOP: Claude Code CLI background plugin infinite retry loop is obliterating my Max 20x subscription quota while idle",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1781036993,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1u1gv6q/death_loop_claude_code_cli_background_plugin/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-06-10"
+    },
+    "1u11vt1": {
+      "title": "Created this using codex but got hit by usage limit. 🙊",
+      "subreddit": "ChatGPT",
+      "created_utc": 1781003312,
+      "score": 1,
+      "url": "https://reddit.com/r/ChatGPT/comments/1u11vt1/created_this_using_codex_but_got_hit_by_usage/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-10"
+    },
+    "1u1dk5b": {
+      "title": "Tips for managing ChatGPT EDU Thinking/Pro usage limits?",
+      "subreddit": "ChatGPT",
+      "created_utc": 1781029881,
+      "score": 1,
+      "url": "https://reddit.com/r/ChatGPT/comments/1u1dk5b/tips_for_managing_chatgpt_edu_thinkingpro_usage/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-06-10"
     }
   }
 }
