@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-11T10:50:31.296299+00:00",
-    "total_posts_analyzed": 6989,
-    "total_complaints": 1752
+    "last_updated": "2026-06-12T10:24:38.427517+00:00",
+    "total_posts_analyzed": 7063,
+    "total_complaints": 1771
   },
   "posts": {
     "1sg1yvw": {
@@ -21402,6 +21402,235 @@
       ],
       "complaint_score": 6,
       "fetched_date": "2026-06-11"
+    },
+    "1u1yr2x": {
+      "title": "Pimp My Statusline · Visual Claude Code Statusline Builder",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1781088733,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1u1yr2x/pimp_my_statusline_visual_claude_code_statusline/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-12"
+    },
+    "1u3mb8s": {
+      "title": "These Claude Code Usage Limit is killing me",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1781242097,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1u3mb8s/these_claude_code_usage_limit_is_killing_me/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-12"
+    },
+    "1u38otw": {
+      "title": "I got tired of hitting the weekly limit mid-task, so now my menu bar shows my Claude Code usage as a live % — zero network calls, it reads what Claude Code already knows",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1781205673,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1u38otw/i_got_tired_of_hitting_the_weekly_limit_midtask/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-12"
+    },
+    "1u2z6fz": {
+      "title": "I built a tiny Windows tray app that shows Cowork's REAL token usage and auto-writes a handoff doc before you hit the context limit",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1781184671,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1u2z6fz/i_built_a_tiny_windows_tray_app_that_shows/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-12"
+    },
+    "1u2wjt1": {
+      "title": "Why it says usage limit reached when I just bought the subscription?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1781177780,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1u2wjt1/why_it_says_usage_limit_reached_when_i_just/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-06-12"
+    },
+    "1u324g0": {
+      "title": "Turned this lamp into a Claude usage meter and CC status indicator",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1781191394,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1u324g0/turned_this_lamp_into_a_claude_usage_meter_and_cc/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 2,
+      "fetched_date": "2026-06-12"
+    },
+    "1u2eie9": {
+      "title": "Critique my prompt",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1781124631,
+      "score": 2,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1u2eie9/critique_my_prompt/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-12"
+    },
+    "1u1o0dz": {
+      "title": "Fable+ultracode ate my 5 hour usage in 7 minutes.",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1781054558,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1u1o0dz/fableultracode_ate_my_5_hour_usage_in_7_minutes/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-12"
+    },
+    "1u1nzz4": {
+      "title": "Returning after a month, how are the limits going recently?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1781054527,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1u1nzz4/returning_after_a_month_how_are_the_limits_going/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-12"
+    },
+    "1u386po": {
+      "title": "What exactly happens if you hit your usage limit in the middle of executing a dynamic workflow in Claude?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1781204557,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1u386po/what_exactly_happens_if_you_hit_your_usage_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-12"
+    },
+    "1u2wnfg": {
+      "title": "Why it says usage limit reached when I just bought the subscription?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1781178074,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1u2wnfg/why_it_says_usage_limit_reached_when_i_just/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-06-12"
+    },
+    "1u3dm75": {
+      "title": "What the heck Fable!!!",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1781217066,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1u3dm75/what_the_heck_fable/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-12"
+    },
+    "1u37os8": {
+      "title": "5 x 5 hour sessions is all we get for entire week with 20x Max?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1781203534,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1u37os8/5_x_5_hour_sessions_is_all_we_get_for_entire_week/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-12"
+    },
+    "1u3cu70": {
+      "title": "Reached 5H limit after one single 2 lines prompt for a really easy task",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1781215163,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1u3cu70/reached_5h_limit_after_one_single_2_lines_prompt/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-06-12"
+    },
+    "1u35fc0": {
+      "title": "Fable 5 just ate 20% of my weekly quota and it’s only been 3 hours...",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1781198613,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1u35fc0/fable_5_just_ate_20_of_my_weekly_quota_and_its/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-06-12"
+    },
+    "1u3pu8e": {
+      "title": "I’m watching my idle Codex drain my 5h usage limit 1% at a time",
+      "subreddit": "codex",
+      "created_utc": 1781254379,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1u3pu8e/im_watching_my_idle_codex_drain_my_5h_usage_limit/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-12"
+    },
+    "1u3fq5o": {
+      "title": "PSA: Weekly Limit Refresh Doesn't Refresh 5h Window",
+      "subreddit": "codex",
+      "created_utc": 1781222659,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1u3fq5o/psa_weekly_limit_refresh_doesnt_refresh_5h_window/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-06-12"
+    },
+    "1u31946": {
+      "title": "7d rate limits now reduce after the 5h limit goes to zero",
+      "subreddit": "codex",
+      "created_utc": 1781189490,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1u31946/7d_rate_limits_now_reduce_after_the_5h_limit_goes/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-06-12"
+    },
+    "1u39uy9": {
+      "title": "The current quota system is unnecessarily confusing",
+      "subreddit": "codex",
+      "created_utc": 1781208266,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1u39uy9/the_current_quota_system_is_unnecessarily/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-12"
     }
   }
 }
