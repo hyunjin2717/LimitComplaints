@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-12T10:24:38.427517+00:00",
-    "total_posts_analyzed": 7063,
-    "total_complaints": 1771
+    "last_updated": "2026-06-13T09:28:27.472665+00:00",
+    "total_posts_analyzed": 7163,
+    "total_complaints": 1792
   },
   "posts": {
     "1sg1yvw": {
@@ -21631,6 +21631,261 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-06-12"
+    },
+    "1u3uiyu": {
+      "title": "Am I missing something? Usage Limit Reached but still below 50% for 5-hour and weekly limits",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1781269016,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1u3uiyu/am_i_missing_something_usage_limit_reached_but/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-13"
+    },
+    "1u2vmnb": {
+      "title": "Hit usage limits on a fairly simple task scanning a Google Drive folder for images",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1781174986,
+      "score": 4,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1u2vmnb/hit_usage_limits_on_a_fairly_simple_task_scanning/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-13"
+    },
+    "1u3rjru": {
+      "title": "I kept hitting my weekly limit with no warning, so I built a free menu-bar HUD that shows exactly how much Claude quota you have left and predicts when you'll run out",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1781260297,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1u3rjru/i_kept_hitting_my_weekly_limit_with_no_warning_so/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-13"
+    },
+    "1u42yhu": {
+      "title": "Spending $100/mo just to micro-manage a strict sliding window limit. We need to talk about Anthropic’s quiet regression.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1781287658,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1u42yhu/spending_100mo_just_to_micromanage_a_strict/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-06-13"
+    },
+    "1u4fip6": {
+      "title": "Usage limit reset?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1781319649,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1u4fip6/usage_limit_reset/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-13"
+    },
+    "1u46soo": {
+      "title": "First time I've ever gotten close to maxing out the Max 20x plan",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1781296391,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1u46soo/first_time_ive_ever_gotten_close_to_maxing_out/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-13"
+    },
+    "1u3vwt5": {
+      "title": "Fable 5 is not replacing Opus or Sonnet for me.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1781272385,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1u3vwt5/fable_5_is_not_replacing_opus_or_sonnet_for_me/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-13"
+    },
+    "1u3sltw": {
+      "title": "Claude Code / Fable 5 broken after weekly reset: hitting 5h limit in 30 mins even with 20x Max tier. Anyone else?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1781263678,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1u3sltw/claude_code_fable_5_broken_after_weekly_reset/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-06-13"
+    },
+    "1u3scwp": {
+      "title": "Claude Code / Fable 5 broken after weekly reset: hitting 5h limit in 30 mins even with 20x Max tier. Anyone else?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1781262915,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1u3scwp/claude_code_fable_5_broken_after_weekly_reset/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-06-13"
+    },
+    "1u4i77w": {
+      "title": "Rate limit reset?",
+      "subreddit": "ChatGPT",
+      "created_utc": 1781327998,
+      "score": 1,
+      "url": "https://reddit.com/r/ChatGPT/comments/1u4i77w/rate_limit_reset/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-13"
+    },
+    "1u4flej": {
+      "title": "Lack of transparency around usage",
+      "subreddit": "ChatGPT",
+      "created_utc": 1781319874,
+      "score": 1,
+      "url": "https://reddit.com/r/ChatGPT/comments/1u4flej/lack_of_transparency_around_usage/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-13"
+    },
+    "1u257yu": {
+      "title": "Claude reached its rate limit. Emotionally.",
+      "subreddit": "vibecoding",
+      "created_utc": 1781104789,
+      "score": 27,
+      "url": "https://reddit.com/r/vibecoding/comments/1u257yu/claude_reached_its_rate_limit_emotionally/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-13"
+    },
+    "1u3p57q": {
+      "title": "How to not get rate limited (no additional downloads)",
+      "subreddit": "codex",
+      "created_utc": 1781251881,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1u3p57q/how_to_not_get_rate_limited_no_additional/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-06-13"
+    },
+    "1u42cth": {
+      "title": "Does the Codex referral “banked reset” reset weekly usage or just the 5-hour limit?",
+      "subreddit": "codex",
+      "created_utc": 1781286364,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1u42cth/does_the_codex_referral_banked_reset_reset_weekly/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-13"
+    },
+    "1u43px7": {
+      "title": "Codex Gone Mad!",
+      "subreddit": "codex",
+      "created_utc": 1781289312,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1u43px7/codex_gone_mad/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-06-13"
+    },
+    "1u3yrum": {
+      "title": "Codex MASSIVE unlimited usage glitch",
+      "subreddit": "codex",
+      "created_utc": 1781278691,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1u3yrum/codex_massive_unlimited_usage_glitch/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-13"
+    },
+    "1u3vt3v": {
+      "title": "What the hell is happening to the usage limits?",
+      "subreddit": "codex",
+      "created_utc": 1781272141,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1u3vt3v/what_the_hell_is_happening_to_the_usage_limits/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-06-13"
+    },
+    "1u3mvo0": {
+      "title": "Codex is now unusable on the Go/Free tier plan",
+      "subreddit": "codex",
+      "created_utc": 1781243986,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1u3mvo0/codex_is_now_unusable_on_the_gofree_tier_plan/",
+      "models": [
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-13"
+    },
+    "1u3b32c": {
+      "title": "It Was a Nice Ride While It Lasted",
+      "subreddit": "codex",
+      "created_utc": 1781211070,
+      "score": 41,
+      "url": "https://reddit.com/r/codex/comments/1u3b32c/it_was_a_nice_ride_while_it_lasted/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-13"
+    },
+    "1u31axk": {
+      "title": "Weekly usage feels lower after reset",
+      "subreddit": "codex",
+      "created_utc": 1781189597,
+      "score": 58,
+      "url": "https://reddit.com/r/codex/comments/1u31axk/weekly_usage_feels_lower_after_reset/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-06-13"
+    },
+    "1u2htj2": {
+      "title": "Does anyone know of any good places to discuss Codex with actual power users?",
+      "subreddit": "codex",
+      "created_utc": 1781132463,
+      "score": 98,
+      "url": "https://reddit.com/r/codex/comments/1u2htj2/does_anyone_know_of_any_good_places_to_discuss/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 2,
+      "fetched_date": "2026-06-13"
     }
   }
 }
