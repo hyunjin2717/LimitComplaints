@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-13T09:28:27.472665+00:00",
-    "total_posts_analyzed": 7163,
-    "total_complaints": 1792
+    "last_updated": "2026-06-14T09:46:26.946538+00:00",
+    "total_posts_analyzed": 7267,
+    "total_complaints": 1818
   },
   "posts": {
     "1sg1yvw": {
@@ -21886,6 +21886,319 @@
       ],
       "complaint_score": 2,
       "fetched_date": "2026-06-13"
+    },
+    "1u4xowu": {
+      "title": "Max 20 Plan being rate limited",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1781373736,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1u4xowu/max_20_plan_being_rate_limited/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-14"
+    },
+    "1u5dm86": {
+      "title": "Came in sure AI coding was hype. Now I check my usage limit like a stock portfolio",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1781418515,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1u5dm86/came_in_sure_ai_coding_was_hype_now_i_check_my/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-14"
+    },
+    "1u45vum": {
+      "title": "35 days of claude code, usage ~$50,000 tokens. Total price: ~$200 dollars",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1781294275,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1u45vum/35_days_of_claude_code_usage_50000_tokens_total/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-14"
+    },
+    "1u3tcoa": {
+      "title": "I'd rather pay $50 than wait a week for Claude",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1781265862,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1u3tcoa/id_rather_pay_50_than_wait_a_week_for_claude/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-14"
+    },
+    "1u4yegy": {
+      "title": "I built a Powerlevel10k-style statusline for Claude Code. You install it by pasting one prompt and letting Claude ask you about colors and layout.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1781375406,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1u4yegy/i_built_a_powerlevel10kstyle_statusline_for/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-14"
+    },
+    "1u4oltb": {
+      "title": "I made a statusline for Claude Code that shows my rate limits and cost in one line",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1781350423,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1u4oltb/i_made_a_statusline_for_claude_code_that_shows_my/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-06-14"
+    },
+    "1u4rcbj": {
+      "title": "We hit our company usage limit at 3pm on Friday.. and I just stopped working for the day.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1781358194,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1u4rcbj/we_hit_our_company_usage_limit_at_3pm_on_friday/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-06-14"
+    },
+    "1u5g5vx": {
+      "title": "A month of my own Claude Code logs: what number about context burn have you always wondered about?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1781427690,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1u5g5vx/a_month_of_my_own_claude_code_logs_what_number/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-14"
+    },
+    "1u4vpy7": {
+      "title": "Quick one for the builders here.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1781369040,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1u4vpy7/quick_one_for_the_builders_here/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-14"
+    },
+    "1u4t57a": {
+      "title": "Fable 5 - The best partner you can have",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1781362782,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1u4t57a/fable_5_the_best_partner_you_can_have/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-14"
+    },
+    "1u3rox1": {
+      "title": "How do you handle true parallelism with LLM calls when you're rate limited? (building a Java Al orchestration framework)",
+      "subreddit": "LLMDevs",
+      "created_utc": 1781260773,
+      "score": 3,
+      "url": "https://reddit.com/r/LLMDevs/comments/1u3rox1/how_do_you_handle_true_parallelism_with_llm_calls/",
+      "models": [
+        "gemini"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-06-14"
+    },
+    "1u52209": {
+      "title": "Manual rate limit reset?",
+      "subreddit": "codex",
+      "created_utc": 1781384437,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1u52209/manual_rate_limit_reset/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-14"
+    },
+    "1u4nehb": {
+      "title": "Got a free Codex rate-limit reset",
+      "subreddit": "codex",
+      "created_utc": 1781346431,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1u4nehb/got_a_free_codex_ratelimit_reset/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-14"
+    },
+    "1u44cnw": {
+      "title": "[PETITION] Allow Linux users to redeem banked Codex rate-limit resets from the web or CLI",
+      "subreddit": "codex",
+      "created_utc": 1781290771,
+      "score": 12,
+      "url": "https://reddit.com/r/codex/comments/1u44cnw/petition_allow_linux_users_to_redeem_banked_codex/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-06-14"
+    },
+    "1u3vbeh": {
+      "title": "Does the rate limit reset apply for the weekly limit or the 5 hour limit?",
+      "subreddit": "codex",
+      "created_utc": 1781270944,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1u3vbeh/does_the_rate_limit_reset_apply_for_the_weekly/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-14"
+    },
+    "1u3spkv": {
+      "title": "You have a new rate limit reset available",
+      "subreddit": "codex",
+      "created_utc": 1781263991,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1u3spkv/you_have_a_new_rate_limit_reset_available/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-14"
+    },
+    "1u3mv44": {
+      "title": "I got 1 rate limit reset for 1 month ! did they give us this to stay away from fable5 or waht ?",
+      "subreddit": "codex",
+      "created_utc": 1781243934,
+      "score": 87,
+      "url": "https://reddit.com/r/codex/comments/1u3mv44/i_got_1_rate_limit_reset_for_1_month_did_they/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-06-14"
+    },
+    "1u3lm5d": {
+      "title": "This is where you see rate limit reset on Codex desktop app",
+      "subreddit": "codex",
+      "created_utc": 1781239896,
+      "score": 11,
+      "url": "https://reddit.com/r/codex/comments/1u3lm5d/this_is_where_you_see_rate_limit_reset_on_codex/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-14"
+    },
+    "1u3isas": {
+      "title": "New rate limit resets are banked for 1 month",
+      "subreddit": "codex",
+      "created_utc": 1781231294,
+      "score": 98,
+      "url": "https://reddit.com/r/codex/comments/1u3isas/new_rate_limit_resets_are_banked_for_1_month/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-14"
+    },
+    "1u3fxdk": {
+      "title": "Codex rate limit on your own schedule!",
+      "subreddit": "codex",
+      "created_utc": 1781223207,
+      "score": 827,
+      "url": "https://reddit.com/r/codex/comments/1u3fxdk/codex_rate_limit_on_your_own_schedule/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-14"
+    },
+    "1u3nbtx": {
+      "title": "This Reddit...",
+      "subreddit": "codex",
+      "created_utc": 1781245463,
+      "score": 55,
+      "url": "https://reddit.com/r/codex/comments/1u3nbtx/this_reddit/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 2,
+      "fetched_date": "2026-06-14"
+    },
+    "1u3kl88": {
+      "title": "Does the Codex \"referral banked reset\" reset weekly limits or only the 5-hour limit?",
+      "subreddit": "codex",
+      "created_utc": 1781236700,
+      "score": 4,
+      "url": "https://reddit.com/r/codex/comments/1u3kl88/does_the_codex_referral_banked_reset_reset_weekly/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-14"
+    },
+    "1u3jor3": {
+      "title": "Apparently here is how you get things done for codex/gpt/openAI and it does work.",
+      "subreddit": "codex",
+      "created_utc": 1781233902,
+      "score": 8,
+      "url": "https://reddit.com/r/codex/comments/1u3jor3/apparently_here_is_how_you_get_things_done_for/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-14"
+    },
+    "1u58vdb": {
+      "title": "Codex now aware of ratelimits",
+      "subreddit": "codex",
+      "created_utc": 1781403715,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1u58vdb/codex_now_aware_of_ratelimits/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-06-14"
+    },
+    "1u3rccp": {
+      "title": "CODEX GLITCH - UNLIMITED USAGE",
+      "subreddit": "codex",
+      "created_utc": 1781259616,
+      "score": 168,
+      "url": "https://reddit.com/r/codex/comments/1u3rccp/codex_glitch_unlimited_usage/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-14"
+    },
+    "1u4no62": {
+      "title": "Codex limit changed? Monthly limit available.",
+      "subreddit": "codex",
+      "created_utc": 1781347370,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1u4no62/codex_limit_changed_monthly_limit_available/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-14"
     }
   }
 }
