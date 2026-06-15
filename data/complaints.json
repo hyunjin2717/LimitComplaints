@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-14T09:46:26.946538+00:00",
-    "total_posts_analyzed": 7267,
-    "total_complaints": 1818
+    "last_updated": "2026-06-15T12:29:21.416533+00:00",
+    "total_posts_analyzed": 7371,
+    "total_complaints": 1837
   },
   "posts": {
     "1sg1yvw": {
@@ -22199,6 +22199,236 @@
       ],
       "complaint_score": 4,
       "fetched_date": "2026-06-14"
+    },
+    "1u52iqw": {
+      "title": "I don't trust AI to audit my code honestly, so I built a harness that assumes it's faulty and tries to catch it. Repo's public.",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1781385640,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1u52iqw/i_dont_trust_ai_to_audit_my_code_honestly_so_i/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-15"
+    },
+    "1u4fxzt": {
+      "title": "I was in the middle of my project and Fable 5 is gone. The token limit has been reset. What are you going to do now? And what's your feedback after this short time using it?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1781320928,
+      "score": 3,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1u4fxzt/i_was_in_the_middle_of_my_project_and_fable_5_is/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-15"
+    },
+    "1u66maq": {
+      "title": "Usage limit somthing is wrong",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1781498576,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1u66maq/usage_limit_somthing_is_wrong/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-15"
+    },
+    "1u63p7k": {
+      "title": "Everyone complaining about hitting Claude usage limits is missing the point. The limit is not the problem. Your workflow is",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1781489892,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1u63p7k/everyone_complaining_about_hitting_claude_usage/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-15"
+    },
+    "1u5sxdz": {
+      "title": "Usage limit reached on Sonnet Medium after asking 10 simple questions?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1781462155,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1u5sxdz/usage_limit_reached_on_sonnet_medium_after_asking/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-15"
+    },
+    "1u4xfu0": {
+      "title": "Quick one for the builders here.",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1781373149,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1u4xfu0/quick_one_for_the_builders_here/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-15"
+    },
+    "1u4km5z": {
+      "title": "I built a macOS menu bar app to track Claude Code token usage — free, open source",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1781336201,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1u4km5z/i_built_a_macos_menu_bar_app_to_track_claude_code/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-15"
+    },
+    "1u5njkr": {
+      "title": "API Error: Server is temporarily limiting requests (not your usage limit) · Rate limited",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1781449551,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1u5njkr/api_error_server_is_temporarily_limiting_requests/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-06-15"
+    },
+    "1u5vndo": {
+      "title": "Free VSCode extension: your Claude 5-hour + weekly limits, always in the status bar",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1781468511,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1u5vndo/free_vscode_extension_your_claude_5hour_weekly/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-06-15"
+    },
+    "1u5lmm7": {
+      "title": "Cross model /workflows",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1781444832,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1u5lmm7/cross_model_workflows/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-15"
+    },
+    "1u5zp3t": {
+      "title": "CODEX offered me a Rate-Limit Reset...and I'm suspicious.",
+      "subreddit": "OpenAI",
+      "created_utc": 1781478620,
+      "score": 1,
+      "url": "https://reddit.com/r/OpenAI/comments/1u5zp3t/codex_offered_me_a_ratelimit_resetand_im/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-15"
+    },
+    "1u5ka43": {
+      "title": "I wrote a tiny CLI to spend your Codex \"banked rate-limit reset\" — for Linux / headless / CLI-only users who never got the button",
+      "subreddit": "OpenAI",
+      "created_utc": 1781441261,
+      "score": 1,
+      "url": "https://reddit.com/r/OpenAI/comments/1u5ka43/i_wrote_a_tiny_cli_to_spend_your_codex_banked/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-15"
+    },
+    "1u5g6hs": {
+      "title": "A month of my own Claude Code logs: what number about context burn have you always wondered about?",
+      "subreddit": "vibecoding",
+      "created_utc": 1781427754,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1u5g6hs/a_month_of_my_own_claude_code_logs_what_number/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-15"
+    },
+    "1u2wf7g": {
+      "title": "Why wait 5 hours for Fable when you can start the timer in your sleep?",
+      "subreddit": "vibecoding",
+      "created_utc": 1781177406,
+      "score": 0,
+      "url": "https://reddit.com/r/vibecoding/comments/1u2wf7g/why_wait_5_hours_for_fable_when_you_can_start_the/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-15"
+    },
+    "1u6e6f5": {
+      "title": "Free Codex rate limit reset — swap referrals with me!",
+      "subreddit": "codex",
+      "created_utc": 1781523790,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1u6e6f5/free_codex_rate_limit_reset_swap_referrals_with_me/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-15"
+    },
+    "1u5ka22": {
+      "title": "I wrote a tiny CLI to spend your Codex \"banked rate-limit reset\" — for Linux / headless / CLI-only users who never got the button",
+      "subreddit": "codex",
+      "created_utc": 1781441256,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1u5ka22/i_wrote_a_tiny_cli_to_spend_your_codex_banked/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-15"
+    },
+    "1u69odc": {
+      "title": "usage limit counting doesn't seem \"accurate\"? I",
+      "subreddit": "codex",
+      "created_utc": 1781508663,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1u69odc/usage_limit_counting_doesnt_seem_accurate_i/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-15"
+    },
+    "1u63fku": {
+      "title": "Codex refusing to honour Pro account usage limits 😡",
+      "subreddit": "codex",
+      "created_utc": 1781489114,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1u63fku/codex_refusing_to_honour_pro_account_usage_limits/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-06-15"
+    },
+    "1u674qa": {
+      "title": "OpenAI Needs to Explain the Sudden Codex Quota Drain for Pro 20X Users",
+      "subreddit": "codex",
+      "created_utc": 1781500232,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1u674qa/openai_needs_to_explain_the_sudden_codex_quota/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-15"
     }
   }
 }
