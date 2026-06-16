@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-15T12:29:21.416533+00:00",
-    "total_posts_analyzed": 7371,
-    "total_complaints": 1837
+    "last_updated": "2026-06-16T11:25:04.659951+00:00",
+    "total_posts_analyzed": 7456,
+    "total_complaints": 1850
   },
   "posts": {
     "1sg1yvw": {
@@ -22429,6 +22429,165 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-06-15"
+    },
+    "1u5d02w": {
+      "title": "TIL Claude Code spawned 339 sub-agents from a single research prompt and burned my entire MAX 5-hour quota in minutes",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1781416499,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1u5d02w/til_claude_code_spawned_339_subagents_from_a/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-06-16"
+    },
+    "1u6sp7y": {
+      "title": "API error: Rate limited",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1781556063,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1u6sp7y/api_error_rate_limited/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-16"
+    },
+    "1u5vmlc": {
+      "title": "I kept typing /usage, so I made a free status-bar quota meter for Claude Code",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1781468456,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1u5vmlc/i_kept_typing_usage_so_i_made_a_free_statusbar/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-06-16"
+    },
+    "1u5fy4q": {
+      "title": "A month of my own Claude Code logs: what number about context burn have you always wondered about?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1781426867,
+      "score": 5,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1u5fy4q/a_month_of_my_own_claude_code_logs_what_number/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-16"
+    },
+    "1u75p4i": {
+      "title": "[Tool] I built a Claude Code auto-resume tool to fix the rate limit problem — looking for beta testers (free)",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1781591594,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1u75p4i/tool_i_built_a_claude_code_autoresume_tool_to_fix/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-16"
+    },
+    "1u6z25i": {
+      "title": "Stop getting blindsided by context compaction — a Claude Code status line that shows ctx % + rate limits",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1781571607,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1u6z25i/stop_getting_blindsided_by_context_compaction_a/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-16"
+    },
+    "1u793gf": {
+      "title": "Getting rate limited constantly",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1781603716,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1u793gf/getting_rate_limited_constantly/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-06-16"
+    },
+    "1u78t13": {
+      "title": "Workflows and temporary rate limits",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1781602739,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1u78t13/workflows_and_temporary_rate_limits/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-16"
+    },
+    "1u6rnv7": {
+      "title": "Devs were using my tool and saving $150k in 3 months, yet i was not using my own tool!",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1781553801,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1u6rnv7/devs_were_using_my_tool_and_saving_150k_in_3/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-06-16"
+    },
+    "1u6m8f6": {
+      "title": "OpenAI Monthly limit instead of weekly",
+      "subreddit": "OpenAI",
+      "created_utc": 1781542428,
+      "score": 1,
+      "url": "https://reddit.com/r/OpenAI/comments/1u6m8f6/openai_monthly_limit_instead_of_weekly/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-16"
+    },
+    "1u6uut8": {
+      "title": "Claude Code Max ($200) – 46% of weekly limit exhausted in ~12 hours. Is this normal?",
+      "subreddit": "vibecoding",
+      "created_utc": 1781560886,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1u6uut8/claude_code_max_200_46_of_weekly_limit_exhausted/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-06-16"
+    },
+    "1u6rspy": {
+      "title": "Devs were using my tool and saved $150k in 3 months, yet i was not using my own tool!",
+      "subreddit": "vibecoding",
+      "created_utc": 1781554094,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1u6rspy/devs_were_using_my_tool_and_saved_150k_in_3/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-06-16"
+    },
+    "1u5kqg3": {
+      "title": "cc to codex",
+      "subreddit": "codex",
+      "created_utc": 1781442488,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1u5kqg3/cc_to_codex/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-06-16"
     }
   }
 }
