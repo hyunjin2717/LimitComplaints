@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-16T11:25:04.659951+00:00",
-    "total_posts_analyzed": 7456,
-    "total_complaints": 1850
+    "last_updated": "2026-06-17T11:08:21.415789+00:00",
+    "total_posts_analyzed": 7542,
+    "total_complaints": 1860
   },
   "posts": {
     "1sg1yvw": {
@@ -22588,6 +22588,129 @@
       ],
       "complaint_score": 6,
       "fetched_date": "2026-06-16"
+    },
+    "1u7j8jq": {
+      "title": "Why do we still have a weekly limit on Sonnet usage at this point?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1781629047,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1u7j8jq/why_do_we_still_have_a_weekly_limit_on_sonnet/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-06-17"
+    },
+    "1u6rrlk": {
+      "title": "Devs were using my tool and saving $150k in 3 months, yet i was not using my own tool!",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1781554028,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1u6rrlk/devs_were_using_my_tool_and_saving_150k_in_3/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-06-17"
+    },
+    "1u7plp5": {
+      "title": "26% usage limit after 1 prompt.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1781642642,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1u7plp5/26_usage_limit_after_1_prompt/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-17"
+    },
+    "1u7ka0j": {
+      "title": "Usage limit difference between Pro and Max",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1781631208,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1u7ka0j/usage_limit_difference_between_pro_and_max/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-17"
+    },
+    "1u6xekv": {
+      "title": "i accidentally got unlimited codex (gpt 5.5 extra high) because of a bug",
+      "subreddit": "ChatGPT",
+      "created_utc": 1781567191,
+      "score": 1,
+      "url": "https://reddit.com/r/ChatGPT/comments/1u6xekv/i_accidentally_got_unlimited_codex_gpt_55_extra/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-17"
+    },
+    "1u7h5ef": {
+      "title": "I built a free Chrome extension that saves your AI context, tracks your Claude limits live, and upgrades your prompts in one click — 7,000+ organic installs within a month — no ads, no paid promo.",
+      "subreddit": "ChatGPT",
+      "created_utc": 1781624554,
+      "score": 1,
+      "url": "https://reddit.com/r/ChatGPT/comments/1u7h5ef/i_built_a_free_chrome_extension_that_saves_your/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-17"
+    },
+    "1u7dair": {
+      "title": "Do usage limits change over time?",
+      "subreddit": "ChatGPT",
+      "created_utc": 1781615829,
+      "score": 1,
+      "url": "https://reddit.com/r/ChatGPT/comments/1u7dair/do_usage_limits_change_over_time/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-06-17"
+    },
+    "1u7rpbk": {
+      "title": "How do I access this \"one free rate limit reset\" on linux?",
+      "subreddit": "codex",
+      "created_utc": 1781647489,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1u7rpbk/how_do_i_access_this_one_free_rate_limit_reset_on/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-17"
+    },
+    "1u7h1gy": {
+      "title": "New \"bank rate limit reset\" features -- how to use from codex TUI?",
+      "subreddit": "codex",
+      "created_utc": 1781624314,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1u7h1gy/new_bank_rate_limit_reset_features_how_to_use/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-17"
+    },
+    "1u7f3ya": {
+      "title": "Is the difference between Pro x20 and regular Pro really this big for Codex?",
+      "subreddit": "codex",
+      "created_utc": 1781620053,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1u7f3ya/is_the_difference_between_pro_x20_and_regular_pro/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-17"
     }
   }
 }
