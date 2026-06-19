@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-18T10:30:24.382133+00:00",
-    "total_posts_analyzed": 7607,
-    "total_complaints": 1868
+    "last_updated": "2026-06-19T10:48:14.572986+00:00",
+    "total_posts_analyzed": 7685,
+    "total_complaints": 1879
   },
   "posts": {
     "1sg1yvw": {
@@ -22807,6 +22807,138 @@
       ],
       "complaint_score": 5,
       "fetched_date": "2026-06-18"
+    },
+    "1u9v7nt": {
+      "title": "Weekly limit usage dropped?!",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1781853686,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1u9v7nt/weekly_limit_usage_dropped/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-06-19"
+    },
+    "1u9ilm7": {
+      "title": "Rate-limit issues with Claude Code jumped my usage from 70% -> 100% in 2 mins",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1781817133,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1u9ilm7/ratelimit_issues_with_claude_code_jumped_my_usage/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-19"
+    },
+    "1u9e0ce": {
+      "title": "Rate-limit issues with Claude Code just stole a third of my weekly usage",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1781806727,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1u9e0ce/ratelimit_issues_with_claude_code_just_stole_a/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-19"
+    },
+    "1u9srov": {
+      "title": "Constantly rate limited this week - how to solve?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1781845478,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1u9srov/constantly_rate_limited_this_week_how_to_solve/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-06-19"
+    },
+    "1u9gcph": {
+      "title": "Does skills that ask Opus to delegate to Sonnet / Haiku work?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1781811972,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1u9gcph/does_skills_that_ask_opus_to_delegate_to_sonnet/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-19"
+    },
+    "1u97wo7": {
+      "title": "Deceptive UI Changes?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1781793116,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1u97wo7/deceptive_ui_changes/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-19"
+    },
+    "1u712hi": {
+      "title": "im running out of my 5 hour limit in 10 minutes",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1781577119,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1u712hi/im_running_out_of_my_5_hour_limit_in_10_minutes/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-06-19"
+    },
+    "1u9gyxr": {
+      "title": "Upgrade Codex or improve workflow?",
+      "subreddit": "vibecoding",
+      "created_utc": 1781813379,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1u9gyxr/upgrade_codex_or_improve_workflow/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-19"
+    },
+    "1u8sav1": {
+      "title": "Is there a limit to how many Codex rate limit resets you can bank?",
+      "subreddit": "codex",
+      "created_utc": 1781744748,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1u8sav1/is_there_a_limit_to_how_many_codex_rate_limit/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-19"
+    },
+    "1u78bjz": {
+      "title": "i accidentally got unlimited codex (gpt 5.5 extra high) because of a bug",
+      "subreddit": "codex",
+      "created_utc": 1781601007,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1u78bjz/i_accidentally_got_unlimited_codex_gpt_55_extra/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-19"
+    },
+    "1u70y0p": {
+      "title": "Rant - Can we stop complaining every day about rate limits and “nerfing”",
+      "subreddit": "codex",
+      "created_utc": 1781576774,
+      "score": 24,
+      "url": "https://reddit.com/r/codex/comments/1u70y0p/rant_can_we_stop_complaining_every_day_about_rate/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-06-19"
     }
   }
 }
