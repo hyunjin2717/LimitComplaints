@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-19T10:48:14.572986+00:00",
-    "total_posts_analyzed": 7685,
-    "total_complaints": 1879
+    "last_updated": "2026-06-20T09:28:10.579981+00:00",
+    "total_posts_analyzed": 7792,
+    "total_complaints": 1908
   },
   "posts": {
     "1sg1yvw": {
@@ -22939,6 +22939,358 @@
       ],
       "complaint_score": 6,
       "fetched_date": "2026-06-19"
+    },
+    "1u9edzq": {
+      "title": "3 days since I got Max $200. Here's my journey",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1781807557,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1u9edzq/3_days_since_i_got_max_200_heres_my_journey/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-20"
+    },
+    "1uab55a": {
+      "title": "API Error: Server is temporarily limiting requests (not your usage limit) · Rate limited",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1781896842,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uab55a/api_error_server_is_temporarily_limiting_requests/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-20"
+    },
+    "1uad1ij": {
+      "title": "Usage limits scaling strangely? Burning 35% of weekly limit in 4 hours on 20x Max plan",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1781901407,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uad1ij/usage_limits_scaling_strangely_burning_35_of/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 9,
+      "fetched_date": "2026-06-20"
+    },
+    "1uahwkq": {
+      "title": "Claude just completely reset my weekly and 5-hour usage limits?!",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1781914080,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uahwkq/claude_just_completely_reset_my_weekly_and_5hour/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-06-20"
+    },
+    "1uak12a": {
+      "title": "Wtf",
+      "subreddit": "codex",
+      "created_utc": 1781920306,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1uak12a/wtf/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-20"
+    },
+    "1ua3bjo": {
+      "title": "5.6 must be close, they just dumbed 5.5 down by at least 95% intelligence.",
+      "subreddit": "codex",
+      "created_utc": 1781878873,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1ua3bjo/56_must_be_close_they_just_dumbed_55_down_by_at/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-20"
+    },
+    "1u93939": {
+      "title": "Noticed a discrepancy between tokens and usage limit",
+      "subreddit": "codex",
+      "created_utc": 1781780720,
+      "score": 3,
+      "url": "https://reddit.com/r/codex/comments/1u93939/noticed_a_discrepancy_between_tokens_and_usage/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-20"
+    },
+    "1u7bx7k": {
+      "title": "Why does Codex App's 5h usage limit drop by 1-5% everytime before open app? How to audit?",
+      "subreddit": "codex",
+      "created_utc": 1781612351,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1u7bx7k/why_does_codex_apps_5h_usage_limit_drop_by_15/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-06-20"
+    },
+    "1u71oku": {
+      "title": "Be careful when using 'Approve for me' when you are at 0% 5h usage. Model will keep working around it by default, still using weekly usage, but probably to a terrible/inefficient job without proper access. Add instruction to stop working when usage limit is hit if you are not monitoring it.",
+      "subreddit": "codex",
+      "created_utc": 1781578880,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1u71oku/be_careful_when_using_approve_for_me_when_you_are/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-06-20"
+    },
+    "1ualdqh": {
+      "title": "Weekly usage on Plus sub... ?",
+      "subreddit": "codex",
+      "created_utc": 1781924387,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1ualdqh/weekly_usage_on_plus_sub/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-06-20"
+    },
+    "1ua7j3x": {
+      "title": "Unbiased Review but also advice, discuss?  This is a template of my Agents.md file that I use",
+      "subreddit": "codex",
+      "created_utc": 1781888600,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1ua7j3x/unbiased_review_but_also_advice_discuss_this_is_a/",
+      "models": [
+        "claude",
+        "gemini"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-20"
+    },
+    "1ua17jn": {
+      "title": "American LLM Companies By Breaking Trust Do Nothing But Push Their Users To Chinese Models",
+      "subreddit": "codex",
+      "created_utc": 1781873581,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1ua17jn/american_llm_companies_by_breaking_trust_do/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-06-20"
+    },
+    "1u9z8pa": {
+      "title": "Codex Not using Selected Model!",
+      "subreddit": "codex",
+      "created_utc": 1781867855,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1u9z8pa/codex_not_using_selected_model/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-06-20"
+    },
+    "1u9pl9b": {
+      "title": "Usage is broken??",
+      "subreddit": "codex",
+      "created_utc": 1781835848,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1u9pl9b/usage_is_broken/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-20"
+    },
+    "1u9gdfq": {
+      "title": "Usage limits feel significantly worse after the last reset",
+      "subreddit": "codex",
+      "created_utc": 1781812019,
+      "score": 5,
+      "url": "https://reddit.com/r/codex/comments/1u9gdfq/usage_limits_feel_significantly_worse_after_the/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-06-20"
+    },
+    "1u97xem": {
+      "title": "Credit Where It's Due: The Situation Is Improving",
+      "subreddit": "codex",
+      "created_utc": 1781793168,
+      "score": 2,
+      "url": "https://reddit.com/r/codex/comments/1u97xem/credit_where_its_due_the_situation_is_improving/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-20"
+    },
+    "1u96wsq": {
+      "title": "WHAT THE ACTUAL f is wrong with codex",
+      "subreddit": "codex",
+      "created_utc": 1781790811,
+      "score": 80,
+      "url": "https://reddit.com/r/codex/comments/1u96wsq/what_the_actual_f_is_wrong_with_codex/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-06-20"
+    },
+    "1u921uv": {
+      "title": "Does Codex in CLI mode also burn through tokens this fast?",
+      "subreddit": "codex",
+      "created_utc": 1781776628,
+      "score": 6,
+      "url": "https://reddit.com/r/codex/comments/1u921uv/does_codex_in_cli_mode_also_burn_through_tokens/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 10,
+      "fetched_date": "2026-06-20"
+    },
+    "1u8ljo6": {
+      "title": "Hit the limit after 33M tokens, but not after 140M before",
+      "subreddit": "codex",
+      "created_utc": 1781727899,
+      "score": 16,
+      "url": "https://reddit.com/r/codex/comments/1u8ljo6/hit_the_limit_after_33m_tokens_but_not_after_140m/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-06-20"
+    },
+    "1u7qdz8": {
+      "title": "Codex usage limits feel way too aggressive lately",
+      "subreddit": "codex",
+      "created_utc": 1781644460,
+      "score": 49,
+      "url": "https://reddit.com/r/codex/comments/1u7qdz8/codex_usage_limits_feel_way_too_aggressive_lately/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-06-20"
+    },
+    "1u79qyo": {
+      "title": "I signed up yesterday and my weekly limit is already over.",
+      "subreddit": "codex",
+      "created_utc": 1781605863,
+      "score": 8,
+      "url": "https://reddit.com/r/codex/comments/1u79qyo/i_signed_up_yesterday_and_my_weekly_limit_is/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-06-20"
+    },
+    "1u9jvt8": {
+      "title": "5h limit hit hard in 2 hours... PRO Account",
+      "subreddit": "codex",
+      "created_utc": 1781820198,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1u9jvt8/5h_limit_hit_hard_in_2_hours_pro_account/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-20"
+    },
+    "1u93l4l": {
+      "title": "Weekly limit is new 5h",
+      "subreddit": "codex",
+      "created_utc": 1781781801,
+      "score": 115,
+      "url": "https://reddit.com/r/codex/comments/1u93l4l/weekly_limit_is_new_5h/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-06-20"
+    },
+    "1u6sjgp": {
+      "title": "Is this a new bug? 10% left in 5h limit yet I got cut off in the middle of work",
+      "subreddit": "codex",
+      "created_utc": 1781555713,
+      "score": 5,
+      "url": "https://reddit.com/r/codex/comments/1u6sjgp/is_this_a_new_bug_10_left_in_5h_limit_yet_i_got/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-20"
+    },
+    "1u96q6g": {
+      "title": "Codex Pro account. It looks like I am almost run against the 5 hour limit.",
+      "subreddit": "codex",
+      "created_utc": 1781790367,
+      "score": 22,
+      "url": "https://reddit.com/r/codex/comments/1u96q6g/codex_pro_account_it_looks_like_i_am_almost_run/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-20"
+    },
+    "1u96q41": {
+      "title": "Codex artificially slowing down when running goals unattended",
+      "subreddit": "codex",
+      "created_utc": 1781790361,
+      "score": 3,
+      "url": "https://reddit.com/r/codex/comments/1u96q41/codex_artificially_slowing_down_when_running/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-20"
+    },
+    "1u88ojb": {
+      "title": "Guys is this normal? my weekly quota is decreasing every hour without even using codex!",
+      "subreddit": "codex",
+      "created_utc": 1781698959,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1u88ojb/guys_is_this_normal_my_weekly_quota_is_decreasing/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-06-20"
+    },
+    "1u7hgu9": {
+      "title": "Guys is this normal? my weekly quota is decreasing every hour without even using codex!",
+      "subreddit": "codex",
+      "created_utc": 1781625260,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1u7hgu9/guys_is_this_normal_my_weekly_quota_is_decreasing/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-06-20"
+    },
+    "1u97xxd": {
+      "title": "what’s the point of /goal if i’m going to hit the 5 hour limit every time?",
+      "subreddit": "codex",
+      "created_utc": 1781793204,
+      "score": 8,
+      "url": "https://reddit.com/r/codex/comments/1u97xxd/whats_the_point_of_goal_if_im_going_to_hit_the_5/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-06-20"
     }
   }
 }
