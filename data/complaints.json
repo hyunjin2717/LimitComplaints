@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-20T09:28:10.579981+00:00",
-    "total_posts_analyzed": 7792,
-    "total_complaints": 1908
+    "last_updated": "2026-06-21T09:59:50.472269+00:00",
+    "total_posts_analyzed": 7887,
+    "total_complaints": 1924
   },
   "posts": {
     "1sg1yvw": {
@@ -23291,6 +23291,200 @@
       ],
       "complaint_score": 7,
       "fetched_date": "2026-06-20"
+    },
+    "1ubeikf": {
+      "title": "Feature request: API/notification for when usage limit resets",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1782009548,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1ubeikf/feature_request_apinotification_for_when_usage/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-21"
+    },
+    "1uaxqxk": {
+      "title": "Why does the Claude iOS tell me that I have reached my usage limit although I have 28% left?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1781965055,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1uaxqxk/why_does_the_claude_ios_tell_me_that_i_have/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-06-21"
+    },
+    "1u9qody": {
+      "title": "Is insisting on Elementor even worth it?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1781839015,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1u9qody/is_insisting_on_elementor_even_worth_it/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-21"
+    },
+    "1ubju9m": {
+      "title": "Execute prompt when rate limit is lifted",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1782027415,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1ubju9m/execute_prompt_when_rate_limit_is_lifted/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-21"
+    },
+    "1ubjm1t": {
+      "title": "Rate limit?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1782026586,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1ubjm1t/rate_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-06-21"
+    },
+    "1uaskq7": {
+      "title": "building with Claude code without getting rate limited every session",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1781949101,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uaskq7/building_with_claude_code_without_getting_rate/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 9,
+      "fetched_date": "2026-06-21"
+    },
+    "1uazijy": {
+      "title": "small mac app I built to manage my claude code sessions",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1781969569,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uazijy/small_mac_app_i_built_to_manage_my_claude_code/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-21"
+    },
+    "1ub798l": {
+      "title": "Usage still broken?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1781988854,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1ub798l/usage_still_broken/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-21"
+    },
+    "1ub4z3i": {
+      "title": "CCSwitch [ CLI Tool + Skill ] - Keeps you working before any account hits the wall",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1781983074,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1ub4z3i/ccswitch_cli_tool_skill_keeps_you_working_before/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-06-21"
+    },
+    "1uazqrv": {
+      "title": "5 hour limit bug?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1781970145,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uazqrv/5_hour_limit_bug/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-06-21"
+    },
+    "1u9y1br": {
+      "title": "ChatGPT Pro 60X - Do we need it?",
+      "subreddit": "ChatGPT",
+      "created_utc": 1781863882,
+      "score": 7,
+      "url": "https://reddit.com/r/ChatGPT/comments/1u9y1br/chatgpt_pro_60x_do_we_need_it/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-06-21"
+    },
+    "1ubish6": {
+      "title": "I have Codex referral invites available - rate limit resets for both of us",
+      "subreddit": "codex",
+      "created_utc": 1782023678,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1ubish6/i_have_codex_referral_invites_available_rate/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-21"
+    },
+    "1ub96pj": {
+      "title": "🚨 OpenAI silently nerfed the Codex (gpt-5.5) quota by 10-20x. You are not imagining it.",
+      "subreddit": "codex",
+      "created_utc": 1781993951,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1ub96pj/openai_silently_nerfed_the_codex_gpt55_quota_by/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-06-21"
+    },
+    "1ub3krs": {
+      "title": "🚨 OpenAI silently nerfed the Codex (gpt-5.5) quota by 10-20x. You are not imagining it.",
+      "subreddit": "codex",
+      "created_utc": 1781979647,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1ub3krs/openai_silently_nerfed_the_codex_gpt55_quota_by/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-06-21"
+    },
+    "1ub6keg": {
+      "title": "Upgraded from Free to Plus: Codex still says \"You've hit your usage limit\"",
+      "subreddit": "codex",
+      "created_utc": 1781987065,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1ub6keg/upgraded_from_free_to_plus_codex_still_says_youve/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-21"
+    },
+    "1ub4p4u": {
+      "title": "Using Codex (GPT 5.4 or 5.5) for planning and Gemini 3.5 flash for executing",
+      "subreddit": "codex",
+      "created_utc": 1781982394,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1ub4p4u/using_codex_gpt_54_or_55_for_planning_and_gemini/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-21"
     }
   }
 }
