@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-21T09:59:50.472269+00:00",
-    "total_posts_analyzed": 7887,
-    "total_complaints": 1924
+    "last_updated": "2026-06-22T12:17:29.280298+00:00",
+    "total_posts_analyzed": 7967,
+    "total_complaints": 1935
   },
   "posts": {
     "1sg1yvw": {
@@ -23485,6 +23485,138 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-06-21"
+    },
+    "1ucdj15": {
+      "title": "Claude Code menu bar widget for rate limit monitoring",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1782112132,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1ucdj15/claude_code_menu_bar_widget_for_rate_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-22"
+    },
+    "1uazhwp": {
+      "title": "small mac app I built to manage my claude code sessions",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1781969525,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1uazhwp/small_mac_app_i_built_to_manage_my_claude_code/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-22"
+    },
+    "1ucdzyf": {
+      "title": "Session Usage limit Update?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1782113831,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1ucdzyf/session_usage_limit_update/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-22"
+    },
+    "1ucdsai": {
+      "title": "the worst part of hitting the usage limit isnt the wait",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1782113057,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1ucdsai/the_worst_part_of_hitting_the_usage_limit_isnt/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-22"
+    },
+    "1ub4fxx": {
+      "title": "CCSwitch",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1781981771,
+      "score": 163,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1ub4fxx/ccswitch/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-06-22"
+    },
+    "1uazhpd": {
+      "title": "New to Claude Pro ($20/mo) — confused about \"buy API credits\"",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1781969511,
+      "score": 2,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1uazhpd/new_to_claude_pro_20mo_confused_about_buy_api/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-22"
+    },
+    "1uc6rvw": {
+      "title": "Usage limits are bugged?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1782090896,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uc6rvw/usage_limits_are_bugged/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-22"
+    },
+    "1uc7tl9": {
+      "title": "Building this dashboard for beginners asking for a Guess Pass/Help",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1782093956,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uc7tl9/building_this_dashboard_for_beginners_asking_for/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-22"
+    },
+    "1ubs92l": {
+      "title": "Need Help - My Claude Usage got hacked?",
+      "subreddit": "vibecoding",
+      "created_utc": 1782054082,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1ubs92l/need_help_my_claude_usage_got_hacked/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 2,
+      "fetched_date": "2026-06-22"
+    },
+    "1ubpq6g": {
+      "title": "Shipped my side project on a $0 AI budget",
+      "subreddit": "vibecoding",
+      "created_utc": 1782047519,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1ubpq6g/shipped_my_side_project_on_a_0_ai_budget/",
+      "models": [
+        "gemini"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-06-22"
+    },
+    "1u7hpqq": {
+      "title": "Can I Use the Model or Am I Supposed to Frame the Page?",
+      "subreddit": "google_antigravity",
+      "created_utc": 1781625780,
+      "score": 4,
+      "url": "https://reddit.com/r/google_antigravity/comments/1u7hpqq/can_i_use_the_model_or_am_i_supposed_to_frame_the/",
+      "models": [
+        "gemini"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-22"
     }
   }
 }
