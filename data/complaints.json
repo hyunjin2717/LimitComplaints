@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-22T12:17:29.280298+00:00",
-    "total_posts_analyzed": 7967,
-    "total_complaints": 1935
+    "last_updated": "2026-06-23T09:56:09.129524+00:00",
+    "total_posts_analyzed": 8076,
+    "total_complaints": 1959
   },
   "posts": {
     "1sg1yvw": {
@@ -23617,6 +23617,301 @@
       ],
       "complaint_score": 4,
       "fetched_date": "2026-06-22"
+    },
+    "1ud9vkp": {
+      "title": "Claude Code menu bar widget for rate limit monitoring",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1782198105,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1ud9vkp/claude_code_menu_bar_widget_for_rate_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-23"
+    },
+    "1uckmyj": {
+      "title": "AI Token Tracker – Rate Limit & Context Monitor Chrome Extension",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1782134991,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1uckmyj/ai_token_tracker_rate_limit_context_monitor/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-23"
+    },
+    "1ubtko7": {
+      "title": "Built a small tool that gives coding agents automatic web-search",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1782057366,
+      "score": 2,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1ubtko7/built_a_small_tool_that_gives_coding_agents/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-23"
+    },
+    "1ubyp8e": {
+      "title": "I got tired of babysitting Claude Code’s 5 hour limit, so I built a tool that auto resumes it",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1782069662,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1ubyp8e/i_got_tired_of_babysitting_claude_codes_5_hour/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-06-23"
+    },
+    "1ucoaki": {
+      "title": "how to get the most out of your claude code 5h limit",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1782143324,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1ucoaki/how_to_get_the_most_out_of_your_claude_code_5h/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-23"
+    },
+    "1udcj2n": {
+      "title": "Hit Rate Limit just 2min after re logged-in WTF",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1782207520,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1udcj2n/hit_rate_limit_just_2min_after_re_loggedin_wtf/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-06-23"
+    },
+    "1udcdrl": {
+      "title": "I built a tiny local queue for Claude Code prompts after rate-limit resets",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1782207006,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1udcdrl/i_built_a_tiny_local_queue_for_claude_code/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-23"
+    },
+    "1ud0dng": {
+      "title": "First-day vibe. Coding. Every time JSON gets mentioned I hit my rate limit , still wondering who is this guy",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1782170304,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1ud0dng/firstday_vibe_coding_every_time_json_gets/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-23"
+    },
+    "1ud0b6d": {
+      "title": "First-day vibe Coding. Every time JSON gets mentioned I hate my rate limit",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1782170132,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1ud0b6d/firstday_vibe_coding_every_time_json_gets/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-06-23"
+    },
+    "1ud7mtm": {
+      "title": "2 Requests Per Hour Are Too Many",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1782190618,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1ud7mtm/2_requests_per_hour_are_too_many/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-06-23"
+    },
+    "1uct22n": {
+      "title": "Claude instantly at 100% usage limit a few minutes after resetting",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1782153699,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uct22n/claude_instantly_at_100_usage_limit_a_few_minutes/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-23"
+    },
+    "1ucqy2p": {
+      "title": "Weekly Limit is roughly 4 full individual sessions",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1782149058,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1ucqy2p/weekly_limit_is_roughly_4_full_individual_sessions/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-06-23"
+    },
+    "1ubujhq": {
+      "title": "You've hit your usage limit. Upgrade your plan or add credits to continue, or try again at 10:39 PM.",
+      "subreddit": "OpenAI",
+      "created_utc": 1782059720,
+      "score": 4,
+      "url": "https://reddit.com/r/OpenAI/comments/1ubujhq/youve_hit_your_usage_limit_upgrade_your_plan_or/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-06-23"
+    },
+    "1u91ati": {
+      "title": "\"Too many requests\" error popping up (Even when idle)",
+      "subreddit": "ChatGPT",
+      "created_utc": 1781773886,
+      "score": 2,
+      "url": "https://reddit.com/r/ChatGPT/comments/1u91ati/too_many_requests_error_popping_up_even_when_idle/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-06-23"
+    },
+    "1uao0g4": {
+      "title": "Keep getting this error and getting locked out of ChatGPT, but I'm not doing what the error suggests",
+      "subreddit": "ChatGPT",
+      "created_utc": 1781932697,
+      "score": 3,
+      "url": "https://reddit.com/r/ChatGPT/comments/1uao0g4/keep_getting_this_error_and_getting_locked_out_of/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-23"
+    },
+    "1uc0pcf": {
+      "title": "All new rate limit exposed!",
+      "subreddit": "codex",
+      "created_utc": 1782074581,
+      "score": 2,
+      "url": "https://reddit.com/r/codex/comments/1uc0pcf/all_new_rate_limit_exposed/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-23"
+    },
+    "1udajf9": {
+      "title": "ai-profiles: a free, open-source Mac app for running multiple Codex accounts (CLI + desktop) now on Product Hunt",
+      "subreddit": "codex",
+      "created_utc": 1782200484,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1udajf9/aiprofiles_a_free_opensource_mac_app_for_running/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-23"
+    },
+    "1ud4egp": {
+      "title": "Codex 5X weekly limit hit 1 day after subscription",
+      "subreddit": "codex",
+      "created_utc": 1782181038,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1ud4egp/codex_5x_weekly_limit_hit_1_day_after_subscription/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-06-23"
+    },
+    "1uc3uyu": {
+      "title": "Toolcalling support in VScode is quite inferior - can only poll ??",
+      "subreddit": "codex",
+      "created_utc": 1782082779,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1uc3uyu/toolcalling_support_in_vscode_is_quite_inferior/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-23"
+    },
+    "1uce4mh": {
+      "title": "Anyone been rate limited or restricted on GPT 5.5 Pro?",
+      "subreddit": "codex",
+      "created_utc": 1782114319,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1uce4mh/anyone_been_rate_limited_or_restricted_on_gpt_55/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-06-23"
+    },
+    "1ubulq0": {
+      "title": "You've hit your usage limit. Upgrade your plan or add credits to continue, or try again at 10:39 PM.",
+      "subreddit": "codex",
+      "created_utc": 1782059871,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1ubulq0/youve_hit_your_usage_limit_upgrade_your_plan_or/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-06-23"
+    },
+    "1uby8cn": {
+      "title": "codex is cooked.",
+      "subreddit": "codex",
+      "created_utc": 1782068536,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1uby8cn/codex_is_cooked/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-23"
+    },
+    "1ubrhup": {
+      "title": "OpenAI ended the 2x Codex promo, so I fixed it by using ChatGPT :)",
+      "subreddit": "codex",
+      "created_utc": 1782052164,
+      "score": 76,
+      "url": "https://reddit.com/r/codex/comments/1ubrhup/openai_ended_the_2x_codex_promo_so_i_fixed_it_by/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-23"
+    },
+    "1ub99ea": {
+      "title": "New non coder advice.",
+      "subreddit": "codex",
+      "created_utc": 1781994157,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1ub99ea/new_non_coder_advice/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-23"
     }
   }
 }
