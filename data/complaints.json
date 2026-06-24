@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-23T09:56:09.129524+00:00",
-    "total_posts_analyzed": 8076,
-    "total_complaints": 1959
+    "last_updated": "2026-06-24T09:41:43.869231+00:00",
+    "total_posts_analyzed": 8162,
+    "total_complaints": 1974
   },
   "posts": {
     "1sg1yvw": {
@@ -23912,6 +23912,189 @@
       ],
       "complaint_score": 4,
       "fetched_date": "2026-06-23"
+    },
+    "1udinu4": {
+      "title": "Message was sent but Claude couldn't respond error eating up usage limit.",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1782224827,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1udinu4/message_was_sent_but_claude_couldnt_respond_error/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-24"
+    },
+    "1uclysy": {
+      "title": "Most annoying things nobody talks about",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1782138185,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1uclysy/most_annoying_things_nobody_talks_about/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-06-24"
+    },
+    "1uch2fz": {
+      "title": "New to claude",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1782124770,
+      "score": 5,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1uch2fz/new_to_claude/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-24"
+    },
+    "1ue32c1": {
+      "title": "Whats going on with claude code rate limits ?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1782274015,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1ue32c1/whats_going_on_with_claude_code_rate_limits/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-24"
+    },
+    "1udomov": {
+      "title": "Am I hallucinating or is ClaudeCode? Weekly Limit Keeps Jumping Around",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1782237886,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1udomov/am_i_hallucinating_or_is_claudecode_weekly_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-06-24"
+    },
+    "1udxj1j": {
+      "title": "The 20x Max plan gives you ~4x session usage per week",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1782258539,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1udxj1j/the_20x_max_plan_gives_you_4x_session_usage_per/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-24"
+    },
+    "1ue3b8o": {
+      "title": "Rate limits going down WITHOUT any usage",
+      "subreddit": "codex",
+      "created_utc": 1782274769,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1ue3b8o/rate_limits_going_down_without_any_usage/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-24"
+    },
+    "1udu38d": {
+      "title": "Am I in the wrong for feeling scammed?",
+      "subreddit": "codex",
+      "created_utc": 1782250055,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1udu38d/am_i_in_the_wrong_for_feeling_scammed/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-24"
+    },
+    "1udsqzm": {
+      "title": "You can really feel the impact of Ponytail and RTK when it comes to limits",
+      "subreddit": "codex",
+      "created_utc": 1782246972,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1udsqzm/you_can_really_feel_the_impact_of_ponytail_and/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-24"
+    },
+    "1udiqmj": {
+      "title": "I added usage-drain diagnostics to my free open-source Codex usage tracker",
+      "subreddit": "codex",
+      "created_utc": 1782225002,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1udiqmj/i_added_usagedrain_diagnostics_to_my_free/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-06-24"
+    },
+    "1uddnfb": {
+      "title": "Codex usage is getting worse over time",
+      "subreddit": "codex",
+      "created_utc": 1782211363,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1uddnfb/codex_usage_is_getting_worse_over_time/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-06-24"
+    },
+    "1udssfn": {
+      "title": "5h limits ending in 2h",
+      "subreddit": "codex",
+      "created_utc": 1782247065,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1udssfn/5h_limits_ending_in_2h/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-24"
+    },
+    "1ubnuc5": {
+      "title": "Since the quota reset on June 18, 56% of the weekly quota was used up in a single day.",
+      "subreddit": "codex",
+      "created_utc": 1782041807,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1ubnuc5/since_the_quota_reset_on_june_18_56_of_the_weekly/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-24"
+    },
+    "1uc1drk": {
+      "title": "Uses for leftover quota",
+      "subreddit": "codex",
+      "created_utc": 1782076293,
+      "score": 56,
+      "url": "https://reddit.com/r/codex/comments/1uc1drk/uses_for_leftover_quota/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-24"
+    },
+    "1ubv2ve": {
+      "title": "the 5 hour limit is unworkable",
+      "subreddit": "codex",
+      "created_utc": 1782061030,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1ubv2ve/the_5_hour_limit_is_unworkable/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-24"
     }
   }
 }
