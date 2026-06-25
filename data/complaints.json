@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-24T09:41:43.869231+00:00",
-    "total_posts_analyzed": 8162,
-    "total_complaints": 1974
+    "last_updated": "2026-06-25T09:35:43.325262+00:00",
+    "total_posts_analyzed": 8228,
+    "total_complaints": 1986
   },
   "posts": {
     "1sg1yvw": {
@@ -24095,6 +24095,155 @@
       ],
       "complaint_score": 4,
       "fetched_date": "2026-06-24"
+    },
+    "1udbznk": {
+      "title": "I built a open-source Mac app for running multiple Claude accounts side by side (now on Product Hunt)",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1782205680,
+      "score": 19,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1udbznk/i_built_a_opensource_mac_app_for_running_multiple/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-25"
+    },
+    "1uf1p3v": {
+      "title": "I just hit usage limit on Opus 4.8 medium after just one prompt?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1782367354,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1uf1p3v/i_just_hit_usage_limit_on_opus_48_medium_after/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-25"
+    },
+    "1uefefp": {
+      "title": "Usage Limit",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1782312021,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1uefefp/usage_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-25"
+    },
+    "1ued66s": {
+      "title": "Claude 5-hour usage limit burning",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1782306817,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1ued66s/claude_5hour_usage_limit_burning/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-25"
+    },
+    "1uebfhf": {
+      "title": "Small usage limit increase?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1782302180,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1uebfhf/small_usage_limit_increase/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-25"
+    },
+    "1udtfgt": {
+      "title": "I built a terminal tool to manage a fleet of Claude Code sessions across all my repos",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1782248527,
+      "score": 7,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1udtfgt/i_built_a_terminal_tool_to_manage_a_fleet_of/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-25"
+    },
+    "1uekkak": {
+      "title": "Feature suggestion for Claude usage limits",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1782323319,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uekkak/feature_suggestion_for_claude_usage_limits/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-25"
+    },
+    "1ue5ufm": {
+      "title": "New here, not satisfied with my Cursor/Cline setup. Hoping for some advice?",
+      "subreddit": "vibecoding",
+      "created_utc": 1782283129,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1ue5ufm/new_here_not_satisfied_with_my_cursorcline_setup/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-25"
+    },
+    "1udittp": {
+      "title": "I added usage-drain diagnostics to my free open-source Codex usage tracker",
+      "subreddit": "vibecoding",
+      "created_utc": 1782225197,
+      "score": 0,
+      "url": "https://reddit.com/r/vibecoding/comments/1udittp/i_added_usagedrain_diagnostics_to_my_free/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-06-25"
+    },
+    "1ue9fzn": {
+      "title": "3 Codex referral invites available — we both get a rate limit reset",
+      "subreddit": "codex",
+      "created_utc": 1782295950,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1ue9fzn/3_codex_referral_invites_available_we_both_get_a/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-25"
+    },
+    "1ue8iht": {
+      "title": "Upgrade or try again in one month?",
+      "subreddit": "codex",
+      "created_utc": 1782292683,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1ue8iht/upgrade_or_try_again_in_one_month/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-25"
+    },
+    "1udqqve": {
+      "title": "Anyone start with Claude then switch to ChatGPT?",
+      "subreddit": "artificial",
+      "created_utc": 1782242468,
+      "score": 9,
+      "url": "https://reddit.com/r/artificial/comments/1udqqve/anyone_start_with_claude_then_switch_to_chatgpt/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-06-25"
     }
   }
 }
