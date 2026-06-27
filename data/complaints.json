@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-26T09:39:40.551639+00:00",
-    "total_posts_analyzed": 8333,
-    "total_complaints": 2005
+    "last_updated": "2026-06-27T08:46:40.580488+00:00",
+    "total_posts_analyzed": 8420,
+    "total_complaints": 2016
   },
   "posts": {
     "1sg1yvw": {
@@ -24473,6 +24473,139 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-06-26"
+    },
+    "1ugvc7n": {
+      "title": "Usage limit on Claude Projects vs regular Claude chats",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1782542393,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1ugvc7n/usage_limit_on_claude_projects_vs_regular_claude/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-27"
+    },
+    "1ugx6ne": {
+      "title": "Cache misses because of \"API Error: Server is temporarily limiting requests (not your usage limit) · Rate limited\" are affecting usage heavily",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1782548800,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1ugx6ne/cache_misses_because_of_api_error_server_is/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-06-27"
+    },
+    "1ug9nt0": {
+      "title": "How do I improve token efficiency?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1782486947,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1ug9nt0/how_do_i_improve_token_efficiency/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-27"
+    },
+    "1ugeyeb": {
+      "title": "Claude instantly hits the 5-hour message limit when resuming a previously completed coding task — why",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1782498650,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1ugeyeb/claude_instantly_hits_the_5hour_message_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-27"
+    },
+    "1ug89p3": {
+      "title": "Claude Code ignores my custom orchestration and won't route to my custom agents on other providers reliably — OpenCode just works. Anyone solved this?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1782483798,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1ug89p3/claude_code_ignores_my_custom_orchestration_and/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-27"
+    },
+    "1ug7i1j": {
+      "title": "Analyzing pictures is crazy taxing on usage rates.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1782481975,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1ug7i1j/analyzing_pictures_is_crazy_taxing_on_usage_rates/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-06-27"
+    },
+    "1ufe9r9": {
+      "title": "Claude Max vs Codex Pro or both combined?",
+      "subreddit": "OpenAI",
+      "created_utc": 1782403453,
+      "score": 6,
+      "url": "https://reddit.com/r/OpenAI/comments/1ufe9r9/claude_max_vs_codex_pro_or_both_combined/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-27"
+    },
+    "1ug7dp3": {
+      "title": "Does the model's quality drop when my usage limit is about to run out?",
+      "subreddit": "codex",
+      "created_utc": 1782481686,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1ug7dp3/does_the_models_quality_drop_when_my_usage_limit/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-06-27"
+    },
+    "1ug8iu2": {
+      "title": "GPT-5.5 Codex usage limits have become frustrating. My second reset in the last 7 days...",
+      "subreddit": "codex",
+      "created_utc": 1782484381,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1ug8iu2/gpt55_codex_usage_limits_have_become_frustrating/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-06-27"
+    },
+    "1uf6g5d": {
+      "title": "Codex Usage Widget for KDE Plasma",
+      "subreddit": "codex",
+      "created_utc": 1782383996,
+      "score": 7,
+      "url": "https://reddit.com/r/codex/comments/1uf6g5d/codex_usage_widget_for_kde_plasma/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-27"
+    },
+    "1ufx9zk": {
+      "title": "Monthly limits⁉️",
+      "subreddit": "codex",
+      "created_utc": 1782450297,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1ufx9zk/monthly_limits/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-06-27"
     }
   }
 }
