@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-27T08:46:40.580488+00:00",
-    "total_posts_analyzed": 8420,
-    "total_complaints": 2016
+    "last_updated": "2026-06-28T09:20:19.276019+00:00",
+    "total_posts_analyzed": 8478,
+    "total_complaints": 2027
   },
   "posts": {
     "1sg1yvw": {
@@ -24606,6 +24606,141 @@
       ],
       "complaint_score": 6,
       "fetched_date": "2026-06-27"
+    },
+    "1uhcf0w": {
+      "title": "Touching grass, nature wins by rate limit.",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1782590539,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1uhcf0w/touching_grass_nature_wins_by_rate_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-28"
+    },
+    "1ufyinb": {
+      "title": "How do you guys manage context and sync two AI models without maxing out the context window instantly?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1782454292,
+      "score": 6,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1ufyinb/how_do_you_guys_manage_context_and_sync_two_ai/",
+      "models": [
+        "claude",
+        "gemini"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-28"
+    },
+    "1ugh334": {
+      "title": "I kept hitting my Claude limits without noticing, so I built a desk gadget to fix that",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1782503493,
+      "score": 19,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1ugh334/i_kept_hitting_my_claude_limits_without_noticing/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-06-28"
+    },
+    "1ug90qo": {
+      "title": "[ Removed by moderator ]",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1782485520,
+      "score": 10,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1ug90qo/a_poor_example_of_customer_service/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-28"
+    },
+    "1ug7sz4": {
+      "title": "Claude Code ignores my custom orchestration and won't route to my custom agents on other providers reliably — OpenCode just works. Anyone solved this?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1782482705,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1ug7sz4/claude_code_ignores_my_custom_orchestration_and/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-28"
+    },
+    "1ug6xyq": {
+      "title": "when did burning tokens become a flex",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1782480657,
+      "score": 10,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1ug6xyq/when_did_burning_tokens_become_a_flex/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-28"
+    },
+    "1ug6kjv": {
+      "title": "Two Max 5x accounts cost the same as one 20x, and for most solo builders two accounts are the better buy",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1782479759,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1ug6kjv/two_max_5x_accounts_cost_the_same_as_one_20x_and/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-28"
+    },
+    "1uh58l8": {
+      "title": "Best free coding?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1782573159,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uh58l8/best_free_coding/",
+      "models": [
+        "claude",
+        "gemini"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-28"
+    },
+    "1ugypee": {
+      "title": "Overnight idle session but drain usage limit??",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1782554314,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1ugypee/overnight_idle_session_but_drain_usage_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-06-28"
+    },
+    "1uhh2xv": {
+      "title": "sonnet weekly limit bound to all models?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1782602375,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uhh2xv/sonnet_weekly_limit_bound_to_all_models/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-06-28"
+    },
+    "1uh59ga": {
+      "title": "Best way to use Claude code for free?",
+      "subreddit": "vibecoding",
+      "created_utc": 1782573216,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1uh59ga/best_way_to_use_claude_code_for_free/",
+      "models": [
+        "claude",
+        "gemini"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-28"
     }
   }
 }
