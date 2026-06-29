@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-28T09:20:19.276019+00:00",
-    "total_posts_analyzed": 8478,
-    "total_complaints": 2027
+    "last_updated": "2026-06-29T11:13:01.021694+00:00",
+    "total_posts_analyzed": 8547,
+    "total_complaints": 2039
   },
   "posts": {
     "1sg1yvw": {
@@ -24741,6 +24741,150 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-06-28"
+    },
+    "1uhxsqr": {
+      "title": "How to stop hitting Claude's usage limit (useful, especially on Pro)",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1782654562,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1uhxsqr/how_to_stop_hitting_claudes_usage_limit_useful/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-29"
+    },
+    "1ugsm1i": {
+      "title": "Has anyone noticed a change in how Claude Max weekly usage is accounted for?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1782533651,
+      "score": 26,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1ugsm1i/has_anyone_noticed_a_change_in_how_claude_max/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-29"
+    },
+    "1uihzla": {
+      "title": "Opus 4.8 : Service is busy - API Error: Server is temporarily limiting requests (not your usage limit) · Rate limited",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1782706267,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uihzla/opus_48_service_is_busy_api_error_server_is/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-06-29"
+    },
+    "1uimlns": {
+      "title": "I run multiple instance at once and the rate limiting thing is getting out of hand now...",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1782721671,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uimlns/i_run_multiple_instance_at_once_and_the_rate/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-29"
+    },
+    "1uidsm7": {
+      "title": "My experience: proactive developers burn through Claude usage way faster than reactive developers",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1782693880,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uidsm7/my_experience_proactive_developers_burn_through/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-06-29"
+    },
+    "1uibbqf": {
+      "title": "Anyone else seeing higher weekly usage on Max 5x lately?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1782687147,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uibbqf/anyone_else_seeing_higher_weekly_usage_on_max_5x/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-06-29"
+    },
+    "1uhso0w": {
+      "title": "Is 1 Max 20x session roughly 25% of the weekly quota?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1782638491,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uhso0w/is_1_max_20x_session_roughly_25_of_the_weekly/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-06-29"
+    },
+    "1uhi0zy": {
+      "title": "Dumbass literally burned through my 40% 5h limit with one prompt.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1782604906,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uhi0zy/dumbass_literally_burned_through_my_40_5h_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-06-29"
+    },
+    "1uiiufs": {
+      "title": "Usage limits absurdity",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1782708996,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uiiufs/usage_limits_absurdity/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-06-29"
+    },
+    "1ugdhyb": {
+      "title": "Why it's so hard to live with Anthropic at 1st position",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1782495410,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1ugdhyb/why_its_so_hard_to_live_with_anthropic_at_1st/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-06-29"
+    },
+    "1uioxtf": {
+      "title": "Is the ChatGPT 5.5 just worse or am I being stealth throttled?",
+      "subreddit": "ChatGPT",
+      "created_utc": 1782729720,
+      "score": 1,
+      "url": "https://reddit.com/r/ChatGPT/comments/1uioxtf/is_the_chatgpt_55_just_worse_or_am_i_being/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-29"
+    },
+    "1ui5mx0": {
+      "title": "My AI was wiped",
+      "subreddit": "artificial",
+      "created_utc": 1782673305,
+      "score": 1,
+      "url": "https://reddit.com/r/artificial/comments/1ui5mx0/my_ai_was_wiped/",
+      "models": [
+        "gemini"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-29"
     }
   }
 }
