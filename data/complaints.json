@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-29T11:13:01.021694+00:00",
-    "total_posts_analyzed": 8547,
-    "total_complaints": 2039
+    "last_updated": "2026-06-30T09:50:22.026597+00:00",
+    "total_posts_analyzed": 8613,
+    "total_complaints": 2048
   },
   "posts": {
     "1sg1yvw": {
@@ -24885,6 +24885,117 @@
       ],
       "complaint_score": 4,
       "fetched_date": "2026-06-29"
+    },
+    "1uiqg8m": {
+      "title": "5-hour limit/ Rate limit exceeded.",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1782734305,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1uiqg8m/5hour_limit_rate_limit_exceeded/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-30"
+    },
+    "1ui2mms": {
+      "title": "How many times cloud code broke something for you?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1782666312,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1ui2mms/how_many_times_cloud_code_broke_something_for_you/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-06-30"
+    },
+    "1ujhl85": {
+      "title": "I kept losing track of how close I was to hitting ChatGPT/Claude's context limit, so I built an extension to show it live",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1782801875,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1ujhl85/i_kept_losing_track_of_how_close_i_was_to_hitting/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-30"
+    },
+    "1uixexx": {
+      "title": "Claude Code has been unusable and eating away my quota since Friday due to timeouts",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1782750606,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uixexx/claude_code_has_been_unusable_and_eating_away_my/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-06-30"
+    },
+    "1uj41a8": {
+      "title": "tired of the 5-hour reset killing a claude code session mid-run, so i built a small tool to put the window on fixed times",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1782765109,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uj41a8/tired_of_the_5hour_reset_killing_a_claude_code/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-06-30"
+    },
+    "1uj8nlm": {
+      "title": "Can we have a weekly usage limit for shilling your own harness as if it’s amazing.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1782776062,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uj8nlm/can_we_have_a_weekly_usage_limit_for_shilling/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-06-30"
+    },
+    "1uizyry": {
+      "title": "How I feel when I hit the hourly usage limit",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1782756172,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uizyry/how_i_feel_when_i_hit_the_hourly_usage_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-30"
+    },
+    "1uitie0": {
+      "title": "About my web-based AI chatbot changement",
+      "subreddit": "GoogleGemini",
+      "created_utc": 1782742005,
+      "score": 1,
+      "url": "https://reddit.com/r/GoogleGemini/comments/1uitie0/about_my_webbased_ai_chatbot_changement/",
+      "models": [
+        "claude",
+        "gemini"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-06-30"
+    },
+    "1uj28wx": {
+      "title": "Plus account being throttled to 5.4 mini while saying 5.5 High",
+      "subreddit": "ChatGPT",
+      "created_utc": 1782761156,
+      "score": 1,
+      "url": "https://reddit.com/r/ChatGPT/comments/1uj28wx/plus_account_being_throttled_to_54_mini_while/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-06-30"
     }
   }
 }
