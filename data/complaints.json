@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-06-30T09:50:22.026597+00:00",
-    "total_posts_analyzed": 8613,
-    "total_complaints": 2048
+    "last_updated": "2026-07-01T10:24:33.120840+00:00",
+    "total_posts_analyzed": 8729,
+    "total_complaints": 2071
   },
   "posts": {
     "1sg1yvw": {
@@ -24996,6 +24996,286 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-06-30"
+    },
+    "1uiehl8": {
+      "title": "How 5-hour limits should work: Context drives the timer.",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1782695895,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1uiehl8/how_5hour_limits_should_work_context_drives_the/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-01"
+    },
+    "1uk2oux": {
+      "title": "API Error: Server is temporarily limiting requests (not your usage limit) · Rate limited",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1782856036,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uk2oux/api_error_server_is_temporarily_limiting_requests/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-01"
+    },
+    "1uk2ofi": {
+      "title": "API Error: Server is temporarily limiting requests (not your usage limit) · Rate limited",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1782856008,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uk2ofi/api_error_server_is_temporarily_limiting_requests/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-01"
+    },
+    "1ujljmw": {
+      "title": "Usage limit suddenly jumped from around 40% to 100%",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1782815752,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1ujljmw/usage_limit_suddenly_jumped_from_around_40_to_100/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-01"
+    },
+    "1uju2xw": {
+      "title": "I got tired of losing my context every time I switched AI coding agents, so I made a tool that carries it across them",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1782837064,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uju2xw/i_got_tired_of_losing_my_context_every_time_i/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 2,
+      "fetched_date": "2026-07-01"
+    },
+    "1uk1vjp": {
+      "title": "1 full 5-hour = 20% of weekly quota? (Max x5)",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1782854121,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uk1vjp/1_full_5hour_20_of_weekly_quota_max_x5/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-01"
+    },
+    "1ukapbh": {
+      "title": "100% Have Fable 5 do this with your coding projects before it disappears from plan usage on July 7th.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1782877652,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1ukapbh/100_have_fable_5_do_this_with_your_coding/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-01"
+    },
+    "1ujqoym": {
+      "title": "Codex 20x, Claude 20x, or Codex 5x + Claude 5x? $200 Monthly Limit.",
+      "subreddit": "vibecoding",
+      "created_utc": 1782829469,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1ujqoym/codex_20x_claude_20x_or_codex_5x_claude_5x_200/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-07-01"
+    },
+    "1uhsvhc": {
+      "title": "What's the catch for \"usage quota reset\" of Codex?",
+      "subreddit": "vibecoding",
+      "created_utc": 1782639268,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1uhsvhc/whats_the_catch_for_usage_quota_reset_of_codex/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-01"
+    },
+    "1ujykar": {
+      "title": "Rate Limit Reset Next Month? First time user",
+      "subreddit": "codex",
+      "created_utc": 1782846778,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1ujykar/rate_limit_reset_next_month_first_time_user/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-01"
+    },
+    "1ui0do2": {
+      "title": "The free rate-limit resets, question about it.",
+      "subreddit": "codex",
+      "created_utc": 1782660940,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1ui0do2/the_free_ratelimit_resets_question_about_it/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-01"
+    },
+    "1uhcclk": {
+      "title": "Touching grass, nature wins by rate limit.",
+      "subreddit": "codex",
+      "created_utc": 1782590389,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1uhcclk/touching_grass_nature_wins_by_rate_limit/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-01"
+    },
+    "1ug24fc": {
+      "title": "Rate limit resets expire?",
+      "subreddit": "codex",
+      "created_utc": 1782466792,
+      "score": 2,
+      "url": "https://reddit.com/r/codex/comments/1ug24fc/rate_limit_resets_expire/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-07-01"
+    },
+    "1ujiu37": {
+      "title": "The 5 hour limit on Pro has become atrocious",
+      "subreddit": "codex",
+      "created_utc": 1782806177,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1ujiu37/the_5_hour_limit_on_pro_has_become_atrocious/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-07-01"
+    },
+    "1uj93yw": {
+      "title": "Another free reset, Codex team gives a detailed update on usage limit draining",
+      "subreddit": "codex",
+      "created_utc": 1782777193,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1uj93yw/another_free_reset_codex_team_gives_a_detailed/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-01"
+    },
+    "1uiep6s": {
+      "title": "3 usage limit resets",
+      "subreddit": "codex",
+      "created_utc": 1782696522,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1uiep6s/3_usage_limit_resets/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-01"
+    },
+    "1uhkiy3": {
+      "title": "How do I see the expiration date of each usage limit reset? I'm not sure when I got these exactly",
+      "subreddit": "codex",
+      "created_utc": 1782611953,
+      "score": 11,
+      "url": "https://reddit.com/r/codex/comments/1uhkiy3/how_do_i_see_the_expiration_date_of_each_usage/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-01"
+    },
+    "1uk5g12": {
+      "title": "It's just not possible to use codex for 8 hrs a day, because it becomes so stupid",
+      "subreddit": "codex",
+      "created_utc": 1782862815,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1uk5g12/its_just_not_possible_to_use_codex_for_8_hrs_a/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-01"
+    },
+    "1ujcw48": {
+      "title": "How do Codex limits work on ChatGPT Pro?",
+      "subreddit": "codex",
+      "created_utc": 1782787401,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1ujcw48/how_do_codex_limits_work_on_chatgpt_pro/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-01"
+    },
+    "1uhb123": {
+      "title": "Observed Claude Code vs Codex weekly usage burn rate — does this match your experience?",
+      "subreddit": "codex",
+      "created_utc": 1782587139,
+      "score": 29,
+      "url": "https://reddit.com/r/codex/comments/1uhb123/observed_claude_code_vs_codex_weekly_usage_burn/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-07-01"
+    },
+    "1uh3elv": {
+      "title": "Codex limits on ChatGPT Business: monthly cap instead of 5h/1w?",
+      "subreddit": "codex",
+      "created_utc": 1782568504,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1uh3elv/codex_limits_on_chatgpt_business_monthly_cap/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-01"
+    },
+    "1uhwugv": {
+      "title": "wtf happened here? Mysterious Codex CLI tokenlimit-behaviour",
+      "subreddit": "codex",
+      "created_utc": 1782651989,
+      "score": 2,
+      "url": "https://reddit.com/r/codex/comments/1uhwugv/wtf_happened_here_mysterious_codex_cli/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-01"
+    },
+    "1ugzy6f": {
+      "title": "How can I file a complaint about my ChatGPT subscription?",
+      "subreddit": "codex",
+      "created_utc": 1782558460,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1ugzy6f/how_can_i_file_a_complaint_about_my_chatgpt/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-01"
     }
   }
 }
