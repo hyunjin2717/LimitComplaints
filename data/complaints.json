@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-04T08:49:02.662349+00:00",
-    "total_posts_analyzed": 8824,
-    "total_complaints": 2102
+    "last_updated": "2026-07-05T09:09:58.512248+00:00",
+    "total_posts_analyzed": 8862,
+    "total_complaints": 2118
   },
   "posts": {
     "1sg1yvw": {
@@ -25653,6 +25653,199 @@
       ],
       "complaint_score": 4,
       "fetched_date": "2026-07-02"
+    },
+    "1um6u57": {
+      "title": "Fix for the \"API Error: Server is temporarily limiting requests (not your usage limit) · Rate limited\"",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1783060859,
+      "score": 2,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1um6u57/fix_for_the_api_error_server_is_temporarily/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-05"
+    },
+    "1umx8me": {
+      "title": "An update to the stick shift for claude code",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1783132524,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1umx8me/an_update_to_the_stick_shift_for_claude_code/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-05"
+    },
+    "1ul0inn": {
+      "title": "Options For making Specs in Claude.ai with a MCP?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1782945708,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1ul0inn/options_for_making_specs_in_claudeai_with_a_mcp/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-05"
+    },
+    "1unl76v": {
+      "title": "Had to double check I wasn't using Haiku, because after only using Fable on my Claude sub the last few days, Opus with a 400k context is feeling almost free... weekly quota is barely moving at all.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1783202294,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1unl76v/had_to_double_check_i_wasnt_using_haiku_because/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-05"
+    },
+    "1unl5wj": {
+      "title": "Had to double check I wasn't using Haiku, because after only using Fable on my Claude sub the last few days, Opus with a 400k context is feeling almost free... weekly quota is barely moving at all.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1783202197,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1unl5wj/had_to_double_check_i_wasnt_using_haiku_because/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-05"
+    },
+    "1umycyw": {
+      "title": "I logged my own Claude Max 20x usage every 5 min for 23 days. My weekly quota came out to ~6 maxed 5-hour windows.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1783135941,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1umycyw/i_logged_my_own_claude_max_20x_usage_every_5_min/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-07-05"
+    },
+    "1uml2wd": {
+      "title": "How much of your weekly quota does a single 5-hour Fable session use for you? Here is my usage on a Max 5x subscription.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1783100681,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uml2wd/how_much_of_your_weekly_quota_does_a_single_5hour/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-05"
+    },
+    "1unmwon": {
+      "title": "Perfect balance is beautiful. How are you making the most of your Fable quota?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1783207089,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1unmwon/perfect_balance_is_beautiful_how_are_you_making/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-05"
+    },
+    "1umdsgf": {
+      "title": "A quota-aware task scheduler for Claude Code — for Pro / Max $100 users who keep running out of tokens (macOS)",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1783083494,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1umdsgf/a_quotaaware_task_scheduler_for_claude_code_for/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-05"
+    },
+    "1ulweb5": {
+      "title": "Mandatory Fable use",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1783030633,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1ulweb5/mandatory_fable_use/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-05"
+    },
+    "1unq4gj": {
+      "title": "Single 5h limit, Claude Pro, Fable 5",
+      "subreddit": "vibecoding",
+      "created_utc": 1783217059,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1unq4gj/single_5h_limit_claude_pro_fable_5/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-05"
+    },
+    "1un8nds": {
+      "title": "codex users, what's your actual move when a session dies or you hit a rate limit mid task?",
+      "subreddit": "codex",
+      "created_utc": 1783170452,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1un8nds/codex_users_whats_your_actual_move_when_a_session/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-07-05"
+    },
+    "1un8ei9": {
+      "title": "I have the Memories feature etc turned off. Even so, Codex still consume rate limits just by being open in the background. Have you noticed this as well?",
+      "subreddit": "codex",
+      "created_utc": 1783169763,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1un8ei9/i_have_the_memories_feature_etc_turned_off_even/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-07-05"
+    },
+    "1umpe3j": {
+      "title": "Rate limits are getting out of hand",
+      "subreddit": "codex",
+      "created_utc": 1783110937,
+      "score": 33,
+      "url": "https://reddit.com/r/codex/comments/1umpe3j/rate_limits_are_getting_out_of_hand/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-07-05"
+    },
+    "1umncxn": {
+      "title": "Anyone else feel less stressed when using codex?",
+      "subreddit": "codex",
+      "created_utc": 1783106003,
+      "score": 17,
+      "url": "https://reddit.com/r/codex/comments/1umncxn/anyone_else_feel_less_stressed_when_using_codex/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-05"
+    },
+    "1ulwz37": {
+      "title": "Codex kept burning through my resets and dying on the limit — so I built a free gateway that falls back automatically (MIT, self-hosted)",
+      "subreddit": "codex",
+      "created_utc": 1783032050,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1ulwz37/codex_kept_burning_through_my_resets_and_dying_on/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-05"
     }
   }
 }
