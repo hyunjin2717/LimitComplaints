@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-10T09:50:03.743669+00:00",
-    "total_posts_analyzed": 8862,
-    "total_complaints": 2118
+    "last_updated": "2026-07-11T08:15:19.542311+00:00",
+    "total_posts_analyzed": 8906,
+    "total_complaints": 2148
   },
   "posts": {
     "1sg1yvw": {
@@ -25846,6 +25846,368 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-07-05"
+    },
+    "1uo6ert": {
+      "title": "Built a tray app that shows Claude Code's rate-limit %, live token cost, and a red/amber/green \"is it waiting on me\" indicator — open source, Windows",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1783268622,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1uo6ert/built_a_tray_app_that_shows_claude_codes/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-11"
+    },
+    "1unc43a": {
+      "title": "how to get fable 5 for free / cheapest as possible",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1783179382,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1unc43a/how_to_get_fable_5_for_free_cheapest_as_possible/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-11"
+    },
+    "1unbzuw": {
+      "title": "How to get access to fable 5 for free / cheapest as possible",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1783179090,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1unbzuw/how_to_get_access_to_fable_5_for_free_cheapest_as/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-11"
+    },
+    "1uqicvt": {
+      "title": "Am I the only one who prefers Opus 4.6 over Fable 5?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1783484996,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uqicvt/am_i_the_only_one_who_prefers_opus_46_over_fable_5/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-11"
+    },
+    "1ut9uxx": {
+      "title": "GPT 5.6 is unusable",
+      "subreddit": "OpenAI",
+      "created_utc": 1783743367,
+      "score": 1,
+      "url": "https://reddit.com/r/OpenAI/comments/1ut9uxx/gpt_56_is_unusable/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-11"
+    },
+    "1us83sf": {
+      "title": "I think they silently added usage limits in App and Web (besides Codex)",
+      "subreddit": "OpenAI",
+      "created_utc": 1783643058,
+      "score": 1,
+      "url": "https://reddit.com/r/OpenAI/comments/1us83sf/i_think_they_silently_added_usage_limits_in_app/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-07-11"
+    },
+    "1us627s": {
+      "title": "Usage limit resets",
+      "subreddit": "OpenAI",
+      "created_utc": 1783638057,
+      "score": 1,
+      "url": "https://reddit.com/r/OpenAI/comments/1us627s/usage_limit_resets/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-07-11"
+    },
+    "1up3b7l": {
+      "title": "best ai coding subscription under $20-30/month?",
+      "subreddit": "OpenAI",
+      "created_utc": 1783357323,
+      "score": 11,
+      "url": "https://reddit.com/r/OpenAI/comments/1up3b7l/best_ai_coding_subscription_under_2030month/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-07-11"
+    },
+    "1up2ckx": {
+      "title": "ChatGPT Image Generation Limit: Bug or Expected?",
+      "subreddit": "OpenAI",
+      "created_utc": 1783355322,
+      "score": 10,
+      "url": "https://reddit.com/r/OpenAI/comments/1up2ckx/chatgpt_image_generation_limit_bug_or_expected/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-11"
+    },
+    "1ut9voy": {
+      "title": "GPT 5.6 is unusable",
+      "subreddit": "ChatGPT",
+      "created_utc": 1783743430,
+      "score": 1,
+      "url": "https://reddit.com/r/ChatGPT/comments/1ut9voy/gpt_56_is_unusable/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-11"
+    },
+    "1usicqy": {
+      "title": "Codex/ChatGPT 5.6 Sol seems to be infinitely inefficient",
+      "subreddit": "ChatGPT",
+      "created_utc": 1783674626,
+      "score": 1,
+      "url": "https://reddit.com/r/ChatGPT/comments/1usicqy/codexchatgpt_56_sol_seems_to_be_infinitely/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-11"
+    },
+    "1uscohi": {
+      "title": "GPT-5.6 Sol Ultra is impressive — for the 12 minutes you’re allowed to use it as a Plus subscriber",
+      "subreddit": "ChatGPT",
+      "created_utc": 1783655824,
+      "score": 1,
+      "url": "https://reddit.com/r/ChatGPT/comments/1uscohi/gpt56_sol_ultra_is_impressive_for_the_12_minutes/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-07-11"
+    },
+    "1urzmmx": {
+      "title": "Things to keep in mind. (ChatGPT Classic answers questions about 5.6)",
+      "subreddit": "ChatGPT",
+      "created_utc": 1783623637,
+      "score": 1,
+      "url": "https://reddit.com/r/ChatGPT/comments/1urzmmx/things_to_keep_in_mind_chatgpt_classic_answers/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-11"
+    },
+    "1umege7": {
+      "title": "PSA: Codex macOS may show a stale usage limit after subscription changes — check Web before using a banked reset",
+      "subreddit": "ChatGPT",
+      "created_utc": 1783085182,
+      "score": 2,
+      "url": "https://reddit.com/r/ChatGPT/comments/1umege7/psa_codex_macos_may_show_a_stale_usage_limit/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-07-11"
+    },
+    "1ut0rh8": {
+      "title": "Codex repeating completed goal when resuming after usage limit.",
+      "subreddit": "codex",
+      "created_utc": 1783718841,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1ut0rh8/codex_repeating_completed_goal_when_resuming/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-11"
+    },
+    "1ut00gw": {
+      "title": "My 5h limit got hit but Codex kept working. is there any workaround or trick to use this behavior to get unlimited Codex usage ?",
+      "subreddit": "codex",
+      "created_utc": 1783717123,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1ut00gw/my_5h_limit_got_hit_but_codex_kept_working_is/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-07-11"
+    },
+    "1usvuvn": {
+      "title": "usage limit resets",
+      "subreddit": "codex",
+      "created_utc": 1783707911,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1usvuvn/usage_limit_resets/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-11"
+    },
+    "1ust99m": {
+      "title": "usage limit resets, what time do they expire?",
+      "subreddit": "codex",
+      "created_utc": 1783702392,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1ust99m/usage_limit_resets_what_time_do_they_expire/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-11"
+    },
+    "1usrtrc": {
+      "title": "5.6 Sol Ultra went past my 5 hour limit and didn't use any \"credits\" but used my weekly usage",
+      "subreddit": "codex",
+      "created_utc": 1783699304,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1usrtrc/56_sol_ultra_went_past_my_5_hour_limit_and_didnt/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-07-11"
+    },
+    "1usjihq": {
+      "title": "Has anyone noticed web ChatGPT usage counting toward the weekly limit?",
+      "subreddit": "codex",
+      "created_utc": 1783678521,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1usjihq/has_anyone_noticed_web_chatgpt_usage_counting/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-07-11"
+    },
+    "1usce0n": {
+      "title": "Did the 5 hour usage limit get nerfed?",
+      "subreddit": "codex",
+      "created_utc": 1783654958,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1usce0n/did_the_5_hour_usage_limit_get_nerfed/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-07-11"
+    },
+    "1us2i06": {
+      "title": "Usage limit",
+      "subreddit": "codex",
+      "created_utc": 1783629899,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1us2i06/usage_limit/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-11"
+    },
+    "1us1a7z": {
+      "title": "Serious Question ... why do we even have a separate \"GPT-5.3-Codex-Spark Weekly usage limit\"?",
+      "subreddit": "codex",
+      "created_utc": 1783627209,
+      "score": 2,
+      "url": "https://reddit.com/r/codex/comments/1us1a7z/serious_question_why_do_we_even_have_a_separate/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-11"
+    },
+    "1urzcir": {
+      "title": "Usage Limit Bug When Upgrading",
+      "subreddit": "codex",
+      "created_utc": 1783623033,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1urzcir/usage_limit_bug_when_upgrading/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-07-11"
+    },
+    "1urkgbz": {
+      "title": "Usage limit reset at 100% but not really. Looks like is an ui bug of codex mostly as the other app show the real values as they should be !",
+      "subreddit": "codex",
+      "created_utc": 1783586584,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1urkgbz/usage_limit_reset_at_100_but_not_really_looks/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-11"
+    },
+    "1uqxmv9": {
+      "title": "Usage limit reset failed and my quota is gone?",
+      "subreddit": "codex",
+      "created_utc": 1783527950,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1uqxmv9/usage_limit_reset_failed_and_my_quota_is_gone/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-07-11"
+    },
+    "1uqhmh5": {
+      "title": "Circle doesn't show usage limit anymore?",
+      "subreddit": "codex",
+      "created_utc": 1783482785,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1uqhmh5/circle_doesnt_show_usage_limit_anymore/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-07-11"
+    },
+    "1unvh6y": {
+      "title": "Codex CLI: Usage limit resets Couldn't reset usage. Please try again.",
+      "subreddit": "codex",
+      "created_utc": 1783235242,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1unvh6y/codex_cli_usage_limit_resets_couldnt_reset_usage/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-11"
+    },
+    "1un41jw": {
+      "title": "PSA: Codex macOS may show a stale usage limit after subscription changes — check Web before using a banked reset",
+      "subreddit": "codex",
+      "created_utc": 1783155108,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1un41jw/psa_codex_macos_may_show_a_stale_usage_limit/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-07-11"
+    },
+    "1umd5uu": {
+      "title": "Usage limit after the upgrade",
+      "subreddit": "codex",
+      "created_utc": 1783081763,
+      "score": 6,
+      "url": "https://reddit.com/r/codex/comments/1umd5uu/usage_limit_after_the_upgrade/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-11"
     }
   }
 }
