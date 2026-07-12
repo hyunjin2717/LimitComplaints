@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-11T08:15:19.542311+00:00",
-    "total_posts_analyzed": 8906,
-    "total_complaints": 2148
+    "last_updated": "2026-07-12T08:30:41.446279+00:00",
+    "total_posts_analyzed": 8937,
+    "total_complaints": 2164
   },
   "posts": {
     "1sg1yvw": {
@@ -26208,6 +26208,206 @@
       ],
       "complaint_score": 4,
       "fetched_date": "2026-07-11"
+    },
+    "1usxrsy": {
+      "title": "I analyzed 568 of my own Claude Code sessions — my cache re-sends 330K tokens every turn, and the math on it surprised me",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1783712067,
+      "score": 4,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1usxrsy/i_analyzed_568_of_my_own_claude_code_sessions_my/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-07-12"
+    },
+    "1usm0vk": {
+      "title": "POV: My reaction when I literally just went to take a piss and F@ble 5 decided to nuke my €200 plan.",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1783685850,
+      "score": 198,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1usm0vk/pov_my_reaction_when_i_literally_just_went_to/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-12"
+    },
+    "1upzdel": {
+      "title": "I got tired of losing my task when Claude Code hits its 5-hour limit, so I built an open source tool that hands off to Codex automatically",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1783440050,
+      "score": 3,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1upzdel/i_got_tired_of_losing_my_task_when_claude_code/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-07-12"
+    },
+    "1upp9ax": {
+      "title": "Claude Pro says “usage limit reached” even with session usage remaining",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1783414013,
+      "score": 4,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1upp9ax/claude_pro_says_usage_limit_reached_even_with/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-12"
+    },
+    "1up04ur": {
+      "title": "I shipped 23 small AI apps with both Claude and local Ollama side-by-side. Here's when each actually wins.",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1783350696,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1up04ur/i_shipped_23_small_ai_apps_with_both_claude_and/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-12"
+    },
+    "1uolc1e": {
+      "title": "I built an app that sends Cloud (not a typo. mostly.) an invoice every time it says \"You're absolutely right\"",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1783306725,
+      "score": 3,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1uolc1e/i_built_an_app_that_sends_cloud_not_a_typo_mostly/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-07-12"
+    },
+    "1uoabxr": {
+      "title": "Hit the 100€ weekly limit in just 2 days despite aggressive token optimization. Plus, losing Fable 5 on July 7th...",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1783277874,
+      "score": 11,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1uoabxr/hit_the_100_weekly_limit_in_just_2_days_despite/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-07-12"
+    },
+    "1unyk0o": {
+      "title": "Model shifter for claude",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1783246541,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1unyk0o/model_shifter_for_claude/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-12"
+    },
+    "1uqxceh": {
+      "title": "I vibe coded Token Stream, a free browser arcade game built with Claude Code in a day featuring your new favorite coding buddy",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1783527328,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1uqxceh/i_vibe_coded_token_stream_a_free_browser_arcade/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-12"
+    },
+    "1unxh78": {
+      "title": "Pre-warm your Claude session window while you sleep- 15 Line AppleScript",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1783242541,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1unxh78/prewarm_your_claude_session_window_while_you/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-07-12"
+    },
+    "1utpxbo": {
+      "title": "Codex subagents and usage limit",
+      "subreddit": "ChatGPT",
+      "created_utc": 1783790376,
+      "score": 1,
+      "url": "https://reddit.com/r/ChatGPT/comments/1utpxbo/codex_subagents_and_usage_limit/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-07-12"
+    },
+    "1uu6ac5": {
+      "title": "AI Account Hub V 1.1 Update",
+      "subreddit": "vibecoding",
+      "created_utc": 1783833547,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1uu6ac5/ai_account_hub_v_11_update/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-12"
+    },
+    "1uppu5j": {
+      "title": "Alternatives to Claude , the greediest AI on the planet ???",
+      "subreddit": "vibecoding",
+      "created_utc": 1783416005,
+      "score": 2,
+      "url": "https://reddit.com/r/vibecoding/comments/1uppu5j/alternatives_to_claude_the_greediest_ai_on_the/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-12"
+    },
+    "1up761t": {
+      "title": "Claude in chat is absolute ripoff of usage, better use CLI",
+      "subreddit": "vibecoding",
+      "created_utc": 1783365266,
+      "score": 0,
+      "url": "https://reddit.com/r/vibecoding/comments/1up761t/claude_in_chat_is_absolute_ripoff_of_usage_better/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-12"
+    },
+    "1up3alj": {
+      "title": "best ai coding subscription under $20-30/month?",
+      "subreddit": "vibecoding",
+      "created_utc": 1783357289,
+      "score": 34,
+      "url": "https://reddit.com/r/vibecoding/comments/1up3alj/best_ai_coding_subscription_under_2030month/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-07-12"
+    },
+    "1unyn5j": {
+      "title": "Model shifter for claude",
+      "subreddit": "vibecoding",
+      "created_utc": 1783246844,
+      "score": 2,
+      "url": "https://reddit.com/r/vibecoding/comments/1unyn5j/model_shifter_for_claude/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-12"
     }
   }
 }
