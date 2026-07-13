@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-12T08:30:41.446279+00:00",
-    "total_posts_analyzed": 8937,
-    "total_complaints": 2164
+    "last_updated": "2026-07-13T09:45:09.438162+00:00",
+    "total_posts_analyzed": 8976,
+    "total_complaints": 2180
   },
   "posts": {
     "1sg1yvw": {
@@ -26408,6 +26408,202 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-07-12"
+    },
+    "1uul37h": {
+      "title": "Fable access extended through July 19, previous Code rate limit increases similarly extended",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1783875860,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1uul37h/fable_access_extended_through_july_19_previous/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-07-13"
+    },
+    "1uuloz3": {
+      "title": "Anthropic just extended Claude Fable 5 access again. July 19 now.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1783877160,
+      "score": 2,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uuloz3/anthropic_just_extended_claude_fable_5_access/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-13"
+    },
+    "1usx68b": {
+      "title": "I analyzed 568 of my own Claude Code sessions — my cache re-sends 330K tokens every turn, and the math on it surprised me",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1783710724,
+      "score": 5,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1usx68b/i_analyzed_568_of_my_own_claude_code_sessions_my/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-07-13"
+    },
+    "1usv83o": {
+      "title": "Is Pro unable to finish a Fable ultracode session?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1783706581,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1usv83o/is_pro_unable_to_finish_a_fable_ultracode_session/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-07-13"
+    },
+    "1uryui9": {
+      "title": "OpenAI-compatible LLM proxy for Claude Code and n8n",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1783621978,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uryui9/openaicompatible_llm_proxy_for_claude_code_and_n8n/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-13"
+    },
+    "1uqkc2y": {
+      "title": "Am I missing something?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1783491300,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uqkc2y/am_i_missing_something/",
+      "models": [
+        "claude",
+        "gemini"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-07-13"
+    },
+    "1upj68a": {
+      "title": "I shipped 23 small AI apps with both Claude and local Ollama side-by-side. Here's when each actually wins.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1783394368,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1upj68a/i_shipped_23_small_ai_apps_with_both_claude_and/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-13"
+    },
+    "1uuv0od": {
+      "title": "The Fix Is Real: My Same 700-Page PDF Test Went from Two Full 5Hour Limits to Just 12% of My Weekly Cap",
+      "subreddit": "ChatGPT",
+      "created_utc": 1783899003,
+      "score": 1,
+      "url": "https://reddit.com/r/ChatGPT/comments/1uuv0od/the_fix_is_real_my_same_700page_pdf_test_went/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-07-13"
+    },
+    "1ustd9x": {
+      "title": "SOL One prompt in and boom, 5-hour limit gone 💀",
+      "subreddit": "codex",
+      "created_utc": 1783702635,
+      "score": 56,
+      "url": "https://reddit.com/r/codex/comments/1ustd9x/sol_one_prompt_in_and_boom_5hour_limit_gone/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-07-13"
+    },
+    "1ussnmx": {
+      "title": "GPT-5.6 Sol Apparently Thinks $200/Month Means 20 Hours/Week",
+      "subreddit": "codex",
+      "created_utc": 1783701085,
+      "score": 3,
+      "url": "https://reddit.com/r/codex/comments/1ussnmx/gpt56_sol_apparently_thinks_200month_means_20/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-13"
+    },
+    "1usrde0": {
+      "title": "I have not had an argument with Codex in nearly 24 hours, and it is GLORIOUS!!!",
+      "subreddit": "codex",
+      "created_utc": 1783698311,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1usrde0/i_have_not_had_an_argument_with_codex_in_nearly/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-07-13"
+    },
+    "1upfue1": {
+      "title": "All of my 13 Claude Max 20x subscriptions suspended.",
+      "subreddit": "codex",
+      "created_utc": 1783385331,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1upfue1/all_of_my_13_claude_max_20x_subscriptions/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-07-13"
+    },
+    "1up16in": {
+      "title": "How Codex resets affect monthly usage and how to optimize them",
+      "subreddit": "codex",
+      "created_utc": 1783352904,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1up16in/how_codex_resets_affect_monthly_usage_and_how_to/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-13"
+    },
+    "1uoysuo": {
+      "title": "The everlasting talk about usage",
+      "subreddit": "codex",
+      "created_utc": 1783347778,
+      "score": 6,
+      "url": "https://reddit.com/r/codex/comments/1uoysuo/the_everlasting_talk_about_usage/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-13"
+    },
+    "1uoc6z9": {
+      "title": "Codex usage suddenly burn down in minutes, and support just keeps sending canned replies",
+      "subreddit": "codex",
+      "created_utc": 1783282325,
+      "score": 21,
+      "url": "https://reddit.com/r/codex/comments/1uoc6z9/codex_usage_suddenly_burn_down_in_minutes_and/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-13"
+    },
+    "1us5dh7": {
+      "title": "\"Usage\" panel is not updating correctly. Please fix!",
+      "subreddit": "codex",
+      "created_utc": 1783636426,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1us5dh7/usage_panel_is_not_updating_correctly_please_fix/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 2,
+      "fetched_date": "2026-07-13"
     }
   }
 }
