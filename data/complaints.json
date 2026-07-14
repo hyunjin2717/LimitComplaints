@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-13T09:45:09.438162+00:00",
-    "total_posts_analyzed": 8976,
-    "total_complaints": 2180
+    "last_updated": "2026-07-14T08:20:32.788872+00:00",
+    "total_posts_analyzed": 8988,
+    "total_complaints": 2184
   },
   "posts": {
     "1sg1yvw": {
@@ -26604,6 +26604,55 @@
       ],
       "complaint_score": 2,
       "fetched_date": "2026-07-13"
+    },
+    "1uuib78": {
+      "title": "A single AI agent session hit 534,000 tokens in one turn (2.7x the usual 200K ceiling) — some numbers from a 1,320-turn marathon",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1783869597,
+      "score": 4,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1uuib78/a_single_ai_agent_session_hit_534000_tokens_in/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-14"
+    },
+    "1ushvd4": {
+      "title": "GPT-5.6 Sol’s usage limits are making the $200 Pro plan hard to justify",
+      "subreddit": "OpenAI",
+      "created_utc": 1783672950,
+      "score": 53,
+      "url": "https://reddit.com/r/OpenAI/comments/1ushvd4/gpt56_sols_usage_limits_are_making_the_200_pro/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-07-14"
+    },
+    "1us4m9b": {
+      "title": "Seems like OpenAI reset the weekly limit just now.",
+      "subreddit": "OpenAI",
+      "created_utc": 1783634719,
+      "score": 3,
+      "url": "https://reddit.com/r/OpenAI/comments/1us4m9b/seems_like_openai_reset_the_weekly_limit_just_now/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-14"
+    },
+    "1uvy4wu": {
+      "title": "Using GPT 5.6 inside Claude Code via CLIProxyAPI: surprisingly useful, but not the same as running Codex CLI",
+      "subreddit": "codex",
+      "created_utc": 1784002475,
+      "score": 2,
+      "url": "https://reddit.com/r/codex/comments/1uvy4wu/using_gpt_56_inside_claude_code_via_cliproxyapi/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-14"
     }
   }
 }
