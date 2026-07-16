@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-15T08:28:55.158402+00:00",
-    "total_posts_analyzed": 9175,
-    "total_complaints": 2299
+    "last_updated": "2026-07-16T08:26:28.797425+00:00",
+    "total_posts_analyzed": 9201,
+    "total_complaints": 2307
   },
   "posts": {
     "1sg1yvw": {
@@ -28058,6 +28058,104 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-07-15"
+    },
+    "1uw799k": {
+      "title": "XML Prompting System that actually improves claude code's results",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1784032048,
+      "score": 2,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1uw799k/xml_prompting_system_that_actually_improves/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-16"
+    },
+    "1uvv5b0": {
+      "title": "Question from a non-programmer: What are the usage limits/costs to each model currently",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1783993986,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1uvv5b0/question_from_a_nonprogrammer_what_are_the_usage/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-16"
+    },
+    "1uxbynt": {
+      "title": "Claude Code burned 25% of my weekly Max quota because it kept running. Has this happened to anyone else?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784135167,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uxbynt/claude_code_burned_25_of_my_weekly_max_quota/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-07-16"
+    },
+    "1uvvfy0": {
+      "title": "Sol hits usage limit 2x faster?",
+      "subreddit": "OpenAI",
+      "created_utc": 1783994768,
+      "score": 1,
+      "url": "https://reddit.com/r/OpenAI/comments/1uvvfy0/sol_hits_usage_limit_2x_faster/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-07-16"
+    },
+    "1uuqhmk": {
+      "title": "If you noticed that in Codex you no longer a see a 5-hour usage limit, that's not a bug.",
+      "subreddit": "OpenAI",
+      "created_utc": 1783887875,
+      "score": 284,
+      "url": "https://reddit.com/r/OpenAI/comments/1uuqhmk/if_you_noticed_that_in_codex_you_no_longer_a_see/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-16"
+    },
+    "1usg2sw": {
+      "title": "My Claude usage limit reset right after GPT-5.6 Sol launched. Coincidence?",
+      "subreddit": "OpenAI",
+      "created_utc": 1783666709,
+      "score": 1,
+      "url": "https://reddit.com/r/OpenAI/comments/1usg2sw/my_claude_usage_limit_reset_right_after_gpt56_sol/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-16"
+    },
+    "1uxsfa0": {
+      "title": "Codex got another usage reset. Tibo, please let me rest.",
+      "subreddit": "OpenAI",
+      "created_utc": 1784175782,
+      "score": 1,
+      "url": "https://reddit.com/r/OpenAI/comments/1uxsfa0/codex_got_another_usage_reset_tibo_please_let_me/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-07-16"
+    },
+    "1urs5iy": {
+      "title": "Codex vs Gemini",
+      "subreddit": "vibecoding",
+      "created_utc": 1783607863,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1urs5iy/codex_vs_gemini/",
+      "models": [
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 2,
+      "fetched_date": "2026-07-16"
     }
   }
 }
