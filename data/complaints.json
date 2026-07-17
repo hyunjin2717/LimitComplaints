@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-16T08:26:28.797425+00:00",
-    "total_posts_analyzed": 9201,
-    "total_complaints": 2307
+    "last_updated": "2026-07-17T08:25:08.224879+00:00",
+    "total_posts_analyzed": 9215,
+    "total_complaints": 2310
   },
   "posts": {
     "1sg1yvw": {
@@ -28156,6 +28156,42 @@
       ],
       "complaint_score": 2,
       "fetched_date": "2026-07-16"
+    },
+    "1utpppz": {
+      "title": "couldn't comprehend codex weekly quota",
+      "subreddit": "OpenAI",
+      "created_utc": 1783789890,
+      "score": 1,
+      "url": "https://reddit.com/r/OpenAI/comments/1utpppz/couldnt_comprehend_codex_weekly_quota/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-17"
+    },
+    "1uxz5wh": {
+      "title": "I hit the claude 5h limit in just 4 minutes, really?",
+      "subreddit": "vibecoding",
+      "created_utc": 1784198351,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1uxz5wh/i_hit_the_claude_5h_limit_in_just_4_minutes_really/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-17"
+    },
+    "1uuprtu": {
+      "title": "usage limit reset and massively, 5H limits removed entirely. Your move Anthropic",
+      "subreddit": "singularity",
+      "created_utc": 1783886238,
+      "score": 705,
+      "url": "https://reddit.com/r/singularity/comments/1uuprtu/usage_limit_reset_and_massively_5h_limits_removed/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-17"
     }
   }
 }
