@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-17T08:25:08.224879+00:00",
-    "total_posts_analyzed": 9215,
-    "total_complaints": 2310
+    "last_updated": "2026-07-18T08:07:52.563238+00:00",
+    "total_posts_analyzed": 9250,
+    "total_complaints": 2328
   },
   "posts": {
     "1sg1yvw": {
@@ -28192,6 +28192,224 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-07-17"
+    },
+    "1uxla8x": {
+      "title": "I made some iPhone widgets to make Claude Code’s rate limits easier to see",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1784156178,
+      "score": 212,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1uxla8x/i_made_some_iphone_widgets_to_make_claude_codes/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-18"
+    },
+    "1uxgb58": {
+      "title": "Question about usage limit scaling (Fable 5 vs Opus 4.8) and Fable's sub-task auto-orchestration.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784144717,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uxgb58/question_about_usage_limit_scaling_fable_5_vs/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-07-18"
+    },
+    "1uxz4rf": {
+      "title": "I hit the 5h limit in just 4 minutes, really?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784198249,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uxz4rf/i_hit_the_5h_limit_in_just_4_minutes_really/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-18"
+    },
+    "1uxvkn7": {
+      "title": "[RANT] Reset ruined my workday (5h limit)",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784185979,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uxvkn7/rant_reset_ruined_my_workday_5h_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-18"
+    },
+    "1uyzk4z": {
+      "title": "Do you know what /compact actually costs?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784294458,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uyzk4z/do_you_know_what_compact_actually_costs/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-18"
+    },
+    "1uw7bcy": {
+      "title": "Seriously, what just happened to the weekly quota on 20x?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784032209,
+      "score": 217,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uw7bcy/seriously_what_just_happened_to_the_weekly_quota/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-07-18"
+    },
+    "1uyn9tm": {
+      "title": "I've run 1,800+ logged sessions through Claude Code on top of a memory workspace with 400+ skills and protocols. Most of it was over-engineering. Here's the 20% that survived, with numbers.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784256158,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uyn9tm/ive_run_1800_logged_sessions_through_claude_code/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-18"
+    },
+    "1uyjfdg": {
+      "title": "Opus is currently a joke. Drained my entire weekly limit in 2 hours just to loop \"You're right, I lied\". Moving to DeepSeek.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784245681,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uyjfdg/opus_is_currently_a_joke_drained_my_entire_weekly/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-07-18"
+    },
+    "1uy7sv1": {
+      "title": "Claude Max global resets: same price, unequal access, possible consumer issue?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784219406,
+      "score": 288,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uy7sv1/claude_max_global_resets_same_price_unequal/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-18"
+    },
+    "1uxzlyx": {
+      "title": "Did anyone else's Claude Code weekly usage reset today?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784199730,
+      "score": 5,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uxzlyx/did_anyone_elses_claude_code_weekly_usage_reset/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-18"
+    },
+    "1ux52st": {
+      "title": "So ultrareview just uses quota?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784120133,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1ux52st/so_ultrareview_just_uses_quota/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-18"
+    },
+    "1uwdzgf": {
+      "title": "Just A Reminder To Folks Like Me That Hoped For A Reset ... Use The Downtime Wisely!",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784047288,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uwdzgf/just_a_reminder_to_folks_like_me_that_hoped_for_a/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 2,
+      "fetched_date": "2026-07-18"
+    },
+    "1uui9dp": {
+      "title": "Had leftover Fable quota about to expire, so I \"wasted\" it building a flight game out of my GitHub contribution graph",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1783869482,
+      "score": 6,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uui9dp/had_leftover_fable_quota_about_to_expire_so_i/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-07-18"
+    },
+    "1uubpmv": {
+      "title": "Why claude code is not prioritizing Native session recovery after quota/rate-limit exhaustion",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1783851934,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uubpmv/why_claude_code_is_not_prioritizing_native/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-07-18"
+    },
+    "1uu514j": {
+      "title": "As a non-technical person, what website-building tasks should I batch with Fable before my quota resets? Any tricks for getting the most value from one model vs. others?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1783829736,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uu514j/as_a_nontechnical_person_what_websitebuilding/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-18"
+    },
+    "1utem2q": {
+      "title": "I made a terminal status bar that shows Claude Code token usage in real time",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1783759195,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1utem2q/i_made_a_terminal_status_bar_that_shows_claude/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-18"
+    },
+    "1usqhkv": {
+      "title": "I made a terminal status bar that shows Claude Code token usage in real time",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1783696369,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1usqhkv/i_made_a_terminal_status_bar_that_shows_claude/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-18"
+    },
+    "1uzkofx": {
+      "title": "Just got only 2% added to the usage limit on Codex. What is this about?",
+      "subreddit": "OpenAI",
+      "created_utc": 1784345053,
+      "score": 1,
+      "url": "https://reddit.com/r/OpenAI/comments/1uzkofx/just_got_only_2_added_to_the_usage_limit_on_codex/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-07-18"
     }
   }
 }
