@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-19T08:34:47.538926+00:00",
-    "total_posts_analyzed": 9380,
-    "total_complaints": 2406
+    "last_updated": "2026-07-20T09:31:24.380216+00:00",
+    "total_posts_analyzed": 9412,
+    "total_complaints": 2421
   },
   "posts": {
     "1sg1yvw": {
@@ -29359,6 +29359,193 @@
       ],
       "complaint_score": 8,
       "fetched_date": "2026-07-19"
+    },
+    "1uz85wo": {
+      "title": "Burning Extra Credits Before Quota Runs Out",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1784313311,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1uz85wo/burning_extra_credits_before_quota_runs_out/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-07-20"
+    },
+    "1uw8d63": {
+      "title": "Weekly usage limits",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1784034851,
+      "score": 7,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1uw8d63/weekly_usage_limits/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-07-20"
+    },
+    "1uuglol": {
+      "title": "Multiple weekly quota resets for a subscription",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1783865567,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1uuglol/multiple_weekly_quota_resets_for_a_subscription/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-20"
+    },
+    "1v0mx6l": {
+      "title": "Claude Code Rate limit didn't reset (bug)?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784456562,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1v0mx6l/claude_code_rate_limit_didnt_reset_bug/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-20"
+    },
+    "1uyf2aw": {
+      "title": "Seriously considering switching to GPT-5.6 SOL, Claude hit the rate limit in under 4 minutes",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784235367,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uyf2aw/seriously_considering_switching_to_gpt56_sol/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-20"
+    },
+    "1uwmc2e": {
+      "title": "Max 20x plan rate limit bug",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784065467,
+      "score": 9,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uwmc2e/max_20x_plan_rate_limit_bug/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-20"
+    },
+    "1uujyoh": {
+      "title": "I built rate-limit-handoff: Schedule work when you hit Claude Code / Codex limits + auto-update Second Brain",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1783873337,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uujyoh/i_built_ratelimithandoff_schedule_work_when_you/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-20"
+    },
+    "1uujq1a": {
+      "title": "I built a rate-limit scheduler that also grows your Second Brain (Claude Code + Codex + more)",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1783872791,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uujq1a/i_built_a_ratelimit_scheduler_that_also_grows/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-20"
+    },
+    "1uxrfmk": {
+      "title": "I made some iPhone widgets to make Claude Code’s rate limits easier to see",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784172786,
+      "score": 79,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uxrfmk/i_made_some_iphone_widgets_to_make_claude_codes/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-20"
+    },
+    "1ux9xqb": {
+      "title": "Claude Code headless process hangs mid-run with no error",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784131031,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1ux9xqb/claude_code_headless_process_hangs_midrun_with_no/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-20"
+    },
+    "1uw7b4w": {
+      "title": "Stop writing plain text prompts. Switch to XML ones. Actually works (no bs)",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784032196,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uw7b4w/stop_writing_plain_text_prompts_switch_to_xml/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-20"
+    },
+    "1uyufuo": {
+      "title": "Usage endpoint rate limited to kill the third party tools to manage limits in live?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784279237,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uyufuo/usage_endpoint_rate_limited_to_kill_the_third/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-07-20"
+    },
+    "1uzopqi": {
+      "title": "Heavy Claude Max user looking for a backup after account suspensions",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784357804,
+      "score": 4,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uzopqi/heavy_claude_max_user_looking_for_a_backup_after/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-20"
+    },
+    "1uvjxe2": {
+      "title": "GPT-5.6 Terra Ultra burned through my entire Codex Go monthly limit + all resets and still didn’t finish. Fable 5 finished in 30 minutes.",
+      "subreddit": "ChatGPT",
+      "created_utc": 1783967482,
+      "score": 0,
+      "url": "https://reddit.com/r/ChatGPT/comments/1uvjxe2/gpt56_terra_ultra_burned_through_my_entire_codex/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-07-20"
+    },
+    "1uwz9gt": {
+      "title": "Meta says Muse Spark 1.1 beats OpenAI and Anthropic. On price it actually does, just not in the way that matters to most people.",
+      "subreddit": "artificial",
+      "created_utc": 1784102092,
+      "score": 8,
+      "url": "https://reddit.com/r/artificial/comments/1uwz9gt/meta_says_muse_spark_11_beats_openai_and/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-20"
     }
   }
 }
