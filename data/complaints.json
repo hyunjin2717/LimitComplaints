@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-20T09:31:24.380216+00:00",
-    "total_posts_analyzed": 9412,
-    "total_complaints": 2421
+    "last_updated": "2026-07-21T08:40:47.586878+00:00",
+    "total_posts_analyzed": 9440,
+    "total_complaints": 2431
   },
   "posts": {
     "1sg1yvw": {
@@ -29546,6 +29546,127 @@
       ],
       "complaint_score": 4,
       "fetched_date": "2026-07-20"
+    },
+    "1v1qh3f": {
+      "title": "Getting rate-limited on Claude actually fixed a bad habit I didn't know I had",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1784565158,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1v1qh3f/getting_ratelimited_on_claude_actually_fixed_a/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-07-21"
+    },
+    "1v0agfe": {
+      "title": "Want To Get Back Into Vibe Coding - What Model And Where?",
+      "subreddit": "vibecoding",
+      "created_utc": 1784416731,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1v0agfe/want_to_get_back_into_vibe_coding_what_model_and/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-07-21"
+    },
+    "1uy22k7": {
+      "title": "Stop burning your GPT-5.6 Sol quota in under 2 hours — 6 tips that actually work after 1 week of heavy vibecoding",
+      "subreddit": "vibecoding",
+      "created_utc": 1784206471,
+      "score": 0,
+      "url": "https://reddit.com/r/vibecoding/comments/1uy22k7/stop_burning_your_gpt56_sol_quota_in_under_2/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-07-21"
+    },
+    "1v1cw15": {
+      "title": "What determines whether Codex gives you a banked reset or resets your limit automatically?",
+      "subreddit": "codex",
+      "created_utc": 1784526773,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1v1cw15/what_determines_whether_codex_gives_you_a_banked/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-21"
+    },
+    "1v140ba": {
+      "title": "I spent two weeks testing GPT-5.6. Here’s what I found.",
+      "subreddit": "codex",
+      "created_utc": 1784500930,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1v140ba/i_spent_two_weeks_testing_gpt56_heres_what_i_found/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-07-21"
+    },
+    "1v0p67q": {
+      "title": "Usage limits on the Pro Plans are insane",
+      "subreddit": "codex",
+      "created_utc": 1784463695,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1v0p67q/usage_limits_on_the_pro_plans_are_insane/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-07-21"
+    },
+    "1uymi3s": {
+      "title": "Safe Window - Is Tibo Sleeping?",
+      "subreddit": "codex",
+      "created_utc": 1784253995,
+      "score": 81,
+      "url": "https://reddit.com/r/codex/comments/1uymi3s/safe_window_is_tibo_sleeping/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-21"
+    },
+    "1ux0ann": {
+      "title": "Tibo, my heart has been reset",
+      "subreddit": "codex",
+      "created_utc": 1784105704,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1ux0ann/tibo_my_heart_has_been_reset/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-21"
+    },
+    "1v1f0z8": {
+      "title": "Fable 5 is now metered for Pro and Team Standard, but Claude Code's separate August 19 extension may be more useful to watch",
+      "subreddit": "artificial",
+      "created_utc": 1784534165,
+      "score": 1,
+      "url": "https://reddit.com/r/artificial/comments/1v1f0z8/fable_5_is_now_metered_for_pro_and_team_standard/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-21"
+    },
+    "1uz8j0h": {
+      "title": "Fable 5 deactivated for $200 Claude.ai Max Customers?",
+      "subreddit": "artificial",
+      "created_utc": 1784314107,
+      "score": 0,
+      "url": "https://reddit.com/r/artificial/comments/1uz8j0h/fable_5_deactivated_for_200_claudeai_max_customers/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-07-21"
     }
   }
 }
