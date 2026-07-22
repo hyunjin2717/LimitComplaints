@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-21T08:40:47.586878+00:00",
-    "total_posts_analyzed": 9440,
-    "total_complaints": 2431
+    "last_updated": "2026-07-22T08:39:24.639623+00:00",
+    "total_posts_analyzed": 9465,
+    "total_complaints": 2438
   },
   "posts": {
     "1sg1yvw": {
@@ -29667,6 +29667,94 @@
       ],
       "complaint_score": 5,
       "fetched_date": "2026-07-21"
+    },
+    "1uwb45p": {
+      "title": "Google AI Pro usage limit got nerfed",
+      "subreddit": "GoogleGemini",
+      "created_utc": 1784041147,
+      "score": 16,
+      "url": "https://reddit.com/r/GoogleGemini/comments/1uwb45p/google_ai_pro_usage_limit_got_nerfed/",
+      "models": [
+        "gemini"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-07-22"
+    },
+    "1uwy4y4": {
+      "title": "Hit Claude's usage limit? Try this💀🔥",
+      "subreddit": "vibecoding",
+      "created_utc": 1784098296,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1uwy4y4/hit_claudes_usage_limit_try_this/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-22"
+    },
+    "1v1alq7": {
+      "title": "Here’s a prompt I used for a personalized course on agentic coding",
+      "subreddit": "vibecoding",
+      "created_utc": 1784519344,
+      "score": 3,
+      "url": "https://reddit.com/r/vibecoding/comments/1v1alq7/heres_a_prompt_i_used_for_a_personalized_course/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-22"
+    },
+    "1uytxmb": {
+      "title": "I need some help/advice/suggestions",
+      "subreddit": "vibecoding",
+      "created_utc": 1784277506,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1uytxmb/i_need_some_helpadvicesuggestions/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-22"
+    },
+    "1uyiz2v": {
+      "title": "i'm the kid you were all laughing at yesterday. surprise! i did not, in fact, forget to put a limit on my api costs",
+      "subreddit": "vibecoding",
+      "created_utc": 1784244507,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1uyiz2v/im_the_kid_you_were_all_laughing_at_yesterday/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-07-22"
+    },
+    "1uy7h74": {
+      "title": "I made some iPhone widgets to make Claude Code’s rate limits easier to see",
+      "subreddit": "vibecoding",
+      "created_utc": 1784218696,
+      "score": 5,
+      "url": "https://reddit.com/r/vibecoding/comments/1uy7h74/i_made_some_iphone_widgets_to_make_claude_codes/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-22"
+    },
+    "1uw5q79": {
+      "title": "Claude May Be Brilliant, but GPT Is the One I Trust to Finish the Job",
+      "subreddit": "vibecoding",
+      "created_utc": 1784027743,
+      "score": 13,
+      "url": "https://reddit.com/r/vibecoding/comments/1uw5q79/claude_may_be_brilliant_but_gpt_is_the_one_i/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-22"
     }
   }
 }
