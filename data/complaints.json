@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-22T08:39:24.639623+00:00",
-    "total_posts_analyzed": 9465,
-    "total_complaints": 2438
+    "last_updated": "2026-07-23T08:39:38.986811+00:00",
+    "total_posts_analyzed": 9611,
+    "total_complaints": 2519
   },
   "posts": {
     "1sg1yvw": {
@@ -29755,6 +29755,994 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-07-22"
+    },
+    "1v2sjfs": {
+      "title": "I'm tired boss - tattoo editor app with claude",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1784661968,
+      "score": 87,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1v2sjfs/im_tired_boss_tattoo_editor_app_with_claude/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-23"
+    },
+    "1v1yj2k": {
+      "title": "My experience with Kimi K3 after a day of API testing",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1784582692,
+      "score": 58,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1v1yj2k/my_experience_with_kimi_k3_after_a_day_of_api/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-23"
+    },
+    "1uxffpk": {
+      "title": "Updates randomly increase token usage and don't notify you",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784142648,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uxffpk/updates_randomly_increase_token_usage_and_dont/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-07-23"
+    },
+    "1v2mjn7": {
+      "title": "usage limit jumping",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784649456,
+      "score": 23,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1v2mjn7/usage_limit_jumping/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-23"
+    },
+    "1v1ub5r": {
+      "title": "What's the most token-efficient way to resume Claude Code after a usage limit interruption?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784573329,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1v1ub5r/whats_the_most_tokenefficient_way_to_resume/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-23"
+    },
+    "1v1l73u": {
+      "title": "Fresh limit reset on 20x, now the session usage almost = weekly usage??",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784553195,
+      "score": 5,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1v1l73u/fresh_limit_reset_on_20x_now_the_session_usage/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-23"
+    },
+    "1v1l5lh": {
+      "title": "Fresh limit reset on 20x, now the session usage almost = weekly usage??",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784553097,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1v1l5lh/fresh_limit_reset_on_20x_now_the_session_usage/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-23"
+    },
+    "1v0u8kc": {
+      "title": "Feature suggestion: don't end the session at the usage limit, suspend it with a countdown and auto-resume",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784476631,
+      "score": 77,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1v0u8kc/feature_suggestion_dont_end_the_session_at_the/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-23"
+    },
+    "1v0e2ke": {
+      "title": "new usage limit menu bar notifier",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784426980,
+      "score": 2,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1v0e2ke/new_usage_limit_menu_bar_notifier/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-23"
+    },
+    "1uzva67": {
+      "title": "Finished daily usage limit in 3 minutes..",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784379602,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uzva67/finished_daily_usage_limit_in_3_minutes/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-07-23"
+    },
+    "1uzsuo1": {
+      "title": "A tiny CLI for people with more than one Claude account. When the account you're on hits its usage limit, swappy next rotates you to the next one.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784372317,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uzsuo1/a_tiny_cli_for_people_with_more_than_one_claude/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-23"
+    },
+    "1uzlzw2": {
+      "title": "Nonstop \"Usage limit reached\" when well below it message",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784349059,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uzlzw2/nonstop_usage_limit_reached_when_well_below_it/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-23"
+    },
+    "1uz8sey": {
+      "title": "Usage Limit Creep Decrease - initially 5x was great, then hit limits a lot: then upgrade to 20x, first 2 days amazing now hitting limits again and not getting 4x usage I paid for",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784314692,
+      "score": 5,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uz8sey/usage_limit_creep_decrease_initially_5x_was_great/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-07-23"
+    },
+    "1uz8jp4": {
+      "title": "Usage limit hit on fable, then it returned?? (did I get server throttled) - how is this even a thing",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784314148,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uz8jp4/usage_limit_hit_on_fable_then_it_returned_did_i/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-23"
+    },
+    "1uz7y7c": {
+      "title": "Fable-Specific Usage Limit Gone?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784312858,
+      "score": 8,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uz7y7c/fablespecific_usage_limit_gone/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-07-23"
+    },
+    "1uz7r2u": {
+      "title": "Looks like they removed the weekly Fable usage limit?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784312440,
+      "score": 7,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uz7r2u/looks_like_they_removed_the_weekly_fable_usage/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-23"
+    },
+    "1uz7pgv": {
+      "title": "Looks like they removed the Fable only usage limit?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784312342,
+      "score": 3,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uz7pgv/looks_like_they_removed_the_fable_only_usage_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-23"
+    },
+    "1uyanpx": {
+      "title": "I am pro plan and only getting around 20k tokens every session. I need to upload 365 page document to claudecode and ask it to optimize the content to post on my websit - is there any better way doing this as I think I will hit usage limit immediately as it's huge file?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784225552,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uyanpx/i_am_pro_plan_and_only_getting_around_20k_tokens/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-23"
+    },
+    "1uxm0dz": {
+      "title": "Usage limit mid agent running, recoverable?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784157991,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uxm0dz/usage_limit_mid_agent_running_recoverable/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-07-23"
+    },
+    "1uxb0xo": {
+      "title": "Started at 97% usage limit now at 54% on Codex ($100 plan) on 5.6 Sol Ultra. I cannot imagine doing this on Opus/Fable ever!",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784133220,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uxb0xo/started_at_97_usage_limit_now_at_54_on_codex_100/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-23"
+    },
+    "1ux0y6a": {
+      "title": "Downgraded to Claude Max 5x just before Fable 5 was set to be removed, then upgraded back to 20x after hitting the limit, but my usage did not reset and even got worse.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784107960,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1ux0y6a/downgraded_to_claude_max_5x_just_before_fable_5/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 2,
+      "fetched_date": "2026-07-23"
+    },
+    "1v3umeo": {
+      "title": "PUNISHED FOR UPGRADING TO 20X",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784757628,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1v3umeo/punished_for_upgrading_to_20x/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-07-23"
+    },
+    "1v3slrz": {
+      "title": "Rate Limiting",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784753138,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1v3slrz/rate_limiting/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-23"
+    },
+    "1v3se7r": {
+      "title": "We urgently need a limit reset! Plus a quick ToS question about 2 accounts",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784752677,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1v3se7r/we_urgently_need_a_limit_reset_plus_a_quick_tos/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-07-23"
+    },
+    "1v3li14": {
+      "title": "Who could possibly afford to use usage credits for anything meaningful?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784738441,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1v3li14/who_could_possibly_afford_to_use_usage_credits/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-23"
+    },
+    "1v3k1yg": {
+      "title": "The \"promo\" of \"+50% weekly limits promo\" is bullshit and is not real",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784735428,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1v3k1yg/the_promo_of_50_weekly_limits_promo_is_bullshit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-23"
+    },
+    "1v3ha30": {
+      "title": "Usage Limits",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784729407,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1v3ha30/usage_limits/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-23"
+    },
+    "1v2z9l1": {
+      "title": "RimZ – A sidebar for running multiple Claude Code sessions at once in tmux/Zellij",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784677384,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1v2z9l1/rimz_a_sidebar_for_running_multiple_claude_code/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-23"
+    },
+    "1v2yoe4": {
+      "title": "Important Update to Claude Usage Limits",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784675898,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1v2yoe4/important_update_to_claude_usage_limits/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-23"
+    },
+    "1v2wgj2": {
+      "title": "Claude Code Desktop App saying I'm almost out of weekly usage when its at 25%",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784670631,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1v2wgj2/claude_code_desktop_app_saying_im_almost_out_of/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-23"
+    },
+    "1v2pbi4": {
+      "title": "Kimi-K3 in Claude Code",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784655326,
+      "score": 49,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1v2pbi4/kimik3_in_claude_code/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-23"
+    },
+    "1v2p2lw": {
+      "title": "Anthropic Secretly Varying Limits?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784654814,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1v2p2lw/anthropic_secretly_varying_limits/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-23"
+    },
+    "1v2jujc": {
+      "title": "Weekly limit boost",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784643632,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1v2jujc/weekly_limit_boost/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-23"
+    },
+    "1v2hj9i": {
+      "title": "I built a free VS Code panel that shows which of your Claude Code conversations are actually working — and which are waiting on you (Windows-only, looking for testers)",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784638238,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1v2hj9i/i_built_a_free_vs_code_panel_that_shows_which_of/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-23"
+    },
+    "1v2h4nu": {
+      "title": "I built a free VS Code panel that shows which of your Claude Code conversations are actually working — and which are waiting on you (Windows-only, looking for testers)",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784637190,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1v2h4nu/i_built_a_free_vs_code_panel_that_shows_which_of/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-23"
+    },
+    "1v2fdk5": {
+      "title": "4x Claude code or mix?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784632323,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1v2fdk5/4x_claude_code_or_mix/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-23"
+    },
+    "1v28peo": {
+      "title": "What actually reduced our Claude token burn ~5 concrete changes",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784610025,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1v28peo/what_actually_reduced_our_claude_token_burn_5/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-07-23"
+    },
+    "1v1nuf0": {
+      "title": "Fable 5 access was supposed to end yesterday. Woke up to this instead.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784559292,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1v1nuf0/fable_5_access_was_supposed_to_end_yesterday_woke/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-23"
+    },
+    "1v1jk10": {
+      "title": "AND AGAIN, QUALITY AND RESPONSE SPEED DROPPED, STOP DOWNGRADING...",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784548995,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1v1jk10/and_again_quality_and_response_speed_dropped_stop/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-07-23"
+    },
+    "1v0xfiy": {
+      "title": "hitting Fable 5 usage limits? use checkpoints",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784484091,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1v0xfiy/hitting_fable_5_usage_limits_use_checkpoints/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-23"
+    },
+    "1v0fvmv": {
+      "title": "I made a free Windows app that shows your Claude Code limits, reset times, and estimated API cost from the taskbar",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784432487,
+      "score": 9,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1v0fvmv/i_made_a_free_windows_app_that_shows_your_claude/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-23"
+    },
+    "1uzxwxq": {
+      "title": "Claude’s “Fable” mode is getting removed from Pro on July 19 and usage limits are dropping 33%",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784386240,
+      "score": 267,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uzxwxq/claudes_fable_mode_is_getting_removed_from_pro_on/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-23"
+    },
+    "1uzr68b": {
+      "title": "When I use Claude Code, it spawns parallel subagents, and there seems to be no clear way to stop or meaningfully control them.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784366401,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uzr68b/when_i_use_claude_code_it_spawns_parallel/",
+      "models": [
+        "claude",
+        "gemini"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-23"
+    },
+    "1uzmkd0": {
+      "title": "Great news for Fable but does that mean our usages are going down by 33% after the 19th?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784350832,
+      "score": 67,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uzmkd0/great_news_for_fable_but_does_that_mean_our/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-23"
+    },
+    "1uzk0k9": {
+      "title": "Should I switch from Claude Code to Codex or renew Claude Max?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784343065,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uzk0k9/should_i_switch_from_claude_code_to_codex_or/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-23"
+    },
+    "1uz9cpz": {
+      "title": "Wishful thinking spin zone about them pulling Fable:",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784315906,
+      "score": 2,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uz9cpz/wishful_thinking_spin_zone_about_them_pulling/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-23"
+    },
+    "1uz8fpt": {
+      "title": "Fable 5 deactivated for $200 Claude.ai Max Customers?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784313901,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uz8fpt/fable_5_deactivated_for_200_claudeai_max_customers/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-07-23"
+    },
+    "1uz8akc": {
+      "title": "Advice on Using Claude Code",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784313590,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uz8akc/advice_on_using_claude_code/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-23"
+    },
+    "1uz7w3j": {
+      "title": "Anyone else get unceremoniously booted from Fable 5 today?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784312731,
+      "score": 3,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uz7w3j/anyone_else_get_unceremoniously_booted_from_fable/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-23"
+    },
+    "1uyumcw": {
+      "title": "It feels like fable burns my quota faster and faster day by day",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784279870,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uyumcw/it_feels_like_fable_burns_my_quota_faster_and/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-23"
+    },
+    "1uxxreq": {
+      "title": "Switching from Claude Max 5x?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784193657,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uxxreq/switching_from_claude_max_5x/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-23"
+    },
+    "1uxboyu": {
+      "title": "I built a small tool to auto-continue Claude Code after hitting the session limit",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1784134614,
+      "score": 3,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1uxboyu/i_built_a_small_tool_to_autocontinue_claude_code/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-23"
+    },
+    "1v42v9s": {
+      "title": "config questions",
+      "subreddit": "LocalLLaMA",
+      "created_utc": 1784779257,
+      "score": 1,
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1v42v9s/config_questions/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-23"
+    },
+    "1v461ml": {
+      "title": "My Usage limit on Pro 5X changed from 60% to 81% , there might be a usage bug",
+      "subreddit": "codex",
+      "created_utc": 1784789246,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1v461ml/my_usage_limit_on_pro_5x_changed_from_60_to_81/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-07-23"
+    },
+    "1v3z7go": {
+      "title": "My weekly usage limit just jumped from 9% to 32%",
+      "subreddit": "codex",
+      "created_utc": 1784769157,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1v3z7go/my_weekly_usage_limit_just_jumped_from_9_to_32/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-23"
+    },
+    "1v3y19y": {
+      "title": "Usage limit nerfed",
+      "subreddit": "codex",
+      "created_utc": 1784766015,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1v3y19y/usage_limit_nerfed/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-23"
+    },
+    "1v3vn8h": {
+      "title": "My weekly usage limit jumped from 30% left to 40%, is this a bug?",
+      "subreddit": "codex",
+      "created_utc": 1784760016,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1v3vn8h/my_weekly_usage_limit_jumped_from_30_left_to_40/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-23"
+    },
+    "1v3vizf": {
+      "title": "Be more annoying about the recent usage limit nerfing! Let’s get this fixed!",
+      "subreddit": "codex",
+      "created_utc": 1784759739,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1v3vizf/be_more_annoying_about_the_recent_usage_limit/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-07-23"
+    },
+    "1v3sw12": {
+      "title": "Rate limit resets were a distraction to cover up the usage nerf",
+      "subreddit": "codex",
+      "created_utc": 1784753764,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1v3sw12/rate_limit_resets_were_a_distraction_to_cover_up/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-07-23"
+    },
+    "1v38e96": {
+      "title": "Could the weekly limit perhaps be a 5-hour limit?\nYou must be kidding... I don't even do a job that requires that much usage; we're clearly being ripped off.",
+      "subreddit": "codex",
+      "created_utc": 1784703366,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1v38e96/could_the_weekly_limit_perhaps_be_a_5hour_limit/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-07-23"
+    },
+    "1v2ivr4": {
+      "title": "You've hit your usage limit despite 81% left",
+      "subreddit": "codex",
+      "created_utc": 1784641450,
+      "score": 9,
+      "url": "https://reddit.com/r/codex/comments/1v2ivr4/youve_hit_your_usage_limit_despite_81_left/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-23"
+    },
+    "1v4636o": {
+      "title": "The constant praise for OpenAI actually f*cked us!",
+      "subreddit": "codex",
+      "created_utc": 1784789392,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1v4636o/the_constant_praise_for_openai_actually_fcked_us/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-07-23"
+    },
+    "1v40ati": {
+      "title": "Check Settings → Usage for free weekly usage resets",
+      "subreddit": "codex",
+      "created_utc": 1784772068,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1v40ati/check_settings_usage_for_free_weekly_usage_resets/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-23"
+    },
+    "1v3zeh3": {
+      "title": "Insanely Inefficient Token Usage",
+      "subreddit": "codex",
+      "created_utc": 1784769678,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1v3zeh3/insanely_inefficient_token_usage/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-07-23"
+    },
+    "1v3y3n4": {
+      "title": "My $20 Plus weekly Codex limit now lasts only 2–3 hours — down from ~7 hours",
+      "subreddit": "codex",
+      "created_utc": 1784766190,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1v3y3n4/my_20_plus_weekly_codex_limit_now_lasts_only_23/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-07-23"
+    },
+    "1v3x5hr": {
+      "title": "We were fooled... I'm going back to Claude",
+      "subreddit": "codex",
+      "created_utc": 1784763732,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1v3x5hr/we_were_fooled_im_going_back_to_claude/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-23"
+    },
+    "1v3s326": {
+      "title": "Current weekly l*mits are slightly expanded 5h l*mits from june and Pro 5x might not actually be 5x the use of plus",
+      "subreddit": "codex",
+      "created_utc": 1784751999,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1v3s326/current_weekly_lmits_are_slightly_expanded_5h/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-23"
+    },
+    "1v3pppl": {
+      "title": "A new plus sub user and all my weekly limit gone in a few hours of use. Is this normal?",
+      "subreddit": "codex",
+      "created_utc": 1784747104,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1v3pppl/a_new_plus_sub_user_and_all_my_weekly_limit_gone/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-07-23"
+    },
+    "1v3p8gj": {
+      "title": "ChatGPT Pro 5x vs. Claude Max 5x weekly usage?",
+      "subreddit": "codex",
+      "created_utc": 1784746115,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1v3p8gj/chatgpt_pro_5x_vs_claude_max_5x_weekly_usage/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-07-23"
+    },
+    "1v3ltwx": {
+      "title": "My Pro 20x account limits feel the same as the 5x account from a few months ago.",
+      "subreddit": "codex",
+      "created_utc": 1784739131,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1v3ltwx/my_pro_20x_account_limits_feel_the_same_as_the_5x/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-07-23"
+    },
+    "1v3gcig": {
+      "title": "Lowered weekly usage?",
+      "subreddit": "codex",
+      "created_utc": 1784727273,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1v3gcig/lowered_weekly_usage/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-23"
+    },
+    "1v3fzvv": {
+      "title": "Weekly limit drop",
+      "subreddit": "codex",
+      "created_utc": 1784726443,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1v3fzvv/weekly_limit_drop/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-23"
+    },
+    "1v3c19s": {
+      "title": "I used 118M Codex tokens in one day and consumed 71% of my weekly quota. Here is the breakdown",
+      "subreddit": "codex",
+      "created_utc": 1784715635,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1v3c19s/i_used_118m_codex_tokens_in_one_day_and_consumed/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-23"
+    },
+    "1v2wpzd": {
+      "title": "Will you pay if OpenAI offer a $300/or more tier with 30x/40x usage limits?",
+      "subreddit": "codex",
+      "created_utc": 1784671253,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1v2wpzd/will_you_pay_if_openai_offer_a_300or_more_tier/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-23"
+    },
+    "1v2f8dq": {
+      "title": "How many times?",
+      "subreddit": "codex",
+      "created_utc": 1784631893,
+      "score": 2,
+      "url": "https://reddit.com/r/codex/comments/1v2f8dq/how_many_times/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-23"
+    },
+    "1v2cuz3": {
+      "title": "What happened? The usage seems extremely inconsistent this week.",
+      "subreddit": "codex",
+      "created_utc": 1784624068,
+      "score": 192,
+      "url": "https://reddit.com/r/codex/comments/1v2cuz3/what_happened_the_usage_seems_extremely/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-23"
+    },
+    "1v206qo": {
+      "title": "Which ChatGPT 5.6 model and reasoning level has been the most token efficient for you for coding? Especially for being on the 20/m plan.",
+      "subreddit": "codex",
+      "created_utc": 1784586670,
+      "score": 11,
+      "url": "https://reddit.com/r/codex/comments/1v206qo/which_chatgpt_56_model_and_reasoning_level_has/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-23"
+    },
+    "1v1dgqh": {
+      "title": "Any tips for making Codex weekly usage last longer on Plus",
+      "subreddit": "codex",
+      "created_utc": 1784528695,
+      "score": 4,
+      "url": "https://reddit.com/r/codex/comments/1v1dgqh/any_tips_for_making_codex_weekly_usage_last/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-07-23"
+    },
+    "1v160hv": {
+      "title": "I just paid another $200 for ChatGPT Pro... and OpenAI left me with only 4% of my old quota. Seriously?",
+      "subreddit": "codex",
+      "created_utc": 1784505974,
+      "score": 3,
+      "url": "https://reddit.com/r/codex/comments/1v160hv/i_just_paid_another_200_for_chatgpt_pro_and/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-07-23"
+    },
+    "1v12b0v": {
+      "title": "AnyoneElse ? codex token burn after removal of 5h window",
+      "subreddit": "codex",
+      "created_utc": 1784496512,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1v12b0v/anyoneelse_codex_token_burn_after_removal_of_5h/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-07-23"
+    },
+    "1v0pszm": {
+      "title": "Does Codex have noticeably lower usage limits than Claude?",
+      "subreddit": "codex",
+      "created_utc": 1784465497,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1v0pszm/does_codex_have_noticeably_lower_usage_limits/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-23"
     }
   }
 }
