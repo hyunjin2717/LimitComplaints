@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-23T08:39:38.986811+00:00",
-    "total_posts_analyzed": 9611,
-    "total_complaints": 2519
+    "last_updated": "2026-07-24T08:36:00.337395+00:00",
+    "total_posts_analyzed": 9628,
+    "total_complaints": 2522
   },
   "posts": {
     "1sg1yvw": {
@@ -30743,6 +30743,44 @@
       ],
       "complaint_score": 4,
       "fetched_date": "2026-07-23"
+    },
+    "1v4dr5l": {
+      "title": "I've been measuring my $100 Pro Lite weekly limit. It dropped ~11% in the last 10 days (~$675 → ~$600 API-equivalent)",
+      "subreddit": "OpenAI",
+      "created_utc": 1784812831,
+      "score": 1,
+      "url": "https://reddit.com/r/OpenAI/comments/1v4dr5l/ive_been_measuring_my_100_pro_lite_weekly_limit/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-07-24"
+    },
+    "1v3p81s": {
+      "title": "ChatGPT Pro 5x vs. Claude Max 5x weekly usage?",
+      "subreddit": "OpenAI",
+      "created_utc": 1784746092,
+      "score": 6,
+      "url": "https://reddit.com/r/OpenAI/comments/1v3p81s/chatgpt_pro_5x_vs_claude_max_5x_weekly_usage/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-07-24"
+    },
+    "1v3eje9": {
+      "title": "0/5 to 5/5: what \"production ready\" actually means for a vibe-coded app (with the real checks)",
+      "subreddit": "vibecoding",
+      "created_utc": 1784722810,
+      "score": 2,
+      "url": "https://reddit.com/r/vibecoding/comments/1v3eje9/05_to_55_what_production_ready_actually_means_for/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-24"
     }
   }
 }
