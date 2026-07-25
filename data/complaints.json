@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-24T08:36:00.337395+00:00",
-    "total_posts_analyzed": 9628,
-    "total_complaints": 2522
+    "last_updated": "2026-07-25T08:16:26.882738+00:00",
+    "total_posts_analyzed": 9650,
+    "total_complaints": 2530
   },
   "posts": {
     "1sg1yvw": {
@@ -30781,6 +30781,107 @@
       ],
       "complaint_score": 4,
       "fetched_date": "2026-07-24"
+    },
+    "1v5z58u": {
+      "title": "Built a VS Code extension because I got tired of alt-tabbing to check my Claude rate limit",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1784956874,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1v5z58u/built_a_vs_code_extension_because_i_got_tired_of/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-25"
+    },
+    "1v5al68": {
+      "title": "Like OpenUsage but don’t have a Mac?\n\nOpenQuota brings Codex rate limit tracking to Windows, macOS, and Linux.",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1784897675,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1v5al68/like_openusage_but_dont_have_a_mac_openquota/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-25"
+    },
+    "1v4on7m": {
+      "title": "I got tired of getting blindsided by usage limits so I built a statusline that shows exactly how fast you're burning them",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1784836210,
+      "score": 19,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1v4on7m/i_got_tired_of_getting_blindsided_by_usage_limits/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-07-25"
+    },
+    "1v1l12u": {
+      "title": "I built a scheduler that suspends your agent BEFORE the rate limit kills it, and resumes with a semi-warm start",
+      "subreddit": "LLMDevs",
+      "created_utc": 1784552801,
+      "score": 1,
+      "url": "https://reddit.com/r/LLMDevs/comments/1v1l12u/i_built_a_scheduler_that_suspends_your_agent/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-25"
+    },
+    "1v4fbko": {
+      "title": "Does Codex \"remembers\" where it left off if we hit a rate limit?",
+      "subreddit": "codex",
+      "created_utc": 1784816422,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1v4fbko/does_codex_remembers_where_it_left_off_if_we_hit/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-07-25"
+    },
+    "1v51177": {
+      "title": "Should I switch to CC?",
+      "subreddit": "codex",
+      "created_utc": 1784867624,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1v51177/should_i_switch_to_cc/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-25"
+    },
+    "1v41oe0": {
+      "title": "opencodex — run Codex CLI with any models (got, ~3.7k stars)",
+      "subreddit": "codex",
+      "created_utc": 1784775808,
+      "score": 12,
+      "url": "https://reddit.com/r/codex/comments/1v41oe0/opencodex_run_codex_cli_with_any_models_got_37k/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-25"
+    },
+    "1v3xdtz": {
+      "title": "I built a Codex plugin / skill that generates images with Nano Banana 2",
+      "subreddit": "codex",
+      "created_utc": 1784764340,
+      "score": 3,
+      "url": "https://reddit.com/r/codex/comments/1v3xdtz/i_built_a_codex_plugin_skill_that_generates/",
+      "models": [
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-25"
     }
   }
 }
