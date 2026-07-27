@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-26T08:37:35.729552+00:00",
-    "total_posts_analyzed": 9769,
-    "total_complaints": 2592
+    "last_updated": "2026-07-27T10:03:26.072533+00:00",
+    "total_posts_analyzed": 9830,
+    "total_complaints": 2630
   },
   "posts": {
     "1sg1yvw": {
@@ -31637,6 +31637,465 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-07-26"
+    },
+    "1v7so3e": {
+      "title": "Weekly limit spiked to 100% from 50%, despite ZERO usage for 2 days",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1785134932,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1v7so3e/weekly_limit_spiked_to_100_from_50_despite_zero/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-27"
+    },
+    "1v7981z": {
+      "title": "MY USAGE LIMITS FILLS IN 5-10 MIN, CAUSE IS A BUG. 687 TOKENS FILLED 78% 5-HOUR LIMIT WITH SONNET 5. ANY WAY TO FIX?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1785084648,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1v7981z/my_usage_limits_fills_in_510_min_cause_is_a_bug/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-07-27"
+    },
+    "1v4orsk": {
+      "title": "Claude usage hits 100% limit without me typing a single prompt",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1784836483,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1v4orsk/claude_usage_hits_100_limit_without_me_typing_a/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-27"
+    },
+    "1v4k3ig": {
+      "title": "Claude Max 20x usage limit is increasing by itself without any activity",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1784826688,
+      "score": 29,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1v4k3ig/claude_max_20x_usage_limit_is_increasing_by/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-27"
+    },
+    "1v4jp5k": {
+      "title": "I got tired of hitting the 5-hour limit unexpectedly, so I built a free Android app + Chrome Extension to track my usage live",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1784825850,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1v4jp5k/i_got_tired_of_hitting_the_5hour_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-27"
+    },
+    "1v4cnu1": {
+      "title": "I have been getting usage limit reached even when I have only used 30% of the limit. What's going on?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1784810127,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1v4cnu1/i_have_been_getting_usage_limit_reached_even_when/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-27"
+    },
+    "1v3rfgt": {
+      "title": "Another Claude usage limit post",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1784750719,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1v3rfgt/another_claude_usage_limit_post/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-27"
+    },
+    "1v3n8ak": {
+      "title": "I made a free chrome extension that shows your 5-hour limit, weekly limit and token usage directly on claude.ai (open source, no analytics)",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1784741987,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1v3n8ak/i_made_a_free_chrome_extension_that_shows_your/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-27"
+    },
+    "1v2gyiz": {
+      "title": "Usage limit bug",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1784636742,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1v2gyiz/usage_limit_bug/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-27"
+    },
+    "1v1qywl": {
+      "title": "Glitch - Usage limit reached while I have enough 5 hour limit left",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1784566240,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1v1qywl/glitch_usage_limit_reached_while_i_have_enough_5/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-07-27"
+    },
+    "1v11k5z": {
+      "title": "How Exactly Do The Usage Limit Resets Work?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1784494469,
+      "score": 3,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1v11k5z/how_exactly_do_the_usage_limit_resets_work/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-27"
+    },
+    "1v6kj2e": {
+      "title": "Had my first experience with Claude burning usage",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1785014962,
+      "score": 5,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1v6kj2e/had_my_first_experience_with_claude_burning_usage/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-27"
+    },
+    "1v6i7ry": {
+      "title": "ongoing issue renders claude completely unusable for me",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1785009362,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1v6i7ry/ongoing_issue_renders_claude_completely_unusable/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-07-27"
+    },
+    "1v6ak74": {
+      "title": "Backend bug: orphaned Cowork process drains 100% usage every 5h reset — Anthropic support acknowledged it as a product bug, still unresolved",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1784991391,
+      "score": 6,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1v6ak74/backend_bug_orphaned_cowork_process_drains_100/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-27"
+    },
+    "1v5zsb4": {
+      "title": "The most annoying footgun with Claude Code: mismatched effort levels",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1784958903,
+      "score": 32,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1v5zsb4/the_most_annoying_footgun_with_claude_code/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-07-27"
+    },
+    "1v5rxo2": {
+      "title": "Wilson's Survival Guide for July 17-24, 2026 now available!",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1784936513,
+      "score": 11,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1v5rxo2/wilsons_survival_guide_for_july_1724_2026_now/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 2,
+      "fetched_date": "2026-07-27"
+    },
+    "1v5i5lx": {
+      "title": "Extra-usage setting appears to reset itself, and my usage meter jumped from 75% to 100% while idle",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1784914424,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1v5i5lx/extrausage_setting_appears_to_reset_itself_and_my/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-27"
+    },
+    "1v54two": {
+      "title": "Video editing through claude code",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1784879741,
+      "score": 2,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1v54two/video_editing_through_claude_code/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-27"
+    },
+    "1v52kfp": {
+      "title": "What exactly are the benefits of using agents? Because I have outright banned it.",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1784872334,
+      "score": 7,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1v52kfp/what_exactly_are_the_benefits_of_using_agents/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-27"
+    },
+    "1v4r6vi": {
+      "title": "Claude Pro has become extremely slow after adding MCPs and Usage limits barely moving now",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1784841755,
+      "score": 5,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1v4r6vi/claude_pro_has_become_extremely_slow_after_adding/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-07-27"
+    },
+    "1v48dxt": {
+      "title": "Possible backend synchronization bug? Active Pro subscription but support identifies my account as Free",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1784797257,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1v48dxt/possible_backend_synchronization_bug_active_pro/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-27"
+    },
+    "1v46bf9": {
+      "title": "Has anyone experienced Claude Pro usage being consumed automatically without using Claude? (Google Play subscription)",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1784790124,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1v46bf9/has_anyone_experienced_claude_pro_usage_being/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-27"
+    },
+    "1v3z8mn": {
+      "title": "Upsell me once, shame on... shame on you. Upsell me... you can't upsell me again",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1784769244,
+      "score": 69,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1v3z8mn/upsell_me_once_shame_on_shame_on_you_upsell_me/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-27"
+    },
+    "1v3rbvs": {
+      "title": "Using Claude to create studying/academic material",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1784750503,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1v3rbvs/using_claude_to_create_studyingacademic_material/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-27"
+    },
+    "1v3qlpx": {
+      "title": "If you took the free credits check your spend limit right now!",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1784748964,
+      "score": 8,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1v3qlpx/if_you_took_the_free_credits_check_your_spend/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-07-27"
+    },
+    "1v32eb6": {
+      "title": "I don't mind the limits (I only use Claude as sort of a planner and personal hype project), but how does it work exactly? Current usage versus weekly limits?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1784685537,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1v32eb6/i_dont_mind_the_limits_i_only_use_claude_as_sort/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-07-27"
+    },
+    "1v2gq4g": {
+      "title": "The \"$100 free credits\" trap",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1784636146,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1v2gq4g/the_100_free_credits_trap/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-27"
+    },
+    "1v2e9kl": {
+      "title": "[Resolved / post-mortem] The \"context limit exceeded by ~4-6M tokens on every message\" bug: what it was, and the memory-backend fix",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1784628864,
+      "score": 2,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1v2e9kl/resolved_postmortem_the_context_limit_exceeded_by/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-07-27"
+    },
+    "1v2byh5": {
+      "title": "This screen is a mess",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1784620897,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1v2byh5/this_screen_is_a_mess/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-27"
+    },
+    "1v1z4yn": {
+      "title": "Burning $100/day in API overages. Are we just brute-forcing this with multiple $200 Max/Pro accounts now?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1784584127,
+      "score": 5,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1v1z4yn/burning_100day_in_api_overages_are_we_just/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-07-27"
+    },
+    "1v1uawm": {
+      "title": "how do I tell if I have access to fable5 through plan?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1784573314,
+      "score": 2,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1v1uawm/how_do_i_tell_if_i_have_access_to_fable5_through/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-27"
+    },
+    "1v1oonn": {
+      "title": "Possible Claude Pro usage metering bug? Limits consumed without using Claude",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1784561187,
+      "score": 3,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1v1oonn/possible_claude_pro_usage_metering_bug_limits/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-27"
+    },
+    "1v1o23v": {
+      "title": "Difference between claude.ai messages and claude code usage?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1784559754,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1v1o23v/difference_between_claudeai_messages_and_claude/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-27"
+    },
+    "1v1mlyg": {
+      "title": "Is this a Bug 109 Agents?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1784556502,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1v1mlyg/is_this_a_bug_109_agents/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-07-27"
+    },
+    "1v1lr3g": {
+      "title": "How is it that I just logged in to Claude Code this morning, /compact a session from yesterday (16h ago), and use 100% of my 5hr limit? (Pro plan)",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1784554521,
+      "score": 441,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1v1lr3g/how_is_it_that_i_just_logged_in_to_claude_code/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 2,
+      "fetched_date": "2026-07-27"
+    },
+    "1v0vqik": {
+      "title": "Claude Code got stuck printing “court,” burned through tokens, then blamed the “long session” it created",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1784480169,
+      "score": 99,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1v0vqik/claude_code_got_stuck_printing_court_burned/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 9,
+      "fetched_date": "2026-07-27"
+    },
+    "1v0mmwm": {
+      "title": "What is anthropic's logic even for not keeping fable on pro but allowing it on max?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1784455562,
+      "score": 102,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1v0mmwm/what_is_anthropics_logic_even_for_not_keeping/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-27"
+    },
+    "1v4u4og": {
+      "title": "hit my first pro subscription rate limit today",
+      "subreddit": "OpenAI",
+      "created_utc": 1784848677,
+      "score": 22,
+      "url": "https://reddit.com/r/OpenAI/comments/1v4u4og/hit_my_first_pro_subscription_rate_limit_today/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-27"
     }
   }
 }
