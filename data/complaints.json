@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-27T10:03:26.072533+00:00",
-    "total_posts_analyzed": 9830,
-    "total_complaints": 2630
+    "last_updated": "2026-07-28T08:47:00.737479+00:00",
+    "total_posts_analyzed": 9848,
+    "total_complaints": 2636
   },
   "posts": {
     "1sg1yvw": {
@@ -32096,6 +32096,80 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-07-27"
+    },
+    "1v8luh7": {
+      "title": "No Claude rate limit reset last week",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1785207638,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1v8luh7/no_claude_rate_limit_reset_last_week/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-28"
+    },
+    "1v6wgdj": {
+      "title": "I burned 246M tokens in 22 hours on Claude Code and measured exactly where every one went. The answer surprised me.",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1785049381,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1v6wgdj/i_burned_246m_tokens_in_22_hours_on_claude_code/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-28"
+    },
+    "1v7f3l3": {
+      "title": "I got tired of opening an app to ask it things, so I built an assistant that reaches out to me first, it’s called Orb and is now live on the IOS app store",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1785097642,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1v7f3l3/i_got_tired_of_opening_an_app_to_ask_it_things_so/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-28"
+    },
+    "1v6mfxi": {
+      "title": "Usage Limits Increase?",
+      "subreddit": "GoogleGemini",
+      "created_utc": 1785019823,
+      "score": 4,
+      "url": "https://reddit.com/r/GoogleGemini/comments/1v6mfxi/usage_limits_increase/",
+      "models": [
+        "gemini"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-28"
+    },
+    "1v8bg3k": {
+      "title": "Benchmarked 6 vision models on 32 real meter and receipt photos: price barely predicts accuracy",
+      "subreddit": "LocalLLaMA",
+      "created_utc": 1785182467,
+      "score": 1,
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1v8bg3k/benchmarked_6_vision_models_on_32_real_meter_and/",
+      "models": [
+        "gemini"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-28"
+    },
+    "1v5wsfx": {
+      "title": "embertales is finally out! and this is how i vibecoded it :)",
+      "subreddit": "vibecoding",
+      "created_utc": 1784949793,
+      "score": 2,
+      "url": "https://reddit.com/r/vibecoding/comments/1v5wsfx/embertales_is_finally_out_and_this_is_how_i/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-07-28"
     }
   }
 }
