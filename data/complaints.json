@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-29T08:58:57.759566+00:00",
-    "total_posts_analyzed": 9986,
-    "total_complaints": 2691
+    "last_updated": "2026-07-30T08:42:12.308383+00:00",
+    "total_posts_analyzed": 10073,
+    "total_complaints": 2715
   },
   "posts": {
     "1sg1yvw": {
@@ -32849,6 +32849,305 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-07-29"
+    },
+    "1v8zi40": {
+      "title": "I vibe coded and open sourced my cheap StreamDeck to give me my Claude Status - CrabDeck",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1785247511,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1v8zi40/i_vibe_coded_and_open_sourced_my_cheap_streamdeck/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-30"
+    },
+    "1v8x4tw": {
+      "title": "Bloody Hell",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1785241901,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1v8x4tw/bloody_hell/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-30"
+    },
+    "1v7t132": {
+      "title": "Throttled - Part 2 of 2",
+      "subreddit": "ChatGPT",
+      "created_utc": 1785136113,
+      "score": 2,
+      "url": "https://reddit.com/r/ChatGPT/comments/1v7t132/throttled_part_2_of_2/",
+      "models": [
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-07-30"
+    },
+    "1vaew4g": {
+      "title": "Per-user credentials for LLM calls: a token exchange that returns an OpenAI-compatible endpoint scoped to one end user",
+      "subreddit": "LLMDevs",
+      "created_utc": 1785373345,
+      "score": 1,
+      "url": "https://reddit.com/r/LLMDevs/comments/1vaew4g/peruser_credentials_for_llm_calls_a_token/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-30"
+    },
+    "1vacjwj": {
+      "title": "I'm tired of re-explaining my project to every AI agent after hitting a rate limit. So I built something open source, go nuts on it.",
+      "subreddit": "vibecoding",
+      "created_utc": 1785367329,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1vacjwj/im_tired_of_reexplaining_my_project_to_every_ai/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-07-30"
+    },
+    "1vac65y": {
+      "title": "I'm tired of re-explaining my project to every AI agent after hitting a rate limit. So I built something open source, go nuts on it.",
+      "subreddit": "vibecoding",
+      "created_utc": 1785366366,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1vac65y/im_tired_of_reexplaining_my_project_to_every_ai/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-07-30"
+    },
+    "1v9qmt6": {
+      "title": "Who actually benefits from a five-hour usage limit?",
+      "subreddit": "codex",
+      "created_utc": 1785315622,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1v9qmt6/who_actually_benefits_from_a_fivehour_usage_limit/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-30"
+    },
+    "1v9o2mz": {
+      "title": "Restoring the 5-hour usage limit is the worst for users who require heavy computing in a short amount of time.",
+      "subreddit": "codex",
+      "created_utc": 1785306937,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1v9o2mz/restoring_the_5hour_usage_limit_is_the_worst_for/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-30"
+    },
+    "1v9mmje": {
+      "title": "Why are my usage limit resets expiring? I had 5 now I'm down to 2 and I've NEVER used them. I was banking them!",
+      "subreddit": "codex",
+      "created_utc": 1785302368,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1v9mmje/why_are_my_usage_limit_resets_expiring_i_had_5/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-07-30"
+    },
+    "1v9m7id": {
+      "title": "Does anyone here use Codex on the Business plan? I have a Business plan, but my Codex usage is showing a monthly limit. Previously, I was getting a weekly limit. Is anyone else seeing this, or is it just a bug on my account?",
+      "subreddit": "codex",
+      "created_utc": 1785301105,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1v9m7id/does_anyone_here_use_codex_on_the_business_plan_i/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-30"
+    },
+    "1v8eoms": {
+      "title": "Tibo hinting at possible usage limit improvements?",
+      "subreddit": "codex",
+      "created_utc": 1785189585,
+      "score": 263,
+      "url": "https://reddit.com/r/codex/comments/1v8eoms/tibo_hinting_at_possible_usage_limit_improvements/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-30"
+    },
+    "1v7iukc": {
+      "title": "I'd rather have the 5 hour limit again than the reduced weekly usage all at once.",
+      "subreddit": "codex",
+      "created_utc": 1785106472,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1v7iukc/id_rather_have_the_5_hour_limit_again_than_the/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-30"
+    },
+    "1v75qlz": {
+      "title": "Has the usage limit been raised significantly?",
+      "subreddit": "codex",
+      "created_utc": 1785076862,
+      "score": 2,
+      "url": "https://reddit.com/r/codex/comments/1v75qlz/has_the_usage_limit_been_raised_significantly/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-07-30"
+    },
+    "1vai6d7": {
+      "title": "Tibo is teasing another Codex release?",
+      "subreddit": "codex",
+      "created_utc": 1785382395,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vai6d7/tibo_is_teasing_another_codex_release/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-30"
+    },
+    "1va5h0c": {
+      "title": "Anyone else feels like OpenAI stole from them? I think im going with the Chinese at this point...",
+      "subreddit": "codex",
+      "created_utc": 1785351460,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1va5h0c/anyone_else_feels_like_openai_stole_from_them_i/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-30"
+    },
+    "1va3owm": {
+      "title": "Just a thought",
+      "subreddit": "codex",
+      "created_utc": 1785347711,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1va3owm/just_a_thought/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-30"
+    },
+    "1v9xjb3": {
+      "title": "Past weeks feels like cheating",
+      "subreddit": "codex",
+      "created_utc": 1785334700,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1v9xjb3/past_weeks_feels_like_cheating/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-30"
+    },
+    "1v9wsd4": {
+      "title": "free tier is insane",
+      "subreddit": "codex",
+      "created_utc": 1785333023,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1v9wsd4/free_tier_is_insane/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-30"
+    },
+    "1vale8j": {
+      "title": "When in rush to beat the clock before the 5h limit!",
+      "subreddit": "codex",
+      "created_utc": 1785392324,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vale8j/when_in_rush_to_beat_the_clock_before_the_5h_limit/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-30"
+    },
+    "1vabf2x": {
+      "title": "No 5h limit yet. Will there be a reset when the old rule is back ?",
+      "subreddit": "codex",
+      "created_utc": 1785364559,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vabf2x/no_5h_limit_yet_will_there_be_a_reset_when_the/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-30"
+    },
+    "1v7ox12": {
+      "title": "Tried Claude Code after 4 months to compare it to Codex. Observations in description",
+      "subreddit": "codex",
+      "created_utc": 1785123027,
+      "score": 60,
+      "url": "https://reddit.com/r/codex/comments/1v7ox12/tried_claude_code_after_4_months_to_compare_it_to/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-30"
+    },
+    "1v94899": {
+      "title": "Last reset reduced limits even further?",
+      "subreddit": "codex",
+      "created_utc": 1785257796,
+      "score": 145,
+      "url": "https://reddit.com/r/codex/comments/1v94899/last_reset_reduced_limits_even_further/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-30"
+    },
+    "1v8ryve": {
+      "title": "AI Usage — Lightweight macOS menu bar for Claude Code and Codex usage limits",
+      "subreddit": "codex",
+      "created_utc": 1785226619,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1v8ryve/ai_usage_lightweight_macos_menu_bar_for_claude/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-30"
+    },
+    "1v7n1ng": {
+      "title": "My experience with Codex (Plus) vs Claude Opus (Pro) quota usage",
+      "subreddit": "codex",
+      "created_utc": 1785117680,
+      "score": 38,
+      "url": "https://reddit.com/r/codex/comments/1v7n1ng/my_experience_with_codex_plus_vs_claude_opus_pro/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-07-30"
     }
   }
 }
