@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-30T08:42:12.308383+00:00",
-    "total_posts_analyzed": 10073,
-    "total_complaints": 2715
+    "last_updated": "2026-07-31T09:04:42.789344+00:00",
+    "total_posts_analyzed": 10101,
+    "total_complaints": 2725
   },
   "posts": {
     "1sg1yvw": {
@@ -33148,6 +33148,128 @@
       ],
       "complaint_score": 6,
       "fetched_date": "2026-07-30"
+    },
+    "1vai7fj": {
+      "title": "Usage limit wonky this week?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1785382481,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1vai7fj/usage_limit_wonky_this_week/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-31"
+    },
+    "1v8yi2f": {
+      "title": "I kept forgetting to check my Claude usage until I hit the limit, so I built a toolbar chrome extension that just shows it",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1785245230,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1v8yi2f/i_kept_forgetting_to_check_my_claude_usage_until/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-07-31"
+    },
+    "1v8hk7c": {
+      "title": "Usage limit jumps from 0 to over 25% every single time after my first question, does this happen to you too?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1785196477,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1v8hk7c/usage_limit_jumps_from_0_to_over_25_every_single/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-07-31"
+    },
+    "1v84jq3": {
+      "title": "ClaudeAI bot hits Claude usage limit",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1785168050,
+      "score": 12,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1v84jq3/claudeai_bot_hits_claude_usage_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-07-31"
+    },
+    "1vbbgps": {
+      "title": "What is the point in the max plan? Remove 5h limit",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1785458258,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1vbbgps/what_is_the_point_in_the_max_plan_remove_5h_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-31"
+    },
+    "1vaykt8": {
+      "title": "Claude Pro 5h Limit is Broken, and Anthropic isn't hiding it anymore",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1785429005,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1vaykt8/claude_pro_5h_limit_is_broken_and_anthropic_isnt/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-07-31"
+    },
+    "1v9vsym": {
+      "title": "Built a local proxy so my Claude Code session doesn't die when one account hits its limit",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1785330681,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1v9vsym/built_a_local_proxy_so_my_claude_code_session/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-31"
+    },
+    "1v8pzgl": {
+      "title": "UPDATE: 196 people told me when their Claude weekly limit resets. The Sunday crowd got 2.4x more out of Anthropic's resets than the Thursday crowd.",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1785219989,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1v8pzgl/update_196_people_told_me_when_their_claude/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-07-31"
+    },
+    "1vayvt6": {
+      "title": "What if we created a marketplace for trading unused Claude sessions? (Definitely not a terrible idea)",
+      "subreddit": "vibecoding",
+      "created_utc": 1785429674,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1vayvt6/what_if_we_created_a_marketplace_for_trading/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-07-31"
+    },
+    "1va1gh6": {
+      "title": "Rate limit improved???",
+      "subreddit": "codex",
+      "created_utc": 1785343038,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1va1gh6/rate_limit_improved/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-07-31"
     }
   }
 }
