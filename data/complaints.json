@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-07-31T09:04:42.789344+00:00",
-    "total_posts_analyzed": 10101,
-    "total_complaints": 2725
+    "last_updated": "2026-08-01T08:33:59.133161+00:00",
+    "total_posts_analyzed": 10182,
+    "total_complaints": 2742
   },
   "posts": {
     "1sg1yvw": {
@@ -33270,6 +33270,217 @@
       ],
       "complaint_score": 4,
       "fetched_date": "2026-07-31"
+    },
+    "1vbynyw": {
+      "title": "[Bug/Issue] Claude Pro account stuck in permanent rate limit reset loop (0 messages sent in 24+ hours)",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1785521484,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1vbynyw/bugissue_claude_pro_account_stuck_in_permanent/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-01"
+    },
+    "1vagvu8": {
+      "title": "Sharing two terminal tools: hand a GitHub issue straight to Claude Code, and see the real rate-limit windows before they bite",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1785378737,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1vagvu8/sharing_two_terminal_tools_hand_a_github_issue/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-08-01"
+    },
+    "1v82re0": {
+      "title": "The Work/Codex usage limit is absolutely garbage",
+      "subreddit": "ChatGPT",
+      "created_utc": 1785164185,
+      "score": 3,
+      "url": "https://reddit.com/r/ChatGPT/comments/1v82re0/the_workcodex_usage_limit_is_absolutely_garbage/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-08-01"
+    },
+    "1vc8aax": {
+      "title": "My limit reset to 100%, then suddenly went back to 33% and I found $40 in Codex credits. Anyone else?",
+      "subreddit": "ChatGPT",
+      "created_utc": 1785544177,
+      "score": 1,
+      "url": "https://reddit.com/r/ChatGPT/comments/1vc8aax/my_limit_reset_to_100_then_suddenly_went_back_to/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-01"
+    },
+    "1va9f2k": {
+      "title": "Codex Usage",
+      "subreddit": "ChatGPT",
+      "created_utc": 1785359955,
+      "score": 3,
+      "url": "https://reddit.com/r/ChatGPT/comments/1va9f2k/codex_usage/",
+      "models": [
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-01"
+    },
+    "1vc4ndx": {
+      "title": "GPT Voice in Codex (limits?)",
+      "subreddit": "codex",
+      "created_utc": 1785535087,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vc4ndx/gpt_voice_in_codex_limits/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-01"
+    },
+    "1vbyomo": {
+      "title": "how to track token usage and API cost per prompt in Codex sessions",
+      "subreddit": "codex",
+      "created_utc": 1785521523,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vbyomo/how_to_track_token_usage_and_api_cost_per_prompt/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-01"
+    },
+    "1vbuc47": {
+      "title": "I couldn’t tell which repo was burning my Codex quota, so I built a 100% local dashboard",
+      "subreddit": "codex",
+      "created_utc": 1785512118,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vbuc47/i_couldnt_tell_which_repo_was_burning_my_codex/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-08-01"
+    },
+    "1vbsqdt": {
+      "title": "I hate to say this. But claude is still better than codex.",
+      "subreddit": "codex",
+      "created_utc": 1785508575,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vbsqdt/i_hate_to_say_this_but_claude_is_still_better/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-01"
+    },
+    "1vbl87h": {
+      "title": "Who’s using Codex and Claude on the Pro/Max plans?",
+      "subreddit": "codex",
+      "created_utc": 1785487347,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vbl87h/whos_using_codex_and_claude_on_the_promax_plans/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-01"
+    },
+    "1vb47v9": {
+      "title": "Overdraw weekly limit while on few percent",
+      "subreddit": "codex",
+      "created_utc": 1785441070,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vb47v9/overdraw_weekly_limit_while_on_few_percent/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-01"
+    },
+    "1vawi48": {
+      "title": "An existing Codex session kept running after usage hit zero — reproduced twice with Aming Claw",
+      "subreddit": "codex",
+      "created_utc": 1785424554,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vawi48/an_existing_codex_session_kept_running_after/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-01"
+    },
+    "1vav9d0": {
+      "title": "Monthly limit, reset, then 0% usage?",
+      "subreddit": "codex",
+      "created_utc": 1785421788,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1vav9d0/monthly_limit_reset_then_0_usage/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-01"
+    },
+    "1v9j2a6": {
+      "title": "GPT Pro 5x stopped feeling like a 5x plan after the five-hour limit was removed",
+      "subreddit": "codex",
+      "created_utc": 1785292089,
+      "score": 58,
+      "url": "https://reddit.com/r/codex/comments/1v9j2a6/gpt_pro_5x_stopped_feeling_like_a_5x_plan_after/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-01"
+    },
+    "1vchf1a": {
+      "title": "Does \"Low Cost Model\" mean it consumes less weekly quota?",
+      "subreddit": "codex",
+      "created_utc": 1785571898,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vchf1a/does_low_cost_model_mean_it_consumes_less_weekly/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-01"
+    },
+    "1vcamge": {
+      "title": "Codex weekly quota dropped from 100% to 25% after reset",
+      "subreddit": "codex",
+      "created_utc": 1785550691,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vcamge/codex_weekly_quota_dropped_from_100_to_25_after/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-01"
+    },
+    "1vc3kqi": {
+      "title": "Pro usage jumped 40% in an hour with no activity. Is the quota bugged again?",
+      "subreddit": "codex",
+      "created_utc": 1785532545,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vc3kqi/pro_usage_jumped_40_in_an_hour_with_no_activity/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-01"
     }
   }
 }
