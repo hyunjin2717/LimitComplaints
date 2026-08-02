@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-08-01T08:33:59.133161+00:00",
-    "total_posts_analyzed": 10182,
-    "total_complaints": 2742
+    "last_updated": "2026-08-02T08:33:33.154729+00:00",
+    "total_posts_analyzed": 10211,
+    "total_complaints": 2755
   },
   "posts": {
     "1sg1yvw": {
@@ -33481,6 +33481,163 @@
       ],
       "complaint_score": 4,
       "fetched_date": "2026-08-01"
+    },
+    "1vbvy51": {
+      "title": "Upgraded from Claude Max 5x to 20x and still hit my weekly limit in two to 3 days",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1785515569,
+      "score": 23,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1vbvy51/upgraded_from_claude_max_5x_to_20x_and_still_hit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-08-02"
+    },
+    "1vaz387": {
+      "title": "What if we created a marketplace for trading unused Claude sessions? (Definitely not a terrible idea)",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1785430131,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1vaz387/what_if_we_created_a_marketplace_for_trading/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-08-02"
+    },
+    "1va8g18": {
+      "title": "Claude Can Resume!!!",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1785357756,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1va8g18/claude_can_resume/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-08-02"
+    },
+    "1v9yp60": {
+      "title": "Hitting monthly limit error but have enough $$$ and hourly and weekly limits",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1785337263,
+      "score": 2,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1v9yp60/hitting_monthly_limit_error_but_have_enough_and/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-08-02"
+    },
+    "1v8r4ke": {
+      "title": "Anyone using Claude Code behind a gateway with fallback?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1785223740,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1v8r4ke/anyone_using_claude_code_behind_a_gateway_with/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-02"
+    },
+    "1vcv9ta": {
+      "title": "Fable for planning + Opus 5 for all the coding: first week my weekly usage matched my Fable limit",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1785610008,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1vcv9ta/fable_for_planning_opus_5_for_all_the_coding/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-08-02"
+    },
+    "1vc6vp0": {
+      "title": "My Claude $100 plan 5h usage limit got used in 6 minutes",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1785540563,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1vc6vp0/my_claude_100_plan_5h_usage_limit_got_used_in_6/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-02"
+    },
+    "1vb5dmz": {
+      "title": "I made a free chrome extension that shows your 5-hour limit, weekly limit and token usage directly on claude.ai (open source, no analytics)",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1785443570,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1vb5dmz/i_made_a_free_chrome_extension_that_shows_your/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-02"
+    },
+    "1vatyud": {
+      "title": "Is Fable available in 5x Subscriptions in usage limit without direct API token usage?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1785418808,
+      "score": 3,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1vatyud/is_fable_available_in_5x_subscriptions_in_usage/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-02"
+    },
+    "1vaaudm": {
+      "title": "Usage limit is consumed without using claude",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1785363185,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1vaaudm/usage_limit_is_consumed_without_using_claude/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-02"
+    },
+    "1va3bwm": {
+      "title": "Help Usage Limit!",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1785346952,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1va3bwm/help_usage_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-02"
+    },
+    "1v94846": {
+      "title": "Claude hits 100% usage limit instantly after reset — ZERO messages sent, NO API keys created",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1785257786,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1v94846/claude_hits_100_usage_limit_instantly_after_reset/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-02"
+    },
+    "1v7i4df": {
+      "title": "Does downgrading from Max to Pro Carry your existing weekly usage limit or will it reset?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1785104655,
+      "score": 5,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1v7i4df/does_downgrading_from_max_to_pro_carry_your/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-02"
     }
   }
 }
