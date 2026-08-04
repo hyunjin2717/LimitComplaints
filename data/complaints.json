@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-08-03T09:58:23.859684+00:00",
-    "total_posts_analyzed": 10233,
-    "total_complaints": 2762
+    "last_updated": "2026-08-04T08:51:11.781501+00:00",
+    "total_posts_analyzed": 10275,
+    "total_complaints": 2777
   },
   "posts": {
     "1sg1yvw": {
@@ -33722,6 +33722,191 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-08-03"
+    },
+    "1vdrdr7": {
+      "title": ". Disable usage when AFK! Claude Code ran in a loop all weekend, ate $30 in credits, and burned 76% of my weekly usage.",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1785699542,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1vdrdr7/disable_usage_when_afk_claude_code_ran_in_a_loop/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 10,
+      "fetched_date": "2026-08-04"
+    },
+    "1veeuy5": {
+      "title": "Opus 5 is a practically unusable model",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1785766953,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1veeuy5/opus_5_is_a_practically_unusable_model/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-04"
+    },
+    "1ve8ebp": {
+      "title": "Who decided that sub-agents inherit current model by default and do not require model parameter specified?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1785748727,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1ve8ebp/who_decided_that_subagents_inherit_current_model/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-04"
+    },
+    "1vc0r5o": {
+      "title": "I don't see how Anthropic will survive this",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1785526156,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1vc0r5o/i_dont_see_how_anthropic_will_survive_this/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-04"
+    },
+    "1vb816y": {
+      "title": "Subagents were eating my quota, so I built a way to hand them off",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1785449609,
+      "score": 2,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1vb816y/subagents_were_eating_my_quota_so_i_built_a_way/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-04"
+    },
+    "1vb10qc": {
+      "title": "Finding myself using 5.6 Sol Pro, Ultra, and Max more and more often. Wtf is happening with Claude Code?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1785434198,
+      "score": 11,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1vb10qc/finding_myself_using_56_sol_pro_ultra_and_max/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-04"
+    },
+    "1v7wayc": {
+      "title": "Claude Max account burning tokens on its own. No prompts sent in 5 days, support unresponsive",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1785147500,
+      "score": 2,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1v7wayc/claude_max_account_burning_tokens_on_its_own_no/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-04"
+    },
+    "1vdfibe": {
+      "title": "A reported 95k context drop in Codex sent me looking at other coding agents",
+      "subreddit": "vibecoding",
+      "created_utc": 1785669620,
+      "score": 0,
+      "url": "https://reddit.com/r/vibecoding/comments/1vdfibe/a_reported_95k_context_drop_in_codex_sent_me/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-04"
+    },
+    "1vci7rx": {
+      "title": "I built TidyLink - a native, privacy-first Android bookmark manager that scrapes and auto-categorizes your links using local encryption and your own AI keys.",
+      "subreddit": "vibecoding",
+      "created_utc": 1785574700,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1vci7rx/i_built_tidylink_a_native_privacyfirst_android/",
+      "models": [
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-08-04"
+    },
+    "1vf2trc": {
+      "title": "I know why 5h limit not back",
+      "subreddit": "codex",
+      "created_utc": 1785826621,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vf2trc/i_know_why_5h_limit_not_back/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-04"
+    },
+    "1vd1qr4": {
+      "title": "Codex just burned 35% of my weekly quota in 2 hours... on IDLE 💀",
+      "subreddit": "codex",
+      "created_utc": 1785626043,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vd1qr4/codex_just_burned_35_of_my_weekly_quota_in_2/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-04"
+    },
+    "1veqtnq": {
+      "title": "Delegating tasks from Sol to Luna subagents is crazy",
+      "subreddit": "codex",
+      "created_utc": 1785793076,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1veqtnq/delegating_tasks_from_sol_to_luna_subagents_is/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-04"
+    },
+    "1vcmaha": {
+      "title": "Tibo, you’re the best! The limits in Codex are basically unlimited now.",
+      "subreddit": "codex",
+      "created_utc": 1785587814,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1vcmaha/tibo_youre_the_best_the_limits_in_codex_are/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 2,
+      "fetched_date": "2026-08-04"
+    },
+    "1vcjuya": {
+      "title": "Am I stuck in an infinite loop? Looking for advices",
+      "subreddit": "codex",
+      "created_utc": 1785580386,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vcjuya/am_i_stuck_in_an_infinite_loop_looking_for_advices/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-04"
+    },
+    "1vcirbp": {
+      "title": "Codex is far, far, far better than Claude",
+      "subreddit": "codex",
+      "created_utc": 1785576579,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vcirbp/codex_is_far_far_far_better_than_claude/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-04"
     }
   }
 }
