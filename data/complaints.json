@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-08-07T07:29:59.005479+00:00",
-    "total_posts_analyzed": 10414,
-    "total_complaints": 2842
+    "last_updated": "2026-08-08T07:06:41.933885+00:00",
+    "total_posts_analyzed": 10430,
+    "total_complaints": 2843
   },
   "posts": {
     "1sg1yvw": {
@@ -34702,6 +34702,18 @@
       ],
       "complaint_score": 9,
       "fetched_date": "2026-08-07"
+    },
+    "1vi0ird": {
+      "title": "Opus 5 reach rate limit within 10 minutes and I can't switch back to Opus 4.8 in VS Claude",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1786108946,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1vi0ird/opus_5_reach_rate_limit_within_10_minutes_and_i/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-08"
     }
   }
 }
