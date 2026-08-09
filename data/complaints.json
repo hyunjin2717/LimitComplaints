@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-08-08T07:06:41.933885+00:00",
-    "total_posts_analyzed": 10430,
-    "total_complaints": 2843
+    "last_updated": "2026-08-09T07:08:42.485704+00:00",
+    "total_posts_analyzed": 10480,
+    "total_complaints": 2867
   },
   "posts": {
     "1sg1yvw": {
@@ -34714,6 +34714,298 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-08-08"
+    },
+    "1viqjgb": {
+      "title": "Your Claude plan as a potion: I'm building a free Mac app with lab flasks that drain as your quota burns (no API key), and a fun live radar as a background (i mean why not)",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1786177658,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1viqjgb/your_claude_plan_as_a_potion_im_building_a_free/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-08-09"
+    },
+    "1vhib7p": {
+      "title": "Finally experiencing the token issue - and it's brutal. Advice on increase?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1786054126,
+      "score": 38,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1vhib7p/finally_experiencing_the_token_issue_and_its/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-08-09"
+    },
+    "1vgyd6t": {
+      "title": "I turned my pre-launch checklist into a Claude Code skill, so it reads the codebase instead of me looking things up",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1786004956,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1vgyd6t/i_turned_my_prelaunch_checklist_into_a_claude/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-08-09"
+    },
+    "1ve6g8f": {
+      "title": "I kept checking Claude’s Usage page, so I put the limits around my MacBook notch",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1785741937,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1ve6g8f/i_kept_checking_claudes_usage_page_so_i_put_the/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-09"
+    },
+    "1vji4xa": {
+      "title": "How do you guys use the 30 slot memory thing that Claude has and also what are you all doing about the whole usage limit problem",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1786256074,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1vji4xa/how_do_you_guys_use_the_30_slot_memory_thing_that/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-08-09"
+    },
+    "1vi37c8": {
+      "title": "Token usage",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1786115243,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1vi37c8/token_usage/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-09"
+    },
+    "1vhxcpo": {
+      "title": "How many tokens does the Free plan actually give and whats the best strategy to stretch it?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1786100107,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1vhxcpo/how_many_tokens_does_the_free_plan_actually_give/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-09"
+    },
+    "1vh7q6f": {
+      "title": "Claude Desktop(Code) spend limit bypassed ($52.46 / $47.00 cap) despite \"Usage limit reached\" block",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1786030704,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1vh7q6f/claude_desktopcode_spend_limit_bypassed_5246_4700/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-08-09"
+    },
+    "1vh741n": {
+      "title": "Claude Free Stuck on Payment Screen After Usage Reset",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1786029352,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1vh741n/claude_free_stuck_on_payment_screen_after_usage/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-09"
+    },
+    "1vgzcrs": {
+      "title": "[Claude Desktop App] Quota dilemma: Handling simple tasks (like logging) after heavy analysis in the same session?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1786008497,
+      "score": 2,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1vgzcrs/claude_desktop_app_quota_dilemma_handling_simple/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-08-09"
+    },
+    "1vgeg2t": {
+      "title": "Can Claude Code switch to non-Anthropic models?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1785951932,
+      "score": 5,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1vgeg2t/can_claude_code_switch_to_nonanthropic_models/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-09"
+    },
+    "1vg5lmw": {
+      "title": "Help me understand my usage cost",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1785931891,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1vg5lmw/help_me_understand_my_usage_cost/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-09"
+    },
+    "1vg47iu": {
+      "title": "PSA: your weekly limit doesn't reset when you resubscribe - you can pay for days you literally cannot use",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1785927799,
+      "score": 91,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1vg47iu/psa_your_weekly_limit_doesnt_reset_when_you/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 9,
+      "fetched_date": "2026-08-09"
+    },
+    "1vg37n3": {
+      "title": "Claude Pro usage limits are completely broken ,said “hi” once and got locked, then sent 2 images after reset and got locked again",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1785924700,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1vg37n3/claude_pro_usage_limits_are_completely_broken/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-08-09"
+    },
+    "1vftrri": {
+      "title": "Claude from a small business perspective",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1785894648,
+      "score": 426,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1vftrri/claude_from_a_small_business_perspective/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-09"
+    },
+    "1vfmbf5": {
+      "title": "Unrequested Max Upgrade, Card Charged, and Phantom Usage! Need Help/Advice",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1785875968,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1vfmbf5/unrequested_max_upgrade_card_charged_and_phantom/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 2,
+      "fetched_date": "2026-08-09"
+    },
+    "1vfl5w2": {
+      "title": "Anyone Else Seeing Incorrect Usage on the Max 20x Plan?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1785873431,
+      "score": 5,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1vfl5w2/anyone_else_seeing_incorrect_usage_on_the_max_20x/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-09"
+    },
+    "1vfk4sz": {
+      "title": "Is there a usage penalty for switching back to Fable after Claude switches to Opus?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1785871203,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1vfk4sz/is_there_a_usage_penalty_for_switching_back_to/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-08-09"
+    },
+    "1vf8rvn": {
+      "title": "Claude code keeps randomly stopping. And it's not usage limits.",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1785846047,
+      "score": 6,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1vf8rvn/claude_code_keeps_randomly_stopping_and_its_not/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-08-09"
+    },
+    "1vdyp15": {
+      "title": "[Bug] Pro Account stuck at 100% Session Limit without sending a single message (Weekly limit bleeding out)",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1785717983,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1vdyp15/bug_pro_account_stuck_at_100_session_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-08-09"
+    },
+    "1vhsp5f": {
+      "title": "Wtf happend to my 5h quota ????",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1786083745,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1vhsp5f/wtf_happend_to_my_5h_quota/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-08-09"
+    },
+    "1vhryzy": {
+      "title": "Did Opus 5 Reduce the Weekly Quota?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1786081318,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1vhryzy/did_opus_5_reduce_the_weekly_quota/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-09"
+    },
+    "1vh8nkj": {
+      "title": "The screenshot is the bug report. DeepSeek V4 Flash 0731 still wants text",
+      "subreddit": "vibecoding",
+      "created_utc": 1786032656,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1vh8nkj/the_screenshot_is_the_bug_report_deepseek_v4/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-09"
+    },
+    "1vgzjlz": {
+      "title": "[Project] ULM Engine v1.0.0 – I built a local-first memory pipeline that stops AI co-pilots from getting context amnesia (Zero VRAM waste, auto-syncs across Copilot Chat, Cline & Gemini)",
+      "subreddit": "vibecoding",
+      "created_utc": 1786009182,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1vgzjlz/project_ulm_engine_v100_i_built_a_localfirst/",
+      "models": [
+        "gemini"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-09"
     }
   }
 }
