@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-08-10T07:54:30.950319+00:00",
-    "total_posts_analyzed": 10541,
-    "total_complaints": 2891
+    "last_updated": "2026-08-11T07:22:50.882362+00:00",
+    "total_posts_analyzed": 10564,
+    "total_complaints": 2895
   },
   "posts": {
     "1sg1yvw": {
@@ -35298,6 +35298,54 @@
       ],
       "complaint_score": 8,
       "fetched_date": "2026-08-10"
+    },
+    "1vhltx6": {
+      "title": "My Claude Code run hit the 5-hour limit at 1am, waited for the reset, and picked itself back up. No more babysitting.",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1786063171,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1vhltx6/my_claude_code_run_hit_the_5hour_limit_at_1am/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-11"
+    },
+    "1vk9l09": {
+      "title": "I put my rate-limit usage in the Claude Code status line",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1786332091,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1vk9l09/i_put_my_ratelimit_usage_in_the_claude_code/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-11"
+    },
+    "1vi0bax": {
+      "title": "I put my rate-limit usage in the Claude Code status line",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1786108418,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1vi0bax/i_put_my_ratelimit_usage_in_the_claude_code/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-11"
+    },
+    "1vijrr2": {
+      "title": "anyone actually used Meta's Muse Code on a real project yet? hows it compare to Opus 5",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1786155572,
+      "score": 2,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1vijrr2/anyone_actually_used_metas_muse_code_on_a_real/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-11"
     }
   }
 }
