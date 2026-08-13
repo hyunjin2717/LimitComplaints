@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-08-12T07:44:50.498633+00:00",
-    "total_posts_analyzed": 10574,
-    "total_complaints": 2896
+    "last_updated": "2026-08-13T07:47:14.892320+00:00",
+    "total_posts_analyzed": 10606,
+    "total_complaints": 2910
   },
   "posts": {
     "1sg1yvw": {
@@ -35358,6 +35358,181 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-08-12"
+    },
+    "1vmz33r": {
+      "title": "Pro usage limit had cut off at least 80%, is it just me or universal?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1786590673,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1vmz33r/pro_usage_limit_had_cut_off_at_least_80_is_it/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-13"
+    },
+    "1vmtfy0": {
+      "title": "Reaching Pro plan usage limit very fast",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1786575481,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1vmtfy0/reaching_pro_plan_usage_limit_very_fast/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-13"
+    },
+    "1vmozme": {
+      "title": "Usage limit cap reset then hit the cap again 12 minutes later",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1786564979,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1vmozme/usage_limit_cap_reset_then_hit_the_cap_again_12/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-08-13"
+    },
+    "1vmoxsb": {
+      "title": "My usage limit reset the hit again 12 minutes later.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1786564867,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1vmoxsb/my_usage_limit_reset_the_hit_again_12_minutes/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-08-13"
+    },
+    "1vm9135": {
+      "title": "Did Anthropic Decreased the Usage Limit?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1786526188,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1vm9135/did_anthropic_decreased_the_usage_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-08-13"
+    },
+    "1vkl3qz": {
+      "title": "can't enable usage credits after weekly limit?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1786369033,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1vkl3qz/cant_enable_usage_credits_after_weekly_limit/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-08-13"
+    },
+    "1vixrjk": {
+      "title": "Did they run our of weekly quota to finish this or what?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1786200144,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1vixrjk/did_they_run_our_of_weekly_quota_to_finish_this/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-13"
+    },
+    "1vll76b": {
+      "title": "Is it just me or do you guys also dream about a utopia with unlimited fable usage?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1786463265,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1vll76b/is_it_just_me_or_do_you_guys_also_dream_about_a/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-13"
+    },
+    "1vg1c8u": {
+      "title": "What do you use as a fallback when you hit your weekly limit?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1785918237,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1vg1c8u/what_do_you_use_as_a_fallback_when_you_hit_your/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-08-13"
+    },
+    "1vlfxgc": {
+      "title": "Tibo usage resets hurt actual devs while rewarding gray-market API resellers",
+      "subreddit": "OpenAI",
+      "created_utc": 1786450947,
+      "score": 0,
+      "url": "https://reddit.com/r/OpenAI/comments/1vlfxgc/tibo_usage_resets_hurt_actual_devs_while/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-13"
+    },
+    "1vmwcaz": {
+      "title": "你对Codex的使用限制重置系统感到沮丧吗？",
+      "subreddit": "vibecoding",
+      "created_utc": 1786582968,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1vmwcaz/你对codex的使用限制重置系统感到沮丧吗/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-13"
+    },
+    "1vmfi09": {
+      "title": "Can't decide between Claude, ChatGPT and Cursor 20$ plan (especially in terms of usage limits)",
+      "subreddit": "vibecoding",
+      "created_utc": 1786544405,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1vmfi09/cant_decide_between_claude_chatgpt_and_cursor_20/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-08-13"
+    },
+    "1vlpivr": {
+      "title": "2D Sprite Generation Comparison: Claude Fable 5 vs Sakana Fugu Ultra 1.1",
+      "subreddit": "vibecoding",
+      "created_utc": 1786472507,
+      "score": 5,
+      "url": "https://reddit.com/r/vibecoding/comments/1vlpivr/2d_sprite_generation_comparison_claude_fable_5_vs/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-13"
+    },
+    "1vj1q8g": {
+      "title": "I built a CLI tool that lets Claude Code dispatch codex subagents with GPT models - 100% local",
+      "subreddit": "vibecoding",
+      "created_utc": 1786209881,
+      "score": 4,
+      "url": "https://reddit.com/r/vibecoding/comments/1vj1q8g/i_built_a_cli_tool_that_lets_claude_code_dispatch/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-13"
     }
   }
 }
