@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-08-14T07:45:27.069980+00:00",
-    "total_posts_analyzed": 10700,
-    "total_complaints": 2949
+    "last_updated": "2026-08-15T06:58:54.017651+00:00",
+    "total_posts_analyzed": 10740,
+    "total_complaints": 2957
   },
   "posts": {
     "1sg1yvw": {
@@ -36003,6 +36003,104 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-08-14"
+    },
+    "1vn6tj5": {
+      "title": "My Claude Max limits kept running out and I couldn't figure out why. So I built a skill that lets you ask Claude Code anything about your usage. Turns out a coding agent was burning 1.2 billion tokens a week on my machine.",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1786616529,
+      "score": 5,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1vn6tj5/my_claude_max_limits_kept_running_out_and_i/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-15"
+    },
+    "1vn4gsa": {
+      "title": "Help me please",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1786608239,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1vn4gsa/help_me_please/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-15"
+    },
+    "1vjrznl": {
+      "title": "How much better is the $100 plan compared to the $20 one?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1786287447,
+      "score": 3,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1vjrznl/how_much_better_is_the_100_plan_compared_to_the/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-15"
+    },
+    "1vnps0p": {
+      "title": "Do you understand how/where your ChatGPT credits go and how to track consumption?",
+      "subreddit": "ChatGPT",
+      "created_utc": 1786660970,
+      "score": 1,
+      "url": "https://reddit.com/r/ChatGPT/comments/1vnps0p/do_you_understand_howwhere_your_chatgpt_credits/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-15"
+    },
+    "1vmjay9": {
+      "title": "TierMux — Use Free AI Models Directly in VS Code / Google Antigravity",
+      "subreddit": "LLMDevs",
+      "created_utc": 1786552743,
+      "score": 1,
+      "url": "https://reddit.com/r/LLMDevs/comments/1vmjay9/tiermux_use_free_ai_models_directly_in_vs_code/",
+      "models": [
+        "gemini"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-15"
+    },
+    "1vnxvtv": {
+      "title": "I spent months building a free multiplayer browser game for my resume. I regret it",
+      "subreddit": "vibecoding",
+      "created_utc": 1786683755,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1vnxvtv/i_spent_months_building_a_free_multiplayer/",
+      "models": [
+        "gemini"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-15"
+    },
+    "1vn7p0m": {
+      "title": "Does our current sub have a hidden overall quota cap?",
+      "subreddit": "codex",
+      "created_utc": 1786619410,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vn7p0m/does_our_current_sub_have_a_hidden_overall_quota/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-08-15"
+    },
+    "1vn0yz5": {
+      "title": "Continuum Studio/Engine for macOS - Built with Antigravity/Gemini Flash 3.6",
+      "subreddit": "google_antigravity",
+      "created_utc": 1786596445,
+      "score": 5,
+      "url": "https://reddit.com/r/google_antigravity/comments/1vn0yz5/continuum_studioengine_for_macos_built_with/",
+      "models": [
+        "gemini"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-08-15"
     }
   }
 }
