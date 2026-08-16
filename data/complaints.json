@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-08-15T06:58:54.017651+00:00",
-    "total_posts_analyzed": 10740,
-    "total_complaints": 2957
+    "last_updated": "2026-08-16T07:01:56.479717+00:00",
+    "total_posts_analyzed": 10774,
+    "total_complaints": 2969
   },
   "posts": {
     "1sg1yvw": {
@@ -36101,6 +36101,152 @@
       ],
       "complaint_score": 6,
       "fetched_date": "2026-08-15"
+    },
+    "1vp5cqt": {
+      "title": "Claude Code hitting the 5-hour usage limit much faster than usual  is something changing?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1786806798,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1vp5cqt/claude_code_hitting_the_5hour_usage_limit_much/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-16"
+    },
+    "1vnmpvr": {
+      "title": "Usage limits are definitely nerfed",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1786653720,
+      "score": 29,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1vnmpvr/usage_limits_are_definitely_nerfed/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-08-16"
+    },
+    "1vpowq8": {
+      "title": "ClaudeMax - Made a Free and Open-Source Claude Code Cost analyzer and world user leaderboard. Enjoy, all I ask is a Star! brew install claudemax",
+      "subreddit": "vibecoding",
+      "created_utc": 1786859574,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1vpowq8/claudemax_made_a_free_and_opensource_claude_code/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-16"
+    },
+    "1vowet2": {
+      "title": "Im on pro 5x plan and need your help to keep working",
+      "subreddit": "codex",
+      "created_utc": 1786779004,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vowet2/im_on_pro_5x_plan_and_need_your_help_to_keep/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-16"
+    },
+    "1vo2opx": {
+      "title": "Paint dries faster than Codex codes",
+      "subreddit": "codex",
+      "created_utc": 1786700434,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vo2opx/paint_dries_faster_than_codex_codes/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-16"
+    },
+    "1vnv0uh": {
+      "title": "In your opinion, how good is GPT-5.6-Sol for front-end development compared to other AI models? Are the \"xhigh\" and \"max\" settings significantly better than \"low\" or \"medium\" in this context?",
+      "subreddit": "codex",
+      "created_utc": 1786675163,
+      "score": 17,
+      "url": "https://reddit.com/r/codex/comments/1vnv0uh/in_your_opinion_how_good_is_gpt56sol_for_frontend/",
+      "models": [
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-16"
+    },
+    "1vlje35": {
+      "title": "Long running goal.",
+      "subreddit": "codex",
+      "created_utc": 1786459327,
+      "score": 2,
+      "url": "https://reddit.com/r/codex/comments/1vlje35/long_running_goal/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-16"
+    },
+    "1vl4b0n": {
+      "title": "gpt-daybreak-blue-latest is constantly timing out - anyone else?",
+      "subreddit": "codex",
+      "created_utc": 1786413578,
+      "score": 5,
+      "url": "https://reddit.com/r/codex/comments/1vl4b0n/gptdaybreakbluelatest_is_constantly_timing_out/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-16"
+    },
+    "1vlhkhp": {
+      "title": "Has anyone else noticed a massive drop in the weekly usage limit since yesterday's reset?",
+      "subreddit": "codex",
+      "created_utc": 1786455107,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vlhkhp/has_anyone_else_noticed_a_massive_drop_in_the/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-16"
+    },
+    "1vjzbmc": {
+      "title": "Is codex and chatgpt share the same usage limit? I mean when i see the usage in codex is 77% is that applies to chatgpt as well?",
+      "subreddit": "codex",
+      "created_utc": 1786304765,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1vjzbmc/is_codex_and_chatgpt_share_the_same_usage_limit_i/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-16"
+    },
+    "1vj80bv": {
+      "title": "It's so funny that after four days of not being able to use Codex until the weekly reset, Tibo reset my usage limit even though I was at 98% capacity! Let's call it a gift?",
+      "subreddit": "codex",
+      "created_utc": 1786225602,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vj80bv/its_so_funny_that_after_four_days_of_not_being/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-08-16"
+    },
+    "1vj1v2n": {
+      "title": "My 20x usage reset 3 hours ago and with normal use it's burned through 95%, I've been using sol heavily for weeks and haven't hit my limit before. How could this have happened?",
+      "subreddit": "codex",
+      "created_utc": 1786210192,
+      "score": 121,
+      "url": "https://reddit.com/r/codex/comments/1vj1v2n/my_20x_usage_reset_3_hours_ago_and_with_normal/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 9,
+      "fetched_date": "2026-08-16"
     }
   }
 }
