@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-08-16T07:01:56.479717+00:00",
-    "total_posts_analyzed": 10774,
-    "total_complaints": 2969
+    "last_updated": "2026-08-17T07:20:00.116057+00:00",
+    "total_posts_analyzed": 10808,
+    "total_complaints": 2983
   },
   "posts": {
     "1sg1yvw": {
@@ -36247,6 +36247,177 @@
       ],
       "complaint_score": 9,
       "fetched_date": "2026-08-16"
+    },
+    "1vpqfxj": {
+      "title": "OpenAI is testing an $80 button to un-throttle the plan you already paid for",
+      "subreddit": "OpenAI",
+      "created_utc": 1786864803,
+      "score": 1,
+      "url": "https://reddit.com/r/OpenAI/comments/1vpqfxj/openai_is_testing_an_80_button_to_unthrottle_the/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-08-17"
+    },
+    "1vl2tw2": {
+      "title": "Another OpenAI reset for you🥳",
+      "subreddit": "OpenAI",
+      "created_utc": 1786409548,
+      "score": 33,
+      "url": "https://reddit.com/r/OpenAI/comments/1vl2tw2/another_openai_reset_for_you/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-17"
+    },
+    "1vn5lvc": {
+      "title": "Being rate limited on Plus",
+      "subreddit": "ChatGPT",
+      "created_utc": 1786612315,
+      "score": 3,
+      "url": "https://reddit.com/r/ChatGPT/comments/1vn5lvc/being_rate_limited_on_plus/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-08-17"
+    },
+    "1vkc08u": {
+      "title": "ChatGPT Go message limits",
+      "subreddit": "ChatGPT",
+      "created_utc": 1786339812,
+      "score": 1,
+      "url": "https://reddit.com/r/ChatGPT/comments/1vkc08u/chatgpt_go_message_limits/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-17"
+    },
+    "1vmt555": {
+      "title": "ChatGPT constantly unusable for paying user!",
+      "subreddit": "ChatGPT",
+      "created_utc": 1786574712,
+      "score": 8,
+      "url": "https://reddit.com/r/ChatGPT/comments/1vmt555/chatgpt_constantly_unusable_for_paying_user/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-08-17"
+    },
+    "1vq1oyr": {
+      "title": "Codex remote control broken for non-OpenAI models?",
+      "subreddit": "codex",
+      "created_utc": 1786898154,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vq1oyr/codex_remote_control_broken_for_nonopenai_models/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-17"
+    },
+    "1vp70fg": {
+      "title": "The Temporal Tax: Analyzing Patterns in AI SaaS Quota Mechanics",
+      "subreddit": "codex",
+      "created_utc": 1786810803,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vp70fg/the_temporal_tax_analyzing_patterns_in_ai_saas/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-17"
+    },
+    "1vo5l8o": {
+      "title": "Codex experience with grok-in-codex plug-in",
+      "subreddit": "codex",
+      "created_utc": 1786709628,
+      "score": 5,
+      "url": "https://reddit.com/r/codex/comments/1vo5l8o/codex_experience_with_grokincodex_plugin/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-17"
+    },
+    "1vo0166": {
+      "title": "Chatgpt browser using Codex limits?",
+      "subreddit": "codex",
+      "created_utc": 1786690926,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1vo0166/chatgpt_browser_using_codex_limits/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-17"
+    },
+    "1vndv31": {
+      "title": "Weekly quota at 100% with no use - what happened?",
+      "subreddit": "codex",
+      "created_utc": 1786634758,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vndv31/weekly_quota_at_100_with_no_use_what_happened/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-17"
+    },
+    "1vnamit": {
+      "title": "Reminder that subagents are now accounting for 97% of weekly usage",
+      "subreddit": "codex",
+      "created_utc": 1786627423,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1vnamit/reminder_that_subagents_are_now_accounting_for_97/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-08-17"
+    },
+    "1vmdffu": {
+      "title": "Disclaimer for using codex-security",
+      "subreddit": "codex",
+      "created_utc": 1786539497,
+      "score": 3,
+      "url": "https://reddit.com/r/codex/comments/1vmdffu/disclaimer_for_using_codexsecurity/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-17"
+    },
+    "1vly2z2": {
+      "title": "How the hell are people blowing through their 20x plans in a few hours/a day?",
+      "subreddit": "codex",
+      "created_utc": 1786492186,
+      "score": 5,
+      "url": "https://reddit.com/r/codex/comments/1vly2z2/how_the_hell_are_people_blowing_through_their_20x/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-17"
+    },
+    "1vla9g8": {
+      "title": "This can't be real! 1 planning of a small project and 30% gone with SOL high",
+      "subreddit": "codex",
+      "created_utc": 1786432177,
+      "score": 2,
+      "url": "https://reddit.com/r/codex/comments/1vla9g8/this_cant_be_real_1_planning_of_a_small_project/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-17"
     }
   }
 }
