@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-08-17T07:20:00.116057+00:00",
-    "total_posts_analyzed": 10808,
-    "total_complaints": 2983
+    "last_updated": "2026-08-18T07:27:29.696256+00:00",
+    "total_posts_analyzed": 10880,
+    "total_complaints": 3004
   },
   "posts": {
     "1sg1yvw": {
@@ -36418,6 +36418,261 @@
       ],
       "complaint_score": 4,
       "fetched_date": "2026-08-17"
+    },
+    "1vrcgxl": {
+      "title": "What the hell with 5-hours limit?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1787020048,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1vrcgxl/what_the_hell_with_5hours_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-18"
+    },
+    "1vraxnj": {
+      "title": "Each maxed out session was 7.5% of weekly, for last month it's been 10% of weekly",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1787015815,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1vraxnj/each_maxed_out_session_was_75_of_weekly_for_last/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-18"
+    },
+    "1vr6xe3": {
+      "title": "x20 Max 4 hour and weekly limits question",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1787005553,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1vr6xe3/x20_max_4_hour_and_weekly_limits_question/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-08-18"
+    },
+    "1vqne1d": {
+      "title": "Usage limit not reset",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1786958719,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1vqne1d/usage_limit_not_reset/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-18"
+    },
+    "1vq4g4n": {
+      "title": "Does Fable as an advisor use up your Fable usage limit?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1786904487,
+      "score": 2,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1vq4g4n/does_fable_as_an_advisor_use_up_your_fable_usage/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-18"
+    },
+    "1vn786s": {
+      "title": "Hi, after some Claude Code advice.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1786617894,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1vn786s/hi_after_some_claude_code_advice/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-18"
+    },
+    "1vmvmwb": {
+      "title": "Conductor is Mac-only so I rebuilt it for Windows and Linux, then used it to build itself. It's open source.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1786581121,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1vmvmwb/conductor_is_maconly_so_i_rebuilt_it_for_windows/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-08-18"
+    },
+    "1vme5tz": {
+      "title": "The problem isn’t Claude, it’s that I stopped being able to tell when I’m done",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1786541286,
+      "score": 11,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1vme5tz/the_problem_isnt_claude_its_that_i_stopped_being/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-08-18"
+    },
+    "1vmcmd5": {
+      "title": "Tokens burninning faster?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1786537387,
+      "score": 12,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1vmcmd5/tokens_burninning_faster/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-18"
+    },
+    "1vlo8eq": {
+      "title": "Is claude crazy slow today or just me?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1786469779,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1vlo8eq/is_claude_crazy_slow_today_or_just_me/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 2,
+      "fetched_date": "2026-08-18"
+    },
+    "1vqtga2": {
+      "title": "Non-technical, vibe coded a paid app. Every bug that actually mattered was found by a second agent whose only job was to attack the first one's work.",
+      "subreddit": "vibecoding",
+      "created_utc": 1786975871,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1vqtga2/nontechnical_vibe_coded_a_paid_app_every_bug_that/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-08-18"
+    },
+    "1vpqylo": {
+      "title": "I will never buy chatgpt credits again for codex vibe-coding",
+      "subreddit": "vibecoding",
+      "created_utc": 1786866654,
+      "score": 53,
+      "url": "https://reddit.com/r/vibecoding/comments/1vpqylo/i_will_never_buy_chatgpt_credits_again_for_codex/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-18"
+    },
+    "1vrgzsp": {
+      "title": "Codex vs Cursor usage limit?",
+      "subreddit": "codex",
+      "created_utc": 1787033845,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vrgzsp/codex_vs_cursor_usage_limit/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-18"
+    },
+    "1vrcd36": {
+      "title": "Best way to continue a Codex chat in ChatGPT after hitting the Codex usage limit?",
+      "subreddit": "codex",
+      "created_utc": 1787019738,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vrcd36/best_way_to_continue_a_codex_chat_in_chatgpt/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-08-18"
+    },
+    "1vr8pvh": {
+      "title": "I found the culprit eating your usage limit!",
+      "subreddit": "codex",
+      "created_utc": 1787010015,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vr8pvh/i_found_the_culprit_eating_your_usage_limit/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 9,
+      "fetched_date": "2026-08-18"
+    },
+    "1vr8o0r": {
+      "title": "You can use ChatGPT web for coding without burning through your Codex limits",
+      "subreddit": "codex",
+      "created_utc": 1787009875,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vr8o0r/you_can_use_chatgpt_web_for_coding_without/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-18"
+    },
+    "1vqypmv": {
+      "title": "Resets steal limits by design to bait into unhealthy usage pattern",
+      "subreddit": "codex",
+      "created_utc": 1786987571,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vqypmv/resets_steal_limits_by_design_to_bait_into/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-18"
+    },
+    "1vqx6d6": {
+      "title": "Is Luna Max actually 25x cheaper than Sol XHigh on Codex Plus usage?",
+      "subreddit": "codex",
+      "created_utc": 1786984453,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vqx6d6/is_luna_max_actually_25x_cheaper_than_sol_xhigh/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-18"
+    },
+    "1vqjhn2": {
+      "title": "Pro 20x users experience and alts",
+      "subreddit": "codex",
+      "created_utc": 1786945000,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vqjhn2/pro_20x_users_experience_and_alts/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-18"
+    },
+    "1vpsbnh": {
+      "title": "Codex usage limit didn't reset when my billing cycle started",
+      "subreddit": "codex",
+      "created_utc": 1786871610,
+      "score": 2,
+      "url": "https://reddit.com/r/codex/comments/1vpsbnh/codex_usage_limit_didnt_reset_when_my_billing/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-18"
+    },
+    "1vo57lv": {
+      "title": "Paid resets are a huge miss. Woulda paid for % refills, though",
+      "subreddit": "codex",
+      "created_utc": 1786708620,
+      "score": 142,
+      "url": "https://reddit.com/r/codex/comments/1vo57lv/paid_resets_are_a_huge_miss_woulda_paid_for/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-08-18"
     }
   }
 }
