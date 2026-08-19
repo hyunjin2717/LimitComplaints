@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-08-18T07:27:29.696256+00:00",
-    "total_posts_analyzed": 10880,
-    "total_complaints": 3004
+    "last_updated": "2026-08-19T07:07:39.329306+00:00",
+    "total_posts_analyzed": 10892,
+    "total_complaints": 3009
   },
   "posts": {
     "1sg1yvw": {
@@ -36673,6 +36673,66 @@
       ],
       "complaint_score": 5,
       "fetched_date": "2026-08-18"
+    },
+    "1vs33ez": {
+      "title": "Checkpoint when nearing 5hr usage limit?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1787089642,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1vs33ez/checkpoint_when_nearing_5hr_usage_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-19"
+    },
+    "1vroq5n": {
+      "title": "Continue automatically at usage limit",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1787058561,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1vroq5n/continue_automatically_at_usage_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-19"
+    },
+    "1vramgp": {
+      "title": "Hitting token rate limit after a few second",
+      "subreddit": "OpenAI",
+      "created_utc": 1787014977,
+      "score": 1,
+      "url": "https://reddit.com/r/OpenAI/comments/1vramgp/hitting_token_rate_limit_after_a_few_second/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-19"
+    },
+    "1vql9yo": {
+      "title": "ChatGPT usage limitaion missing Daily limit?",
+      "subreddit": "ChatGPT",
+      "created_utc": 1786951081,
+      "score": 0,
+      "url": "https://reddit.com/r/ChatGPT/comments/1vql9yo/chatgpt_usage_limitaion_missing_daily_limit/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-08-19"
+    },
+    "1vpvpr6": {
+      "title": "My billing date is the 19th. My codex weekly usage limit resets on the 21st. There is no incentive for me to keep my subscription going for 2 days with no ability to use it",
+      "subreddit": "ChatGPT",
+      "created_utc": 1786883116,
+      "score": 1,
+      "url": "https://reddit.com/r/ChatGPT/comments/1vpvpr6/my_billing_date_is_the_19th_my_codex_weekly_usage/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-19"
     }
   }
 }
