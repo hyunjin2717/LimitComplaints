@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-08-19T07:07:39.329306+00:00",
-    "total_posts_analyzed": 10892,
-    "total_complaints": 3009
+    "last_updated": "2026-08-20T07:06:35.052329+00:00",
+    "total_posts_analyzed": 10897,
+    "total_complaints": 3010
   },
   "posts": {
     "1sg1yvw": {
@@ -36733,6 +36733,18 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-08-19"
+    },
+    "1vs7omf": {
+      "title": "Any technical workarounds for ChatGPT Classic's \"Too many requests\" errors on Windows 11? (already tried the basics)",
+      "subreddit": "ChatGPT",
+      "created_utc": 1787101150,
+      "score": 1,
+      "url": "https://reddit.com/r/ChatGPT/comments/1vs7omf/any_technical_workarounds_for_chatgpt_classics/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-08-20"
     }
   }
 }
