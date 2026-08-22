@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-08-21T07:02:50.373807+00:00",
-    "total_posts_analyzed": 10992,
-    "total_complaints": 3060
+    "last_updated": "2026-08-22T06:50:53.828347+00:00",
+    "total_posts_analyzed": 11013,
+    "total_complaints": 3062
   },
   "posts": {
     "1sg1yvw": {
@@ -37347,6 +37347,30 @@
       ],
       "complaint_score": 5,
       "fetched_date": "2026-08-21"
+    },
+    "1vtl78j": {
+      "title": "Claude Code Weekly Limits",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1787236398,
+      "score": 57,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1vtl78j/claude_code_weekly_limits/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-08-22"
+    },
+    "1vug0ac": {
+      "title": "ChatGPT Is Losing Customer Trust and Product Feedback: Two Avoidable UX Problems",
+      "subreddit": "ChatGPT",
+      "created_utc": 1787317941,
+      "score": 1,
+      "url": "https://reddit.com/r/ChatGPT/comments/1vug0ac/chatgpt_is_losing_customer_trust_and_product/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-22"
     }
   }
 }
