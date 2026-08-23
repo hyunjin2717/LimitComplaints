@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-08-22T06:50:53.828347+00:00",
-    "total_posts_analyzed": 11013,
-    "total_complaints": 3062
+    "last_updated": "2026-08-23T07:00:50.648289+00:00",
+    "total_posts_analyzed": 11097,
+    "total_complaints": 3095
   },
   "posts": {
     "1sg1yvw": {
@@ -37371,6 +37371,415 @@
       ],
       "complaint_score": 4,
       "fetched_date": "2026-08-22"
+    },
+    "1vuppz8": {
+      "title": "Daily Phantom 30-34% of my 5-hour limit before I send a single prompt / Mystery Sonnet 4.5 usage appearing",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1787339610,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1vuppz8/daily_phantom_3034_of_my_5hour_limit_before_i/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-23"
+    },
+    "1vudbaa": {
+      "title": "Does Sonnet 5 really lower token consumption ?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1787310537,
+      "score": 2,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1vudbaa/does_sonnet_5_really_lower_token_consumption/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-23"
+    },
+    "1vtuskc": {
+      "title": "What’s wrong with the token limits?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1787257102,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1vtuskc/whats_wrong_with_the_token_limits/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-23"
+    },
+    "1vt9gr9": {
+      "title": "Has anyone used Claude Cowork and ChatGPT Work/Codex on the same coding project? $40 for both vs. $100 for Claude Max",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1787200493,
+      "score": 2,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1vt9gr9/has_anyone_used_claude_cowork_and_chatgpt/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-23"
+    },
+    "1vvrrh0": {
+      "title": "Título:\nI built a real-time monitor for Claude Code — tracks every tool call, cost, and quota live. 1300+ downloads, MIT, zero cloud.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1787442796,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1vvrrh0/título_i_built_a_realtime_monitor_for_claude_code/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-08-23"
+    },
+    "1vvfvqn": {
+      "title": "Claude pro subscription might actually be better than codex plus",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1787413756,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1vvfvqn/claude_pro_subscription_might_actually_be_better/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-23"
+    },
+    "1vve8l4": {
+      "title": "Usage tracking in your notification bar",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1787409778,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1vve8l4/usage_tracking_in_your_notification_bar/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-23"
+    },
+    "1vum72y": {
+      "title": "Claude’s 20x usage limits are getting completely out of control",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1787331955,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1vum72y/claudes_20x_usage_limits_are_getting_completely/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 9,
+      "fetched_date": "2026-08-23"
+    },
+    "1vtli34": {
+      "title": "Anthropic toxic language is annoying me so hard",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1787237114,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1vtli34/anthropic_toxic_language_is_annoying_me_so_hard/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-23"
+    },
+    "1vsumpn": {
+      "title": "How much Max plans would it take to get unlimited usage?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1787163714,
+      "score": 2,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1vsumpn/how_much_max_plans_would_it_take_to_get_unlimited/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-23"
+    },
+    "1vrmhdp": {
+      "title": "Guess I'm one of the limit-moaners now",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1787052513,
+      "score": 2,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1vrmhdp/guess_im_one_of_the_limitmoaners_now/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-08-23"
+    },
+    "1vrhn1w": {
+      "title": "Dr. Strangeclaude, or: How I Learned to Stop Worrying About Tokens and Let the Hooks Do It",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1787036027,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1vrhn1w/dr_strangeclaude_or_how_i_learned_to_stop/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-23"
+    },
+    "1vvwzac": {
+      "title": "Does openai have ongoing usage limit problems",
+      "subreddit": "OpenAI",
+      "created_utc": 1787458145,
+      "score": 1,
+      "url": "https://reddit.com/r/OpenAI/comments/1vvwzac/does_openai_have_ongoing_usage_limit_problems/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-23"
+    },
+    "1vuddhm": {
+      "title": "Same Codex plan, same price — usage limit burning way faster than last month (Pro 5x AND Pro 20x) #StopTheCodexNerf",
+      "subreddit": "OpenAI",
+      "created_utc": 1787310715,
+      "score": 1,
+      "url": "https://reddit.com/r/OpenAI/comments/1vuddhm/same_codex_plan_same_price_usage_limit_burning/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-23"
+    },
+    "1vud9ne": {
+      "title": "Same Codex plan, same price — usage limit burning way faster than last month (Pro 5x AND Pro 20x) #StopTheCodexNerf",
+      "subreddit": "OpenAI",
+      "created_utc": 1787310400,
+      "score": 1,
+      "url": "https://reddit.com/r/OpenAI/comments/1vud9ne/same_codex_plan_same_price_usage_limit_burning/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-23"
+    },
+    "1vug33c": {
+      "title": "ChatGPT Is Losing Customer Trust and Product Feedback: Two Avoidable UX Problems",
+      "subreddit": "OpenAI",
+      "created_utc": 1787318127,
+      "score": 0,
+      "url": "https://reddit.com/r/OpenAI/comments/1vug33c/chatgpt_is_losing_customer_trust_and_product/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-23"
+    },
+    "1vs2c8a": {
+      "title": "codex limits \"sucks\"",
+      "subreddit": "vibecoding",
+      "created_utc": 1787087884,
+      "score": 15,
+      "url": "https://reddit.com/r/vibecoding/comments/1vs2c8a/codex_limits_sucks/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-23"
+    },
+    "1vowphc": {
+      "title": "I built a mod for the Codex app to see if Im using my weekly quota too fast",
+      "subreddit": "vibecoding",
+      "created_utc": 1786780078,
+      "score": 2,
+      "url": "https://reddit.com/r/vibecoding/comments/1vowphc/i_built_a_mod_for_the_codex_app_to_see_if_im/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-08-23"
+    },
+    "1vvlvpx": {
+      "title": "I made a small Windows widget for tracking Codex usage/reset times",
+      "subreddit": "vibecoding",
+      "created_utc": 1787427774,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1vvlvpx/i_made_a_small_windows_widget_for_tracking_codex/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-23"
+    },
+    "1vviiur": {
+      "title": "claude vs codex: how much bang for your buck do you really get",
+      "subreddit": "vibecoding",
+      "created_utc": 1787419992,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1vviiur/claude_vs_codex_how_much_bang_for_your_buck_do/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-23"
+    },
+    "1vsks1y": {
+      "title": "Chinese models burned my OpenRouter credits faster than Claude burns my Max quota — what am I doing wrong?",
+      "subreddit": "vibecoding",
+      "created_utc": 1787141804,
+      "score": 3,
+      "url": "https://reddit.com/r/vibecoding/comments/1vsks1y/chinese_models_burned_my_openrouter_credits/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-08-23"
+    },
+    "1vvbdif": {
+      "title": "You have a new rate limit reset available",
+      "subreddit": "codex",
+      "created_utc": 1787402342,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vvbdif/you_have_a_new_rate_limit_reset_available/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-23"
+    },
+    "1vuvbmh": {
+      "title": "Weekly usage goes to 0 even without using ChatGPT models",
+      "subreddit": "codex",
+      "created_utc": 1787352823,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vuvbmh/weekly_usage_goes_to_0_even_without_using_chatgpt/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-23"
+    },
+    "1vun3hk": {
+      "title": "Does Business subscription allow more weekly limits for solo person to purchase two seats?",
+      "subreddit": "codex",
+      "created_utc": 1787333908,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vun3hk/does_business_subscription_allow_more_weekly/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-23"
+    },
+    "1vum3wy": {
+      "title": "Wow, over 500 of you are now tracking Codex limit degradation using TiboTattle! Some findings so far...",
+      "subreddit": "codex",
+      "created_utc": 1787331769,
+      "score": 176,
+      "url": "https://reddit.com/r/codex/comments/1vum3wy/wow_over_500_of_you_are_now_tracking_codex_limit/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 2,
+      "fetched_date": "2026-08-23"
+    },
+    "1vuf352": {
+      "title": "Did Something Change With Codex Pro 20x",
+      "subreddit": "codex",
+      "created_utc": 1787315566,
+      "score": 2,
+      "url": "https://reddit.com/r/codex/comments/1vuf352/did_something_change_with_codex_pro_20x/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-08-23"
+    },
+    "1vth1g9": {
+      "title": "Those fucking thieves at Scam Altman's!",
+      "subreddit": "codex",
+      "created_utc": 1787225911,
+      "score": 4,
+      "url": "https://reddit.com/r/codex/comments/1vth1g9/those_fucking_thieves_at_scam_altmans/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-23"
+    },
+    "1vtapgx": {
+      "title": "I use my LLM's extensively... but this is ridiculous",
+      "subreddit": "codex",
+      "created_utc": 1787204505,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vtapgx/i_use_my_llms_extensively_but_this_is_ridiculous/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-23"
+    },
+    "1vt37tt": {
+      "title": "Need help interpreting limits",
+      "subreddit": "codex",
+      "created_utc": 1787183267,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1vt37tt/need_help_interpreting_limits/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-23"
+    },
+    "1vswomh": {
+      "title": "Yea i'm out of codex",
+      "subreddit": "codex",
+      "created_utc": 1787168109,
+      "score": 2,
+      "url": "https://reddit.com/r/codex/comments/1vswomh/yea_im_out_of_codex/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-23"
+    },
+    "1vsdn8e": {
+      "title": "So... were we celebrating our own quota getting cut?",
+      "subreddit": "codex",
+      "created_utc": 1787118422,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vsdn8e/so_were_we_celebrating_our_own_quota_getting_cut/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 9,
+      "fetched_date": "2026-08-23"
+    },
+    "1vrtpt9": {
+      "title": "I concur.",
+      "subreddit": "codex",
+      "created_utc": 1787069592,
+      "score": 407,
+      "url": "https://reddit.com/r/codex/comments/1vrtpt9/i_concur/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-23"
+    },
+    "1vqq9er": {
+      "title": "Luna weekly tokens 1/10th of last week",
+      "subreddit": "codex",
+      "created_utc": 1786967845,
+      "score": 26,
+      "url": "https://reddit.com/r/codex/comments/1vqq9er/luna_weekly_tokens_110th_of_last_week/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-23"
     }
   }
 }
