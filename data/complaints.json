@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-08-23T07:00:50.648289+00:00",
-    "total_posts_analyzed": 11097,
-    "total_complaints": 3095
+    "last_updated": "2026-08-24T07:13:47.934845+00:00",
+    "total_posts_analyzed": 11125,
+    "total_complaints": 3103
   },
   "posts": {
     "1sg1yvw": {
@@ -37780,6 +37780,103 @@
       ],
       "complaint_score": 4,
       "fetched_date": "2026-08-23"
+    },
+    "1vviycd": {
+      "title": "Claude Code with Fable/Opus versus Codex with Sol/Terra",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1787420987,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1vviycd/claude_code_with_fableopus_versus_codex_with/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-24"
+    },
+    "1vtg8vn": {
+      "title": "Now vs then",
+      "subreddit": "codex",
+      "created_utc": 1787223554,
+      "score": 3,
+      "url": "https://reddit.com/r/codex/comments/1vtg8vn/now_vs_then/",
+      "models": [
+        "gemini"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-24"
+    },
+    "1vw8vtl": {
+      "title": "Moved from Claud seeing Great Usage Limit.",
+      "subreddit": "codex",
+      "created_utc": 1787495884,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vw8vtl/moved_from_claud_seeing_great_usage_limit/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-24"
+    },
+    "1vvhqmr": {
+      "title": "Does the usage limit restore when changing subscription?",
+      "subreddit": "codex",
+      "created_utc": 1787418165,
+      "score": 3,
+      "url": "https://reddit.com/r/codex/comments/1vvhqmr/does_the_usage_limit_restore_when_changing/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-24"
+    },
+    "1vv798v": {
+      "title": "Pro credits kept draining AFTER I reset my usage limit, while included usage was also being consumed — $50.80 → $27.24",
+      "subreddit": "codex",
+      "created_utc": 1787389142,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vv798v/pro_credits_kept_draining_after_i_reset_my_usage/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-08-24"
+    },
+    "1vv1qoc": {
+      "title": "I just confirmed the real culprit draining your usage limit: Its Sol generated 30 hidden, expensive child and grandchild agents in a matter of minutes!",
+      "subreddit": "codex",
+      "created_utc": 1787370739,
+      "score": 4,
+      "url": "https://reddit.com/r/codex/comments/1vv1qoc/i_just_confirmed_the_real_culprit_draining_your/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-08-24"
+    },
+    "1vurm9l": {
+      "title": "Codex has silently added an 5h usage limit to GPT-5.3-Codex-Spark",
+      "subreddit": "codex",
+      "created_utc": 1787343920,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vurm9l/codex_has_silently_added_an_5h_usage_limit_to/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-24"
+    },
+    "1vws3r0": {
+      "title": "OpenAI advertises \"unlimited\" image generation in Pro. It is not unlimited.  [D]",
+      "subreddit": "MachineLearning",
+      "created_utc": 1787543879,
+      "score": 1,
+      "url": "https://reddit.com/r/MachineLearning/comments/1vws3r0/openai_advertises_unlimited_image_generation_in/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-24"
     }
   }
 }
