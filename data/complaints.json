@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-08-24T07:13:47.934845+00:00",
-    "total_posts_analyzed": 11125,
-    "total_complaints": 3103
+    "last_updated": "2026-08-25T07:01:53.686729+00:00",
+    "total_posts_analyzed": 11189,
+    "total_complaints": 3120
   },
   "posts": {
     "1sg1yvw": {
@@ -37877,6 +37877,219 @@
       ],
       "complaint_score": 4,
       "fetched_date": "2026-08-24"
+    },
+    "1vw68zd": {
+      "title": "Claude stopping at 90% usage limit?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1787489075,
+      "score": 6,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1vw68zd/claude_stopping_at_90_usage_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-08-25"
+    },
+    "1vw0i1f": {
+      "title": "\"Usage limit reached\" despite 33% remaining?? I just paid $200 for pro and it is doing this!",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1787469898,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1vw0i1f/usage_limit_reached_despite_33_remaining_i_just/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-08-25"
+    },
+    "1vwdbhy": {
+      "title": "Sonnet 5 Low vs Medium vs High for daily usage",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1787506177,
+      "score": 30,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1vwdbhy/sonnet_5_low_vs_medium_vs_high_for_daily_usage/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-25"
+    },
+    "1vudkxr": {
+      "title": "PLEASE HELP!!",
+      "subreddit": "OpenAI",
+      "created_utc": 1787311332,
+      "score": 14,
+      "url": "https://reddit.com/r/OpenAI/comments/1vudkxr/please_help/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-08-25"
+    },
+    "1vrki2c": {
+      "title": "I got tired of the usage limit ending my night, so my agent now resumes itself at 4am",
+      "subreddit": "vibecoding",
+      "created_utc": 1787046199,
+      "score": 3,
+      "url": "https://reddit.com/r/vibecoding/comments/1vrki2c/i_got_tired_of_the_usage_limit_ending_my_night_so/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-25"
+    },
+    "1vwdzfy": {
+      "title": "Switching away from Claude Code after Aug 31?",
+      "subreddit": "vibecoding",
+      "created_utc": 1787507686,
+      "score": 61,
+      "url": "https://reddit.com/r/vibecoding/comments/1vwdzfy/switching_away_from_claude_code_after_aug_31/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-25"
+    },
+    "1vve8ij": {
+      "title": "Usage tracking in your notification bar",
+      "subreddit": "vibecoding",
+      "created_utc": 1787409775,
+      "score": 4,
+      "url": "https://reddit.com/r/vibecoding/comments/1vve8ij/usage_tracking_in_your_notification_bar/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-25"
+    },
+    "1vtvoq8": {
+      "title": "Why is everyboday saying chinese models are cheaper when in reality they are not",
+      "subreddit": "vibecoding",
+      "created_utc": 1787259095,
+      "score": 0,
+      "url": "https://reddit.com/r/vibecoding/comments/1vtvoq8/why_is_everyboday_saying_chinese_models_are/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-08-25"
+    },
+    "1vsqh3q": {
+      "title": "How do you stop AI from burning through Claude Pro limits when running iOS Simulator?",
+      "subreddit": "vibecoding",
+      "created_utc": 1787155057,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1vsqh3q/how_do_you_stop_ai_from_burning_through_claude/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-08-25"
+    },
+    "1vrpa0h": {
+      "title": "Working on a project Question about platforms",
+      "subreddit": "vibecoding",
+      "created_utc": 1787059900,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1vrpa0h/working_on_a_project_question_about_platforms/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-08-25"
+    },
+    "1vxbduc": {
+      "title": "How to see 5h limit and stuff in Codex statusline CLI?",
+      "subreddit": "vibecoding",
+      "created_utc": 1787596697,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1vxbduc/how_to_see_5h_limit_and_stuff_in_codex_statusline/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-25"
+    },
+    "1vudj1z": {
+      "title": "PLEASE HELP!!!!",
+      "subreddit": "codex",
+      "created_utc": 1787311175,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vudj1z/please_help/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-08-25"
+    },
+    "1vudeq9": {
+      "title": "7 days for drain",
+      "subreddit": "codex",
+      "created_utc": 1787310816,
+      "score": 2,
+      "url": "https://reddit.com/r/codex/comments/1vudeq9/7_days_for_drain/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-25"
+    },
+    "1vrmn2k": {
+      "title": "Thinking about making a switch",
+      "subreddit": "codex",
+      "created_utc": 1787052981,
+      "score": 66,
+      "url": "https://reddit.com/r/codex/comments/1vrmn2k/thinking_about_making_a_switch/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-08-25"
+    },
+    "1vx2lgp": {
+      "title": "That feeling after pounding weekly quota in one session...",
+      "subreddit": "codex",
+      "created_utc": 1787577499,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vx2lgp/that_feeling_after_pounding_weekly_quota_in_one/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-25"
+    },
+    "1vws8s1": {
+      "title": "6.8B lifetime Codex tokens — I can burn through the 5x weekly quota in under 24 hours. How heavy is my usage?",
+      "subreddit": "codex",
+      "created_utc": 1787544276,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vws8s1/68b_lifetime_codex_tokens_i_can_burn_through_the/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-08-25"
+    },
+    "1vwipa6": {
+      "title": "Helpful native Mac + iPhone Codex quota tracker I vibe coded if anyone wants to use it/add on to it.",
+      "subreddit": "codex",
+      "created_utc": 1787518445,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vwipa6/helpful_native_mac_iphone_codex_quota_tracker_i/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-08-25"
     }
   }
 }
