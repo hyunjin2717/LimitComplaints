@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-08-25T07:01:53.686729+00:00",
-    "total_posts_analyzed": 11189,
-    "total_complaints": 3120
+    "last_updated": "2026-08-26T07:05:04.365131+00:00",
+    "total_posts_analyzed": 11278,
+    "total_complaints": 3161
   },
   "posts": {
     "1sg1yvw": {
@@ -38090,6 +38090,502 @@
       ],
       "complaint_score": 6,
       "fetched_date": "2026-08-25"
+    },
+    "1vx8fze": {
+      "title": "Claude tells you how much tokens your weekly usage actually gives you.",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1787590558,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1vx8fze/claude_tells_you_how_much_tokens_your_weekly/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-26"
+    },
+    "1vx70fy": {
+      "title": "Usage limits (paid pro plan) slowing my project's progress to almost a halt, any workarounds?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1787587500,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1vx70fy/usage_limits_paid_pro_plan_slowing_my_projects/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-08-26"
+    },
+    "1vyp051": {
+      "title": "Claude Code is becoming frustrating to use lately",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1787725546,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1vyp051/claude_code_is_becoming_frustrating_to_use_lately/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-26"
+    },
+    "1vyff2x": {
+      "title": "Is something wrong with Claude Code usage limits, or did I do something wrong?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1787698694,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1vyff2x/is_something_wrong_with_claude_code_usage_limits/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-08-26"
+    },
+    "1vy5hb6": {
+      "title": "How do people actually run multiple Claude Code sessions, and does it need Max?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1787676984,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1vy5hb6/how_do_people_actually_run_multiple_claude_code/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-26"
+    },
+    "1vy5fcr": {
+      "title": "I built a pixel pet that eats your Claude Code tokens (and warns you before the 5h wall)",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1787676872,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1vy5fcr/i_built_a_pixel_pet_that_eats_your_claude_code/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 2,
+      "fetched_date": "2026-08-26"
+    },
+    "1vy2gr7": {
+      "title": "How do people actually run multiple Claude Code sessions, and does it need Max?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1787670450,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1vy2gr7/how_do_people_actually_run_multiple_claude_code/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-26"
+    },
+    "1vx5w02": {
+      "title": "Abysmal weekly usage limits on Max plan today",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1787585044,
+      "score": 25,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1vx5w02/abysmal_weekly_usage_limits_on_max_plan_today/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-08-26"
+    },
+    "1vx4nnc": {
+      "title": "Is this a joke? 20x plan",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1787582288,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1vx4nnc/is_this_a_joke_20x_plan/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-26"
+    },
+    "1vwgnnd": {
+      "title": "Anyone else stuck manually tracking who's using their Claude Team seats? feels ridiculous for a 5 person plan",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1787513693,
+      "score": 12,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1vwgnnd/anyone_else_stuck_manually_tracking_whos_using/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-08-26"
+    },
+    "1vv9kbh": {
+      "title": "Did weekly limits really stayed the same",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1787396937,
+      "score": 2,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1vv9kbh/did_weekly_limits_really_stayed_the_same/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-26"
+    },
+    "1vtq0hq": {
+      "title": "Random Theory",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1787247000,
+      "score": 7,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1vtq0hq/random_theory/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-26"
+    },
+    "1vyi0l6": {
+      "title": "Codex Usage Limit",
+      "subreddit": "OpenAI",
+      "created_utc": 1787705296,
+      "score": 1,
+      "url": "https://reddit.com/r/OpenAI/comments/1vyi0l6/codex_usage_limit/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-26"
+    },
+    "1vyi1a9": {
+      "title": "[+plan] 30% of 5h quota in one request & 6mn of codex work ...",
+      "subreddit": "OpenAI",
+      "created_utc": 1787705346,
+      "score": 1,
+      "url": "https://reddit.com/r/OpenAI/comments/1vyi1a9/plan_30_of_5h_quota_in_one_request_6mn_of_codex/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-08-26"
+    },
+    "1vxxk6p": {
+      "title": "If your AI coding limits are over for the day you still have options",
+      "subreddit": "vibecoding",
+      "created_utc": 1787658548,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1vxxk6p/if_your_ai_coding_limits_are_over_for_the_day_you/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-26"
+    },
+    "1vymrfi": {
+      "title": "The weekly quota has decreased since the 5H limit rollout",
+      "subreddit": "codex",
+      "created_utc": 1787718356,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vymrfi/the_weekly_quota_has_decreased_since_the_5h_limit/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-26"
+    },
+    "1vygort": {
+      "title": "The 5h limit is great news for Pro users",
+      "subreddit": "codex",
+      "created_utc": 1787701861,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vygort/the_5h_limit_is_great_news_for_pro_users/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-26"
+    },
+    "1vybboz": {
+      "title": "So 5h limit became sub feature instead",
+      "subreddit": "codex",
+      "created_utc": 1787689289,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vybboz/so_5h_limit_became_sub_feature_instead/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-26"
+    },
+    "1vy8a42": {
+      "title": "If the 5h limit is back for Plus, can Codex at least finish the task it’s already doing?",
+      "subreddit": "codex",
+      "created_utc": 1787682866,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vy8a42/if_the_5h_limit_is_back_for_plus_can_codex_at/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-08-26"
+    },
+    "1vy6pk6": {
+      "title": "Codex Plus limits are getting ridiculous — now hitting the 5h limit literally stops your work",
+      "subreddit": "codex",
+      "created_utc": 1787679590,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vy6pk6/codex_plus_limits_are_getting_ridiculous_now/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-08-26"
+    },
+    "1vy6175": {
+      "title": "5h limit",
+      "subreddit": "codex",
+      "created_utc": 1787678149,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vy6175/5h_limit/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-26"
+    },
+    "1vy5ec0": {
+      "title": "You should be more mad about the 5h limit returning (and be vocal about it)",
+      "subreddit": "codex",
+      "created_utc": 1787676815,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vy5ec0/you_should_be_more_mad_about_the_5h_limit/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-08-26"
+    },
+    "1vy4791": {
+      "title": "The 5h limit is back?",
+      "subreddit": "codex",
+      "created_utc": 1787674224,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vy4791/the_5h_limit_is_back/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-08-26"
+    },
+    "1vy1vb0": {
+      "title": "They can't be serious with the 5h limit?",
+      "subreddit": "codex",
+      "created_utc": 1787669108,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vy1vb0/they_cant_be_serious_with_the_5h_limit/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-26"
+    },
+    "1vy1jlw": {
+      "title": "OH no 5h limit is back!",
+      "subreddit": "codex",
+      "created_utc": 1787668360,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vy1jlw/oh_no_5h_limit_is_back/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-26"
+    },
+    "1vy1b9f": {
+      "title": "5h limit is back",
+      "subreddit": "codex",
+      "created_utc": 1787667831,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vy1b9f/5h_limit_is_back/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-26"
+    },
+    "1vy178r": {
+      "title": "5h limit is here and we got a weekly reset.",
+      "subreddit": "codex",
+      "created_utc": 1787667586,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vy178r/5h_limit_is_here_and_we_got_a_weekly_reset/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-26"
+    },
+    "1vy130o": {
+      "title": "5h limit is back :(",
+      "subreddit": "codex",
+      "created_utc": 1787667315,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vy130o/5h_limit_is_back/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-26"
+    },
+    "1vxspyd": {
+      "title": "Make 5h more limit more flexible",
+      "subreddit": "codex",
+      "created_utc": 1787642263,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vxspyd/make_5h_more_limit_more_flexible/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 2,
+      "fetched_date": "2026-08-26"
+    },
+    "1vxlvtd": {
+      "title": "5H limit back from tomorrow for Plus subs...",
+      "subreddit": "codex",
+      "created_utc": 1787621218,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vxlvtd/5h_limit_back_from_tomorrow_for_plus_subs/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-26"
+    },
+    "1vxb8qo": {
+      "title": "How do I see 5h limit in statusline for CLI?",
+      "subreddit": "codex",
+      "created_utc": 1787596410,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vxb8qo/how_do_i_see_5h_limit_in_statusline_for_cli/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-26"
+    },
+    "1vtss79": {
+      "title": "They just renamed the 5h limit to \"weekly\". We should unsubscribe.",
+      "subreddit": "codex",
+      "created_utc": 1787252772,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vtss79/they_just_renamed_the_5h_limit_to_weekly_we/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-26"
+    },
+    "1vyj5lm": {
+      "title": "Codex or claude code",
+      "subreddit": "codex",
+      "created_utc": 1787708371,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vyj5lm/codex_or_claude_code/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-26"
+    },
+    "1vyj4ap": {
+      "title": "The 5-hour limit is back. Stop wasting Codex quota on work ChatGPT can already do.",
+      "subreddit": "codex",
+      "created_utc": 1787708270,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vyj4ap/the_5hour_limit_is_back_stop_wasting_codex_quota/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-26"
+    },
+    "1vybppl": {
+      "title": "Codex downgrade?!",
+      "subreddit": "codex",
+      "created_utc": 1787690097,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vybppl/codex_downgrade/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-08-26"
+    },
+    "1vy6tkm": {
+      "title": "Why they REALLY brought back 5h limits for Plus",
+      "subreddit": "codex",
+      "created_utc": 1787679824,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vy6tkm/why_they_really_brought_back_5h_limits_for_plus/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-08-26"
+    },
+    "1vy3yhu": {
+      "title": "5 Hour limits are back (for plus users)",
+      "subreddit": "codex",
+      "created_utc": 1787673711,
+      "score": 2,
+      "url": "https://reddit.com/r/codex/comments/1vy3yhu/5_hour_limits_are_back_for_plus_users/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-26"
+    },
+    "1vy3rdz": {
+      "title": "Petition to make everyone happy",
+      "subreddit": "codex",
+      "created_utc": 1787673305,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vy3rdz/petition_to_make_everyone_happy/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-26"
+    },
+    "1vy1aiu": {
+      "title": "Made my Codex limits last ~60% longer by offloading search to Luna",
+      "subreddit": "codex",
+      "created_utc": 1787667788,
+      "score": 2,
+      "url": "https://reddit.com/r/codex/comments/1vy1aiu/made_my_codex_limits_last_60_longer_by_offloading/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-26"
+    },
+    "1vxu5er": {
+      "title": "The 5h limits are not guardrails to help the user",
+      "subreddit": "codex",
+      "created_utc": 1787647463,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vxu5er/the_5h_limits_are_not_guardrails_to_help_the_user/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-08-26"
+    },
+    "1vxszoy": {
+      "title": "Suggestion: Throttle to 'Slow mode' instead of hard locking - (A lot of people already thought about it):",
+      "subreddit": "codex",
+      "created_utc": 1787643242,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vxszoy/suggestion_throttle_to_slow_mode_instead_of_hard/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 9,
+      "fetched_date": "2026-08-26"
     }
   }
 }
