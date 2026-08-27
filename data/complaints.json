@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-08-26T07:05:04.365131+00:00",
-    "total_posts_analyzed": 11278,
-    "total_complaints": 3161
+    "last_updated": "2026-08-27T17:36:56.220390+00:00",
+    "total_posts_analyzed": 11315,
+    "total_complaints": 3171
   },
   "posts": {
     "1sg1yvw": {
@@ -38586,6 +38586,127 @@
       ],
       "complaint_score": 9,
       "fetched_date": "2026-08-26"
+    },
+    "1vwwfq3": {
+      "title": "I kept adding parallel agents until my Mac shut down from heat. The bottleneck moved down a layer every time I fixed it.",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1787558556,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1vwwfq3/i_kept_adding_parallel_agents_until_my_mac_shut/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-08-27"
+    },
+    "1vzlkr8": {
+      "title": "Claude Code running past usage limit",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1787810401,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1vzlkr8/claude_code_running_past_usage_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-27"
+    },
+    "1vyxzuj": {
+      "title": "Am I \"seeing things\" or is Claude changing things for free users? The other day, I just got started and reached my limit. Today, in the upper-right-hand of the page, I see a percentage of usage for the day (and I'm almost out). Is this new?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1787752948,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1vyxzuj/am_i_seeing_things_or_is_claude_changing_things/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-27"
+    },
+    "1vywrey": {
+      "title": "Unbelievable - consumed the 5 jour Claude plan usage limit in 37 min by using claude -p …",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1787750023,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1vywrey/unbelievable_consumed_the_5_jour_claude_plan/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-27"
+    },
+    "1vy0tzf": {
+      "title": "Reaching usage limit quicker on Android Studio than VS Code, despite using lower models: any advice?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1787666741,
+      "score": 4,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1vy0tzf/reaching_usage_limit_quicker_on_android_studio/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-08-27"
+    },
+    "1vym02e": {
+      "title": "One prompt .. 499 Agent , 26M Token and the MAX 20X plan 5 hours limit finished in one hour (but deserved it)",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1787716147,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1vym02e/one_prompt_499_agent_26m_token_and_the_max_20x/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-27"
+    },
+    "1vyaq77": {
+      "title": "Is Sonnet actually good enough for Claude Code, or do you mostly stick with Opus?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1787688043,
+      "score": 45,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1vyaq77/is_sonnet_actually_good_enough_for_claude_code_or/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-27"
+    },
+    "1vxf63d": {
+      "title": "I built session-migrate to help you migrate a Claude Code session into Codex, Pi, OpenCode, or Copilot CLI",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1787604808,
+      "score": 3,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1vxf63d/i_built_sessionmigrate_to_help_you_migrate_a/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-27"
+    },
+    "1vzvg06": {
+      "title": "Confused about rate limits and modes",
+      "subreddit": "ChatGPT",
+      "created_utc": 1787840677,
+      "score": 1,
+      "url": "https://reddit.com/r/ChatGPT/comments/1vzvg06/confused_about_rate_limits_and_modes/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-27"
+    },
+    "1vwrpe6": {
+      "title": "ChatGPT Pro advertises \"unlimited\" image generation. It is not unlimited.",
+      "subreddit": "ChatGPT",
+      "created_utc": 1787542651,
+      "score": 385,
+      "url": "https://reddit.com/r/ChatGPT/comments/1vwrpe6/chatgpt_pro_advertises_unlimited_image_generation/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-27"
     }
   }
 }
