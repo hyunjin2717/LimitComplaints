@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-08-27T17:36:56.220390+00:00",
-    "total_posts_analyzed": 11315,
-    "total_complaints": 3171
+    "last_updated": "2026-08-28T18:31:21.340388+00:00",
+    "total_posts_analyzed": 11354,
+    "total_complaints": 3185
   },
   "posts": {
     "1sg1yvw": {
@@ -38707,6 +38707,175 @@
       ],
       "complaint_score": 4,
       "fetched_date": "2026-08-27"
+    },
+    "1vz94gi": {
+      "title": "Wondering about weekly limits",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1787776816,
+      "score": 4,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1vz94gi/wondering_about_weekly_limits/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-28"
+    },
+    "1w0utap": {
+      "title": "Alternatives to the ChatGPT Plus and Opencode subs. My model and price comparison.",
+      "subreddit": "OpenAI",
+      "created_utc": 1787933323,
+      "score": 1,
+      "url": "https://reddit.com/r/OpenAI/comments/1w0utap/alternatives_to_the_chatgpt_plus_and_opencode/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-08-28"
+    },
+    "1w0a84p": {
+      "title": "Luna Max really is great!",
+      "subreddit": "OpenAI",
+      "created_utc": 1787873630,
+      "score": 1,
+      "url": "https://reddit.com/r/OpenAI/comments/1w0a84p/luna_max_really_is_great/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-08-28"
+    },
+    "1vzx5bx": {
+      "title": "I’d rather get 2–5% less Codex usage if it meant my last request always finished",
+      "subreddit": "OpenAI",
+      "created_utc": 1787844430,
+      "score": 1,
+      "url": "https://reddit.com/r/OpenAI/comments/1vzx5bx/id_rather_get_25_less_codex_usage_if_it_meant_my/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-28"
+    },
+    "1vzsvc6": {
+      "title": "i stopped complaining about the usage cap and just got a mac mini for the boring stuff",
+      "subreddit": "OpenAI",
+      "created_utc": 1787834480,
+      "score": 1,
+      "url": "https://reddit.com/r/OpenAI/comments/1vzsvc6/i_stopped_complaining_about_the_usage_cap_and/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-08-28"
+    },
+    "1vz1934": {
+      "title": "The 5 hour limit is ridiculous, and they definitely lowered the usage limits for Plus.",
+      "subreddit": "OpenAI",
+      "created_utc": 1787760179,
+      "score": 177,
+      "url": "https://reddit.com/r/OpenAI/comments/1vz1934/the_5_hour_limit_is_ridiculous_and_they/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-08-28"
+    },
+    "1vz14nk": {
+      "title": "Anybody else have their workflow completely wrecked by the new 5-hour limitations?",
+      "subreddit": "OpenAI",
+      "created_utc": 1787759925,
+      "score": 0,
+      "url": "https://reddit.com/r/OpenAI/comments/1vz14nk/anybody_else_have_their_workflow_completely/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-08-28"
+    },
+    "1vyqcci": {
+      "title": "5 hour usage limit",
+      "subreddit": "OpenAI",
+      "created_utc": 1787730155,
+      "score": 6,
+      "url": "https://reddit.com/r/OpenAI/comments/1vyqcci/5_hour_usage_limit/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-08-28"
+    },
+    "1vyi24j": {
+      "title": "What’s going on with random resets?",
+      "subreddit": "OpenAI",
+      "created_utc": 1787705408,
+      "score": 6,
+      "url": "https://reddit.com/r/OpenAI/comments/1vyi24j/whats_going_on_with_random_resets/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-28"
+    },
+    "1w0vj4s": {
+      "title": "Text-Only Chat is Triggering Attachment Limits 🤨",
+      "subreddit": "ChatGPT",
+      "created_utc": 1787934914,
+      "score": 1,
+      "url": "https://reddit.com/r/ChatGPT/comments/1w0vj4s/textonly_chat_is_triggering_attachment_limits/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-28"
+    },
+    "1vyfox4": {
+      "title": "429 Too Many Requests? You guys get that too?",
+      "subreddit": "codex",
+      "created_utc": 1787699342,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1vyfox4/429_too_many_requests_you_guys_get_that_too/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-08-28"
+    },
+    "1vx2ypp": {
+      "title": "Too many requests",
+      "subreddit": "codex",
+      "created_utc": 1787578381,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vx2ypp/too_many_requests/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-28"
+    },
+    "1vutwgr": {
+      "title": "Has anyone gotten banned for making too many requests too quickly?",
+      "subreddit": "codex",
+      "created_utc": 1787349327,
+      "score": 2,
+      "url": "https://reddit.com/r/codex/comments/1vutwgr/has_anyone_gotten_banned_for_making_too_many/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-28"
+    },
+    "1vwzto9": {
+      "title": "Am I not using AI enough?",
+      "subreddit": "artificial",
+      "created_utc": 1787569981,
+      "score": 3,
+      "url": "https://reddit.com/r/artificial/comments/1vwzto9/am_i_not_using_ai_enough/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-28"
     }
   }
 }
