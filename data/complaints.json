@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-08-28T18:31:21.340388+00:00",
-    "total_posts_analyzed": 11354,
-    "total_complaints": 3185
+    "last_updated": "2026-08-29T12:40:46.543113+00:00",
+    "total_posts_analyzed": 11421,
+    "total_complaints": 3212
   },
   "posts": {
     "1sg1yvw": {
@@ -38876,6 +38876,330 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-08-28"
+    },
+    "1w1c51c": {
+      "title": "Weekly limit doesn't scale 5x on Max compared to pro?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1787976236,
+      "score": 6,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1w1c51c/weekly_limit_doesnt_scale_5x_on_max_compared_to/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-08-29"
+    },
+    "1w06a7b": {
+      "title": "How I got my Mac to read my Claude Code chats at night and extend my token usage by 1/3rd",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1787864240,
+      "score": 154,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1w06a7b/how_i_got_my_mac_to_read_my_claude_code_chats_at/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-29"
+    },
+    "1vzot8j": {
+      "title": "Wednesday night you should be at 51%. A pacing chart for the weekly limit.",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1787821871,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1vzot8j/wednesday_night_you_should_be_at_51_a_pacing/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-08-29"
+    },
+    "1vyzox9": {
+      "title": "Claude Team plan vs multiple individual accounts, is Team actually worth it?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1787756782,
+      "score": 4,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1vyzox9/claude_team_plan_vs_multiple_individual_accounts/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-29"
+    },
+    "1w0q8m5": {
+      "title": "1 prompt with Opus LIGHT takes up like 5-10% of my 5h limit, what's going on",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1787922764,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1w0q8m5/1_prompt_with_opus_light_takes_up_like_510_of_my/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-08-29"
+    },
+    "1w0j2yx": {
+      "title": "Anthropic, your new weekly limits are silently killing the product for regular users — bring back the old quota",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1787899777,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1w0j2yx/anthropic_your_new_weekly_limits_are_silently/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-08-29"
+    },
+    "1w1civl": {
+      "title": "Has the quota for ChatGPT become more restrictive?",
+      "subreddit": "ChatGPT",
+      "created_utc": 1787977412,
+      "score": 5,
+      "url": "https://reddit.com/r/ChatGPT/comments/1w1civl/has_the_quota_for_chatgpt_become_more_restrictive/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-08-29"
+    },
+    "1w0rwn2": {
+      "title": "5 minutes work with Terra took 20% of my usage limit",
+      "subreddit": "codex",
+      "created_utc": 1787926765,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1w0rwn2/5_minutes_work_with_terra_took_20_of_my_usage/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-08-29"
+    },
+    "1vzv8jp": {
+      "title": "Task stopping midway because of 5h limit window is very unnecessary imo, just take the usage of the weekly usage and let the task finish.",
+      "subreddit": "codex",
+      "created_utc": 1787840202,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vzv8jp/task_stopping_midway_because_of_5h_limit_window/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-29"
+    },
+    "1vzqgcy": {
+      "title": "No weekly usage limit showing, and can't use Sol. Sol is gone only Terra and Luna",
+      "subreddit": "codex",
+      "created_utc": 1787827502,
+      "score": 2,
+      "url": "https://reddit.com/r/codex/comments/1vzqgcy/no_weekly_usage_limit_showing_and_cant_use_sol/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-08-29"
+    },
+    "1vzpij9": {
+      "title": "Neatlessly continuing a subagent run that exeeds the usage limit",
+      "subreddit": "codex",
+      "created_utc": 1787824357,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vzpij9/neatlessly_continuing_a_subagent_run_that_exeeds/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-29"
+    },
+    "1vzlq0l": {
+      "title": "guys we need to do something about 5hour usage limit",
+      "subreddit": "codex",
+      "created_utc": 1787810900,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vzlq0l/guys_we_need_to_do_something_about_5hour_usage/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-29"
+    },
+    "1vzhane": {
+      "title": "When the usage limit for the week runs out during a long task...",
+      "subreddit": "codex",
+      "created_utc": 1787797310,
+      "score": 4,
+      "url": "https://reddit.com/r/codex/comments/1vzhane/when_the_usage_limit_for_the_week_runs_out_during/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-29"
+    },
+    "1vyvk5c": {
+      "title": "Isn't the 5 hour limit consuming the usage faster on xHigh ?",
+      "subreddit": "codex",
+      "created_utc": 1787746976,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1vyvk5c/isnt_the_5_hour_limit_consuming_the_usage_faster/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-29"
+    },
+    "1vyar3d": {
+      "title": "Codex context compaction shouldn’t count against the 5-hour usage limit",
+      "subreddit": "codex",
+      "created_utc": 1787688090,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1vyar3d/codex_context_compaction_shouldnt_count_against/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-08-29"
+    },
+    "1vy8rxb": {
+      "title": "Father Tibo has once again blessed my eyes as I open my usage limit this morning",
+      "subreddit": "codex",
+      "created_utc": 1787683920,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1vy8rxb/father_tibo_has_once_again_blessed_my_eyes_as_i/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-29"
+    },
+    "1vy56bp": {
+      "title": "Now Codex stops when 5hr usage limit is reached",
+      "subreddit": "codex",
+      "created_utc": 1787676342,
+      "score": 46,
+      "url": "https://reddit.com/r/codex/comments/1vy56bp/now_codex_stops_when_5hr_usage_limit_is_reached/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-29"
+    },
+    "1vwz6yy": {
+      "title": "The reset was supposed to \"fix\" the usage limit \"bugs\"",
+      "subreddit": "codex",
+      "created_utc": 1787568101,
+      "score": 54,
+      "url": "https://reddit.com/r/codex/comments/1vwz6yy/the_reset_was_supposed_to_fix_the_usage_limit_bugs/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-29"
+    },
+    "1vwxtgn": {
+      "title": "I Have Proof That OpenAI Changed Something on Their End Before Usage Limit Was Reset",
+      "subreddit": "codex",
+      "created_utc": 1787563524,
+      "score": 145,
+      "url": "https://reddit.com/r/codex/comments/1vwxtgn/i_have_proof_that_openai_changed_something_on/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-29"
+    },
+    "1vyquws": {
+      "title": "IF your quota is draining: mine has always been actual token burn",
+      "subreddit": "codex",
+      "created_utc": 1787731986,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vyquws/if_your_quota_is_draining_mine_has_always_been/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-08-29"
+    },
+    "1w1gaad": {
+      "title": "The 5 hour limit has become predatory, and isn't even the same as before at all.",
+      "subreddit": "codex",
+      "created_utc": 1787989823,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1w1gaad/the_5_hour_limit_has_become_predatory_and_isnt/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-08-29"
+    },
+    "1w1fl86": {
+      "title": "5 hour limits is just BS with fast mode on",
+      "subreddit": "codex",
+      "created_utc": 1787987376,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1w1fl86/5_hour_limits_is_just_bs_with_fast_mode_on/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-29"
+    },
+    "1vz0rxg": {
+      "title": "Any ways to better manage multiple accounts?",
+      "subreddit": "codex",
+      "created_utc": 1787759172,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1vz0rxg/any_ways_to_better_manage_multiple_accounts/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-08-29"
+    },
+    "1vyz8lp": {
+      "title": "Codex - say 'hi' to Luna :)",
+      "subreddit": "codex",
+      "created_utc": 1787755790,
+      "score": 8,
+      "url": "https://reddit.com/r/codex/comments/1vyz8lp/codex_say_hi_to_luna/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-29"
+    },
+    "1vysedk": {
+      "title": "5-hour limit is back. And I'm sad.",
+      "subreddit": "codex",
+      "created_utc": 1787737359,
+      "score": 97,
+      "url": "https://reddit.com/r/codex/comments/1vysedk/5hour_limit_is_back_and_im_sad/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-08-29"
+    },
+    "1vypnd6": {
+      "title": "Plus Plan 5h limit should work beyond if if weekly limit is available.",
+      "subreddit": "codex",
+      "created_utc": 1787727720,
+      "score": 77,
+      "url": "https://reddit.com/r/codex/comments/1vypnd6/plus_plan_5h_limit_should_work_beyond_if_if/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 9,
+      "fetched_date": "2026-08-29"
+    },
+    "1w1iu3k": {
+      "title": "I made a mistake. The weekly quota wasn't cut in half—it actually dropped by 82% (a 5.6-fold decrease)",
+      "subreddit": "codex",
+      "created_utc": 1787998823,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1w1iu3k/i_made_a_mistake_the_weekly_quota_wasnt_cut_in/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-29"
     }
   }
 }
