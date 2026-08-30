@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-08-29T12:40:46.543113+00:00",
-    "total_posts_analyzed": 11421,
-    "total_complaints": 3212
+    "last_updated": "2026-08-30T11:40:53.008337+00:00",
+    "total_posts_analyzed": 11548,
+    "total_complaints": 3275
   },
   "posts": {
     "1sg1yvw": {
@@ -39200,6 +39200,778 @@
       ],
       "complaint_score": 4,
       "fetched_date": "2026-08-29"
+    },
+    "1w13f1z": {
+      "title": "Has anyone run into this? Says I'm currently using Opus 5 extra usage credits, but I have my whole 5 hour session left and 50% of my weekly limit!",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1787952493,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1w13f1z/has_anyone_run_into_this_says_im_currently_using/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-08-30"
+    },
+    "1w0tnj6": {
+      "title": "I use claude to help with worldbuilding, I do it all myself but Claude is super helpful for getting ideas out, I just have one issue... Why does my usage limit keep disappearing so fast?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1787930745,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1w0tnj6/i_use_claude_to_help_with_worldbuilding_i_do_it/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-08-30"
+    },
+    "1w0ll10": {
+      "title": "Free tier users can now see their limit usage?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1787908785,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1w0ll10/free_tier_users_can_now_see_their_limit_usage/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-08-30"
+    },
+    "1w0g4tr": {
+      "title": "It would be great if max x20 allowed for unlimited low-priority usage even after the weekly usage limit has been reached.",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1787890034,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1w0g4tr/it_would_be_great_if_max_x20_allowed_for/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-30"
+    },
+    "1w0y2gu": {
+      "title": "If I hit my weekly limit on the 5x plan, does upgrading to 20x increase/reset the limit?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1787940462,
+      "score": 8,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1w0y2gu/if_i_hit_my_weekly_limit_on_the_5x_plan_does/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-30"
+    },
+    "1w0uoa2": {
+      "title": "why is my claude stupid? or am i using it wrong",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1787933011,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1w0uoa2/why_is_my_claude_stupid_or_am_i_using_it_wrong/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-30"
+    },
+    "1w0khei": {
+      "title": "Claude says my weekly limit is 50% higher, yet I am using it less and running out sooner",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1787904853,
+      "score": 2,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1w0khei/claude_says_my_weekly_limit_is_50_higher_yet_i_am/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-08-30"
+    },
+    "1vz7ph8": {
+      "title": "Wtf is this junk, I paid for chatgpt plus $20 a month and I tried using work for the first time, it thought for 20 minutes, then didn't give me a response and said I big my usage limit",
+      "subreddit": "ChatGPT",
+      "created_utc": 1787773769,
+      "score": 6,
+      "url": "https://reddit.com/r/ChatGPT/comments/1vz7ph8/wtf_is_this_junk_i_paid_for_chatgpt_plus_20_a/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-08-30"
+    },
+    "1vz6tr0": {
+      "title": "Just hit the 5h usage limit ?",
+      "subreddit": "ChatGPT",
+      "created_utc": 1787771932,
+      "score": 1,
+      "url": "https://reddit.com/r/ChatGPT/comments/1vz6tr0/just_hit_the_5h_usage_limit/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-30"
+    },
+    "1vyta07": {
+      "title": "5 HOUR USAGE LIMIT NEEDS TO GO! ASAP!!!",
+      "subreddit": "ChatGPT",
+      "created_utc": 1787740236,
+      "score": 0,
+      "url": "https://reddit.com/r/ChatGPT/comments/1vyta07/5_hour_usage_limit_needs_to_go_asap/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 10,
+      "fetched_date": "2026-08-30"
+    },
+    "1vyrm97": {
+      "title": "ChatGPT Plus Now Showing a 5-Hour Usage Limit?",
+      "subreddit": "ChatGPT",
+      "created_utc": 1787734717,
+      "score": 0,
+      "url": "https://reddit.com/r/ChatGPT/comments/1vyrm97/chatgpt_plus_now_showing_a_5hour_usage_limit/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-30"
+    },
+    "1vx6ov0": {
+      "title": "I don't like the weekly usage limit.",
+      "subreddit": "ChatGPT",
+      "created_utc": 1787586807,
+      "score": 0,
+      "url": "https://reddit.com/r/ChatGPT/comments/1vx6ov0/i_dont_like_the_weekly_usage_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-30"
+    },
+    "1vwrgve": {
+      "title": "ChatGPT usage limit has gotten worse?",
+      "subreddit": "ChatGPT",
+      "created_utc": 1787541924,
+      "score": 0,
+      "url": "https://reddit.com/r/ChatGPT/comments/1vwrgve/chatgpt_usage_limit_has_gotten_worse/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 9,
+      "fetched_date": "2026-08-30"
+    },
+    "1w0i48j": {
+      "title": "Alternative to ChatGPT work?",
+      "subreddit": "ChatGPT",
+      "created_utc": 1787896429,
+      "score": 16,
+      "url": "https://reddit.com/r/ChatGPT/comments/1w0i48j/alternative_to_chatgpt_work/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-30"
+    },
+    "1w02dm6": {
+      "title": "5-hour limit punishing responsible users who never blew their weekly quota in the first place",
+      "subreddit": "ChatGPT",
+      "created_utc": 1787855774,
+      "score": 2,
+      "url": "https://reddit.com/r/ChatGPT/comments/1w02dm6/5hour_limit_punishing_responsible_users_who_never/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-08-30"
+    },
+    "1vz4a0l": {
+      "title": "The 5 hour limit genuinely killed my motivation to work",
+      "subreddit": "ChatGPT",
+      "created_utc": 1787766590,
+      "score": 1,
+      "url": "https://reddit.com/r/ChatGPT/comments/1vz4a0l/the_5_hour_limit_genuinely_killed_my_motivation/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-30"
+    },
+    "1vyuer7": {
+      "title": "How do you decide what model to use?",
+      "subreddit": "ChatGPT",
+      "created_utc": 1787743738,
+      "score": 2,
+      "url": "https://reddit.com/r/ChatGPT/comments/1vyuer7/how_do_you_decide_what_model_to_use/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-08-30"
+    },
+    "1vylro2": {
+      "title": "WTF is wrong with ChatGPT's Usage Limits?",
+      "subreddit": "ChatGPT",
+      "created_utc": 1787715476,
+      "score": 3,
+      "url": "https://reddit.com/r/ChatGPT/comments/1vylro2/wtf_is_wrong_with_chatgpts_usage_limits/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-08-30"
+    },
+    "1vxzgwj": {
+      "title": "OpenAI brings back 5-hour Codex, Work cap for ChatGPT Plus",
+      "subreddit": "ChatGPT",
+      "created_utc": 1787663518,
+      "score": 17,
+      "url": "https://reddit.com/r/ChatGPT/comments/1vxzgwj/openai_brings_back_5hour_codex_work_cap_for/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-30"
+    },
+    "1vw32tq": {
+      "title": "GPT-5.6 Sol High is still silently falling back to 5.5-mini / Instant-quality responses — Day 3, no acknowledgment from OpenAI",
+      "subreddit": "ChatGPT",
+      "created_utc": 1787478982,
+      "score": 171,
+      "url": "https://reddit.com/r/ChatGPT/comments/1vw32tq/gpt56_sol_high_is_still_silently_falling_back_to/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-30"
+    },
+    "1vvq33h": {
+      "title": "Anyone know how OpenAI decides when you get one of these magical usage reset tickets? 😂",
+      "subreddit": "ChatGPT",
+      "created_utc": 1787438256,
+      "score": 3,
+      "url": "https://reddit.com/r/ChatGPT/comments/1vvq33h/anyone_know_how_openai_decides_when_you_get_one/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-30"
+    },
+    "1vyrzsl": {
+      "title": "The new 5h limit made using Sol irrelevant for plus sub",
+      "subreddit": "ChatGPT",
+      "created_utc": 1787735976,
+      "score": 5,
+      "url": "https://reddit.com/r/ChatGPT/comments/1vyrzsl/the_new_5h_limit_made_using_sol_irrelevant_for/",
+      "models": [
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-30"
+    },
+    "1w1xpm2": {
+      "title": "Tibo on usage limit for upcoming reset",
+      "subreddit": "codex",
+      "created_utc": 1788036725,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1w1xpm2/tibo_on_usage_limit_for_upcoming_reset/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-30"
+    },
+    "1w1wddb": {
+      "title": "Codex VS Code Extension - Usage limit gone?",
+      "subreddit": "codex",
+      "created_utc": 1788033552,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1w1wddb/codex_vs_code_extension_usage_limit_gone/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-30"
+    },
+    "1w2dbml": {
+      "title": "No 5h limit for my plus plan.",
+      "subreddit": "codex",
+      "created_utc": 1788083506,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1w2dbml/no_5h_limit_for_my_plus_plan/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-30"
+    },
+    "1w2budc": {
+      "title": "Plus users never asked for this much, do u agree?",
+      "subreddit": "codex",
+      "created_utc": 1788078327,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1w2budc/plus_users_never_asked_for_this_much_do_u_agree/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-08-30"
+    },
+    "1w2bq7f": {
+      "title": "If you whined to get the 5hour back, we're not friends 🫡",
+      "subreddit": "codex",
+      "created_utc": 1788077927,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1w2bq7f/if_you_whined_to_get_the_5hour_back_were_not/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-30"
+    },
+    "1w221xl": {
+      "title": "What the literally f",
+      "subreddit": "codex",
+      "created_utc": 1788047889,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1w221xl/what_the_literally_f/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-30"
+    },
+    "1w1tq8t": {
+      "title": "Codex weekly limits penalise you for not using them immediately",
+      "subreddit": "codex",
+      "created_utc": 1788027364,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1w1tq8t/codex_weekly_limits_penalise_you_for_not_using/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-08-30"
+    },
+    "1w1r2ld": {
+      "title": "Credit usage should not be automatic",
+      "subreddit": "codex",
+      "created_utc": 1788021069,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1w1r2ld/credit_usage_should_not_be_automatic/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-30"
+    },
+    "1w1ox2l": {
+      "title": "150k context on Plus plan gives much less usage than 500k on Claude Pro?",
+      "subreddit": "codex",
+      "created_utc": 1788015932,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1w1ox2l/150k_context_on_plus_plan_gives_much_less_usage/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-30"
+    },
+    "1w1nk1c": {
+      "title": "Codex Plus 5-hour limit is ridiculous, I hit it in less than 25 minutes",
+      "subreddit": "codex",
+      "created_utc": 1788012590,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1w1nk1c/codex_plus_5hour_limit_is_ridiculous_i_hit_it_in/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-08-30"
+    },
+    "1w0l8m7": {
+      "title": "Weekly limit reduced in half as I used more , since last reset. With token number used by types!!",
+      "subreddit": "codex",
+      "created_utc": 1787907608,
+      "score": 40,
+      "url": "https://reddit.com/r/codex/comments/1w0l8m7/weekly_limit_reduced_in_half_as_i_used_more_since/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-08-30"
+    },
+    "1w0k4k4": {
+      "title": "Can we make 5hours limit and weekly limit , an option instead?",
+      "subreddit": "codex",
+      "created_utc": 1787903550,
+      "score": 2,
+      "url": "https://reddit.com/r/codex/comments/1w0k4k4/can_we_make_5hours_limit_and_weekly_limit_an/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-30"
+    },
+    "1w0hxll": {
+      "title": "Reset unpredictability is basically a text book B.F. Skinner experiment",
+      "subreddit": "codex",
+      "created_utc": 1787895783,
+      "score": 112,
+      "url": "https://reddit.com/r/codex/comments/1w0hxll/reset_unpredictability_is_basically_a_text_book/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-30"
+    },
+    "1w0f4lo": {
+      "title": "Weekly resets are completely fucking up my usage by pushing back the weekly reset clock.",
+      "subreddit": "codex",
+      "created_utc": 1787886985,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1w0f4lo/weekly_resets_are_completely_fucking_up_my_usage/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-30"
+    },
+    "1w044si": {
+      "title": "Dig his grave",
+      "subreddit": "codex",
+      "created_utc": 1787859584,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1w044si/dig_his_grave/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-30"
+    },
+    "1w03jb2": {
+      "title": "Codex Is Draining Usage Without Delivering Results",
+      "subreddit": "codex",
+      "created_utc": 1787858296,
+      "score": 2,
+      "url": "https://reddit.com/r/codex/comments/1w03jb2/codex_is_draining_usage_without_delivering_results/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-30"
+    },
+    "1vzz278": {
+      "title": "Tibo used his reset button",
+      "subreddit": "codex",
+      "created_utc": 1787848650,
+      "score": 4,
+      "url": "https://reddit.com/r/codex/comments/1vzz278/tibo_used_his_reset_button/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-30"
+    },
+    "1vzivo5": {
+      "title": "The $20 Codex plan is still enough for me. I separate thinking from editing.",
+      "subreddit": "codex",
+      "created_utc": 1787801779,
+      "score": 4,
+      "url": "https://reddit.com/r/codex/comments/1vzivo5/the_20_codex_plan_is_still_enough_for_me_i/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-30"
+    },
+    "1vzfwzm": {
+      "title": "What happened to the usage limits?",
+      "subreddit": "codex",
+      "created_utc": 1787793592,
+      "score": 21,
+      "url": "https://reddit.com/r/codex/comments/1vzfwzm/what_happened_to_the_usage_limits/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-30"
+    },
+    "1vz61h4": {
+      "title": "After 6 months, I think I’m cancelling my personal ChatGPT Plus",
+      "subreddit": "codex",
+      "created_utc": 1787770271,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vz61h4/after_6_months_i_think_im_cancelling_my_personal/",
+      "models": [
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-30"
+    },
+    "1vz4h4p": {
+      "title": "Codex has become borderline unusable",
+      "subreddit": "codex",
+      "created_utc": 1787767007,
+      "score": 5,
+      "url": "https://reddit.com/r/codex/comments/1vz4h4p/codex_has_become_borderline_unusable/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-08-30"
+    },
+    "1vyxk0p": {
+      "title": "I genuinely don't want to use Codex anymore (Plus plan)",
+      "subreddit": "codex",
+      "created_utc": 1787751913,
+      "score": 6,
+      "url": "https://reddit.com/r/codex/comments/1vyxk0p/i_genuinely_dont_want_to_use_codex_anymore_plus/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 2,
+      "fetched_date": "2026-08-30"
+    },
+    "1vyruoe": {
+      "title": "5hr limit is so bad",
+      "subreddit": "codex",
+      "created_utc": 1787735498,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vyruoe/5hr_limit_is_so_bad/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-08-30"
+    },
+    "1vyqd32": {
+      "title": "I don’t think bringing back the 5hr limit helps much with these load balancing issues.",
+      "subreddit": "codex",
+      "created_utc": 1787730228,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vyqd32/i_dont_think_bringing_back_the_5hr_limit_helps/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-30"
+    },
+    "1vypa08": {
+      "title": "Pet Usage Limits?",
+      "subreddit": "codex",
+      "created_utc": 1787726478,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1vypa08/pet_usage_limits/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-30"
+    },
+    "1vyhmek": {
+      "title": "First week Plus user experience",
+      "subreddit": "codex",
+      "created_utc": 1787704233,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vyhmek/first_week_plus_user_experience/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-08-30"
+    },
+    "1vybfi2": {
+      "title": "Codex $20 Plus is a joke compared to Claude Code ($20 tier)",
+      "subreddit": "codex",
+      "created_utc": 1787689497,
+      "score": 2,
+      "url": "https://reddit.com/r/codex/comments/1vybfi2/codex_20_plus_is_a_joke_compared_to_claude_code/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-30"
+    },
+    "1vyau1l": {
+      "title": "Newbie and confused. So is this the new norm?",
+      "subreddit": "codex",
+      "created_utc": 1787688262,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1vyau1l/newbie_and_confused_so_is_this_the_new_norm/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-08-30"
+    },
+    "1vya1vf": {
+      "title": "Plus User Experience: AUGUST 25TH",
+      "subreddit": "codex",
+      "created_utc": 1787686599,
+      "score": 3,
+      "url": "https://reddit.com/r/codex/comments/1vya1vf/plus_user_experience_august_25th/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-08-30"
+    },
+    "1vy46pr": {
+      "title": "I don't like to whine, but just this time",
+      "subreddit": "codex",
+      "created_utc": 1787674191,
+      "score": 87,
+      "url": "https://reddit.com/r/codex/comments/1vy46pr/i_dont_like_to_whine_but_just_this_time/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-30"
+    },
+    "1vy00lu": {
+      "title": "Am I on weekly or 5 hour? Plus user here",
+      "subreddit": "codex",
+      "created_utc": 1787664841,
+      "score": 2,
+      "url": "https://reddit.com/r/codex/comments/1vy00lu/am_i_on_weekly_or_5_hour_plus_user_here/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-30"
+    },
+    "1vxv7ql": {
+      "title": "Ranting limits without proof is the most useless vibecoder thing",
+      "subreddit": "codex",
+      "created_utc": 1787651212,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1vxv7ql/ranting_limits_without_proof_is_the_most_useless/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-30"
+    },
+    "1vxi8cy": {
+      "title": "New to Codex; First Impressed, then Disappointed. Need Help!",
+      "subreddit": "codex",
+      "created_utc": 1787611915,
+      "score": 2,
+      "url": "https://reddit.com/r/codex/comments/1vxi8cy/new_to_codex_first_impressed_then_disappointed/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-08-30"
+    },
+    "1vwzm2d": {
+      "title": "I have 2 accounts which both have just subscribed with the free 1 month promotion. Is this legal?",
+      "subreddit": "codex",
+      "created_utc": 1787569366,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1vwzm2d/i_have_2_accounts_which_both_have_just_subscribed/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-08-30"
+    },
+    "1vwxcy2": {
+      "title": "Most bang for the buck right now?",
+      "subreddit": "codex",
+      "created_utc": 1787561939,
+      "score": 2,
+      "url": "https://reddit.com/r/codex/comments/1vwxcy2/most_bang_for_the_buck_right_now/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-30"
+    },
+    "1vwwsnw": {
+      "title": "Im sorry but...",
+      "subreddit": "codex",
+      "created_utc": 1787559854,
+      "score": 6,
+      "url": "https://reddit.com/r/codex/comments/1vwwsnw/im_sorry_but/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-08-30"
+    },
+    "1vwnf82": {
+      "title": "Can't log into codex in xcode after paying to go from Plus to Pro",
+      "subreddit": "codex",
+      "created_utc": 1787530431,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vwnf82/cant_log_into_codex_in_xcode_after_paying_to_go/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-30"
+    },
+    "1vwcyz4": {
+      "title": "Suggestion: Reserving Usage",
+      "subreddit": "codex",
+      "created_utc": 1787505376,
+      "score": 2,
+      "url": "https://reddit.com/r/codex/comments/1vwcyz4/suggestion_reserving_usage/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-30"
+    },
+    "1vve82m": {
+      "title": "Usage tracking in your notification bar",
+      "subreddit": "codex",
+      "created_utc": 1787409745,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vve82m/usage_tracking_in_your_notification_bar/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-08-30"
+    },
+    "1vvbb17": {
+      "title": "Bypassing token limit bug",
+      "subreddit": "codex",
+      "created_utc": 1787402135,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1vvbb17/bypassing_token_limit_bug/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-08-30"
+    },
+    "1w25sq6": {
+      "title": "One 3-hour session ate 18% of my Kimi Code WEEKLY quota. Support says it's \"normal.\" So I audited Claude and Codex on the same machine - the numbers say otherwise.",
+      "subreddit": "artificial",
+      "created_utc": 1788058684,
+      "score": 1,
+      "url": "https://reddit.com/r/artificial/comments/1w25sq6/one_3hour_session_ate_18_of_my_kimi_code_weekly/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-08-30"
     }
   }
 }
