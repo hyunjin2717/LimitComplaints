@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-08-31T13:13:59.933918+00:00",
-    "total_posts_analyzed": 11571,
-    "total_complaints": 3275
+    "last_updated": "2026-09-01T11:28:49.206273+00:00",
+    "total_posts_analyzed": 11581,
+    "total_complaints": 3280
   },
   "posts": {
     "1sg1yvw": {
@@ -39972,6 +39972,70 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-08-30"
+    },
+    "1w47j7y": {
+      "title": "Currently on Claude Max $200 — Codex or Harness while I’m rate limited?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1788257084,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1w47j7y/currently_on_claude_max_200_codex_or_harness/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-09-01"
+    },
+    "1w1yqku": {
+      "title": "OpenAI is handing out Codex limit resets 2.5x faster than it did last year. I logged all 32",
+      "subreddit": "OpenAI",
+      "created_utc": 1788039257,
+      "score": 72,
+      "url": "https://reddit.com/r/OpenAI/comments/1w1yqku/openai_is_handing_out_codex_limit_resets_25x/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-01"
+    },
+    "1w2zjur": {
+      "title": "One 3-hour session ate 18% of my Kimi Code WEEKLY quota. Support says it's \"normal.\" So I audited Claude and Codex on the same machine - the numbers say otherwise.",
+      "subreddit": "LocalLLaMA",
+      "created_utc": 1788139879,
+      "score": 1,
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1w2zjur/one_3hour_session_ate_18_of_my_kimi_code_weekly/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-09-01"
+    },
+    "1w25r8e": {
+      "title": "One 3-hour session ate 18% of my Kimi Code WEEKLY quota. Support says it's \"normal.\" So I audited Claude and Codex on the same machine - the numbers say otherwise.",
+      "subreddit": "LocalLLaMA",
+      "created_utc": 1788058556,
+      "score": 0,
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1w25r8e/one_3hour_session_ate_18_of_my_kimi_code_weekly/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-01"
+    },
+    "1w1w5eb": {
+      "title": "One 3-hour session ate 18% of my Kimi Code WEEKLY quota. Support says it's \"normal.\" So I audited Claude and Codex on the same machine - the numbers say otherwise.",
+      "subreddit": "LocalLLaMA",
+      "created_utc": 1788033008,
+      "score": 1,
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1w1w5eb/one_3hour_session_ate_18_of_my_kimi_code_weekly/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-01"
     }
   }
 }
