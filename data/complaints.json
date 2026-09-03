@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-09-02T11:01:25.562700+00:00",
-    "total_posts_analyzed": 11589,
-    "total_complaints": 3284
+    "last_updated": "2026-09-03T11:02:39.648051+00:00",
+    "total_posts_analyzed": 11643,
+    "total_complaints": 3317
   },
   "posts": {
     "1sg1yvw": {
@@ -40085,6 +40085,405 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-09-02"
+    },
+    "1w3a5ce": {
+      "title": "Claude limits: switch or optimize?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1788173218,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1w3a5ce/claude_limits_switch_or_optimize/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-03"
+    },
+    "1w371xq": {
+      "title": "Why does Claude Code get stuck on tiny backend details instead of first building a rough, usable version of the whole app?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1788162870,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1w371xq/why_does_claude_code_get_stuck_on_tiny_backend/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-03"
+    },
+    "1w363of": {
+      "title": "Is the \"20x Pro limits\" claim on the Max plan actually 10x?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1788159667,
+      "score": 230,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1w363of/is_the_20x_pro_limits_claim_on_the_max_plan/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-03"
+    },
+    "1w4kthg": {
+      "title": "Appears we got a weekly quota reset?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1788287958,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1w4kthg/appears_we_got_a_weekly_quota_reset/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-03"
+    },
+    "1w25tlr": {
+      "title": "One 3-hour session ate 18% of my Kimi Code WEEKLY quota. Support says it's \"normal.\" So I audited Claude and Codex on the same machine - the numbers say otherwise.",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1788058759,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1w25tlr/one_3hour_session_ate_18_of_my_kimi_code_weekly/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-03"
+    },
+    "1w3u5q1": {
+      "title": "API rate limits constricted?",
+      "subreddit": "OpenAI",
+      "created_utc": 1788217312,
+      "score": 0,
+      "url": "https://reddit.com/r/OpenAI/comments/1w3u5q1/api_rate_limits_constricted/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-09-03"
+    },
+    "1w5ycvn": {
+      "title": "Agent Prompt Architecture skill.md",
+      "subreddit": "PromptEngineering",
+      "created_utc": 1788413430,
+      "score": 1,
+      "url": "https://reddit.com/r/PromptEngineering/comments/1w5ycvn/agent_prompt_architecture_skillmd/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-03"
+    },
+    "1w4jkul": {
+      "title": "Wow my 5h usage limit went from 18% to 0% in less than a minute",
+      "subreddit": "codex",
+      "created_utc": 1788285417,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1w4jkul/wow_my_5h_usage_limit_went_from_18_to_0_in_less/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-03"
+    },
+    "1w3vbum": {
+      "title": "5h limit gone for me on pro",
+      "subreddit": "codex",
+      "created_utc": 1788220116,
+      "score": 5,
+      "url": "https://reddit.com/r/codex/comments/1w3vbum/5h_limit_gone_for_me_on_pro/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-09-03"
+    },
+    "1w2wv58": {
+      "title": "5h limit, Luna Max",
+      "subreddit": "codex",
+      "created_utc": 1788132594,
+      "score": 2,
+      "url": "https://reddit.com/r/codex/comments/1w2wv58/5h_limit_luna_max/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-09-03"
+    },
+    "1w2uomw": {
+      "title": "For the abolition of the 5h limit",
+      "subreddit": "codex",
+      "created_utc": 1788127012,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1w2uomw/for_the_abolition_of_the_5h_limit/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-03"
+    },
+    "1w0vwps": {
+      "title": "Im joining in on the 5h limit rant.",
+      "subreddit": "codex",
+      "created_utc": 1787935754,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1w0vwps/im_joining_in_on_the_5h_limit_rant/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-09-03"
+    },
+    "1vzyfm2": {
+      "title": "The 5h limit is extremely low, and overal quota is burning much faster - gpt 5.6 sol",
+      "subreddit": "codex",
+      "created_utc": 1787847236,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vzyfm2/the_5h_limit_is_extremely_low_and_overal_quota_is/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-03"
+    },
+    "1vzqazk": {
+      "title": "fuck thsis 5h limit im out",
+      "subreddit": "codex",
+      "created_utc": 1787827019,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vzqazk/fuck_thsis_5h_limit_im_out/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-03"
+    },
+    "1vzntpe": {
+      "title": "Am I deluded or it feels like weekly limit is higher post 5h limit reinstatement?",
+      "subreddit": "codex",
+      "created_utc": 1787818287,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vzntpe/am_i_deluded_or_it_feels_like_weekly_limit_is/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-03"
+    },
+    "1vzlrgi": {
+      "title": "5h Limit - How we did not miss you.",
+      "subreddit": "codex",
+      "created_utc": 1787811039,
+      "score": 2,
+      "url": "https://reddit.com/r/codex/comments/1vzlrgi/5h_limit_how_we_did_not_miss_you/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-03"
+    },
+    "1vzelpg": {
+      "title": "One prompt RIP 5H limit",
+      "subreddit": "codex",
+      "created_utc": 1787790075,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1vzelpg/one_prompt_rip_5h_limit/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-03"
+    },
+    "1w614ff": {
+      "title": "What happened to the weekly reserve quota for GPT?",
+      "subreddit": "codex",
+      "created_utc": 1788423004,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1w614ff/what_happened_to_the_weekly_reserve_quota_for_gpt/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-09-03"
+    },
+    "1w5r7oi": {
+      "title": "Weekly quota suddenly disappearing after only 2–3 sessions — anyone else seeing this?",
+      "subreddit": "codex",
+      "created_utc": 1788392782,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1w5r7oi/weekly_quota_suddenly_disappearing_after_only_23/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-09-03"
+    },
+    "1w5gczx": {
+      "title": "Two separate Pro 20x accounts — one lasted ~2 days after the reset, the other burned 50% of its WEEKLY quota in ~8 hours. Is the usage bug still happening?",
+      "subreddit": "codex",
+      "created_utc": 1788368827,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1w5gczx/two_separate_pro_20x_accounts_one_lasted_2_days/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-09-03"
+    },
+    "1w42z7u": {
+      "title": "A wild journey of my weekly limit — the dynamic quota change goes both ways",
+      "subreddit": "codex",
+      "created_utc": 1788241570,
+      "score": 2,
+      "url": "https://reddit.com/r/codex/comments/1w42z7u/a_wild_journey_of_my_weekly_limit_the_dynamic/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-03"
+    },
+    "1w2inuu": {
+      "title": "When is the next reset already finished my weekly quota on PRO",
+      "subreddit": "codex",
+      "created_utc": 1788099177,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1w2inuu/when_is_the_next_reset_already_finished_my_weekly/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-03"
+    },
+    "1w2ead9": {
+      "title": "200$'s weekly quota used to run for 3-4 days continuosuly, now it runs 16 hours",
+      "subreddit": "codex",
+      "created_utc": 1788086760,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1w2ead9/200s_weekly_quota_used_to_run_for_34_days/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-03"
+    },
+    "1w2d25m": {
+      "title": "Weekly quota/reset change overnight without using Codex",
+      "subreddit": "codex",
+      "created_utc": 1788082581,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1w2d25m/weekly_quotareset_change_overnight_without_using/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-03"
+    },
+    "1w1po6z": {
+      "title": "16 Lines of Code Change, 30% 5h Quota, 5% Weekly Quota 5.6 Sol Medium.",
+      "subreddit": "codex",
+      "created_utc": 1788017724,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1w1po6z/16_lines_of_code_change_30_5h_quota_5_weekly/",
+      "models": [
+        "gemini"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-09-03"
+    },
+    "1w4otzy": {
+      "title": "CodexMenuBar — an open-source native macOS menu bar app for monitoring Codex usage limits",
+      "subreddit": "codex",
+      "created_utc": 1788295373,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1w4otzy/codexmenubar_an_opensource_native_macos_menu_bar/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-03"
+    },
+    "1w48ic1": {
+      "title": "Codex went crazy and spawned 400+ extra subagents",
+      "subreddit": "codex",
+      "created_utc": 1788260143,
+      "score": 4,
+      "url": "https://reddit.com/r/codex/comments/1w48ic1/codex_went_crazy_and_spawned_400_extra_subagents/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-03"
+    },
+    "1w46vd8": {
+      "title": "Sol lobotomized",
+      "subreddit": "codex",
+      "created_utc": 1788254913,
+      "score": 102,
+      "url": "https://reddit.com/r/codex/comments/1w46vd8/sol_lobotomized/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-03"
+    },
+    "1w2b9ro": {
+      "title": "I added a quota handoff guard to my Codex HUD so long tasks don't hit the wall unprepared",
+      "subreddit": "codex",
+      "created_utc": 1788076379,
+      "score": 9,
+      "url": "https://reddit.com/r/codex/comments/1w2b9ro/i_added_a_quota_handoff_guard_to_my_codex_hud_so/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-09-03"
+    },
+    "1w1y9k3": {
+      "title": "It reset again today, 7th in 30 days. Here's every shared reset since Sept 2025.",
+      "subreddit": "codex",
+      "created_utc": 1788038079,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1w1y9k3/it_reset_again_today_7th_in_30_days_heres_every/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-03"
+    },
+    "1w1ifk7": {
+      "title": "What a shit update!",
+      "subreddit": "codex",
+      "created_utc": 1787997445,
+      "score": 48,
+      "url": "https://reddit.com/r/codex/comments/1w1ifk7/what_a_shit_update/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-09-03"
+    },
+    "1w0xhea": {
+      "title": "New usage limits are awful",
+      "subreddit": "codex",
+      "created_utc": 1787939188,
+      "score": 3,
+      "url": "https://reddit.com/r/codex/comments/1w0xhea/new_usage_limits_are_awful/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-09-03"
+    },
+    "1w0ey6e": {
+      "title": "Weekly limit decreased by half or 5-hour limit doubled?",
+      "subreddit": "codex",
+      "created_utc": 1787886443,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1w0ey6e/weekly_limit_decreased_by_half_or_5hour_limit/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-03"
     }
   }
 }
