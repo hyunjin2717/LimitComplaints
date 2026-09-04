@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-09-03T11:02:39.648051+00:00",
-    "total_posts_analyzed": 11643,
-    "total_complaints": 3317
+    "last_updated": "2026-09-04T11:01:09.813465+00:00",
+    "total_posts_analyzed": 11673,
+    "total_complaints": 3332
   },
   "posts": {
     "1sg1yvw": {
@@ -40484,6 +40484,187 @@
       ],
       "complaint_score": 4,
       "fetched_date": "2026-09-03"
+    },
+    "1w6cy7b": {
+      "title": "Something IS wrong with usage, and I can prove it.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1788454283,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1w6cy7b/something_is_wrong_with_usage_and_i_can_prove_it/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-04"
+    },
+    "1w5m3rp": {
+      "title": "Probably found why Fable 5.1 eats the 5h limit",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1788380800,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1w5m3rp/probably_found_why_fable_51_eats_the_5h_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-09-04"
+    },
+    "1w46av4": {
+      "title": "Do subagents use up your Claude limits faster?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1788253021,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1w46av4/do_subagents_use_up_your_claude_limits_faster/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-04"
+    },
+    "1w57iey": {
+      "title": "Fable 5.1 is really fantastic, but it’s burning through the usage limit extremely fast!",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1788348054,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1w57iey/fable_51_is_really_fantastic_but_its_burning/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-09-04"
+    },
+    "1w542yy": {
+      "title": "New to Claude Code: hit my usage limit after ~5 minutes of installing Claude Code. What am I misunderstanding?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1788336529,
+      "score": 2,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1w542yy/new_to_claude_code_hit_my_usage_limit_after_5/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-04"
+    },
+    "1w4lmqr": {
+      "title": "Claude plan usage limit just reset again - 1st September 2026",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1788289547,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1w4lmqr/claude_plan_usage_limit_just_reset_again_1st/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-04"
+    },
+    "1w4j066": {
+      "title": "Does anyone optimize usage limit with scheduled tasks? How are you doing it?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1788284243,
+      "score": 2,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1w4j066/does_anyone_optimize_usage_limit_with_scheduled/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-04"
+    },
+    "1w437ql": {
+      "title": "It literally says 20x more usage than Pro, no asterisk, nothing. How can they be so scummy to only mean for the 5h limit not the weekly limit.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1788242373,
+      "score": 417,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1w437ql/it_literally_says_20x_more_usage_than_pro_no/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-04"
+    },
+    "1w3u322": {
+      "title": "CLAUDE 5X MAX USAGE LIMIT BUG — MY ENTIRE SESSION LIMIT IS BEING CONSUMED IN 10–15 MINUTES (x2) - AM I ALONE?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1788217151,
+      "score": 2,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1w3u322/claude_5x_max_usage_limit_bug_my_entire_session/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-09-04"
+    },
+    "1w280zx": {
+      "title": "Usage limit weird distribution",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1788065562,
+      "score": 3,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1w280zx/usage_limit_weird_distribution/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-04"
+    },
+    "1w6sy6b": {
+      "title": "Codex Couldn’t load usage limit resets",
+      "subreddit": "codex",
+      "created_utc": 1788492528,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1w6sy6b/codex_couldnt_load_usage_limit_resets/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-04"
+    },
+    "1w497jg": {
+      "title": "New Plus account doesn't have 5 hour usage limit",
+      "subreddit": "codex",
+      "created_utc": 1788262138,
+      "score": 106,
+      "url": "https://reddit.com/r/codex/comments/1w497jg/new_plus_account_doesnt_have_5_hour_usage_limit/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-04"
+    },
+    "1w3mxc7": {
+      "title": "Codex execution environment has hit its tool-usage limit",
+      "subreddit": "codex",
+      "created_utc": 1788201978,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1w3mxc7/codex_execution_environment_has_hit_its_toolusage/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-04"
+    },
+    "1w2n1zm": {
+      "title": "I redeemed a usage reset and I hit the usage limit in less than 20 minutes",
+      "subreddit": "codex",
+      "created_utc": 1788109482,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1w2n1zm/i_redeemed_a_usage_reset_and_i_hit_the_usage/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-04"
+    },
+    "1w2fuwn": {
+      "title": "Best Intelligence per usage limit (claude / cursor / codex) ?",
+      "subreddit": "codex",
+      "created_utc": 1788091689,
+      "score": 2,
+      "url": "https://reddit.com/r/codex/comments/1w2fuwn/best_intelligence_per_usage_limit_claude_cursor/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-04"
     }
   }
 }
