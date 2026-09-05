@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-09-04T11:01:09.813465+00:00",
-    "total_posts_analyzed": 11673,
-    "total_complaints": 3332
+    "last_updated": "2026-09-05T10:21:56.443045+00:00",
+    "total_posts_analyzed": 11678,
+    "total_complaints": 3333
   },
   "posts": {
     "1sg1yvw": {
@@ -40665,6 +40665,19 @@
       ],
       "complaint_score": 4,
       "fetched_date": "2026-09-04"
+    },
+    "1w4tadv": {
+      "title": "Anthropic really doesn’t seem to value its $20 subscribers anymore",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1788304805,
+      "score": 766,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1w4tadv/anthropic_really_doesnt_seem_to_value_its_20/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-05"
     }
   }
 }
