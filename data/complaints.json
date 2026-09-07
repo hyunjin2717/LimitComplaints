@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-09-06T10:42:02.848532+00:00",
-    "total_posts_analyzed": 11770,
-    "total_complaints": 3380
+    "last_updated": "2026-09-07T12:08:35.510808+00:00",
+    "total_posts_analyzed": 11814,
+    "total_complaints": 3398
   },
   "posts": {
     "1sg1yvw": {
@@ -41254,6 +41254,224 @@
       ],
       "complaint_score": 4,
       "fetched_date": "2026-09-06"
+    },
+    "1w8bqyz": {
+      "title": "200USD/Month Max plan: 1 query consumed 2 weeks of Fable 5.1 usage limit and still did not complete.",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1788640441,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1w8bqyz/200usdmonth_max_plan_1_query_consumed_2_weeks_of/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-09-07"
+    },
+    "1w8blaq": {
+      "title": "Weekly usage limit ??",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1788640062,
+      "score": 9,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1w8blaq/weekly_usage_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-07"
+    },
+    "1w7vd6v": {
+      "title": "I need some advice what am I doing wrong",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1788598284,
+      "score": 8,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1w7vd6v/i_need_some_advice_what_am_i_doing_wrong/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-07"
+    },
+    "1w7kph0": {
+      "title": "Wilson's Survival Guide for August 28-September 4, 2026 now available!",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1788565374,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1w7kph0/wilsons_survival_guide_for_august_28september_4/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-07"
+    },
+    "1w7hx6h": {
+      "title": "What happens to weekly usage limits when downgrading from Claude Max 20x to 5x mid-cycle?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1788558356,
+      "score": 3,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1w7hx6h/what_happens_to_weekly_usage_limits_when/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-09-07"
+    },
+    "1w7hr8x": {
+      "title": "Claude got usage limit reset",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1788557963,
+      "score": 302,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1w7hr8x/claude_got_usage_limit_reset/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-07"
+    },
+    "1w6lx6c": {
+      "title": "Going past 100% on my usage limit!?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1788473573,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1w6lx6c/going_past_100_on_my_usage_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-09-07"
+    },
+    "1w4x6w7": {
+      "title": "How do I really use this?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1788315032,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1w4x6w7/how_do_i_really_use_this/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-09-07"
+    },
+    "1w4sul5": {
+      "title": "Max 5x, $100/month. Current session: 100% used. Weekly limit: 9% used.",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1788303730,
+      "score": 9,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1w4sul5/max_5x_100month_current_session_100_used_weekly/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-09-07"
+    },
+    "1w9ahz5": {
+      "title": "Did Codex Get More Token-Hungry?",
+      "subreddit": "codex",
+      "created_utc": 1788734253,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1w9ahz5/did_codex_get_more_tokenhungry/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-09-07"
+    },
+    "1w96q3r": {
+      "title": "Usage limit roadmap - 5.5 to Astra experience",
+      "subreddit": "codex",
+      "created_utc": 1788725261,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1w96q3r/usage_limit_roadmap_55_to_astra_experience/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-07"
+    },
+    "1w92o2s": {
+      "title": "Recent Evidence-Based Codex Limit and Performance Issues",
+      "subreddit": "codex",
+      "created_utc": 1788716344,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1w92o2s/recent_evidencebased_codex_limit_and_performance/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-07"
+    },
+    "1w8vlnr": {
+      "title": "Astra appears to consume ~50% more subscription quota per API-equivalent dollar than Sol",
+      "subreddit": "codex",
+      "created_utc": 1788699682,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1w8vlnr/astra_appears_to_consume_50_more_subscription/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-09-07"
+    },
+    "1w8sn9o": {
+      "title": "I wish codex would automatically adjust model + effort for token optimisation",
+      "subreddit": "codex",
+      "created_utc": 1788690803,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1w8sn9o/i_wish_codex_would_automatically_adjust_model/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-07"
+    },
+    "1w8deqh": {
+      "title": "Astra is lazy.",
+      "subreddit": "codex",
+      "created_utc": 1788644457,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1w8deqh/astra_is_lazy/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-07"
+    },
+    "1w8cidm": {
+      "title": "Petition to remove the 5H rolling window on Plus.",
+      "subreddit": "codex",
+      "created_utc": 1788642261,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1w8cidm/petition_to_remove_the_5h_rolling_window_on_plus/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-07"
+    },
+    "1w81w6b": {
+      "title": "Did the usage limits get nerfed?",
+      "subreddit": "codex",
+      "created_utc": 1788617673,
+      "score": 2,
+      "url": "https://reddit.com/r/codex/comments/1w81w6b/did_the_usage_limits_get_nerfed/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-07"
+    },
+    "1w6bf16": {
+      "title": "Simple code review = Cyber threat",
+      "subreddit": "codex",
+      "created_utc": 1788451038,
+      "score": 5,
+      "url": "https://reddit.com/r/codex/comments/1w6bf16/simple_code_review_cyber_threat/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-07"
     }
   }
 }
