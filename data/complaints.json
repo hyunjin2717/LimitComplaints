@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-09-07T12:08:35.510808+00:00",
-    "total_posts_analyzed": 11814,
-    "total_complaints": 3398
+    "last_updated": "2026-09-08T11:01:31.471122+00:00",
+    "total_posts_analyzed": 11825,
+    "total_complaints": 3405
   },
   "posts": {
     "1sg1yvw": {
@@ -41472,6 +41472,90 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-09-07"
+    },
+    "1wa4nn1": {
+      "title": "Claude usage inexplicably high (max 20x). I've never come close to hitting 5 hour limit before, same codebase as normal.",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1788815600,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wa4nn1/claude_usage_inexplicably_high_max_20x_ive_never/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-08"
+    },
+    "1w9w3ac": {
+      "title": "Claude usage limit frustration",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1788796723,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1w9w3ac/claude_usage_limit_frustration/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-09-08"
+    },
+    "1w9nupb": {
+      "title": "Is anyone else experiencing usage limit bugs?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1788774940,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1w9nupb/is_anyone_else_experiencing_usage_limit_bugs/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-08"
+    },
+    "1w8xjfm": {
+      "title": "Is anyone else getting a fake \"Usage limit reached\" error on Pro?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1788704571,
+      "score": 6,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1w8xjfm/is_anyone_else_getting_a_fake_usage_limit_reached/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-09-08"
+    },
+    "1w7sjlr": {
+      "title": "Usage limit suddenly resetting?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1788588719,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1w7sjlr/usage_limit_suddenly_resetting/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-08"
+    },
+    "1w4tcm9": {
+      "title": "30 minutes of Fable 5.1 on Max 20x (with 50% higher usage limit)",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1788304955,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1w4tcm9/30_minutes_of_fable_51_on_max_20x_with_50_higher/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-08"
+    },
+    "1w4k0r8": {
+      "title": "Have Claude usage limit just reset?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1788286318,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1w4k0r8/have_claude_usage_limit_just_reset/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-08"
     }
   }
 }
