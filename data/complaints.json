@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-09-09T11:05:46.931582+00:00",
-    "total_posts_analyzed": 11831,
-    "total_complaints": 3407
+    "last_updated": "2026-09-10T11:05:28.522831+00:00",
+    "total_posts_analyzed": 11857,
+    "total_complaints": 3421
   },
   "posts": {
     "1sg1yvw": {
@@ -41583,6 +41583,177 @@
       ],
       "complaint_score": 7,
       "fetched_date": "2026-09-09"
+    },
+    "1w9gdwx": {
+      "title": "Give users the option to remove the 5h limit",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1788750617,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1w9gdwx/give_users_the_option_to_remove_the_5h_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-09-10"
+    },
+    "1w9e0mr": {
+      "title": "On male impotence, and Fable Astraing so you can Astra while waiting for Claude 5h limit.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1788743729,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1w9e0mr/on_male_impotence_and_fable_astraing_so_you_can/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-10"
+    },
+    "1w9i9z7": {
+      "title": "Fable sessions that roll through a weekly quota reset seem to stop drawing from the fable usage bucket",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1788756309,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1w9i9z7/fable_sessions_that_roll_through_a_weekly_quota/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-09-10"
+    },
+    "1w5sn5a": {
+      "title": "Fable should contribute half the session quota, keep weekly quota usage the same.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1788396568,
+      "score": 3,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1w5sn5a/fable_should_contribute_half_the_session_quota/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-09-10"
+    },
+    "1wcbdhw": {
+      "title": "Stupid limits!",
+      "subreddit": "OpenAI",
+      "created_utc": 1789022804,
+      "score": 1,
+      "url": "https://reddit.com/r/OpenAI/comments/1wcbdhw/stupid_limits/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-09-10"
+    },
+    "1wbbf29": {
+      "title": "How does anyone use Astra?",
+      "subreddit": "OpenAI",
+      "created_utc": 1788928203,
+      "score": 1,
+      "url": "https://reddit.com/r/OpenAI/comments/1wbbf29/how_does_anyone_use_astra/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-10"
+    },
+    "1w9so3r": {
+      "title": "How does the pricing work?  This what I am trying",
+      "subreddit": "OpenAI",
+      "created_utc": 1788788867,
+      "score": 1,
+      "url": "https://reddit.com/r/OpenAI/comments/1w9so3r/how_does_the_pricing_work_this_what_i_am_trying/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 2,
+      "fetched_date": "2026-09-10"
+    },
+    "1w92chx": {
+      "title": "OpenAI better update Luna soon",
+      "subreddit": "OpenAI",
+      "created_utc": 1788715655,
+      "score": 0,
+      "url": "https://reddit.com/r/OpenAI/comments/1w92chx/openai_better_update_luna_soon/",
+      "models": [
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-10"
+    },
+    "1w8v312": {
+      "title": "Using a free reset resets the weekly usage limit?",
+      "subreddit": "OpenAI",
+      "created_utc": 1788698262,
+      "score": 14,
+      "url": "https://reddit.com/r/OpenAI/comments/1w8v312/using_a_free_reset_resets_the_weekly_usage_limit/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-10"
+    },
+    "1w8ew9k": {
+      "title": "Party's Over, Guys... Usage Limits Fixed in Codex.",
+      "subreddit": "OpenAI",
+      "created_utc": 1788648242,
+      "score": 0,
+      "url": "https://reddit.com/r/OpenAI/comments/1w8ew9k/partys_over_guys_usage_limits_fixed_in_codex/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-09-10"
+    },
+    "1wccx5x": {
+      "title": "OpenAI's GPT-6 Astra burns through 20% of the $100 subscription's weekly quota in just one hour of use.",
+      "subreddit": "OpenAI",
+      "created_utc": 1789028135,
+      "score": 1,
+      "url": "https://reddit.com/r/OpenAI/comments/1wccx5x/openais_gpt6_astra_burns_through_20_of_the_100/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-09-10"
+    },
+    "1wb3cpi": {
+      "title": "Chat rate limit hit for the first time",
+      "subreddit": "ChatGPT",
+      "created_utc": 1788906549,
+      "score": 1,
+      "url": "https://reddit.com/r/ChatGPT/comments/1wb3cpi/chat_rate_limit_hit_for_the_first_time/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-10"
+    },
+    "1w7ptil": {
+      "title": "I tracked what actually consumes the ChatGPT rate limit for a week — and how the reset window works",
+      "subreddit": "ChatGPT",
+      "created_utc": 1788580125,
+      "score": 1,
+      "url": "https://reddit.com/r/ChatGPT/comments/1w7ptil/i_tracked_what_actually_consumes_the_chatgpt_rate/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-10"
+    },
+    "1wcaua2": {
+      "title": "OpenRouter vs LiteLLM vs APIMart: what are you using for multi-model APIs at scale?",
+      "subreddit": "LLMDevs",
+      "created_utc": 1789021062,
+      "score": 1,
+      "url": "https://reddit.com/r/LLMDevs/comments/1wcaua2/openrouter_vs_litellm_vs_apimart_what_are_you/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-10"
     }
   }
 }
