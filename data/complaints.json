@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-09-10T11:05:28.522831+00:00",
-    "total_posts_analyzed": 11857,
-    "total_complaints": 3421
+    "last_updated": "2026-09-11T11:02:20.968174+00:00",
+    "total_posts_analyzed": 11881,
+    "total_complaints": 3432
   },
   "posts": {
     "1sg1yvw": {
@@ -41754,6 +41754,145 @@
       ],
       "complaint_score": 4,
       "fetched_date": "2026-09-10"
+    },
+    "1wcic3a": {
+      "title": "Built a tracker for Claude Code usage-limit resets, and made it refuse to publish anything it can't verify",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1789044694,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wcic3a/built_a_tracker_for_claude_code_usagelimit_resets/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-11"
+    },
+    "1wcdhs3": {
+      "title": "5-hour session usage limit is so worth it",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1789030145,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wcdhs3/5hour_session_usage_limit_is_so_worth_it/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-11"
+    },
+    "1w9dm9p": {
+      "title": "On male impotence, and Fable Astraing so you can Astra while waiting for Claude 5h limit.",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1788742599,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1w9dm9p/on_male_impotence_and_fable_astraing_so_you_can/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-09-11"
+    },
+    "1wd28z4": {
+      "title": "Built with Claude Code: a free menu bar app that keeps your 5-hour and weekly quota in view",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1789090305,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wd28z4/built_with_claude_code_a_free_menu_bar_app_that/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-11"
+    },
+    "1w7phr5": {
+      "title": "When Fable has used 30% of my weekly 20x quota with one prompt and still says it has 8-12 hours of work ahead",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1788579125,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1w7phr5/when_fable_has_used_30_of_my_weekly_20x_quota/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-11"
+    },
+    "1w9r77l": {
+      "title": "Hitting rate limit while agents are active",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1788785166,
+      "score": 2,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1w9r77l/hitting_rate_limit_while_agents_are_active/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-11"
+    },
+    "1wbvgdq": {
+      "title": "Astra wasted 50% of 5h limit on calling non existent endpoints",
+      "subreddit": "ChatGPT",
+      "created_utc": 1788981803,
+      "score": 7,
+      "url": "https://reddit.com/r/ChatGPT/comments/1wbvgdq/astra_wasted_50_of_5h_limit_on_calling_non/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-09-11"
+    },
+    "1wbroef": {
+      "title": "Codex usage bug, anyone had similar issue",
+      "subreddit": "ChatGPT",
+      "created_utc": 1788973887,
+      "score": 2,
+      "url": "https://reddit.com/r/ChatGPT/comments/1wbroef/codex_usage_bug_anyone_had_similar_issue/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-09-11"
+    },
+    "1wdamrw": {
+      "title": "Switched from Gemini to GPT Plus after a year, here are my first impressions",
+      "subreddit": "ChatGPT",
+      "created_utc": 1789116600,
+      "score": 1,
+      "url": "https://reddit.com/r/ChatGPT/comments/1wdamrw/switched_from_gemini_to_gpt_plus_after_a_year/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-09-11"
+    },
+    "1wc1jxf": {
+      "title": "6 quota-drain reports in 4 days, 264 replies: are usage meters becoming impossible to predict?",
+      "subreddit": "ChatGPT",
+      "created_utc": 1788995342,
+      "score": 1,
+      "url": "https://reddit.com/r/ChatGPT/comments/1wc1jxf/6_quotadrain_reports_in_4_days_264_replies_are/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-09-11"
+    },
+    "1wbufmc": {
+      "title": "GPT-6 Astra is not that bad as looks like. The prompts send to it that may be bad.",
+      "subreddit": "ChatGPT",
+      "created_utc": 1788979691,
+      "score": 0,
+      "url": "https://reddit.com/r/ChatGPT/comments/1wbufmc/gpt6_astra_is_not_that_bad_as_looks_like_the/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-11"
     }
   }
 }
