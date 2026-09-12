@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-09-11T11:02:20.968174+00:00",
-    "total_posts_analyzed": 11881,
-    "total_complaints": 3432
+    "last_updated": "2026-09-12T10:27:59.044988+00:00",
+    "total_posts_analyzed": 11889,
+    "total_complaints": 3435
   },
   "posts": {
     "1sg1yvw": {
@@ -41893,6 +41893,44 @@
       ],
       "complaint_score": 4,
       "fetched_date": "2026-09-11"
+    },
+    "1wakosf": {
+      "title": "I built a menu bar app that treats each Claude Code / Codex / Gemini CLI account like a separate fuel tank, so you stop getting rate-limited mid-task",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1788863615,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wakosf/i_built_a_menu_bar_app_that_treats_each_claude/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-09-12"
+    },
+    "1wcruyv": {
+      "title": "I built a Git history visualizer with Claude Code",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1789065699,
+      "score": 82,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wcruyv/i_built_a_git_history_visualizer_with_claude_code/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-12"
+    },
+    "1wauhlo": {
+      "title": "hitting Api limits mid task",
+      "subreddit": "vibecoding",
+      "created_utc": 1788887516,
+      "score": 2,
+      "url": "https://reddit.com/r/vibecoding/comments/1wauhlo/hitting_api_limits_mid_task/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-09-12"
     }
   }
 }
