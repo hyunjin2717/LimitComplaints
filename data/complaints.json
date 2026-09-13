@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-09-12T10:27:59.044988+00:00",
-    "total_posts_analyzed": 11889,
-    "total_complaints": 3435
+    "last_updated": "2026-09-13T11:31:31.409596+00:00",
+    "total_posts_analyzed": 11900,
+    "total_complaints": 3438
   },
   "posts": {
     "1sg1yvw": {
@@ -41931,6 +41931,42 @@
       ],
       "complaint_score": 7,
       "fetched_date": "2026-09-12"
+    },
+    "1wdpwxg": {
+      "title": "Burning through Fable limits in under 40 mins on Claude Max (20x) — best workflow for codebase analysis?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1789154361,
+      "score": 10,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wdpwxg/burning_through_fable_limits_in_under_40_mins_on/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-09-13"
+    },
+    "1wdqvq2": {
+      "title": "You’ve hit your rate limit",
+      "subreddit": "ChatGPT",
+      "created_utc": 1789156483,
+      "score": 5,
+      "url": "https://reddit.com/r/ChatGPT/comments/1wdqvq2/youve_hit_your_rate_limit/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-13"
+    },
+    "1waew9f": {
+      "title": "Astra is legit impressive, but OpenAI’s tiered service thing is really starting to bug me",
+      "subreddit": "ChatGPT",
+      "created_utc": 1788843660,
+      "score": 0,
+      "url": "https://reddit.com/r/ChatGPT/comments/1waew9f/astra_is_legit_impressive_but_openais_tiered/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-13"
     }
   }
 }
