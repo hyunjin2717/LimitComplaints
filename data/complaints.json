@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-09-13T11:31:31.409596+00:00",
-    "total_posts_analyzed": 11900,
-    "total_complaints": 3438
+    "last_updated": "2026-09-14T12:22:22.244960+00:00",
+    "total_posts_analyzed": 11910,
+    "total_complaints": 3440
   },
   "posts": {
     "1sg1yvw": {
@@ -41967,6 +41967,31 @@
       ],
       "complaint_score": 4,
       "fetched_date": "2026-09-13"
+    },
+    "1weddfb": {
+      "title": "I turned Claude’s usage limits into little potion flasks for my Mac",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1789221534,
+      "score": 2,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1weddfb/i_turned_claudes_usage_limits_into_little_potion/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-14"
+    },
+    "1wffes4": {
+      "title": "OPENAI NEEDS TO STOP WITH THE 5 HOUR LIMITS! WTF!!!!",
+      "subreddit": "OpenAI",
+      "created_utc": 1789323827,
+      "score": 1,
+      "url": "https://reddit.com/r/OpenAI/comments/1wffes4/openai_needs_to_stop_with_the_5_hour_limits_wtf/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 10,
+      "fetched_date": "2026-09-14"
     }
   }
 }
