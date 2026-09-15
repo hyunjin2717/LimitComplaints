@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-09-14T12:22:22.244960+00:00",
-    "total_posts_analyzed": 11910,
-    "total_complaints": 3440
+    "last_updated": "2026-09-15T11:32:07.197315+00:00",
+    "total_posts_analyzed": 11941,
+    "total_complaints": 3452
   },
   "posts": {
     "1sg1yvw": {
@@ -41992,6 +41992,154 @@
       ],
       "complaint_score": 10,
       "fetched_date": "2026-09-14"
+    },
+    "1wfcyx9": {
+      "title": "Looking for the best zero-cost LLM setup for coding",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1789318404,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wfcyx9/looking_for_the_best_zerocost_llm_setup_for_coding/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 2,
+      "fetched_date": "2026-09-15"
+    },
+    "1wf3llg": {
+      "title": "Claude 20x usage limit reached after one question",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1789293732,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wf3llg/claude_20x_usage_limit_reached_after_one_question/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-15"
+    },
+    "1wf6kqe": {
+      "title": "20x max plan usage drain while not doing anything",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1789303085,
+      "score": 4,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wf6kqe/20x_max_plan_usage_drain_while_not_doing_anything/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-09-15"
+    },
+    "1wdwgor": {
+      "title": "Claude Code micro-compact?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1789169843,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wdwgor/claude_code_microcompact/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-15"
+    },
+    "1wcqwr9": {
+      "title": "I made a free Mac menu bar app (Juicage) that shows how much Claude usage you have left",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1789063704,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wcqwr9/i_made_a_free_mac_menu_bar_app_juicage_that_shows/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-15"
+    },
+    "1wcpr12": {
+      "title": "Claude is still the best value for your money",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1789061283,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wcpr12/claude_is_still_the_best_value_for_your_money/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-15"
+    },
+    "1wcev2h": {
+      "title": "Sick of switching between accounts. When will Claude support multiple accounts in one app?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1789034686,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wcev2h/sick_of_switching_between_accounts_when_will/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-09-15"
+    },
+    "1wbqb8t": {
+      "title": "Claude or GPT for academic workflows?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1788970993,
+      "score": 2,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wbqb8t/claude_or_gpt_for_academic_workflows/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-09-15"
+    },
+    "1wa4gvm": {
+      "title": "Is Claude Pro worth it for studying in college? Or is there a better AI?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1788815160,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wa4gvm/is_claude_pro_worth_it_for_studying_in_college_or/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-15"
+    },
+    "1w9tg96": {
+      "title": "What am I not understanding about usage limits?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1788790715,
+      "score": 2,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1w9tg96/what_am_i_not_understanding_about_usage_limits/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-09-15"
+    },
+    "1wcy0rv": {
+      "title": "I hit my GPT6 Pro rate limit... But what is the limit? When does it reset? Where do I see it? It is NOT the Codex usage limit, that is still at 24% for me.",
+      "subreddit": "ChatGPT",
+      "created_utc": 1789079433,
+      "score": 0,
+      "url": "https://reddit.com/r/ChatGPT/comments/1wcy0rv/i_hit_my_gpt6_pro_rate_limit_but_what_is_the/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-15"
+    },
+    "1wcvxap": {
+      "title": "I built a Git history visualizer with Claude Code",
+      "subreddit": "vibecoding",
+      "created_utc": 1789074510,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1wcvxap/i_built_a_git_history_visualizer_with_claude_code/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-15"
     }
   }
 }
