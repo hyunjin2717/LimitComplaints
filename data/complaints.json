@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-09-15T11:32:07.197315+00:00",
-    "total_posts_analyzed": 11941,
-    "total_complaints": 3452
+    "last_updated": "2026-09-16T11:18:55.495508+00:00",
+    "total_posts_analyzed": 11972,
+    "total_complaints": 3467
   },
   "posts": {
     "1sg1yvw": {
@@ -42140,6 +42140,189 @@
       ],
       "complaint_score": 4,
       "fetched_date": "2026-09-15"
+    },
+    "1wh054f": {
+      "title": "Codex says I’ve been granted a new rate limit reset, but no new reset shows up",
+      "subreddit": "codex",
+      "created_utc": 1789478202,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1wh054f/codex_says_ive_been_granted_a_new_rate_limit/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-16"
+    },
+    "1wgs7yo": {
+      "title": "Your Codex logs track your quota % on every turn. I parsed 6 months of mine: Astra eats ~3.6x more quota per token than Sol did in August",
+      "subreddit": "codex",
+      "created_utc": 1789452919,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1wgs7yo/your_codex_logs_track_your_quota_on_every_turn_i/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-09-16"
+    },
+    "1wgltv1": {
+      "title": "Something changed after Astra launched: my Sol weekly limit now disappears in 1–2 days",
+      "subreddit": "codex",
+      "created_utc": 1789434174,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1wgltv1/something_changed_after_astra_launched_my_sol/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 9,
+      "fetched_date": "2026-09-16"
+    },
+    "1wg916i": {
+      "title": "Refund this rate limited junk :)",
+      "subreddit": "codex",
+      "created_utc": 1789404979,
+      "score": 3,
+      "url": "https://reddit.com/r/codex/comments/1wg916i/refund_this_rate_limited_junk/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-16"
+    },
+    "1wg3fkw": {
+      "title": "Recovery speed instead of usage limits",
+      "subreddit": "codex",
+      "created_utc": 1789392451,
+      "score": 8,
+      "url": "https://reddit.com/r/codex/comments/1wg3fkw/recovery_speed_instead_of_usage_limits/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-16"
+    },
+    "1wehv64": {
+      "title": "The Codex weekly limit doesn't roll over, and the \"goodwill reset\" is a loan, not a gift. Did the maths.",
+      "subreddit": "codex",
+      "created_utc": 1789232431,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1wehv64/the_codex_weekly_limit_doesnt_roll_over_and_the/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-09-16"
+    },
+    "1wciwc1": {
+      "title": "GPT-6 Astra burns quota 4+ times faster than GPT-5.6 Sol",
+      "subreddit": "codex",
+      "created_utc": 1789046097,
+      "score": 245,
+      "url": "https://reddit.com/r/codex/comments/1wciwc1/gpt6_astra_burns_quota_4_times_faster_than_gpt56/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-09-16"
+    },
+    "1wcansu": {
+      "title": "Anyone else hitting the 5-hour limit constantly on Codex?",
+      "subreddit": "codex",
+      "created_utc": 1789020468,
+      "score": 2,
+      "url": "https://reddit.com/r/codex/comments/1wcansu/anyone_else_hitting_the_5hour_limit_constantly_on/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 10,
+      "fetched_date": "2026-09-16"
+    },
+    "1wbrtwh": {
+      "title": "Usage remaining bug",
+      "subreddit": "codex",
+      "created_utc": 1788974212,
+      "score": 11,
+      "url": "https://reddit.com/r/codex/comments/1wbrtwh/usage_remaining_bug/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-16"
+    },
+    "1wb1ul2": {
+      "title": "Weekly Limit",
+      "subreddit": "codex",
+      "created_utc": 1788903095,
+      "score": 3,
+      "url": "https://reddit.com/r/codex/comments/1wb1ul2/weekly_limit/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-16"
+    },
+    "1wguht2": {
+      "title": "Got rate limited... in the web app?",
+      "subreddit": "codex",
+      "created_utc": 1789460984,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1wguht2/got_rate_limited_in_the_web_app/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-09-16"
+    },
+    "1wf9gk4": {
+      "title": "exceeded retry limit, last status: 429 Too Many Requests",
+      "subreddit": "codex",
+      "created_utc": 1789310340,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1wf9gk4/exceeded_retry_limit_last_status_429_too_many/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-16"
+    },
+    "1whsp0x": {
+      "title": "Codex with Pro subscription usage is throttled a lot.",
+      "subreddit": "codex",
+      "created_utc": 1789552161,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1whsp0x/codex_with_pro_subscription_usage_is_throttled_a/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-16"
+    },
+    "1wgwlqv": {
+      "title": "tl;dr the normies won and you’re the collateral.",
+      "subreddit": "codex",
+      "created_utc": 1789468253,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1wgwlqv/tldr_the_normies_won_and_youre_the_collateral/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-16"
+    },
+    "1wf911a": {
+      "title": "I analyzed the speed Codex gives us for Astra over 10 days. Here is what changed, what was deliberately changed and what appears to be bugs in the harness",
+      "subreddit": "codex",
+      "created_utc": 1789309331,
+      "score": 34,
+      "url": "https://reddit.com/r/codex/comments/1wf911a/i_analyzed_the_speed_codex_gives_us_for_astra/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-16"
     }
   }
 }
