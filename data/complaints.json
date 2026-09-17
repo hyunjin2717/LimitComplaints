@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-09-16T11:18:55.495508+00:00",
-    "total_posts_analyzed": 11972,
-    "total_complaints": 3467
+    "last_updated": "2026-09-17T11:25:33.830598+00:00",
+    "total_posts_analyzed": 11980,
+    "total_complaints": 3471
   },
   "posts": {
     "1sg1yvw": {
@@ -42323,6 +42323,56 @@
       ],
       "complaint_score": 4,
       "fetched_date": "2026-09-16"
+    },
+    "1wh2wab": {
+      "title": "I left one Claude run alive for 70 hours. Here’s what actually happened.",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1789484652,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wh2wab/i_left_one_claude_run_alive_for_70_hours_heres/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-17"
+    },
+    "1wgzu35": {
+      "title": "Claude vs OpenAI weekly quota",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1789477459,
+      "score": 28,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wgzu35/claude_vs_openai_weekly_quota/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-09-17"
+    },
+    "1wg7qbf": {
+      "title": "Fable 5.1 used more of my app quota than I expected",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1789402200,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wg7qbf/fable_51_used_more_of_my_app_quota_than_i_expected/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-09-17"
+    },
+    "1wfv0a5": {
+      "title": "I am SO OVER the its draining too quickly posts",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1789365214,
+      "score": 84,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wfv0a5/i_am_so_over_the_its_draining_too_quickly_posts/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-09-17"
     }
   }
 }
