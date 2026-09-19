@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-09-18T10:59:45.286944+00:00",
-    "total_posts_analyzed": 12143,
-    "total_complaints": 3569
+    "last_updated": "2026-09-19T10:44:36.383542+00:00",
+    "total_posts_analyzed": 12174,
+    "total_complaints": 3580
   },
   "posts": {
     "1sg1yvw": {
@@ -43575,6 +43575,139 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-09-18"
+    },
+    "1wjog1w": {
+      "title": "Confused about how the 5-hour limit vs. Weekly limit works on Claude Pro — can someone clarify?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1789733369,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wjog1w/confused_about_how_the_5hour_limit_vs_weekly/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-09-19"
+    },
+    "1why2zx": {
+      "title": "A lot of talk about reduced weekly limits but a lack of data - so here's some actual numbers",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1789567234,
+      "score": 152,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1why2zx/a_lot_of_talk_about_reduced_weekly_limits_but_a/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-09-19"
+    },
+    "1whvqcl": {
+      "title": "Quota draining? Claude Code re-bills a finished sub-agent's whole context on a follow-up",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1789561425,
+      "score": 9,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1whvqcl/quota_draining_claude_code_rebills_a_finished/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-09-19"
+    },
+    "1wgywkw": {
+      "title": "Surviving Claude Code’s tightened limits: Effort levels, subagent traps, and CLAUDE.md tuning",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1789475018,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wgywkw/surviving_claude_codes_tightened_limits_effort/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-19"
+    },
+    "1wh3q4i": {
+      "title": "Does Max give me more weekly usage over Pro?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1789486498,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wh3q4i/does_max_give_me_more_weekly_usage_over_pro/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-19"
+    },
+    "1wizu8v": {
+      "title": "Which models for which task?  20x Max plan",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1789664784,
+      "score": 9,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wizu8v/which_models_for_which_task_20x_max_plan/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-19"
+    },
+    "1wi6mp1": {
+      "title": "Best bang4bucks model/effort combo?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1789585687,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wi6mp1/best_bang4bucks_modeleffort_combo/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-19"
+    },
+    "1wiulzj": {
+      "title": "Pro 20x: Weekly Limit → 5h?",
+      "subreddit": "codex",
+      "created_utc": 1789653137,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1wiulzj/pro_20x_weekly_limit_5h/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-19"
+    },
+    "1wgr9cn": {
+      "title": "Aaaaaand its gone! (5h limit *poof* in seconds)",
+      "subreddit": "codex",
+      "created_utc": 1789449732,
+      "score": 2,
+      "url": "https://reddit.com/r/codex/comments/1wgr9cn/aaaaaand_its_gone_5h_limit_poof_in_seconds/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-19"
+    },
+    "1wf1yep": {
+      "title": "I hate this 5h limit",
+      "subreddit": "codex",
+      "created_utc": 1789287862,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1wf1yep/i_hate_this_5h_limit/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-09-19"
+    },
+    "1wega09": {
+      "title": "How not to test Astra on a Plus account: 34s took the whole 5h limit",
+      "subreddit": "codex",
+      "created_utc": 1789228706,
+      "score": 15,
+      "url": "https://reddit.com/r/codex/comments/1wega09/how_not_to_test_astra_on_a_plus_account_34s_took/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-19"
     }
   }
 }
