@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-09-19T10:44:36.383542+00:00",
-    "total_posts_analyzed": 12174,
-    "total_complaints": 3580
+    "last_updated": "2026-09-20T11:03:59.121277+00:00",
+    "total_posts_analyzed": 12190,
+    "total_complaints": 3582
   },
   "posts": {
     "1sg1yvw": {
@@ -43708,6 +43708,30 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-09-19"
+    },
+    "1wkl4rr": {
+      "title": "Disappointed in Go",
+      "subreddit": "ChatGPT",
+      "created_utc": 1789821405,
+      "score": 1,
+      "url": "https://reddit.com/r/ChatGPT/comments/1wkl4rr/disappointed_in_go/",
+      "models": [
+        "gemini"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-20"
+    },
+    "1weigku": {
+      "title": "An AI agent found 211 stray entries in a deletion log and was told one of its tests wrote them. None had - the bug was in its own code.",
+      "subreddit": "artificial",
+      "created_utc": 1789233757,
+      "score": 1,
+      "url": "https://reddit.com/r/artificial/comments/1weigku/an_ai_agent_found_211_stray_entries_in_a_deletion/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-20"
     }
   }
 }
