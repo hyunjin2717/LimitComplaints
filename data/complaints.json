@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-09-21T12:29:49.660227+00:00",
-    "total_posts_analyzed": 12265,
-    "total_complaints": 3633
+    "last_updated": "2026-09-22T11:22:05.611886+00:00",
+    "total_posts_analyzed": 12284,
+    "total_complaints": 3640
   },
   "posts": {
     "1sg1yvw": {
@@ -44353,6 +44353,91 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-09-21"
+    },
+    "1wmis2k": {
+      "title": "opus 5 burning my usage limit in seconds",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1790010431,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wmis2k/opus_5_burning_my_usage_limit_in_seconds/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-22"
+    },
+    "1wkuccm": {
+      "title": "Usage limit",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1789844138,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wkuccm/usage_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-22"
+    },
+    "1wi8pu3": {
+      "title": "usage limit",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1789590240,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wi8pu3/usage_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-22"
+    },
+    "1wi4a3e": {
+      "title": "Does Claude purposefully try to stall the usage limit if its midway through a certain task?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1789580710,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wi4a3e/does_claude_purposefully_try_to_stall_the_usage/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-09-22"
+    },
+    "1whcaed": {
+      "title": "Hit my usage limit for the week in an hour 😭",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1789504954,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1whcaed/hit_my_usage_limit_for_the_week_in_an_hour/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-22"
+    },
+    "1wgwu6r": {
+      "title": "tl;dr the normies won and you’re the collateral",
+      "subreddit": "OpenAI",
+      "created_utc": 1789469018,
+      "score": 0,
+      "url": "https://reddit.com/r/OpenAI/comments/1wgwu6r/tldr_the_normies_won_and_youre_the_collateral/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-22"
+    },
+    "1wmm2k0": {
+      "title": "Codex vs Claude code usage limit",
+      "subreddit": "ChatGPT",
+      "created_utc": 1790017398,
+      "score": 1,
+      "url": "https://reddit.com/r/ChatGPT/comments/1wmm2k0/codex_vs_claude_code_usage_limit/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-22"
     }
   }
 }
