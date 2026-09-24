@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-09-23T11:12:26.393946+00:00",
-    "total_posts_analyzed": 12287,
-    "total_complaints": 3640
+    "last_updated": "2026-09-24T11:29:42.181421+00:00",
+    "total_posts_analyzed": 12295,
+    "total_complaints": 3648
   },
   "posts": {
     "1sg1yvw": {
@@ -44438,6 +44438,102 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-09-22"
+    },
+    "1wo8hdd": {
+      "title": "I am getting a \"limit reached, resets at 19:30\" message in my chat, but my usage limits clearly show I have only used up 60%. But the message will not send.",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1790175809,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wo8hdd/i_am_getting_a_limit_reached_resets_at_1930/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-24"
+    },
+    "1wo4hwe": {
+      "title": "Claude Code usage limit on Fable",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1790166156,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wo4hwe/claude_code_usage_limit_on_fable/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-24"
+    },
+    "1wnma55": {
+      "title": "Is it just me or does Claude Code seem to work a little bit too hard when you're close to your usage limit?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1790111740,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wnma55/is_it_just_me_or_does_claude_code_seem_to_work_a/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-24"
+    },
+    "1wnk0yt": {
+      "title": "After hitting the weekly limit for last two weeks, scared to try opus 5.5. I am in the scientist program and unable to upgrade to 20x. Can anyone report usage compared to opus 4.8?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1790106801,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wnk0yt/after_hitting_the_weekly_limit_for_last_two_weeks/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-09-24"
+    },
+    "1wng1pc": {
+      "title": "Hit the usage limit for the first time, and it's actually good news!",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1790098299,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wng1pc/hit_the_usage_limit_for_the_first_time_and_its/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-24"
+    },
+    "1wnda1t": {
+      "title": "Hit the usage limit for the first time, and it's actually good news!",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1790092315,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wnda1t/hit_the_usage_limit_for_the_first_time_and_its/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-24"
+    },
+    "1wnbzz1": {
+      "title": "Usage Limit Hit INSTANTLY",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1790089466,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wnbzz1/usage_limit_hit_instantly/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-24"
+    },
+    "1wn9z3t": {
+      "title": "With the removal of the +50% weekly limit, I am struggling to stay under plan. Any tips? (And also the measures I took to protect my usage limit)",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1790084808,
+      "score": 6,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wn9z3t/with_the_removal_of_the_50_weekly_limit_i_am/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-09-24"
     }
   }
 }
