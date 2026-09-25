@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-09-24T11:29:42.181421+00:00",
-    "total_posts_analyzed": 12295,
-    "total_complaints": 3648
+    "last_updated": "2026-09-25T11:35:20.611039+00:00",
+    "total_posts_analyzed": 12300,
+    "total_complaints": 3652
   },
   "posts": {
     "1sg1yvw": {
@@ -44534,6 +44534,54 @@
       ],
       "complaint_score": 8,
       "fetched_date": "2026-09-24"
+    },
+    "1wnrn5e": {
+      "title": "A way to bypass github rate limits claude web",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1790125324,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wnrn5e/a_way_to_bypass_github_rate_limits_claude_web/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-25"
+    },
+    "1wpsdmu": {
+      "title": "Does Codex 5x Pro Plan have 5 Hour Usage Limit?",
+      "subreddit": "OpenAI",
+      "created_utc": 1790330718,
+      "score": 1,
+      "url": "https://reddit.com/r/OpenAI/comments/1wpsdmu/does_codex_5x_pro_plan_have_5_hour_usage_limit/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-25"
+    },
+    "1wnt7b6": {
+      "title": "ChatGPT Usage Limit Malfunction",
+      "subreddit": "OpenAI",
+      "created_utc": 1790129572,
+      "score": 0,
+      "url": "https://reddit.com/r/OpenAI/comments/1wnt7b6/chatgpt_usage_limit_malfunction/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-25"
+    },
+    "1wkw38e": {
+      "title": "GPT-5.3 Codex Spark disappeared from the Pro plan. What happened to the extra usage limit?",
+      "subreddit": "OpenAI",
+      "created_utc": 1789848248,
+      "score": 1,
+      "url": "https://reddit.com/r/OpenAI/comments/1wkw38e/gpt53_codex_spark_disappeared_from_the_pro_plan/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-25"
     }
   }
 }
