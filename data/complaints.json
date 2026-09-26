@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-09-25T11:35:20.611039+00:00",
-    "total_posts_analyzed": 12300,
-    "total_complaints": 3652
+    "last_updated": "2026-09-26T11:10:06.868091+00:00",
+    "total_posts_analyzed": 12316,
+    "total_complaints": 3660
   },
   "posts": {
     "1sg1yvw": {
@@ -44582,6 +44582,103 @@
       ],
       "complaint_score": 4,
       "fetched_date": "2026-09-25"
+    },
+    "1wo3dj9": {
+      "title": "How I built a Claude Code status line that projects whether your usage limits will last",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1790162973,
+      "score": 2,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wo3dj9/how_i_built_a_claude_code_status_line_that/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-09-26"
+    },
+    "1wm5aof": {
+      "title": "Claude Max 5h only 50% of weekly limit?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1789973624,
+      "score": 22,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wm5aof/claude_max_5h_only_50_of_weekly_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-09-26"
+    },
+    "1wo2afv": {
+      "title": "Claude Code on my Max 20x plan billed ~$150 to my Console API credits, with no API key. Support says consumed credits are non-refundable",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1790159598,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wo2afv/claude_code_on_my_max_20x_plan_billed_150_to_my/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-26"
+    },
+    "1wn44ii": {
+      "title": "Claude seems both stupider and more expensive than before",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1790067329,
+      "score": 41,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wn44ii/claude_seems_both_stupider_and_more_expensive/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-26"
+    },
+    "1wm5k6z": {
+      "title": "I saw some people getting angry at a user spending last 5 hr quota on just whatever. I'm curious why anthropic doesn't implement the following solution that helps both anthropic and us-",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1789974502,
+      "score": 17,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wm5k6z/i_saw_some_people_getting_angry_at_a_user/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-09-26"
+    },
+    "1wnehej": {
+      "title": "They have inreased the limits and also added a one time rate limit reset option, usable until October 22",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1790094951,
+      "score": 15,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1wnehej/they_have_inreased_the_limits_and_also_added_a/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-26"
+    },
+    "1wp7jxn": {
+      "title": "So I thought opus 5.5 was cheaper?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1790270059,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1wp7jxn/so_i_thought_opus_55_was_cheaper/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-26"
+    },
+    "1wnejht": {
+      "title": "Opus 5.5 release: \"In addition to the price drop, we’re increasing five-hour usage limits on Pro, Max, and Team plans. We’re also providing subscription users a rate limit reset, which you can now save and use whenever you choose.\"",
+      "subreddit": "LocalLLaMA",
+      "created_utc": 1790095084,
+      "score": 0,
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1wnejht/opus_55_release_in_addition_to_the_price_drop/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-26"
     }
   }
 }
