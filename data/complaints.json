@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-09-26T11:10:06.868091+00:00",
-    "total_posts_analyzed": 12316,
-    "total_complaints": 3660
+    "last_updated": "2026-09-27T11:52:40.081142+00:00",
+    "total_posts_analyzed": 12359,
+    "total_complaints": 3685
   },
   "posts": {
     "1sg1yvw": {
@@ -44679,6 +44679,313 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-09-26"
+    },
+    "1wopqrg": {
+      "title": "Are Anthropic using the \"Service Recovery Paradox\" on us?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1790217241,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wopqrg/are_anthropic_using_the_service_recovery_paradox/",
+      "models": [
+        "claude",
+        "gemini"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-27"
+    },
+    "1wqpukq": {
+      "title": "Usage limit close. One of the better QOL changes so far",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1790427316,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wqpukq/usage_limit_close_one_of_the_better_qol_changes/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-27"
+    },
+    "1wq1zhk": {
+      "title": "Tips for my daily usage limit",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1790356254,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wq1zhk/tips_for_my_daily_usage_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-27"
+    },
+    "1wpd6ls": {
+      "title": "Ultracode with Opus 5.5 takes a very long time, still no usage limit hit..?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1790282897,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wpd6ls/ultracode_with_opus_55_takes_a_very_long_time/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-09-27"
+    },
+    "1wr78id": {
+      "title": "Claude Max session limits + weekly limits are honestly frustrating",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1790472422,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wr78id/claude_max_session_limits_weekly_limits_are/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 9,
+      "fetched_date": "2026-09-27"
+    },
+    "1wpddkc": {
+      "title": "Wondering if I should switch to Claude",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1790283371,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wpddkc/wondering_if_i_should_switch_to_claude/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-27"
+    },
+    "1wogdx4": {
+      "title": "Does the one-time \"Reset for free\" also reset the Fable weekly limit?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1790193261,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wogdx4/does_the_onetime_reset_for_free_also_reset_the/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-27"
+    },
+    "1wocgsj": {
+      "title": "Max weekly reset keeps getting pushed back. Has anyone had this happen?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1790184548,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wocgsj/max_weekly_reset_keeps_getting_pushed_back_has/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 2,
+      "fetched_date": "2026-09-27"
+    },
+    "1wo4g2i": {
+      "title": "How are chat/cowork limits on the $20 Pro plan?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1790166020,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wo4g2i/how_are_chatcowork_limits_on_the_20_pro_plan/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-27"
+    },
+    "1wnaspk": {
+      "title": "Claude usage limits and intelligence are the new \"Onyxia deep breathes more\"",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1790086752,
+      "score": 62,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wnaspk/claude_usage_limits_and_intelligence_are_the_new/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-09-27"
+    },
+    "1wm8ori": {
+      "title": "Seeing this on monday while claude is fixing a critical bug",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1789985574,
+      "score": 398,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wm8ori/seeing_this_on_monday_while_claude_is_fixing_a/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-27"
+    },
+    "1wlk92z": {
+      "title": "Is Claude Max $100 actually worth it compared with Codex?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1789918630,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wlk92z/is_claude_max_100_actually_worth_it_compared_with/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-09-27"
+    },
+    "1wq4es0": {
+      "title": "Can't imagine getting rate limited on a $600 plan 🫪",
+      "subreddit": "OpenAI",
+      "created_utc": 1790361981,
+      "score": 1,
+      "url": "https://reddit.com/r/OpenAI/comments/1wq4es0/cant_imagine_getting_rate_limited_on_a_600_plan/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-09-27"
+    },
+    "1wpobx0": {
+      "title": "HOW IS $20 BEATING $200? 🤯",
+      "subreddit": "OpenAI",
+      "created_utc": 1790315314,
+      "score": 7,
+      "url": "https://reddit.com/r/OpenAI/comments/1wpobx0/how_is_20_beating_200/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-27"
+    },
+    "1wmmipz": {
+      "title": "Rate limits on chat in ChatGPT Pro",
+      "subreddit": "OpenAI",
+      "created_utc": 1790018377,
+      "score": 1,
+      "url": "https://reddit.com/r/OpenAI/comments/1wmmipz/rate_limits_on_chat_in_chatgpt_pro/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-27"
+    },
+    "1wp160u": {
+      "title": "What model does ChatGPT-codex-connector for GitHub use? And does it draw from my 5h/weekly quota?",
+      "subreddit": "codex",
+      "created_utc": 1790255247,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1wp160u/what_model_does_chatgptcodexconnector_for_github/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-27"
+    },
+    "1wn8qki": {
+      "title": "The chains are officially off. No more 5-hour lockouts—Plus just shifted to a pure weekly quota?",
+      "subreddit": "codex",
+      "created_utc": 1790081737,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1wn8qki/the_chains_are_officially_off_no_more_5hour/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-27"
+    },
+    "1wqq3yr": {
+      "title": "5.6 sol medium uses more quota",
+      "subreddit": "codex",
+      "created_utc": 1790428024,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1wqq3yr/56_sol_medium_uses_more_quota/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-27"
+    },
+    "1wo8fhw": {
+      "title": "Okay, they literally cut our quota by half. GPT 6 Sol got hit too.",
+      "subreddit": "codex",
+      "created_utc": 1790175697,
+      "score": 460,
+      "url": "https://reddit.com/r/codex/comments/1wo8fhw/okay_they_literally_cut_our_quota_by_half_gpt_6/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-27"
+    },
+    "1wo58e3": {
+      "title": "~45% less token burn after reworking my codex workflow",
+      "subreddit": "codex",
+      "created_utc": 1790168147,
+      "score": 70,
+      "url": "https://reddit.com/r/codex/comments/1wo58e3/45_less_token_burn_after_reworking_my_codex/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-09-27"
+    },
+    "1wn7znr": {
+      "title": "Does image generation in Codex use the main usage limit or a separate limit?",
+      "subreddit": "codex",
+      "created_utc": 1790079728,
+      "score": 2,
+      "url": "https://reddit.com/r/codex/comments/1wn7znr/does_image_generation_in_codex_use_the_main_usage/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-27"
+    },
+    "1wn6zbl": {
+      "title": "Wait… did OpenAI just kill the 5-hour limit completely?! My reset just switched everything to weekly.",
+      "subreddit": "codex",
+      "created_utc": 1790076839,
+      "score": 31,
+      "url": "https://reddit.com/r/codex/comments/1wn6zbl/wait_did_openai_just_kill_the_5hour_limit/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-09-27"
+    },
+    "1wl87jf": {
+      "title": "Codex quota is burning ~1.7x faster than my last quota period",
+      "subreddit": "codex",
+      "created_utc": 1789882120,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1wl87jf/codex_quota_is_burning_17x_faster_than_my_last/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-27"
+    },
+    "1wksrty": {
+      "title": "Why Astra so stupid and slow?",
+      "subreddit": "codex",
+      "created_utc": 1789840438,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1wksrty/why_astra_so_stupid_and_slow/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-27"
+    },
+    "1wks8fx": {
+      "title": "Quick measurement of Astra token performance",
+      "subreddit": "codex",
+      "created_utc": 1789839144,
+      "score": 14,
+      "url": "https://reddit.com/r/codex/comments/1wks8fx/quick_measurement_of_astra_token_performance/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-27"
     }
   }
 }
