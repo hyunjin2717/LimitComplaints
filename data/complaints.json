@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-09-27T11:52:40.081142+00:00",
-    "total_posts_analyzed": 12359,
-    "total_complaints": 3685
+    "last_updated": "2026-09-28T13:29:47.677699+00:00",
+    "total_posts_analyzed": 12366,
+    "total_complaints": 3686
   },
   "posts": {
     "1sg1yvw": {
@@ -44986,6 +44986,18 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-09-27"
+    },
+    "1wrzc0q": {
+      "title": "OpenAI told me to buy Codex credits to continue. I spent $60, stayed locked out, and Support says the credits are gone.",
+      "subreddit": "OpenAI",
+      "created_utc": 1790552763,
+      "score": 1,
+      "url": "https://reddit.com/r/OpenAI/comments/1wrzc0q/openai_told_me_to_buy_codex_credits_to_continue_i/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-28"
     }
   }
 }
