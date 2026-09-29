@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-09-28T13:29:47.677699+00:00",
-    "total_posts_analyzed": 12366,
-    "total_complaints": 3686
+    "last_updated": "2026-09-29T12:32:33.281079+00:00",
+    "total_posts_analyzed": 12376,
+    "total_complaints": 3693
   },
   "posts": {
     "1sg1yvw": {
@@ -44998,6 +44998,90 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-09-28"
+    },
+    "1wsivz7": {
+      "title": "Vibe-coded Uploaf to bulk migrate Tenor GIFs to Giphy after Tenor killed their API. Here’s how I built it.",
+      "subreddit": "vibecoding",
+      "created_utc": 1790611935,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1wsivz7/vibecoded_uploaf_to_bulk_migrate_tenor_gifs_to/",
+      "models": [
+        "gemini"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-29"
+    },
+    "1wt3lih": {
+      "title": "EU folks: OpenAI owes us 30 days' notice before the $200 plan enshittification",
+      "subreddit": "codex",
+      "created_utc": 1790666666,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1wt3lih/eu_folks_openai_owes_us_30_days_notice_before_the/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-29"
+    },
+    "1wt2y1g": {
+      "title": "$200 Pro Plan Returning at less than 20x - Tibo",
+      "subreddit": "codex",
+      "created_utc": 1790664278,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1wt2y1g/200_pro_plan_returning_at_less_than_20x_tibo/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-29"
+    },
+    "1wrzllh": {
+      "title": "BS Usage limits, OpenAI Pro 20x plan, and it's downfall",
+      "subreddit": "codex",
+      "created_utc": 1790553533,
+      "score": 36,
+      "url": "https://reddit.com/r/codex/comments/1wrzllh/bs_usage_limits_openai_pro_20x_plan_and_its/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-29"
+    },
+    "1wr15bw": {
+      "title": "Cant even get to use my usage resets due to 5h limit. and it feels a waste to just claim them before weekly is exhausted",
+      "subreddit": "codex",
+      "created_utc": 1790455537,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1wr15bw/cant_even_get_to_use_my_usage_resets_due_to_5h/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-09-29"
+    },
+    "1wowzve": {
+      "title": "Plus to Pro",
+      "subreddit": "codex",
+      "created_utc": 1790242039,
+      "score": 3,
+      "url": "https://reddit.com/r/codex/comments/1wowzve/plus_to_pro/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-29"
+    },
+    "1wnkman": {
+      "title": "Does Pro 5x have 5H limit?",
+      "subreddit": "codex",
+      "created_utc": 1790108072,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1wnkman/does_pro_5x_have_5h_limit/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-09-29"
     }
   }
 }
