@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-09-29T12:32:33.281079+00:00",
-    "total_posts_analyzed": 12376,
-    "total_complaints": 3693
+    "last_updated": "2026-09-30T12:18:22.309828+00:00",
+    "total_posts_analyzed": 12380,
+    "total_complaints": 3696
   },
   "posts": {
     "1sg1yvw": {
@@ -45082,6 +45082,42 @@
       ],
       "complaint_score": 4,
       "fetched_date": "2026-09-29"
+    },
+    "1wu10ew": {
+      "title": "My account is throttled and I have no idea why?",
+      "subreddit": "codex",
+      "created_utc": 1790762791,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1wu10ew/my_account_is_throttled_and_i_have_no_idea_why/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 9,
+      "fetched_date": "2026-09-30"
+    },
+    "1wp50ra": {
+      "title": "chatgpt & codex both work like shit today?",
+      "subreddit": "codex",
+      "created_utc": 1790264363,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1wp50ra/chatgpt_codex_both_work_like_shit_today/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-09-30"
+    },
+    "1wnr7td": {
+      "title": "My opinion on Sol 6 having both 20x plans for GOT and Claude",
+      "subreddit": "codex",
+      "created_utc": 1790124161,
+      "score": 3,
+      "url": "https://reddit.com/r/codex/comments/1wnr7td/my_opinion_on_sol_6_having_both_20x_plans_for_got/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-09-30"
     }
   }
 }
