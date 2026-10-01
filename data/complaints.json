@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-09-30T12:18:22.309828+00:00",
-    "total_posts_analyzed": 12380,
-    "total_complaints": 3696
+    "last_updated": "2026-10-01T12:53:29.890272+00:00",
+    "total_posts_analyzed": 12397,
+    "total_complaints": 3703
   },
   "posts": {
     "1sg1yvw": {
@@ -45118,6 +45118,93 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-09-30"
+    },
+    "1wuy2i4": {
+      "title": "6.1 sol is kinda insane ?",
+      "subreddit": "codex",
+      "created_utc": 1790857514,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1wuy2i4/61_sol_is_kinda_insane/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-10-01"
+    },
+    "1wt56oz": {
+      "title": "Show HN: Codex Sentinel – Unattended resilience daemon for OpenAI Codex (solves 5-hour rate-limit interruptions)",
+      "subreddit": "codex",
+      "created_utc": 1790672761,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1wt56oz/show_hn_codex_sentinel_unattended_resilience/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-10-01"
+    },
+    "1ws03r6": {
+      "title": "Terra - Medium used weekly reset in 8 hours",
+      "subreddit": "codex",
+      "created_utc": 1790554918,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1ws03r6/terra_medium_used_weekly_reset_in_8_hours/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-10-01"
+    },
+    "1wpgjvd": {
+      "title": "Lack of transparency",
+      "subreddit": "codex",
+      "created_utc": 1790291426,
+      "score": 6,
+      "url": "https://reddit.com/r/codex/comments/1wpgjvd/lack_of_transparency/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-10-01"
+    },
+    "1wpfoxh": {
+      "title": "The downhill begins",
+      "subreddit": "codex",
+      "created_utc": 1790289099,
+      "score": 253,
+      "url": "https://reddit.com/r/codex/comments/1wpfoxh/the_downhill_begins/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-10-01"
+    },
+    "1wpacl4": {
+      "title": "Codex usage on a BUSY Bar — weekly limit and reset credits, no API key",
+      "subreddit": "codex",
+      "created_utc": 1790276285,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1wpacl4/codex_usage_on_a_busy_bar_weekly_limit_and_reset/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-10-01"
+    },
+    "1wp415h": {
+      "title": "Claude subscription + OpenCodex (router layer) — still allowed in Sept 2026?",
+      "subreddit": "codex",
+      "created_utc": 1790262115,
+      "score": 4,
+      "url": "https://reddit.com/r/codex/comments/1wp415h/claude_subscription_opencodex_router_layer_still/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-10-01"
     }
   }
 }
