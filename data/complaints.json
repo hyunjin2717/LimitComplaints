@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-10-01T12:53:29.890272+00:00",
-    "total_posts_analyzed": 12397,
-    "total_complaints": 3703
+    "last_updated": "2026-10-02T12:18:29.500455+00:00",
+    "total_posts_analyzed": 12404,
+    "total_complaints": 3706
   },
   "posts": {
     "1sg1yvw": {
@@ -45205,6 +45205,42 @@
       ],
       "complaint_score": 4,
       "fetched_date": "2026-10-01"
+    },
+    "1wuh1o7": {
+      "title": "Can't use Fast Mode (API) anymore",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1790802903,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wuh1o7/cant_use_fast_mode_api_anymore/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-10-02"
+    },
+    "1wp9pa4": {
+      "title": "Max 20x vs. Two Max 5x Accounts for heavy coding/Fable use? Need advice",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1790274821,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1wp9pa4/max_20x_vs_two_max_5x_accounts_for_heavy/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 2,
+      "fetched_date": "2026-10-02"
+    },
+    "1wp49sf": {
+      "title": "Now OpenAI imposes usage limits and introduces credits to plus users.",
+      "subreddit": "singularity",
+      "created_utc": 1790262646,
+      "score": 0,
+      "url": "https://reddit.com/r/singularity/comments/1wp49sf/now_openai_imposes_usage_limits_and_introduces/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-10-02"
     }
   }
 }
