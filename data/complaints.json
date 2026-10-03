@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-10-02T12:18:29.500455+00:00",
-    "total_posts_analyzed": 12404,
-    "total_complaints": 3706
+    "last_updated": "2026-10-03T11:28:16.961203+00:00",
+    "total_posts_analyzed": 12420,
+    "total_complaints": 3714
   },
   "posts": {
     "1sg1yvw": {
@@ -45241,6 +45241,106 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-10-02"
+    },
+    "1wt1o3k": {
+      "title": "How I Solved LLM Rate Limiting by Structuring Agent Memory with Hindsight",
+      "subreddit": "LLMDevs",
+      "created_utc": 1790659750,
+      "score": 1,
+      "url": "https://reddit.com/r/LLMDevs/comments/1wt1o3k/how_i_solved_llm_rate_limiting_by_structuring/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-10-03"
+    },
+    "1wui0ii": {
+      "title": "6.1 Sol might have just saved their asses (from my POV, at least). Why I decided not to make the switch to Claude....yet.",
+      "subreddit": "codex",
+      "created_utc": 1790805316,
+      "score": 5,
+      "url": "https://reddit.com/r/codex/comments/1wui0ii/61_sol_might_have_just_saved_their_asses_from_my/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-10-03"
+    },
+    "1wu0hdb": {
+      "title": "It's so frustrating right now",
+      "subreddit": "codex",
+      "created_utc": 1790760790,
+      "score": 32,
+      "url": "https://reddit.com/r/codex/comments/1wu0hdb/its_so_frustrating_right_now/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-10-03"
+    },
+    "1wtic8n": {
+      "title": "20x → 10x looked ridiculous. Then I did the Sol 6.1 math.",
+      "subreddit": "codex",
+      "created_utc": 1790707213,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1wtic8n/20x_10x_looked_ridiculous_then_i_did_the_sol_61/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-10-03"
+    },
+    "1wt6xuq": {
+      "title": "I do not want to leave Codex, but the current product is making it impossible to stay",
+      "subreddit": "codex",
+      "created_utc": 1790679153,
+      "score": 69,
+      "url": "https://reddit.com/r/codex/comments/1wt6xuq/i_do_not_want_to_leave_codex_but_the_current/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-10-03"
+    },
+    "1wt6mj6": {
+      "title": "Burn banked reset now or wait for today’s announcement?",
+      "subreddit": "codex",
+      "created_utc": 1790678025,
+      "score": 22,
+      "url": "https://reddit.com/r/codex/comments/1wt6mj6/burn_banked_reset_now_or_wait_for_todays/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-10-03"
+    },
+    "1wt2pkl": {
+      "title": "Codex 5xPro usage limits getting significantly worse?",
+      "subreddit": "codex",
+      "created_utc": 1790663415,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1wt2pkl/codex_5xpro_usage_limits_getting_significantly/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-10-03"
+    },
+    "1ws18sn": {
+      "title": "Trying Opus 5.5...",
+      "subreddit": "codex",
+      "created_utc": 1790558265,
+      "score": 156,
+      "url": "https://reddit.com/r/codex/comments/1ws18sn/trying_opus_55/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-10-03"
     }
   }
 }
