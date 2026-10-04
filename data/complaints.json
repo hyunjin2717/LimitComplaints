@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-10-03T11:28:16.961203+00:00",
-    "total_posts_analyzed": 12420,
-    "total_complaints": 3714
+    "last_updated": "2026-10-04T12:08:56.617799+00:00",
+    "total_posts_analyzed": 12466,
+    "total_complaints": 3734
   },
   "posts": {
     "1sg1yvw": {
@@ -45341,6 +45341,247 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-10-03"
+    },
+    "1ww7s2q": {
+      "title": "Usage Limit Changed?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1790981960,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1ww7s2q/usage_limit_changed/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-10-04"
+    },
+    "1ww11ib": {
+      "title": "What are you actually using the Research feature for?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1790965103,
+      "score": 2,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1ww11ib/what_are_you_actually_using_the_research_feature/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-10-04"
+    },
+    "1wvw1il": {
+      "title": "I've worked in video for 20+ years. Claude made us a launch video entirely in code, soundtrack included, in one night. Motion design as we knew it, is cooked.",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1790953233,
+      "score": 131,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wvw1il/ive_worked_in_video_for_20_years_claude_made_us_a/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-10-04"
+    },
+    "1wvug6d": {
+      "title": "Any advice on handling weekly usage limits",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1790949298,
+      "score": 5,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wvug6d/any_advice_on_handling_weekly_usage_limits/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-10-04"
+    },
+    "1wvkj7c": {
+      "title": "Was burning ~$300/mo in extra usage on Pro just to stay on Medium. Max at $140 and High all week is only at 46%.",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1790915233,
+      "score": 6,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wvkj7c/was_burning_300mo_in_extra_usage_on_pro_just_to/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-10-04"
+    },
+    "1wv7ssr": {
+      "title": "Lost 9% of my 5-hour limit in 2 prompts (50 seconds) on Opus 5.5 High (Pro plan)",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1790880591,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wv7ssr/lost_9_of_my_5hour_limit_in_2_prompts_50_seconds/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-10-04"
+    },
+    "1wv3wxc": {
+      "title": "Usage...",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1790871807,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wv3wxc/usage/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-10-04"
+    },
+    "1wuwb5a": {
+      "title": "Claude Code users: does your weekly reset land at an awkward time in your work week?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1790851987,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wuwb5a/claude_code_users_does_your_weekly_reset_land_at/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-10-04"
+    },
+    "1wucrr4": {
+      "title": "Resubscribing to Max 20x after expiry: does the weekly limit reset or carry over?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1790792967,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wucrr4/resubscribing_to_max_20x_after_expiry_does_the/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-10-04"
+    },
+    "1wu9lpg": {
+      "title": "How much does a Claude Enterprise Premium seat actually cost?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1790785915,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wu9lpg/how_much_does_a_claude_enterprise_premium_seat/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-10-04"
+    },
+    "1wu3drv": {
+      "title": "What do usage credits actually equate to in terms of amount of usage",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1790770622,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wu3drv/what_do_usage_credits_actually_equate_to_in_terms/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-10-04"
+    },
+    "1wtgro1": {
+      "title": "Clause Usage Limit",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1790703737,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wtgro1/clause_usage_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-10-04"
+    },
+    "1wt7cvo": {
+      "title": "Effort mean power ?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1790680568,
+      "score": 2,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wt7cvo/effort_mean_power/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 2,
+      "fetched_date": "2026-10-04"
+    },
+    "1wsijnv": {
+      "title": "Measured it: headless Claude Code (Agent SDK / claude -p) eats ~3x more of the 5-hour limit per token than interactive use (vscode)",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1790611208,
+      "score": 9,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wsijnv/measured_it_headless_claude_code_agent_sdk_claude/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-10-04"
+    },
+    "1wsfl82": {
+      "title": "What did you actually find when Claude Code started hitting usage limits sooner?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1790604424,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wsfl82/what_did_you_actually_find_when_claude_code/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-10-04"
+    },
+    "1wsep0x": {
+      "title": "Sloppy Kart — a totally finished product™",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1790602237,
+      "score": 475,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wsep0x/sloppy_kart_a_totally_finished_product/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-10-04"
+    },
+    "1wsawfx": {
+      "title": "Opus Limit on Personal Max 20x Plan after using my banked reset?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1790591078,
+      "score": 6,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wsawfx/opus_limit_on_personal_max_20x_plan_after_using/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-10-04"
+    },
+    "1ws96ca": {
+      "title": "weekly usage limit + coding",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1790584795,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1ws96ca/weekly_usage_limit_coding/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-10-04"
+    },
+    "1wqyeub": {
+      "title": "Project setup credit bugged?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1790448802,
+      "score": 2,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wqyeub/project_setup_credit_bugged/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-10-04"
+    },
+    "1wuay3g": {
+      "title": "You can't hit your 5h limit if the model takes 1h per small task",
+      "subreddit": "codex",
+      "created_utc": 1790788917,
+      "score": 611,
+      "url": "https://reddit.com/r/codex/comments/1wuay3g/you_cant_hit_your_5h_limit_if_the_model_takes_1h/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-10-04"
     }
   }
 }
