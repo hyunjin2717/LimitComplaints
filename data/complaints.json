@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-10-06T13:10:02.748269+00:00",
-    "total_posts_analyzed": 12470,
-    "total_complaints": 3734
+    "last_updated": "2026-10-07T13:05:34.212479+00:00",
+    "total_posts_analyzed": 12480,
+    "total_complaints": 3742
   },
   "posts": {
     "1sg1yvw": {
@@ -45582,6 +45582,104 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-10-04"
+    },
+    "1wxntoy": {
+      "title": "I made a Mod that shows your 5h/weekly usage live, a reset forecast and context % above the prompt box, with optional auto compact and a manual compact button",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1791141024,
+      "score": 10,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wxntoy/i_made_a_mod_that_shows_your_5hweekly_usage_live/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-10-07"
+    },
+    "1wv51i1": {
+      "title": "I bought a second Claude account to test it fairly against Cursor and Codex, and it still wasn't clean",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1790874370,
+      "score": 4,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wv51i1/i_bought_a_second_claude_account_to_test_it/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-10-07"
+    },
+    "1wv4eth": {
+      "title": "Blocked by weekly limit despite having $241 of the $250 Cloud Session credits remaining?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1790872952,
+      "score": 5,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wv4eth/blocked_by_weekly_limit_despite_having_241_of_the/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-10-07"
+    },
+    "1wtd1tn": {
+      "title": "Got my most expensive coding AI Sub i ever gotten after trying Alternatives",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1790695414,
+      "score": 15,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wtd1tn/got_my_most_expensive_coding_ai_sub_i_ever_gotten/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-10-07"
+    },
+    "1wux4fz": {
+      "title": "New 'Pages' feature silently started Work tasks and used 13% of my 5-hour usage limit",
+      "subreddit": "ChatGPT",
+      "created_utc": 1790854654,
+      "score": 5,
+      "url": "https://reddit.com/r/ChatGPT/comments/1wux4fz/new_pages_feature_silently_started_work_tasks_and/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-10-07"
+    },
+    "1wxb4l9": {
+      "title": "ChatGPT Plus and no 5h limit?",
+      "subreddit": "codex",
+      "created_utc": 1791104721,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1wxb4l9/chatgpt_plus_and_no_5h_limit/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-10-07"
+    },
+    "1wwzvfn": {
+      "title": "Rust port of CLIProxyAPI: spread Codex across several ChatGPT accounts and see each one's 5h / weekly limit on one screen",
+      "subreddit": "codex",
+      "created_utc": 1791066691,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1wwzvfn/rust_port_of_cliproxyapi_spread_codex_across/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-10-07"
+    },
+    "1wtyh2v": {
+      "title": "Full 5h limit disappearing within minutes?",
+      "subreddit": "codex",
+      "created_utc": 1790752869,
+      "score": 4,
+      "url": "https://reddit.com/r/codex/comments/1wtyh2v/full_5h_limit_disappearing_within_minutes/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-10-07"
     }
   }
 }
