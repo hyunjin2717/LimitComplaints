@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-10-07T13:05:34.212479+00:00",
-    "total_posts_analyzed": 12480,
-    "total_complaints": 3742
+    "last_updated": "2026-10-08T13:26:36.146008+00:00",
+    "total_posts_analyzed": 12485,
+    "total_complaints": 3744
   },
   "posts": {
     "1sg1yvw": {
@@ -45680,6 +45680,31 @@
       ],
       "complaint_score": 4,
       "fetched_date": "2026-10-07"
+    },
+    "1x0hit3": {
+      "title": "A Mathematical Proof: Codex's Weekly Limit Uses Optimal Greedy Interval Covering to Minimize Quota Renewals",
+      "subreddit": "codex",
+      "created_utc": 1791433265,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1x0hit3/a_mathematical_proof_codexs_weekly_limit_uses/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-10-08"
+    },
+    "1wv43zg": {
+      "title": "GPT 6.1 Sol better than i thought",
+      "subreddit": "codex",
+      "created_utc": 1790872258,
+      "score": 15,
+      "url": "https://reddit.com/r/codex/comments/1wv43zg/gpt_61_sol_better_than_i_thought/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-10-08"
     }
   }
 }
