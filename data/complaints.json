@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-10-08T13:26:36.146008+00:00",
-    "total_posts_analyzed": 12485,
-    "total_complaints": 3744
+    "last_updated": "2026-10-09T13:00:14.165310+00:00",
+    "total_posts_analyzed": 12488,
+    "total_complaints": 3746
   },
   "posts": {
     "1sg1yvw": {
@@ -45705,6 +45705,31 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-10-08"
+    },
+    "1x17xak": {
+      "title": "OpenAI's Desktop and Browser interface has been shitty since GPT 3. They are a billion dollar company, there's no excuse for it. Standard Voice has been missing for 2 and a half weeks now with no timeline on if or when it will be restored. If it's been sunset, they need to own it.",
+      "subreddit": "ChatGPT",
+      "created_utc": 1791507437,
+      "score": 1,
+      "url": "https://reddit.com/r/ChatGPT/comments/1x17xak/openais_desktop_and_browser_interface_has_been/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-10-09"
+    },
+    "1ww7d5f": {
+      "title": "I kept getting \"Too many requests\" while deleting old chats, so I built a free tool that deletes them slowly and waits when ChatGPT says so",
+      "subreddit": "ChatGPT",
+      "created_utc": 1790980771,
+      "score": 6,
+      "url": "https://reddit.com/r/ChatGPT/comments/1ww7d5f/i_kept_getting_too_many_requests_while_deleting/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-10-09"
     }
   }
 }
