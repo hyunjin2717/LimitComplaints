@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-10-11T12:30:13.052074+00:00",
-    "total_posts_analyzed": 12495,
-    "total_complaints": 3748
+    "last_updated": "2026-10-12T14:59:19.002129+00:00",
+    "total_posts_analyzed": 12503,
+    "total_complaints": 3750
   },
   "posts": {
     "1sg1yvw": {
@@ -45754,6 +45754,31 @@
       ],
       "complaint_score": 7,
       "fetched_date": "2026-10-11"
+    },
+    "1x1qj57": {
+      "title": "Possible Codex bug since October 7: GPT 6.1 Sol has almost no prompt cache hits, and ChatGPT Plus quota keeps dropping while using an external model (DeepSeek)",
+      "subreddit": "codex",
+      "created_utc": 1791564741,
+      "score": 35,
+      "url": "https://reddit.com/r/codex/comments/1x1qj57/possible_codex_bug_since_october_7_gpt_61_sol_has/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-10-12"
+    },
+    "1x3vdk3": {
+      "title": "Selected Model is at Capacity",
+      "subreddit": "codex",
+      "created_utc": 1791789704,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1x3vdk3/selected_model_is_at_capacity/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-10-12"
     }
   }
 }
