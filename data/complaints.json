@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-10-12T14:59:19.002129+00:00",
-    "total_posts_analyzed": 12503,
-    "total_complaints": 3750
+    "last_updated": "2026-10-13T13:57:37.426751+00:00",
+    "total_posts_analyzed": 12510,
+    "total_complaints": 3751
   },
   "posts": {
     "1sg1yvw": {
@@ -45779,6 +45779,19 @@
       ],
       "complaint_score": 4,
       "fetched_date": "2026-10-12"
+    },
+    "1x4f0fa": {
+      "title": "Sonnet 5.5 (Claude Code) vs GPT 6.1 Sol (Codex) playing Stratego against each other. Codex hit its usage limit mid-game, so here’s what I have so far..",
+      "subreddit": "ChatGPT",
+      "created_utc": 1791841715,
+      "score": 1,
+      "url": "https://reddit.com/r/ChatGPT/comments/1x4f0fa/sonnet_55_claude_code_vs_gpt_61_sol_codex_playing/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-10-13"
     }
   }
 }
