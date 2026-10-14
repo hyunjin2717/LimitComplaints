@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-10-13T13:57:37.426751+00:00",
-    "total_posts_analyzed": 12510,
-    "total_complaints": 3751
+    "last_updated": "2026-10-14T11:35:33.794289+00:00",
+    "total_posts_analyzed": 12525,
+    "total_complaints": 3759
   },
   "posts": {
     "1sg1yvw": {
@@ -45792,6 +45792,102 @@
       ],
       "complaint_score": 6,
       "fetched_date": "2026-10-13"
+    },
+    "1x3fj1a": {
+      "title": "Weekly quota unlimited?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1791743140,
+      "score": 19,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1x3fj1a/weekly_quota_unlimited/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-10-14"
+    },
+    "1x0hbkq": {
+      "title": "I kept running out of my weekly Claude quota before the week was over, so I built a menu-bar app that warns me early",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1791432598,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1x0hbkq/i_kept_running_out_of_my_weekly_claude_quota/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-10-14"
+    },
+    "1x3lzc0": {
+      "title": "Does anyone still use Fable 5.1 these days?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1791759340,
+      "score": 303,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1x3lzc0/does_anyone_still_use_fable_51_these_days/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-10-14"
+    },
+    "1x0ryxj": {
+      "title": "Thinking of getting teams 2 seats for cowork use",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1791468692,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1x0ryxj/thinking_of_getting_teams_2_seats_for_cowork_use/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-10-14"
+    },
+    "1x017ft": {
+      "title": "I built a local and private Universal File Opener & Editor with file inspection in your browser, as a CLI, for Android, and for Windows",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1791390762,
+      "score": 4,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1x017ft/i_built_a_local_and_private_universal_file_opener/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-10-14"
+    },
+    "1wzcz0q": {
+      "title": "mods are really powerfull",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1791317602,
+      "score": 16,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1wzcz0q/mods_are_really_powerfull/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-10-14"
+    },
+    "1x2xcqa": {
+      "title": "Our gate passed because the file existed. The file contained the error message.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1791687915,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1x2xcqa/our_gate_passed_because_the_file_existed_the_file/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-10-14"
+    },
+    "1x4r8ky": {
+      "title": "OpenAI denied my Pro 200 grandfathering. I was billed every month through their own eligibility window. Two replies later they still won’t say which criterion I failed. Did this happen to you?",
+      "subreddit": "OpenAI",
+      "created_utc": 1791880453,
+      "score": 1,
+      "url": "https://reddit.com/r/OpenAI/comments/1x4r8ky/openai_denied_my_pro_200_grandfathering_i_was/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-10-14"
     }
   }
 }
