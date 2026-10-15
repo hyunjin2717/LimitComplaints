@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-10-14T11:35:33.794289+00:00",
-    "total_posts_analyzed": 12525,
-    "total_complaints": 3759
+    "last_updated": "2026-10-15T11:13:27.109986+00:00",
+    "total_posts_analyzed": 12540,
+    "total_complaints": 3763
   },
   "posts": {
     "1sg1yvw": {
@@ -45888,6 +45888,56 @@
       ],
       "complaint_score": 4,
       "fetched_date": "2026-10-14"
+    },
+    "1x1fpdf": {
+      "title": "Is the 5h limit broken?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1791533724,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1x1fpdf/is_the_5h_limit_broken/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-10-15"
+    },
+    "1x10vw6": {
+      "title": "Local hardware vs Cloud APIs: Is it actually worth buying a Mac Studio or 2x DGX Sparks for real agentic coding?",
+      "subreddit": "LocalLLaMA",
+      "created_utc": 1791489132,
+      "score": 0,
+      "url": "https://reddit.com/r/LocalLLaMA/comments/1x10vw6/local_hardware_vs_cloud_apis_is_it_actually_worth/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-10-15"
+    },
+    "1x4sfa9": {
+      "title": "OpenAI denied my Pro 200 grandfathering. I was billed every month through their own eligibility window. Two replies later they still won’t say which criterion I failed. Did this happen to you?",
+      "subreddit": "codex",
+      "created_utc": 1791885080,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1x4sfa9/openai_denied_my_pro_200_grandfathering_i_was/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-10-15"
+    },
+    "1x46r64": {
+      "title": "I ran GPT 6.1 Sol against GPT 6 Sol on 24 tasks from my own repo, and found that it maintained quality while cutting cost in half",
+      "subreddit": "codex",
+      "created_utc": 1791823060,
+      "score": 27,
+      "url": "https://reddit.com/r/codex/comments/1x46r64/i_ran_gpt_61_sol_against_gpt_6_sol_on_24_tasks/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-10-15"
     }
   }
 }
