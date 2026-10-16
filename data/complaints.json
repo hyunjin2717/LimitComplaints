@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-10-15T11:13:27.109986+00:00",
-    "total_posts_analyzed": 12540,
-    "total_complaints": 3763
+    "last_updated": "2026-10-16T11:07:49.901708+00:00",
+    "total_posts_analyzed": 12553,
+    "total_complaints": 3768
   },
   "posts": {
     "1sg1yvw": {
@@ -45938,6 +45938,67 @@
       ],
       "complaint_score": 4,
       "fetched_date": "2026-10-15"
+    },
+    "1x6al0c": {
+      "title": "I made a Claude Code mod that shows your 5-hour and weekly limits above the prompt and warns you before you hit them",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1792032955,
+      "score": 8,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1x6al0c/i_made_a_claude_code_mod_that_shows_your_5hour/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 9,
+      "fetched_date": "2026-10-16"
+    },
+    "1x5spjh": {
+      "title": "Upgraded from 5x to 20x and Weekly usage did not drop",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1791988104,
+      "score": 3,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1x5spjh/upgraded_from_5x_to_20x_and_weekly_usage_did_not/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-10-16"
+    },
+    "1x4zly6": {
+      "title": "I'm really not getting it !! Why people are soo mad at Openai usage limit 🤷 .. gpt 6.1 sol high worked for 30 min and uses only 2% of my weekly usage ...",
+      "subreddit": "OpenAI",
+      "created_utc": 1791905092,
+      "score": 0,
+      "url": "https://reddit.com/r/OpenAI/comments/1x4zly6/im_really_not_getting_it_why_people_are_soo_mad/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-10-16"
+    },
+    "1x6jmjz": {
+      "title": "ChatGPT Plus seems dead.",
+      "subreddit": "OpenAI",
+      "created_utc": 1792065266,
+      "score": 47,
+      "url": "https://reddit.com/r/OpenAI/comments/1x6jmjz/chatgpt_plus_seems_dead/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-10-16"
+    },
+    "1x35it8": {
+      "title": "Usage resets...",
+      "subreddit": "OpenAI",
+      "created_utc": 1791716976,
+      "score": 9,
+      "url": "https://reddit.com/r/OpenAI/comments/1x35it8/usage_resets/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-10-16"
     }
   }
 }
