@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-10-16T11:07:49.901708+00:00",
-    "total_posts_analyzed": 12553,
-    "total_complaints": 3768
+    "last_updated": "2026-10-17T10:29:01.513882+00:00",
+    "total_posts_analyzed": 12557,
+    "total_complaints": 3770
   },
   "posts": {
     "1sg1yvw": {
@@ -45999,6 +45999,30 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-10-16"
+    },
+    "1x7vp8d": {
+      "title": "GPT-6 Sol in Chat is great if your main problem was a lack of colored boxes",
+      "subreddit": "OpenAI",
+      "created_utc": 1792194505,
+      "score": 1,
+      "url": "https://reddit.com/r/OpenAI/comments/1x7vp8d/gpt6_sol_in_chat_is_great_if_your_main_problem/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-10-17"
+    },
+    "1x5mvmg": {
+      "title": "One small thing Open AI does silently that is very commendable",
+      "subreddit": "codex",
+      "created_utc": 1791970677,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1x5mvmg/one_small_thing_open_ai_does_silently_that_is/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-10-17"
     }
   }
 }
