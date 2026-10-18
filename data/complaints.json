@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-10-17T10:29:01.513882+00:00",
-    "total_posts_analyzed": 12557,
-    "total_complaints": 3770
+    "last_updated": "2026-10-18T10:46:01.046131+00:00",
+    "total_posts_analyzed": 12577,
+    "total_complaints": 3787
   },
   "posts": {
     "1sg1yvw": {
@@ -46023,6 +46023,214 @@
       ],
       "complaint_score": 5,
       "fetched_date": "2026-10-17"
+    },
+    "1x7oyt9": {
+      "title": "Claude completed my audit, failed to give me the file, then exhausted my ENTIRE reset usage limit when I asked for it. WTF?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1792177508,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1x7oyt9/claude_completed_my_audit_failed_to_give_me_the/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-10-18"
+    },
+    "1x7nyvy": {
+      "title": "Claude restarted my entire task after I hit the usage limit. Is there any way to recover the work?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1792175198,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1x7nyvy/claude_restarted_my_entire_task_after_i_hit_the/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-10-18"
+    },
+    "1x6geq9": {
+      "title": "Tips for usage limit?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1792053893,
+      "score": 4,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1x6geq9/tips_for_usage_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-10-18"
+    },
+    "1x63tys": {
+      "title": "At this point I'm mostly excited for Fable 5.5 to drop just for a new usage limit reset, rather than the actual model itself",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1792013768,
+      "score": 281,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1x63tys/at_this_point_im_mostly_excited_for_fable_55_to/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-10-18"
+    },
+    "1x5y800": {
+      "title": "Claude Max subscription expires before my weekly usage reset, will resubscribing reset my limit?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1792000674,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1x5y800/claude_max_subscription_expires_before_my_weekly/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-10-18"
+    },
+    "1x5a328": {
+      "title": "Less than 24 hours after praising the usage limit changes, Opus 5.5 started rationing my usage for me",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1791928852,
+      "score": 6,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1x5a328/less_than_24_hours_after_praising_the_usage_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 9,
+      "fetched_date": "2026-10-18"
+    },
+    "1x540si": {
+      "title": "PSA: Claude Code wrote me an uncapped test loop, ran it in the background, told me it was “idle,” then hit its daily usage limit. It ran 17 hours and cost about $2.1K",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1791914797,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1x540si/psa_claude_code_wrote_me_an_uncapped_test_loop/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-10-18"
+    },
+    "1x4q2bl": {
+      "title": "Claude Usage Limit Discrepancies",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1791875720,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1x4q2bl/claude_usage_limit_discrepancies/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-10-18"
+    },
+    "1x4l1tj": {
+      "title": "Didn’t expect to be this pleased about a usage limit reset",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1791858714,
+      "score": 100,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1x4l1tj/didnt_expect_to_be_this_pleased_about_a_usage/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-10-18"
+    },
+    "1x4inan": {
+      "title": "∼21 BILLION tokens per weekly limit on the Max 20x Claude Code usage",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1791851638,
+      "score": 82,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1x4inan/21_billion_tokens_per_weekly_limit_on_the_max_20x/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-10-18"
+    },
+    "1x6v9ya": {
+      "title": "ChatGPT Classic (Windows 11) — Unable to log in after logging out. NextAuth.js HTTP GET error after 2FA",
+      "subreddit": "ChatGPT",
+      "created_utc": 1792092895,
+      "score": 1,
+      "url": "https://reddit.com/r/ChatGPT/comments/1x6v9ya/chatgpt_classic_windows_11_unable_to_log_in_after/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-10-18"
+    },
+    "1x67cgj": {
+      "title": "ChatGPT Plus: Anyone else getting repeated \"Too many requests\" warnings despite very light usage? Windows desktop app bug?",
+      "subreddit": "ChatGPT",
+      "created_utc": 1792023203,
+      "score": 7,
+      "url": "https://reddit.com/r/ChatGPT/comments/1x67cgj/chatgpt_plus_anyone_else_getting_repeated_too/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-10-18"
+    },
+    "1x87biw": {
+      "title": "GPT-6 Sol in Chat is great if your main problem was a lack of colored boxes",
+      "subreddit": "codex",
+      "created_utc": 1792234395,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1x87biw/gpt6_sol_in_chat_is_great_if_your_main_problem/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-10-18"
+    },
+    "1x7cxdu": {
+      "title": "I built a tiny Windows panel that shows your Codex limits on the  screen edge, so I can stop keeping usage tabs open",
+      "subreddit": "codex",
+      "created_utc": 1792147545,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1x7cxdu/i_built_a_tiny_windows_panel_that_shows_your/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-10-18"
+    },
+    "1x77t5r": {
+      "title": "I built a Codex CLI plugin that automatically resumes your session after the usage limit resets",
+      "subreddit": "codex",
+      "created_utc": 1792128452,
+      "score": 1,
+      "url": "https://reddit.com/r/codex/comments/1x77t5r/i_built_a_codex_cli_plugin_that_automatically/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 9,
+      "fetched_date": "2026-10-18"
+    },
+    "1x6ynmg": {
+      "title": "I built a free Windows widget that keeps Codex usage limits and reset times in view",
+      "subreddit": "codex",
+      "created_utc": 1792101007,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1x6ynmg/i_built_a_free_windows_widget_that_keeps_codex/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-10-18"
+    },
+    "1x5kr1w": {
+      "title": "Sharing some Dot tricks I was using recently",
+      "subreddit": "codex",
+      "created_utc": 1791962227,
+      "score": 41,
+      "url": "https://reddit.com/r/codex/comments/1x5kr1w/sharing_some_dot_tricks_i_was_using_recently/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-10-18"
     }
   }
 }
