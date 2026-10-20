@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-10-19T12:42:46.027775+00:00",
-    "total_posts_analyzed": 12577,
-    "total_complaints": 3787
+    "last_updated": "2026-10-20T11:16:39.660915+00:00",
+    "total_posts_analyzed": 12585,
+    "total_complaints": 3790
   },
   "posts": {
     "1sg1yvw": {
@@ -46231,6 +46231,42 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-10-18"
+    },
+    "1x9asvl": {
+      "title": "I asked how to check whether my ISP gives me a dynamic IP, and Claude started acting like I was requesting classified nuclear launch codes.",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1792348862,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1x9asvl/i_asked_how_to_check_whether_my_isp_gives_me_a/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-10-20"
+    },
+    "1x7if1u": {
+      "title": "Compaction appears to fire much earlier on accounts with the new update, and the usage tracker shows the context window cut after tool use. Data + how to check yours",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1792162579,
+      "score": 5,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1x7if1u/compaction_appears_to_fire_much_earlier_on/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-10-20"
+    },
+    "1x67dyi": {
+      "title": "ChatGPT Plus: Anyone else getting repeated \"Too many requests\" warnings despite very light usage? Windows desktop app bug?",
+      "subreddit": "OpenAI",
+      "created_utc": 1792023326,
+      "score": 4,
+      "url": "https://reddit.com/r/OpenAI/comments/1x67dyi/chatgpt_plus_anyone_else_getting_repeated_too/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-10-20"
     }
   }
 }
