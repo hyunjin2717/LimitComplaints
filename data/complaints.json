@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-10-20T11:16:39.660915+00:00",
-    "total_posts_analyzed": 12585,
-    "total_complaints": 3790
+    "last_updated": "2026-10-21T11:33:42.860043+00:00",
+    "total_posts_analyzed": 12603,
+    "total_complaints": 3802
   },
   "posts": {
     "1sg1yvw": {
@@ -46267,6 +46267,156 @@
       ],
       "complaint_score": 5,
       "fetched_date": "2026-10-20"
+    },
+    "1xasfaq": {
+      "title": "Anyone else using ChatGPT Pro for creative projects like manga or worldbuilding instead of coding?",
+      "subreddit": "ChatGPT",
+      "created_utc": 1792503564,
+      "score": 1,
+      "url": "https://reddit.com/r/ChatGPT/comments/1xasfaq/anyone_else_using_chatgpt_pro_for_creative/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-10-21"
+    },
+    "1xaqamq": {
+      "title": "Has anyone tried both Claude Pro ($20) and ChatGPT Plus ($20)? How do their usage limits compare?",
+      "subreddit": "ChatGPT",
+      "created_utc": 1792497781,
+      "score": 1,
+      "url": "https://reddit.com/r/ChatGPT/comments/1xaqamq/has_anyone_tried_both_claude_pro_20_and_chatgpt/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-10-21"
+    },
+    "1xabmyn": {
+      "title": "I built a tiny Windows app that warns you before you hit your Codex weekly limit",
+      "subreddit": "ChatGPT",
+      "created_utc": 1792450152,
+      "score": 1,
+      "url": "https://reddit.com/r/ChatGPT/comments/1xabmyn/i_built_a_tiny_windows_app_that_warns_you_before/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-10-21"
+    },
+    "1x8lqy2": {
+      "title": "Shocking how bad ChatGPT is at making video ads compared to Claude",
+      "subreddit": "ChatGPT",
+      "created_utc": 1792272486,
+      "score": 2,
+      "url": "https://reddit.com/r/ChatGPT/comments/1x8lqy2/shocking_how_bad_chatgpt_is_at_making_video_ads/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-10-21"
+    },
+    "1x8aj47": {
+      "title": "Extremely high usage in Codex",
+      "subreddit": "ChatGPT",
+      "created_utc": 1792244430,
+      "score": 19,
+      "url": "https://reddit.com/r/ChatGPT/comments/1x8aj47/extremely_high_usage_in_codex/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-10-21"
+    },
+    "1x7njc4": {
+      "title": "I built a ChatGPT plugin that lets regular Chat mode work like Codex. Finally, no more worrying about usage limits.",
+      "subreddit": "ChatGPT",
+      "created_utc": 1792174230,
+      "score": 0,
+      "url": "https://reddit.com/r/ChatGPT/comments/1x7njc4/i_built_a_chatgpt_plugin_that_lets_regular_chat/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-10-21"
+    },
+    "1x7ngf9": {
+      "title": "I built a ChatGPT plugin that lets regular Chat mode work like Codex. Finally, no more worrying about usage limits",
+      "subreddit": "ChatGPT",
+      "created_utc": 1792174056,
+      "score": 1,
+      "url": "https://reddit.com/r/ChatGPT/comments/1x7ngf9/i_built_a_chatgpt_plugin_that_lets_regular_chat/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-10-21"
+    },
+    "1x7fnte": {
+      "title": "Looked into ChatGPT Plus vs Claude Pro. the coding limits were more interesting than the feature lists",
+      "subreddit": "ChatGPT",
+      "created_utc": 1792155791,
+      "score": 0,
+      "url": "https://reddit.com/r/ChatGPT/comments/1x7fnte/looked_into_chatgpt_plus_vs_claude_pro_the_coding/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-10-21"
+    },
+    "1x7dnxz": {
+      "title": "ChatGPT Plus vs Claude Pro for me?",
+      "subreddit": "ChatGPT",
+      "created_utc": 1792150001,
+      "score": 1,
+      "url": "https://reddit.com/r/ChatGPT/comments/1x7dnxz/chatgpt_plus_vs_claude_pro_for_me/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-10-21"
+    },
+    "1x72zqv": {
+      "title": "OpenAI support correspondence — Message 12/61: Acknowledging payment evidence and asking about scheduled tasks",
+      "subreddit": "ChatGPT",
+      "created_utc": 1792112966,
+      "score": 0,
+      "url": "https://reddit.com/r/ChatGPT/comments/1x72zqv/openai_support_correspondence_message_1261/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 2,
+      "fetched_date": "2026-10-21"
+    },
+    "1x6zatx": {
+      "title": "You've hit your usage limit. Upgrade your plan or add credits to continue, or try again at 5:43 PM.",
+      "subreddit": "ChatGPT",
+      "created_utc": 1792102693,
+      "score": 1,
+      "url": "https://reddit.com/r/ChatGPT/comments/1x6zatx/youve_hit_your_usage_limit_upgrade_your_plan_or/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-10-21"
+    },
+    "1x6oujx": {
+      "title": "Claude is better then chatgpt in everything",
+      "subreddit": "ChatGPT",
+      "created_utc": 1792078355,
+      "score": 0,
+      "url": "https://reddit.com/r/ChatGPT/comments/1x6oujx/claude_is_better_then_chatgpt_in_everything/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-10-21"
     }
   }
 }
