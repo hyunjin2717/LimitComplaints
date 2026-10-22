@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-10-21T11:33:42.860043+00:00",
-    "total_posts_analyzed": 12603,
-    "total_complaints": 3802
+    "last_updated": "2026-10-22T11:33:43.993920+00:00",
+    "total_posts_analyzed": 12640,
+    "total_complaints": 3819
   },
   "posts": {
     "1sg1yvw": {
@@ -46417,6 +46417,219 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-10-21"
+    },
+    "1xbfnf0": {
+      "title": "Built an entire AI dev squad for my game and now im spending more time managing AIs than coding",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1792564131,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1xbfnf0/built_an_entire_ai_dev_squad_for_my_game_and_now/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-10-22"
+    },
+    "1xb3lle": {
+      "title": "does claude code get dumber when you approach your weekly usage limit?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1792528931,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1xb3lle/does_claude_code_get_dumber_when_you_approach/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-10-22"
+    },
+    "1xaz1ux": {
+      "title": "Hitting usage limit fast all of a sudden on Sonnet 5.5",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1792518688,
+      "score": 6,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1xaz1ux/hitting_usage_limit_fast_all_of_a_sudden_on/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-10-22"
+    },
+    "1xannrn": {
+      "title": "Been a Codex user forever, my $100 plan just expired. Should I finally switch to Claude?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1792488975,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1xannrn/been_a_codex_user_forever_my_100_plan_just/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-10-22"
+    },
+    "1xakl7o": {
+      "title": "How do you guys manage the 5-hour limit on Pro without wasting so much usage?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1792477270,
+      "score": 116,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1xakl7o/how_do_you_guys_manage_the_5hour_limit_on_pro/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-10-22"
+    },
+    "1xa2sp6": {
+      "title": "Model min-max strategies",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1792430072,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1xa2sp6/model_minmax_strategies/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-10-22"
+    },
+    "1x9hrl6": {
+      "title": "I’m on the $20/month pro plan. I have a question about the one time purchase of $100 usage credits.",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1792366679,
+      "score": 8,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1x9hrl6/im_on_the_20month_pro_plan_i_have_a_question/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-10-22"
+    },
+    "1x7o895": {
+      "title": "I built a free Windows widget for Claude usage limits with Claude Code — pixel Clawd reacts to your sessions",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1792175792,
+      "score": 415,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1x7o895/i_built_a_free_windows_widget_for_claude_usage/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-10-22"
+    },
+    "1x7mawy": {
+      "title": "Claude usage stuck at 100% — Cowork accounts for 100% of my weekly usage, even though I'm not using it",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1792171403,
+      "score": 2,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1x7mawy/claude_usage_stuck_at_100_cowork_accounts_for_100/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 9,
+      "fetched_date": "2026-10-22"
+    },
+    "1x7dltv": {
+      "title": "ChatGPT Plus vs Claude Pro for me?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1792149807,
+      "score": 5,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1x7dltv/chatgpt_plus_vs_claude_pro_for_me/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-10-22"
+    },
+    "1x6nf6l": {
+      "title": "Regarding Claude and Usage Limits",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1792075182,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1x6nf6l/regarding_claude_and_usage_limits/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-10-22"
+    },
+    "1x5tsqp": {
+      "title": "We about to make some artifacts bby",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1791990680,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1x5tsqp/we_about_to_make_some_artifacts_bby/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-10-22"
+    },
+    "1xcaz2j": {
+      "title": "I got Gemini to use my Android phone through Google's Antigravity CLI (free plan works)",
+      "subreddit": "GoogleGemini",
+      "created_utc": 1792650205,
+      "score": 1,
+      "url": "https://reddit.com/r/GoogleGemini/comments/1xcaz2j/i_got_gemini_to_use_my_android_phone_through/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-10-22"
+    },
+    "1xb9vme": {
+      "title": "Gemini hate",
+      "subreddit": "GoogleGemini",
+      "created_utc": 1792545579,
+      "score": 1,
+      "url": "https://reddit.com/r/GoogleGemini/comments/1xb9vme/gemini_hate/",
+      "models": [
+        "gemini"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-10-22"
+    },
+    "1x9aixz": {
+      "title": "Are Antigravity and Gemini usage limits separate on the same Google AI plan?",
+      "subreddit": "GoogleGemini",
+      "created_utc": 1792348196,
+      "score": 1,
+      "url": "https://reddit.com/r/GoogleGemini/comments/1x9aixz/are_antigravity_and_gemini_usage_limits_separate/",
+      "models": [
+        "gemini"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-10-22"
+    },
+    "1x6q4oh": {
+      "title": "Gemini free tier < Alexa 2023",
+      "subreddit": "GoogleGemini",
+      "created_utc": 1792081254,
+      "score": 2,
+      "url": "https://reddit.com/r/GoogleGemini/comments/1x6q4oh/gemini_free_tier_alexa_2023/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-10-22"
+    },
+    "1xa382q": {
+      "title": "What to do to improve usage: burn limit in 30 min when before was all day",
+      "subreddit": "ChatGPT",
+      "created_utc": 1792430987,
+      "score": 3,
+      "url": "https://reddit.com/r/ChatGPT/comments/1xa382q/what_to_do_to_improve_usage_burn_limit_in_30_min/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-10-22"
     }
   }
 }
