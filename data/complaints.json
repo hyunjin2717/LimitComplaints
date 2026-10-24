@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-10-23T11:22:17.907946+00:00",
-    "total_posts_analyzed": 12643,
-    "total_complaints": 3819
+    "last_updated": "2026-10-24T10:41:27.461618+00:00",
+    "total_posts_analyzed": 12649,
+    "total_complaints": 3822
   },
   "posts": {
     "1sg1yvw": {
@@ -46630,6 +46630,43 @@
       ],
       "complaint_score": 4,
       "fetched_date": "2026-10-22"
+    },
+    "1xd27zr": {
+      "title": "3 months later: my 3D room for AI coding agents now runs on Mac, Windows and Linux, and it can rescue an agent that hits its token limit",
+      "subreddit": "vibecoding",
+      "created_utc": 1792723291,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1xd27zr/3_months_later_my_3d_room_for_ai_coding_agents/",
+      "models": [
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-10-24"
+    },
+    "1xdjizk": {
+      "title": "Got a reality check after using glm 5.3 flash in opencode today",
+      "subreddit": "google_antigravity",
+      "created_utc": 1792774535,
+      "score": 1,
+      "url": "https://reddit.com/r/google_antigravity/comments/1xdjizk/got_a_reality_check_after_using_glm_53_flash_in/",
+      "models": [
+        "gemini"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-10-24"
+    },
+    "1xap5bi": {
+      "title": "Was Gemini painfully slow and lobotomized for anyone else yesterday? Wondering if it’s connected to today's massive Google Cloud London outage.",
+      "subreddit": "google_antigravity",
+      "created_utc": 1792494212,
+      "score": 17,
+      "url": "https://reddit.com/r/google_antigravity/comments/1xap5bi/was_gemini_painfully_slow_and_lobotomized_for/",
+      "models": [
+        "gemini"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-10-24"
     }
   }
 }
