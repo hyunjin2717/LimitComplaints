@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-10-27T11:55:41.680067+00:00",
-    "total_posts_analyzed": 12753,
-    "total_complaints": 3871
+    "last_updated": "2026-10-28T12:29:25.347042+00:00",
+    "total_posts_analyzed": 12775,
+    "total_complaints": 3881
   },
   "posts": {
     "1sg1yvw": {
@@ -47272,6 +47272,126 @@
       ],
       "complaint_score": 4,
       "fetched_date": "2026-10-27"
+    },
+    "1xd7toi": {
+      "title": "Haiku is rate-limited?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1792742068,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1xd7toi/haiku_is_ratelimited/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-10-28"
+    },
+    "1xdjwcj": {
+      "title": "Why did it use 9% of 5h limit to say this?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1792775355,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1xdjwcj/why_did_it_use_9_of_5h_limit_to_say_this/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-10-28"
+    },
+    "1xcq063": {
+      "title": "Comparing 20x to 5x. Is it 4x as much TOTAL usage, or clickbait? I’ve heard 2x, 1.7x, 2.2x. Like wtf is it? If it’s not 2x or more I’ll just get 2 $100 accounts. I never get close to hitting the 5h limit but do reach the max limit weekly.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1792692335,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1xcq063/comparing_20x_to_5x_is_it_4x_as_much_total_usage/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-10-28"
+    },
+    "1xhledj": {
+      "title": "Seems the Plus account has been made useless",
+      "subreddit": "ChatGPT",
+      "created_utc": 1793186651,
+      "score": 1,
+      "url": "https://reddit.com/r/ChatGPT/comments/1xhledj/seems_the_plus_account_has_been_made_useless/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-10-28"
+    },
+    "1xgx94f": {
+      "title": "ChatGPT Chrome extension suddenly stopped working today. Anyone else?",
+      "subreddit": "ChatGPT",
+      "created_utc": 1793118534,
+      "score": 13,
+      "url": "https://reddit.com/r/ChatGPT/comments/1xgx94f/chatgpt_chrome_extension_suddenly_stopped_working/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-10-28"
+    },
+    "1xfuxnl": {
+      "title": "Not a controversial opinion: ChatGPT Plus is one of the best subscriptions you can get.",
+      "subreddit": "ChatGPT",
+      "created_utc": 1793016316,
+      "score": 459,
+      "url": "https://reddit.com/r/ChatGPT/comments/1xfuxnl/not_a_controversial_opinion_chatgpt_plus_is_one/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-10-28"
+    },
+    "1xfqvfp": {
+      "title": "At this point OpenAI might as well remove the limits entirely",
+      "subreddit": "ChatGPT",
+      "created_utc": 1793002364,
+      "score": 23,
+      "url": "https://reddit.com/r/ChatGPT/comments/1xfqvfp/at_this_point_openai_might_as_well_remove_the/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-10-28"
+    },
+    "1xd60o8": {
+      "title": "ChatGPT/Codex not practically usable lately",
+      "subreddit": "ChatGPT",
+      "created_utc": 1792735520,
+      "score": 4,
+      "url": "https://reddit.com/r/ChatGPT/comments/1xd60o8/chatgptcodex_not_practically_usable_lately/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-10-28"
+    },
+    "1xc5rm6": {
+      "title": "Tibo says Dot doesn't touch your weekly usage — so is anyone actually using it for real coding work?",
+      "subreddit": "ChatGPT",
+      "created_utc": 1792633648,
+      "score": 2,
+      "url": "https://reddit.com/r/ChatGPT/comments/1xc5rm6/tibo_says_dot_doesnt_touch_your_weekly_usage_so/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-10-28"
+    },
+    "1xbqu1r": {
+      "title": "OpenAI, Are You Forgetting the Everyday Users Who Helped Make ChatGPT Successful?",
+      "subreddit": "ChatGPT",
+      "created_utc": 1792597802,
+      "score": 26,
+      "url": "https://reddit.com/r/ChatGPT/comments/1xbqu1r/openai_are_you_forgetting_the_everyday_users_who/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-10-28"
     }
   }
 }
