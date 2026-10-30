@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-10-29T12:40:07.198554+00:00",
-    "total_posts_analyzed": 12781,
-    "total_complaints": 3881
+    "last_updated": "2026-10-30T12:32:25.039837+00:00",
+    "total_posts_analyzed": 12787,
+    "total_complaints": 3883
   },
   "posts": {
     "1sg1yvw": {
@@ -47392,6 +47392,30 @@
       ],
       "complaint_score": 5,
       "fetched_date": "2026-10-28"
+    },
+    "1xi3r3v": {
+      "title": "Do Fable usage in chat count against ClaudeCode Fable weekly quota?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1793229309,
+      "score": 3,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1xi3r3v/do_fable_usage_in_chat_count_against_claudecode/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-10-30"
+    },
+    "1xhch06": {
+      "title": "Constant softblocks are driving me MAD (And ruining my workflows multiple times a day) Can you releate?",
+      "subreddit": "ChatGPT",
+      "created_utc": 1793155071,
+      "score": 7,
+      "url": "https://reddit.com/r/ChatGPT/comments/1xhch06/constant_softblocks_are_driving_me_mad_and/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-10-30"
     }
   }
 }
