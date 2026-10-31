@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-10-30T12:32:25.039837+00:00",
-    "total_posts_analyzed": 12787,
-    "total_complaints": 3883
+    "last_updated": "2026-10-31T12:02:39.041924+00:00",
+    "total_posts_analyzed": 12807,
+    "total_complaints": 3891
   },
   "posts": {
     "1sg1yvw": {
@@ -47416,6 +47416,102 @@
       ],
       "complaint_score": 6,
       "fetched_date": "2026-10-30"
+    },
+    "1xjmzzs": {
+      "title": "Auto-switch accounts on usage limit, auto-continue at reset: a zero-dependency gateway for Claude Code (Windows/Linux)",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1793384189,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1xjmzzs/autoswitch_accounts_on_usage_limit_autocontinue/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-10-31"
+    },
+    "1xj9aj4": {
+      "title": "5-hour session ate 18% weekly usage limit on Pro",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1793346986,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1xj9aj4/5hour_session_ate_18_weekly_usage_limit_on_pro/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-10-31"
+    },
+    "1xiqkjf": {
+      "title": "Is there any way to adjust your usage limit in the Claude Code mobile app? It seems like you can only do it through the website.",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1793295235,
+      "score": 3,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1xiqkjf/is_there_any_way_to_adjust_your_usage_limit_in/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-10-31"
+    },
+    "1xhik3y": {
+      "title": "I built an open-source app that hands a coding task to another agent when one hits its usage limit",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1793176563,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1xhik3y/i_built_an_opensource_app_that_hands_a_coding/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-10-31"
+    },
+    "1xgtoj0": {
+      "title": "Man, the usage limit has been lowered as hell",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1793110449,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1xgtoj0/man_the_usage_limit_has_been_lowered_as_hell/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-10-31"
+    },
+    "1xe7kly": {
+      "title": "Claude's Usage Limit Hit 1 hour After Weekly Limit??",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1792845469,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1xe7kly/claudes_usage_limit_hit_1_hour_after_weekly_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-10-31"
+    },
+    "1xdvl2s": {
+      "title": "Measured my Max 20x weekly limit from Claude Code transcripts: since Oct 15 it holds about half the usage it did the week before",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1792804526,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1xdvl2s/measured_my_max_20x_weekly_limit_from_claude_code/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-10-31"
+    },
+    "1xhskcl": {
+      "title": "Opus Tuner – An open-source Claude skill to optimize Opus behavior",
+      "subreddit": "PromptEngineering",
+      "created_utc": 1793204205,
+      "score": 6,
+      "url": "https://reddit.com/r/PromptEngineering/comments/1xhskcl/opus_tuner_an_opensource_claude_skill_to_optimize/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-10-31"
     }
   }
 }
