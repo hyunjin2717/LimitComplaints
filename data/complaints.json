@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-10-31T12:02:39.041924+00:00",
-    "total_posts_analyzed": 12807,
-    "total_complaints": 3891
+    "last_updated": "2026-11-01T12:59:58.672011+00:00",
+    "total_posts_analyzed": 12816,
+    "total_complaints": 3893
   },
   "posts": {
     "1sg1yvw": {
@@ -47512,6 +47512,31 @@
       ],
       "complaint_score": 5,
       "fetched_date": "2026-10-31"
+    },
+    "1xgupbt": {
+      "title": "I built a J.A.R.V.I.S.-style HUD for Claude Code: live context and quota gauges, warnings before big file reads, and auto-compact at 85%",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1793112877,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1xgupbt/i_built_a_jarvisstyle_hud_for_claude_code_live/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-11-01"
+    },
+    "1xef9sl": {
+      "title": "How many real coding tasks fit in one 5-hour window on the $20 plans? I measured it: Sonnet ~33, Haiku ~20, Codex ~18, Opus ~6",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1792864694,
+      "score": 28,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1xef9sl/how_many_real_coding_tasks_fit_in_one_5hour/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-11-01"
     }
   }
 }
