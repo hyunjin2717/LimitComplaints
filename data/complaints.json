@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-11-02T15:15:32.166063+00:00",
-    "total_posts_analyzed": 12818,
-    "total_complaints": 3893
+    "last_updated": "2026-11-03T13:57:54.863748+00:00",
+    "total_posts_analyzed": 12820,
+    "total_complaints": 3895
   },
   "posts": {
     "1sg1yvw": {
@@ -47537,6 +47537,31 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-11-01"
+    },
+    "1xlfl8z": {
+      "title": "Quota bug/not getting what i paid for with \"Google AI Ultra - 20X higher AI usage than Pro plan, 30TB storage | €219.99 / month\"",
+      "subreddit": "GoogleGemini",
+      "created_utc": 1793570027,
+      "score": 1,
+      "url": "https://reddit.com/r/GoogleGemini/comments/1xlfl8z/quota_bugnot_getting_what_i_paid_for_with_google/",
+      "models": [
+        "claude",
+        "gemini"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-11-03"
+    },
+    "1xlcog2": {
+      "title": "Weekly usage depleated, and burning through extra usage despite switching to Sonnet 5.5?",
+      "subreddit": "vibecoding",
+      "created_utc": 1793562897,
+      "score": 9,
+      "url": "https://reddit.com/r/vibecoding/comments/1xlcog2/weekly_usage_depleated_and_burning_through_extra/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 9,
+      "fetched_date": "2026-11-03"
     }
   }
 }
