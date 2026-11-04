@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-11-03T13:57:54.863748+00:00",
-    "total_posts_analyzed": 12820,
-    "total_complaints": 3895
+    "last_updated": "2026-11-04T14:06:43.819153+00:00",
+    "total_posts_analyzed": 12827,
+    "total_complaints": 3900
   },
   "posts": {
     "1sg1yvw": {
@@ -47562,6 +47562,67 @@
       ],
       "complaint_score": 9,
       "fetched_date": "2026-11-03"
+    },
+    "1xmhkt9": {
+      "title": "Hit my limit, tried to use codex",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1793674486,
+      "score": 3,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1xmhkt9/hit_my_limit_tried_to_use_codex/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-11-04"
+    },
+    "1xkywg4": {
+      "title": "Review: I upgraded to Max 5x from the Pro tier and exhausted my weekly usage in 2 days",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1793525711,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1xkywg4/review_i_upgraded_to_max_5x_from_the_pro_tier_and/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-11-04"
+    },
+    "1xih978": {
+      "title": "I worked in one giant session all day, hit 90% of my weekly limit with 3 days left. Here's what I changed.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1793272922,
+      "score": 23,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1xih978/i_worked_in_one_giant_session_all_day_hit_90_of/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-11-04"
+    },
+    "1xih7a2": {
+      "title": "I turned a free Claude.ai account into a WhatsApp receptionist as a weekend experiment (no API, just the browser)",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1793272751,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1xih7a2/i_turned_a_free_claudeai_account_into_a_whatsapp/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-11-04"
+    },
+    "1xgusad": {
+      "title": "I built a J.A.R.V.I.S.-style HUD for Claude Code: live context and quota gauges, warnings before big file reads, and auto-compact at 85%",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1793113069,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1xgusad/i_built_a_jarvisstyle_hud_for_claude_code_live/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-11-04"
     }
   }
 }
