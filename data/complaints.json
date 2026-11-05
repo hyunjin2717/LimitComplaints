@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-11-04T14:06:43.819153+00:00",
-    "total_posts_analyzed": 12827,
-    "total_complaints": 3900
+    "last_updated": "2026-11-05T14:26:55.284662+00:00",
+    "total_posts_analyzed": 12837,
+    "total_complaints": 3902
   },
   "posts": {
     "1sg1yvw": {
@@ -47623,6 +47623,30 @@
       ],
       "complaint_score": 5,
       "fetched_date": "2026-11-04"
+    },
+    "1xnkj7h": {
+      "title": "Is the $100 Claude Max plan worth it for building an app in 1 month using Claude Code without getting blocked?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1793786950,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1xnkj7h/is_the_100_claude_max_plan_worth_it_for_building/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-11-05"
+    },
+    "1xmy3q7": {
+      "title": "What I do when Claude Code says the 5 hour limit is reached",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1793724483,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1xmy3q7/what_i_do_when_claude_code_says_the_5_hour_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-11-05"
     }
   }
 }
