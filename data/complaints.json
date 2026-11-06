@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-11-05T14:26:55.284662+00:00",
-    "total_posts_analyzed": 12837,
-    "total_complaints": 3902
+    "last_updated": "2026-11-06T14:04:26.380145+00:00",
+    "total_posts_analyzed": 12845,
+    "total_complaints": 3908
   },
   "posts": {
     "1sg1yvw": {
@@ -47647,6 +47647,79 @@
       ],
       "complaint_score": 6,
       "fetched_date": "2026-11-05"
+    },
+    "1xnwka8": {
+      "title": "Hated typing /usage in Claude Code to see if my limit is coming up, so I built a small open-source menu bar cat for Mac that sleeps when you get throttled",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1793818561,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1xnwka8/hated_typing_usage_in_claude_code_to_see_if_my/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-11-06"
+    },
+    "1xn72tz": {
+      "title": "Claude app, Claude Code, or a mix of both? Looking for advice from non-devs",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1793744433,
+      "score": 5,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1xn72tz/claude_app_claude_code_or_a_mix_of_both_looking/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-11-06"
+    },
+    "1xjaarr": {
+      "title": "Built my rugby club a tracking app with Claude + GitHub Pages. What limits am I going to hit?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1793350918,
+      "score": 2,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1xjaarr/built_my_rugby_club_a_tracking_app_with_claude/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-11-06"
+    },
+    "1xl6431": {
+      "title": "OpenAI keeps making its subscriptions worse, and somehow the answer is always \"just pay more\"",
+      "subreddit": "OpenAI",
+      "created_utc": 1793547466,
+      "score": 59,
+      "url": "https://reddit.com/r/OpenAI/comments/1xl6431/openai_keeps_making_its_subscriptions_worse_and/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-11-06"
+    },
+    "1xo1ss3": {
+      "title": "Antigravity gemini 3.8 throttled?",
+      "subreddit": "google_antigravity",
+      "created_utc": 1793830898,
+      "score": 11,
+      "url": "https://reddit.com/r/google_antigravity/comments/1xo1ss3/antigravity_gemini_38_throttled/",
+      "models": [
+        "gemini"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-11-06"
+    },
+    "1xntpme": {
+      "title": "Even Gemini 3.8 is being throttled",
+      "subreddit": "google_antigravity",
+      "created_utc": 1793812138,
+      "score": 22,
+      "url": "https://reddit.com/r/google_antigravity/comments/1xntpme/even_gemini_38_is_being_throttled/",
+      "models": [
+        "gemini"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-11-06"
     }
   }
 }
