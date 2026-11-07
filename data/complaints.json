@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-11-06T14:04:26.380145+00:00",
-    "total_posts_analyzed": 12845,
-    "total_complaints": 3908
+    "last_updated": "2026-11-07T12:48:59.491035+00:00",
+    "total_posts_analyzed": 12854,
+    "total_complaints": 3910
   },
   "posts": {
     "1sg1yvw": {
@@ -47720,6 +47720,30 @@
       ],
       "complaint_score": 6,
       "fetched_date": "2026-11-06"
+    },
+    "1xoosr8": {
+      "title": "One-Shot better than what i had after multiple iterations",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1793900000,
+      "score": 3,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1xoosr8/oneshot_better_than_what_i_had_after_multiple/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-11-07"
+    },
+    "1xlwk4o": {
+      "title": "ChatGPT Plus is becoming Free Premium™ 😭",
+      "subreddit": "codex",
+      "created_utc": 1793624494,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1xlwk4o/chatgpt_plus_is_becoming_free_premium/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-11-07"
     }
   }
 }
