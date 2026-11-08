@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-11-07T12:48:59.491035+00:00",
-    "total_posts_analyzed": 12854,
-    "total_complaints": 3910
+    "last_updated": "2026-11-08T13:04:45.680651+00:00",
+    "total_posts_analyzed": 12877,
+    "total_complaints": 3925
   },
   "posts": {
     "1sg1yvw": {
@@ -47744,6 +47744,190 @@
       ],
       "complaint_score": 4,
       "fetched_date": "2026-11-07"
+    },
+    "1xq85no": {
+      "title": "What is Anthropic's actual policy on multiple Ultra (Max 20x) accounts?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1794063077,
+      "score": 2,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1xq85no/what_is_anthropics_actual_policy_on_multiple/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-11-08"
+    },
+    "1xqrxxs": {
+      "title": "5-hour usage limit reset time doesn't match my local time",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1794119955,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1xqrxxs/5hour_usage_limit_reset_time_doesnt_match_my/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-11-08"
+    },
+    "1xqjp45": {
+      "title": "What actually happens if you hit your usage limit in the middle of generating a large file (e.g., a 51-slide PPTX)?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1794093253,
+      "score": 6,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1xqjp45/what_actually_happens_if_you_hit_your_usage_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-11-08"
+    },
+    "1xp74ka": {
+      "title": "I managed to never hit Claude Pro’s 5-hour limit but used 95% of my weekly allowance in just 4 days while building my SaaS. How are you pacing your usage?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1793951392,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1xp74ka/i_managed_to_never_hit_claude_pros_5hour_limit/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 10,
+      "fetched_date": "2026-11-08"
+    },
+    "1xovwio": {
+      "title": "Claude usage limit hasn't reset even though the reset time has passed. Anyone else experiencing this?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1793916665,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1xovwio/claude_usage_limit_hasnt_reset_even_though_the/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-11-08"
+    },
+    "1xnwmbi": {
+      "title": "Hit 5-hour usage limit on Pro for the first time ever, prompting less than usual",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1793818695,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1xnwmbi/hit_5hour_usage_limit_on_pro_for_the_first_time/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-11-08"
+    },
+    "1xnjiio": {
+      "title": "Claude Usage limit.",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1793782941,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1xnjiio/claude_usage_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-11-08"
+    },
+    "1xmp52b": {
+      "title": "🔥 CLAUDE AI ULTRA AVAILABLE NOW! 🔥 Price only 80$ Get Claude AI Ultra Plan (20x Usage Limit) at a super affordable price! 💡 👉 Perfect for heavy users, developers & creators. 👉 100% genuine & smooth working. Anyone interested? Drop a message in DM for prices and instant setup! 📥",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1793700469,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1xmp52b/claude_ai_ultra_available_now_price_only_80_get/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-11-08"
+    },
+    "1xm3snp": {
+      "title": "Anyone else's claude letting them work after weekly limit?(no i don't have usage credits on)",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1793641103,
+      "score": 3,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1xm3snp/anyone_elses_claude_letting_them_work_after/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-11-08"
+    },
+    "1xlrtck": {
+      "title": "Ultra (formerly 20x Max) usage limit just got halved",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1793608170,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1xlrtck/ultra_formerly_20x_max_usage_limit_just_got_halved/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-11-08"
+    },
+    "1xl6mmd": {
+      "title": "I kept hitting my usage limit mid-task, so I built a tool that hands the work to the next agent (Claude Code ⇄ Codex). Built in Addis Ababa 🇪🇹",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1793548717,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1xl6mmd/i_kept_hitting_my_usage_limit_midtask_so_i_built/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-11-08"
+    },
+    "1xl60dr": {
+      "title": "Never get blindsided by a Claude Code usage limit again: your 5h and weekly limits, live in your terminal (free, open source)",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1793547211,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1xl60dr/never_get_blindsided_by_a_claude_code_usage_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-11-08"
+    },
+    "1xl3q55": {
+      "title": "Never get blindsided by a Claude Code usage limit again: your 5h and weekly limits, live in your terminal (free, open source)",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1793541498,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1xl3q55/never_get_blindsided_by_a_claude_code_usage_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-11-08"
+    },
+    "1xl3bs9": {
+      "title": "Never get blindsided by a Claude Code usage limit again: your 5h and weekly limits, live in your terminal (free, open source)",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1793540408,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1xl3bs9/never_get_blindsided_by_a_claude_code_usage_limit/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-11-08"
+    },
+    "1xpo4q9": {
+      "title": "Claude Code hit its limit mid-fix, so I built a tool that lets Codex pick up where it left off",
+      "subreddit": "vibecoding",
+      "created_utc": 1793999051,
+      "score": 1,
+      "url": "https://reddit.com/r/vibecoding/comments/1xpo4q9/claude_code_hit_its_limit_midfix_so_i_built_a/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-11-08"
     }
   }
 }
