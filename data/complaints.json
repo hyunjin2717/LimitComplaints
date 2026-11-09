@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-11-08T13:04:45.680651+00:00",
-    "total_posts_analyzed": 12877,
-    "total_complaints": 3925
+    "last_updated": "2026-11-09T15:46:43.691259+00:00",
+    "total_posts_analyzed": 12879,
+    "total_complaints": 3926
   },
   "posts": {
     "1sg1yvw": {
@@ -47928,6 +47928,19 @@
       ],
       "complaint_score": 4,
       "fetched_date": "2026-11-08"
+    },
+    "1xpf4nc": {
+      "title": "ANNOYED of wasted Tokens & Money by AGENTS on WEB Searches so sharing Personal FREE Rust Tool",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1793977746,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1xpf4nc/annoyed_of_wasted_tokens_money_by_agents_on_web/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-11-09"
     }
   }
 }
