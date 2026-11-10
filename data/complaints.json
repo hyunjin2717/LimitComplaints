@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-11-09T15:46:43.691259+00:00",
-    "total_posts_analyzed": 12879,
-    "total_complaints": 3926
+    "last_updated": "2026-11-10T14:40:55.025540+00:00",
+    "total_posts_analyzed": 12885,
+    "total_complaints": 3928
   },
   "posts": {
     "1sg1yvw": {
@@ -47941,6 +47941,30 @@
       ],
       "complaint_score": 4,
       "fetched_date": "2026-11-09"
+    },
+    "1xr4xks": {
+      "title": "What do you do in the hours after you hit your usage limit?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1794161561,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1xr4xks/what_do_you_do_in_the_hours_after_you_hit_your/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-11-10"
+    },
+    "1xr4g4t": {
+      "title": "Max 20x: my weekly limit “reset” at 10 PM but the usage carried over. I woke up already at 58%",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1794160384,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1xr4g4t/max_20x_my_weekly_limit_reset_at_10_pm_but_the/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-11-10"
     }
   }
 }
