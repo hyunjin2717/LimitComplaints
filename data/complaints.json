@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-11-10T14:40:55.025540+00:00",
-    "total_posts_analyzed": 12885,
-    "total_complaints": 3928
+    "last_updated": "2026-11-11T13:56:14.889977+00:00",
+    "total_posts_analyzed": 12890,
+    "total_complaints": 3929
   },
   "posts": {
     "1sg1yvw": {
@@ -47965,6 +47965,18 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-11-10"
+    },
+    "1xqzuee": {
+      "title": "I built a 90s-style cyberpunk delivery game with Claude: Kasumi Courier. The full version is out now. A demo is free to play in browser on itch.io.",
+      "subreddit": "vibecoding",
+      "created_utc": 1794148589,
+      "score": 43,
+      "url": "https://reddit.com/r/vibecoding/comments/1xqzuee/i_built_a_90sstyle_cyberpunk_delivery_game_with/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-11-11"
     }
   }
 }
