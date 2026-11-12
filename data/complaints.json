@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-11-11T13:56:14.889977+00:00",
-    "total_posts_analyzed": 12890,
-    "total_complaints": 3929
+    "last_updated": "2026-11-12T14:58:35.531703+00:00",
+    "total_posts_analyzed": 12896,
+    "total_complaints": 3932
   },
   "posts": {
     "1sg1yvw": {
@@ -47977,6 +47977,42 @@
       ],
       "complaint_score": 4,
       "fetched_date": "2026-11-11"
+    },
+    "1xse19u": {
+      "title": "ChatGPT is completely unusable on Android.",
+      "subreddit": "ChatGPT",
+      "created_utc": 1794286255,
+      "score": 2,
+      "url": "https://reddit.com/r/ChatGPT/comments/1xse19u/chatgpt_is_completely_unusable_on_android/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-11-12"
+    },
+    "1xoyd9v": {
+      "title": "Anyone else getting \"Too many requests\" errors when opening ChatGPT conversations today?",
+      "subreddit": "ChatGPT",
+      "created_utc": 1793923228,
+      "score": 3,
+      "url": "https://reddit.com/r/ChatGPT/comments/1xoyd9v/anyone_else_getting_too_many_requests_errors_when/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-11-12"
+    },
+    "1xons29": {
+      "title": "5h limit failed to reset at moment of weekly reset",
+      "subreddit": "codex",
+      "created_utc": 1793897706,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1xons29/5h_limit_failed_to_reset_at_moment_of_weekly_reset/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-11-12"
     }
   }
 }
