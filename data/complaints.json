@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-11-13T14:21:54.624984+00:00",
-    "total_posts_analyzed": 12905,
-    "total_complaints": 3932
+    "last_updated": "2026-11-14T13:20:13.421270+00:00",
+    "total_posts_analyzed": 12927,
+    "total_complaints": 3943
   },
   "posts": {
     "1sg1yvw": {
@@ -48013,6 +48013,145 @@
       ],
       "complaint_score": 7,
       "fetched_date": "2026-11-12"
+    },
+    "1xtfprb": {
+      "title": "Anyone else suddenly getting “Could not load this ChatGPT conversation”?",
+      "subreddit": "OpenAI",
+      "created_utc": 1794397618,
+      "score": 0,
+      "url": "https://reddit.com/r/OpenAI/comments/1xtfprb/anyone_else_suddenly_getting_could_not_load_this/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-11-14"
+    },
+    "1xu6k5t": {
+      "title": "Have cybersecurity scan requests via Codex gotten ridiculously throttled recently?",
+      "subreddit": "codex",
+      "created_utc": 1794468659,
+      "score": 7,
+      "url": "https://reddit.com/r/codex/comments/1xu6k5t/have_cybersecurity_scan_requests_via_codex_gotten/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-11-14"
+    },
+    "1xuk9ys": {
+      "title": "What's the best way to resume a task when it was interrupted by usage limit? I just type \"resume\" -- is there a more efficient or safer path?",
+      "subreddit": "codex",
+      "created_utc": 1794507501,
+      "score": 15,
+      "url": "https://reddit.com/r/codex/comments/1xuk9ys/whats_the_best_way_to_resume_a_task_when_it_was/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-11-14"
+    },
+    "1xr7748": {
+      "title": "I got tired of waking up to \"usage limit reached\" at 2 AM, so I built a thing that waits it out and carries on",
+      "subreddit": "codex",
+      "created_utc": 1794167096,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1xr7748/i_got_tired_of_waking_up_to_usage_limit_reached/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-11-14"
+    },
+    "1xt2i74": {
+      "title": "Is coding a game with plus-subscription worth it in the end, or will all tokes just get drained when the game gets large and force me to pro?",
+      "subreddit": "codex",
+      "created_utc": 1794354327,
+      "score": 8,
+      "url": "https://reddit.com/r/codex/comments/1xt2i74/is_coding_a_game_with_plussubscription_worth_it/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-11-14"
+    },
+    "1xst4vb": {
+      "title": "I added multi-account switching, live quota bars, and a Free Model Pool fallback for Codex CLI and Desktop (relay-ai update)",
+      "subreddit": "codex",
+      "created_utc": 1794332049,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1xst4vb/i_added_multiaccount_switching_live_quota_bars/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-11-14"
+    },
+    "1xsmmfb": {
+      "title": "Astra 7.3 is UNUSABLE on Plus. Hit my limit after ONE (1) prompt. Cancelled.",
+      "subreddit": "codex",
+      "created_utc": 1794316550,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1xsmmfb/astra_73_is_unusable_on_plus_hit_my_limit_after/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-11-14"
+    },
+    "1xsicgt": {
+      "title": "590M tokens processed on Codex Plus in 3 months — my usage stats and why I rarely hit the limits",
+      "subreddit": "codex",
+      "created_utc": 1794302072,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1xsicgt/590m_tokens_processed_on_codex_plus_in_3_months/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-11-14"
+    },
+    "1xrsok0": {
+      "title": "Codex buries old sessions in date folders — I built a way to just ask what I was working on",
+      "subreddit": "codex",
+      "created_utc": 1794233568,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1xrsok0/codex_buries_old_sessions_in_date_folders_i_built/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-11-14"
+    },
+    "1xqfioy": {
+      "title": "Has anyone measured actual token limits for Codex on ChatGPT Plus?",
+      "subreddit": "codex",
+      "created_utc": 1794081803,
+      "score": 12,
+      "url": "https://reddit.com/r/codex/comments/1xqfioy/has_anyone_measured_actual_token_limits_for_codex/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-11-14"
+    },
+    "1xqcrps": {
+      "title": "Absolutely bizarre codex behavior lately.",
+      "subreddit": "codex",
+      "created_utc": 1794074808,
+      "score": 0,
+      "url": "https://reddit.com/r/codex/comments/1xqcrps/absolutely_bizarre_codex_behavior_lately/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-11-14"
     }
   }
 }
