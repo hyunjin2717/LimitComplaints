@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-11-14T13:20:13.421270+00:00",
-    "total_posts_analyzed": 12927,
-    "total_complaints": 3943
+    "last_updated": "2026-11-15T13:46:56.721878+00:00",
+    "total_posts_analyzed": 12949,
+    "total_complaints": 3954
   },
   "posts": {
     "1sg1yvw": {
@@ -48152,6 +48152,145 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-11-14"
+    },
+    "1xrpgev": {
+      "title": "Worktree sandboxing + hybrid model routing on macOS: how we stopped burning 5-hour windows (comparing Claude Code, Cursor, and Exody)",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1794224287,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1xrpgev/worktree_sandboxing_hybrid_model_routing_on_macos/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-11-15"
+    },
+    "1xvb26p": {
+      "title": "you are not running out faster , the weekly usage limit is shirking ~[ 20% drop ]",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1794584305,
+      "score": 569,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1xvb26p/you_are_not_running_out_faster_the_weekly_usage/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-11-15"
+    },
+    "1xv8u30": {
+      "title": "why do people have CHATGPT subscription alone side with claude?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1794578921,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1xv8u30/why_do_people_have_chatgpt_subscription_alone/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-11-15"
+    },
+    "1xv7cch": {
+      "title": "I kept hitting the 5-hour limit mid-task, so I built a status line that predicts when I'll run out (not a dev, here's how I built it)",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1794575037,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1xv7cch/i_kept_hitting_the_5hour_limit_midtask_so_i_built/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-11-15"
+    },
+    "1xtqilp": {
+      "title": "Anyone using free models as subagents to save their Claude usage?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1794423909,
+      "score": 64,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1xtqilp/anyone_using_free_models_as_subagents_to_save/",
+      "models": [
+        "claude",
+        "gemini"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-11-15"
+    },
+    "1xs99lz": {
+      "title": "The fable usage is not separate from the normal weekly usage??",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1794272003,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1xs99lz/the_fable_usage_is_not_separate_from_the_normal/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-11-15"
+    },
+    "1xrc292": {
+      "title": "I built yet another Claude Code quota visualizer (sorry) + a glow that tells me if it's still working",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1794179749,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1xrc292/i_built_yet_another_claude_code_quota_visualizer/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-11-15"
+    },
+    "1xteenz": {
+      "title": "I kept either burning my 5h AI coding quotas in 90 minutes or wasting half of my weekly quota, so I built a live pace HUD for Claude Code, Antigravity, Codex... (free & open-source)",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1794392931,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1xteenz/i_kept_either_burning_my_5h_ai_coding_quotas_in/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-11-15"
+    },
+    "1xrtagd": {
+      "title": "I kept either burning my 5h AI coding quotas in 90 minutes or wasting half of my weekly quota, so I built a live pace HUD for Claude Code, Antigravity, Codex, Grok & Copilot (free & open-source)",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1794235061,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1xrtagd/i_kept_either_burning_my_5h_ai_coding_quotas_in/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-11-15"
+    },
+    "1xv3rop": {
+      "title": "PSA: Fable 5.2 quota drain and how I fixed it",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1794563335,
+      "score": 3,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1xv3rop/psa_fable_52_quota_drain_and_how_i_fixed_it/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-11-15"
+    },
+    "1xrnhlo": {
+      "title": "Quota and usage consumption",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1794217220,
+      "score": 4,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1xrnhlo/quota_and_usage_consumption/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-11-15"
     }
   }
 }
