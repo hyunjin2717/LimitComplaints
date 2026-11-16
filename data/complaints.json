@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-11-15T13:46:56.721878+00:00",
-    "total_posts_analyzed": 12949,
-    "total_complaints": 3954
+    "last_updated": "2026-11-16T15:22:50.860581+00:00",
+    "total_posts_analyzed": 12955,
+    "total_complaints": 3955
   },
   "posts": {
     "1sg1yvw": {
@@ -48291,6 +48291,18 @@
       ],
       "complaint_score": 3,
       "fetched_date": "2026-11-15"
+    },
+    "1xulj32": {
+      "title": "First they throttled Gemini 3.8 Flash into oblivion, now the servers are literally telling us to GOAWAY",
+      "subreddit": "google_antigravity",
+      "created_utc": 1794510272,
+      "score": 4,
+      "url": "https://reddit.com/r/google_antigravity/comments/1xulj32/first_they_throttled_gemini_38_flash_into/",
+      "models": [
+        "gemini"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-11-16"
     }
   }
 }
