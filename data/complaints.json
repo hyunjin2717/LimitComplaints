@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-11-16T15:22:50.860581+00:00",
-    "total_posts_analyzed": 12955,
-    "total_complaints": 3955
+    "last_updated": "2026-11-17T15:49:11.896237+00:00",
+    "total_posts_analyzed": 12961,
+    "total_complaints": 3957
   },
   "posts": {
     "1sg1yvw": {
@@ -48303,6 +48303,30 @@
       ],
       "complaint_score": 6,
       "fetched_date": "2026-11-16"
+    },
+    "1xt9sx6": {
+      "title": "Where's the auto resume after 5h limit gone?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1794375833,
+      "score": 3,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1xt9sx6/wheres_the_auto_resume_after_5h_limit_gone/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-11-17"
+    },
+    "1xy4zwk": {
+      "title": "How to check whether your weekly limit shrank: what a usage point costs, measured over 8 weeks",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1794872351,
+      "score": 3,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1xy4zwk/how_to_check_whether_your_weekly_limit_shrank/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 6,
+      "fetched_date": "2026-11-17"
     }
   }
 }
