@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-11-17T15:49:11.896237+00:00",
-    "total_posts_analyzed": 12961,
-    "total_complaints": 3957
+    "last_updated": "2026-11-18T15:29:13.446314+00:00",
+    "total_posts_analyzed": 13011,
+    "total_complaints": 3982
   },
   "posts": {
     "1sg1yvw": {
@@ -48327,6 +48327,317 @@
       ],
       "complaint_score": 6,
       "fetched_date": "2026-11-17"
+    },
+    "1xzasgr": {
+      "title": "Claude code agent working well after hitting weekly limit?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1794993403,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1xzasgr/claude_code_agent_working_well_after_hitting/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 8,
+      "fetched_date": "2026-11-18"
+    },
+    "1xyo41w": {
+      "title": "Checked 2.5 months of Claude Code logs for the 10x cache cliff: breaks cost me $12, but my unattended agents paid $777 for a 1h cache they barely used",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1794931072,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1xyo41w/checked_25_months_of_claude_code_logs_for_the_10x/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-11-18"
+    },
+    "1xyli93": {
+      "title": "How much more usage does Claude Max provide compared to Pro for game development?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1794924887,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1xyli93/how_much_more_usage_does_claude_max_provide/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 2,
+      "fetched_date": "2026-11-18"
+    },
+    "1xyejky": {
+      "title": "How to restart an old conversation",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1794901811,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1xyejky/how_to_restart_an_old_conversation/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-11-18"
+    },
+    "1xxtb2r": {
+      "title": "Definite Measurement of Claude Max quota actually worth in API dollars",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1794845347,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1xxtb2r/definite_measurement_of_claude_max_quota_actually/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-11-18"
+    },
+    "1xxt9wq": {
+      "title": "Moving from Codex Plus to Pro",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1794845272,
+      "score": 3,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1xxt9wq/moving_from_codex_plus_to_pro/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-11-18"
+    },
+    "1xxr38r": {
+      "title": "Clauds: a free macOS menu bar app to fast-switch between accounts that can share their sessions in the Claude Desktop App and more (open source)",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1794840184,
+      "score": 20,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1xxr38r/clauds_a_free_macos_menu_bar_app_to_fastswitch/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-11-18"
+    },
+    "1xxfzmd": {
+      "title": "Found a promising project that lets Claude Code, Codex, Gemini and other AI agents actually work together",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1794802809,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1xxfzmd/found_a_promising_project_that_lets_claude_code/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-11-18"
+    },
+    "1xxep96": {
+      "title": "Code quality with cheap coder and Opus Planner & Orchestrator?",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1794798744,
+      "score": 2,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1xxep96/code_quality_with_cheap_coder_and_opus_planner/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-11-18"
+    },
+    "1xwr0i0": {
+      "title": "Screen time limits would be so much more useful if you could set a per hour scroll limit, instead of one big limit daily limit. (like 10 min of Reddit per hour)",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1794733794,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1xwr0i0/screen_time_limits_would_be_so_much_more_useful/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-11-18"
+    },
+    "1xwp4ox": {
+      "title": "Claude Assist: your Claude session and weekly limits, one glance away",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1794726674,
+      "score": 2,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1xwp4ox/claude_assist_your_claude_session_and_weekly/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-11-18"
+    },
+    "1xw9w0b": {
+      "title": "Hit the 5-hour limit on one Claude account while your other one sits idle? I built a VS Code extension that runs both at the same time",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1794681738,
+      "score": 4,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1xw9w0b/hit_the_5hour_limit_on_one_claude_account_while/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-11-18"
+    },
+    "1xvagu1": {
+      "title": "Nightshift — a plugin for long-running Claude Code, Codex and Cursor tasks",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1794582903,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1xvagu1/nightshift_a_plugin_for_longrunning_claude_code/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-11-18"
+    },
+    "1xumexe": {
+      "title": "Inflated Fable Sub Usage VS Opus",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1794512229,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1xumexe/inflated_fable_sub_usage_vs_opus/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-11-18"
+    },
+    "1xuf5z8": {
+      "title": "Someone actually built an auto rotating account pool for Claude Code to bypass the 5-hour limit",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1794496059,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1xuf5z8/someone_actually_built_an_auto_rotating_account/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-11-18"
+    },
+    "1xues1x": {
+      "title": "I built a scheduler to turn my unused Claude tokens into bug fixes",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1794495150,
+      "score": 52,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1xues1x/i_built_a_scheduler_to_turn_my_unused_claude/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-11-18"
+    },
+    "1xtmpup": {
+      "title": "I kept missing permission prompts across 4 Claude Code sessions, so I built a free, open-source menu bar app that tells me who's waiting on me",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1794415575,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1xtmpup/i_kept_missing_permission_prompts_across_4_claude/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-11-18"
+    },
+    "1xtdcag": {
+      "title": "I asked Fable 5.2 medium for a 3v3 arcade hockey game. In under 60 minutes it build one I can play in a browser tab.",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1794388814,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1xtdcag/i_asked_fable_52_medium_for_a_3v3_arcade_hockey/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-11-18"
+    },
+    "1xtb0v4": {
+      "title": "my claude limit ran out mid week so codex ran my repo for 4 days. notes from taking it back",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1794380127,
+      "score": 0,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1xtb0v4/my_claude_limit_ran_out_mid_week_so_codex_ran_my/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 9,
+      "fetched_date": "2026-11-18"
+    },
+    "1xt1eo1": {
+      "title": "PSA for Pro users trying Fable this week: it uses your limit about 4x faster than Opus, not 2x",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1794351468,
+      "score": 20,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1xt1eo1/psa_for_pro_users_trying_fable_this_week_it_uses/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-11-18"
+    },
+    "1xxtpvr": {
+      "title": "Chatgpt Plus vs Claude Pro Usage Limits",
+      "subreddit": "OpenAI",
+      "created_utc": 1794846270,
+      "score": 13,
+      "url": "https://reddit.com/r/OpenAI/comments/1xxtpvr/chatgpt_plus_vs_claude_pro_usage_limits/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-11-18"
+    },
+    "1xvtemv": {
+      "title": "What Is This Ridiculous Codex Device Limit",
+      "subreddit": "OpenAI",
+      "created_utc": 1794631190,
+      "score": 26,
+      "url": "https://reddit.com/r/OpenAI/comments/1xvtemv/what_is_this_ridiculous_codex_device_limit/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-11-18"
+    },
+    "1xvsksq": {
+      "title": "Be me, a Plus user",
+      "subreddit": "OpenAI",
+      "created_utc": 1794628485,
+      "score": 0,
+      "url": "https://reddit.com/r/OpenAI/comments/1xvsksq/be_me_a_plus_user/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-11-18"
+    },
+    "1xvhooc": {
+      "title": "Two things happened close together and I’m curious how people here see it:",
+      "subreddit": "OpenAI",
+      "created_utc": 1794599146,
+      "score": 0,
+      "url": "https://reddit.com/r/OpenAI/comments/1xvhooc/two_things_happened_close_together_and_im_curious/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-11-18"
+    },
+    "1xsrxtq": {
+      "title": "ChatGPT Plus subscription is dead...",
+      "subreddit": "OpenAI",
+      "created_utc": 1794329360,
+      "score": 0,
+      "url": "https://reddit.com/r/OpenAI/comments/1xsrxtq/chatgpt_plus_subscription_is_dead/",
+      "models": [
+        "claude",
+        "codex"
+      ],
+      "complaint_score": 4,
+      "fetched_date": "2026-11-18"
     }
   }
 }
