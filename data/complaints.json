@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-11-18T15:29:13.446314+00:00",
-    "total_posts_analyzed": 13011,
-    "total_complaints": 3982
+    "last_updated": "2026-11-19T15:34:50.795769+00:00",
+    "total_posts_analyzed": 13023,
+    "total_complaints": 3987
   },
   "posts": {
     "1sg1yvw": {
@@ -48638,6 +48638,68 @@
       ],
       "complaint_score": 4,
       "fetched_date": "2026-11-18"
+    },
+    "1xy776y": {
+      "title": "How much extra usage does $20 in Usage Credits actually give you compared to Pro?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1794878270,
+      "score": 8,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1xy776y/how_much_extra_usage_does_20_in_usage_credits/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-11-19"
+    },
+    "1xx8op0": {
+      "title": "any advice?",
+      "subreddit": "ClaudeAI",
+      "created_utc": 1794781685,
+      "score": 3,
+      "url": "https://reddit.com/r/ClaudeAI/comments/1xx8op0/any_advice/",
+      "models": [
+        "claude",
+        "gemini",
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-11-19"
+    },
+    "1xvimz2": {
+      "title": "I tested Fable 5.2 low vs Opus 5.5 medium usage limit",
+      "subreddit": "ClaudeCode",
+      "created_utc": 1794601375,
+      "score": 1,
+      "url": "https://reddit.com/r/ClaudeCode/comments/1xvimz2/i_tested_fable_52_low_vs_opus_55_medium_usage/",
+      "models": [
+        "claude"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-11-19"
+    },
+    "1xzou1s": {
+      "title": "Found 18 of my \"deleted\" threads still sitting in Codex SQLite, analytics firing while off, and a 516-token cap on ultra",
+      "subreddit": "OpenAI",
+      "created_utc": 1795031227,
+      "score": 4,
+      "url": "https://reddit.com/r/OpenAI/comments/1xzou1s/found_18_of_my_deleted_threads_still_sitting_in/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 3,
+      "fetched_date": "2026-11-19"
+    },
+    "1xyog5q": {
+      "title": "What are your thoughts on the upcoming shared ChatGPT and Codex usage limits in December? What's your plan?",
+      "subreddit": "OpenAI",
+      "created_utc": 1794931809,
+      "score": 2,
+      "url": "https://reddit.com/r/OpenAI/comments/1xyog5q/what_are_your_thoughts_on_the_upcoming_shared/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 7,
+      "fetched_date": "2026-11-19"
     }
   }
 }
