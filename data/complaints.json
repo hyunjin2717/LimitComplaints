@@ -1,8 +1,8 @@
 {
   "metadata": {
-    "last_updated": "2026-11-19T15:34:50.795769+00:00",
-    "total_posts_analyzed": 13023,
-    "total_complaints": 3987
+    "last_updated": "2026-11-20T15:12:18.263007+00:00",
+    "total_posts_analyzed": 13027,
+    "total_complaints": 3988
   },
   "posts": {
     "1sg1yvw": {
@@ -48700,6 +48700,18 @@
       ],
       "complaint_score": 7,
       "fetched_date": "2026-11-19"
+    },
+    "1y100dg": {
+      "title": "Anyone else feel like Codex resets are engineered to trigger addiction?",
+      "subreddit": "OpenAI",
+      "created_utc": 1795170148,
+      "score": 0,
+      "url": "https://reddit.com/r/OpenAI/comments/1y100dg/anyone_else_feel_like_codex_resets_are_engineered/",
+      "models": [
+        "codex"
+      ],
+      "complaint_score": 5,
+      "fetched_date": "2026-11-20"
     }
   }
 }
